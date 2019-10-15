@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mentorship
+title: Mentors
 permalink: /mentors/
 nav_exclude: true
 ---
