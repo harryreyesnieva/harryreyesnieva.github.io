@@ -14,12 +14,12 @@ I've had several wonderful mentors in my academic and personal journey. Out of f
 Associate Professor of Biomedical Informatics,  <br>
 Co-interim Chair and Graduate Program Director,  <br>
 Department of Biomedical Informatics  <br>
+Affiliate, Computer Science  <br>
+Affiliate, Data Science Institute  <br>
 Columbia University  
 <br>
 <br>
-<br>
-<br>
-<img style="float:right" src="/assets/img/li-zhou.png" height="250"  color="gray" hspace="10"/>  
+<img style="float:right" src="/assets/img/li-zhou.png" height="275"  color="gray" hspace="10"/>  
 <br>
 <br>
 <br>
