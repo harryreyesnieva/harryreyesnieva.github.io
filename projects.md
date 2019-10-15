@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-weight: 2
+nav_order: 2
 ---
 # Current Projects
 **Gender-based differences in presentation and treatment of acute myocardial infarction**  
@@ -96,3 +96,15 @@ Aim: To evaluate a literacy-focused program that provides educational assistance
 Roche Laboratories, RLI 06001207  
 Research Assistant (PI: Linder)  
 Aim: To measure and evaluate antiviral and antibiotic prescribing for patients with influenza being treated in primary care clinics.
+
+# Clinical Innovations
+
+**Pediatric quality improvement tool at 33 Harvard PEPFAR sites in Nigeria**  
+Co-developed and evaluated a utility to extract information from electronic health record (EHR) data warehouse and generate measures based on 23 pediatric quality of care indicators. Programmed module to review continuity of care, drug therapy initiation, medication adherence, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment or diagnostic evaluation, treatment failure, toxicity management, nutritional assessment, and treatment response.
+
+**Adult quality improvement tool at 33 Harvard PEPFAR sites in Nigeria**  
+Co-developed and evaluated a utility to extract information from EHR data warehouse and generate measures based on 15 adult quality of care indicators. Module reviews continuity of care, drug therapy initiation, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment, treatment failure, and treatment response.
+
+**Data quality assessment tool, version 2.0 at 33 Harvard PEPFAR sites in Nigeria**  
+Instituted major modifications to and evaluated a pre-existing EHR utility to incorporate expanded data quality indicators. With this utility, central and site-level data managers are able to better monitor and improve data completeness, validity, accuracy, and currency.
+

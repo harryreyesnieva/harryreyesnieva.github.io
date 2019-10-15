@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-weight: 3
+nav_order: 3
 ---
 # Peer reviewed publications in print or other media
 
@@ -53,6 +53,19 @@ Practices Regarding Professional-Patient Boundaries. *Journal of General Interna
     <div data-badge-popover="right" data-badge-type="2" data-pmid="19225847" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 
+# Working Papers
+1. **Reyes Nieva H**, Blackley S, Streed C, Fiskio J, Zhou L. Variation in Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record.  
+
+2. **Reyes Nieva H**, Fiskio J, Blackley S, Streed C, Zhou L. Increased Risk of Ambulatory Care–Sensitive Condition Hospitalization Among Sexual and Gender Minorities.    
+
+3. **Reyes Nieva H**, Balaguera M, Lonsdale J, Mendez T, Rodriguez Y, Troncoso N, Flores CA, Ray M, Kieffer T, Rosselli-Risal L. Comunidad en Acción: A social support weight loss intervention for Spanish-speaking patients with type 2 diabetes mellitus.  
+
+4. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff G. Divisive hierarchical clustering analysis of primary care malpractice claims to identify patterns of diagnostic error.  
+
+5. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics in Eastern Massachusetts.  
+
+6. Chabria A, **Reyes Nieva H**, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J, DeCastro R, Cruz Garcia J, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions.
+
 # Proceedings of meetings and other non-peer reviewed research publications
 1. **Reyes Nieva H**, Kaplan RL, Madani N. Women and HIV: Update from the Middle East and North Africa. Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA). 2010 International AIDS Conference, Vienna, Austria.
 
@@ -77,19 +90,6 @@ Practices Regarding Professional-Patient Boundaries. *Journal of General Interna
 9. Generating Pediatric Quality of Clinical Care Indicators in an HIV Program. 2010. Harvard PEPFAR Nigeria. Technical Guideline.  
 
 10. Introduction to Data Management (Beginner Data Manual). 2009. Harvard PEPFAR Nigeria. Training Manual.  
-
-# Working Papers
-1. **Reyes Nieva H**, Blackley S, Streed C, Fiskio J, Zhou L. Variation in Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record.  
-
-2. **Reyes Nieva H**, Fiskio J, Blackley S, Streed C, Zhou L. Increased Risk of Ambulatory Care–Sensitive Condition Hospitalization Among Sexual and Gender Minorities.    
-
-3. **Reyes Nieva H**, Balaguera M, Lonsdale J, Mendez T, Rodriguez Y, Troncoso N, Flores CA, Ray M, Kieffer T, Rosselli-Risal L. Comunidad en Acción: A social support weight loss intervention for Spanish-speaking patients with type 2 diabetes mellitus.  
-
-4. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff G.Divisivehierarchicalclustering analysis of primary care malpractice claims to identify patterns of diagnostic error.  
-
-5. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics in Eastern Massachusetts.  
-
-6. Chabria A, **Reyes Nieva H**, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J, DeCastro R, Cruz Garcia J, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions.
 
 # Educational Material for Patients and the Lay Community 
 **Books, monographs, articles and presentations in other media**

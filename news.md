@@ -2,7 +2,7 @@
 layout: page
 title: Latest News
 permalink: /news/
-weight: 7
+nav_order: 5
 --- 
 October 4, 2017 | [Zhou, Reyes Nieva Awarded Harvard Catalyst Health Disparities Research Program Grant](https://www.brighamandwomens.org/about-bwh/newsroom/awards-honors-grants-detail?id=2838){:target="_blank"}
 November 20, 2016 | [Braverman, Palm, Reyes Nieva Receive Inaugural LGBT Leadership Awards](https://www.brighamandwomens.org/about-bwh/newsroom/awards-honors-grants-detail?id=2553){:target="_blank"}

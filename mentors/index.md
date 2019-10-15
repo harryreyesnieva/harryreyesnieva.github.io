@@ -1,0 +1,62 @@
+---
+layout: page
+title: Mentorship
+permalink: /mentors/
+nav_exclude: true
+---
+
+I've had several wonderful mentors in my academic and personal journey. Out of fairness, I have chosen to list those below in reverse chronological order from their entry into my life.
+<br>
+<br>
+<img style="float:left" src="/assets/img/li-zhou.png" height="250"  color="gray" hspace="20"/>  
+<br>
+<br>
+<br>
+[**Li Zhou, MD, PhD, FACMI**](https://connects.catalyst.harvard.edu/Profiles/display/Person/74124){:target="_blank"}  
+Associate Professor of Medicine, Harvard Medical School  
+Senior Medical Informatician, Partners HealthCare Systems  
+<br>
+<br>
+<br>
+<br>
+<img style="float:right" src="/assets/img/gordon-schiff.jpg" height="300" color="gray" hspace="20"/>
+<br>
+<br>
+<br>
+[**Gordon Schiff, MD**](https://primarycare.hms.harvard.edu/faculty-staff/gordon-schiff){:target="_blank"}  
+Associate Professor of Medicine, Harvard Medical School  <br>
+Quality and Safety Director, HMS Center for Primary Care  
+Associate Director, Center for Patient Safety Research and Practice,<br>Brigham and Women's Hospital  
+<br>
+<br>
+<br>
+<br>
+<img style="float:left" src="/assets/img/phyllis-kanki.jpg" height="250" color="gray" hspace="20"/>
+<br>
+<br>
+<br>
+[**Phyllis Kanki, DVM, DSc**](https://www.hsph.harvard.edu/phyllis-kanki/){:target="_blank"}  
+Mary Woodard Lasker Professor of Health Sciences  
+Harvard T.H. Chan School of Public Health  
+<br>
+<br>
+<br>
+<br>
+<img style="float:right" src="/assets/img/jeffrey-schnipper.jpg" height="250" color="gray" hspace="20"/>
+<br>
+<br>
+<br>
+[**Jeffrey L. Schnipper, MD, MPH**](https://connects.catalyst.harvard.edu/Profiles/display/Person/54336){:target="_blank"}  
+Associate Professor of Medicine, Harvard Medical School  
+Director of Clinical Research, Hospitalist Medicine,<br>Brigham and Women's Hospital 
+<br>
+<br>
+<br>
+<br>
+<img style="float:left" src="/assets/img/jeffrey-linder.jpg" height="250" color="gray" hspace="20"/> 
+<br>
+<br>
+<br> 
+[**Jeffrey A. Linder, MD, MPH, FACP**](https://www.medicine.northwestern.edu/faculty/profile.html?xid=37195){:target="_blank"}  
+Chief, General Internal Medicine and Geriatrics  
+Michael A. Gertz Professor of Medicine, Feinberg School of Medicine, Northwestern University
