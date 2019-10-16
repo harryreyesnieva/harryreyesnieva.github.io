@@ -93,9 +93,9 @@ Summer 2016 | Teaching Fellow, HPM299 Research with Large Databases, Harvard T.H
 
 # Editorial Activities
 
-*Ad hoc Reviewer*  
-Health Services Research  
-Journal of General Internal Medicine  
+*Ad hoc Reviewer* <br> 
+Health Services Research <br> 
+Journal of General Internal Medicine <br> 
 Medical Care
 
 # Professional Organizations and Societies
