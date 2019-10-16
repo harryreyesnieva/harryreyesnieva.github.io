@@ -7,7 +7,7 @@ nav_order: 3
 # Current Projects
 **Gender-based differences in presentation and treatment of acute myocardial infarction**  
 *Advisor: No&eacute;mie Elhadad, PhD*  
-We aim to measure and characterize differences in acute myocardial infarction (AMI) among men and women using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on gender. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients.
+We aim to measure and characterize differences in acute myocardial infarction (AMI) among men and women using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on gender. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients and their impact on patient outcomes.
 
 # Projects Submitted for Funding
 **ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health**  
@@ -20,7 +20,7 @@ The goals of the ARISE-SGM (ARtificial Intelligence for the Study and Enhancemen
 **A Multicenter Randomized Controlled Trial of Pharmacist-Directed Transitional Care to Reduce Post-Hospitalization Utilization**  
 National Institute on Aging (NIA) R01 AG 058911-01  
 Project Manager (Site PI: Schnipper)  
-Aim: To measure the impact of pharmacist-led discharge (PHARM-DC) interventions on post-discharge utilization within 30 days. We will also identify patient sub-populations most likely to benefit from PHARM-DC.
+Aim: To measure the impact of pharmacist-led discharge (PHARM-DC) interventions on post-discharge utilization within 30 days and identify patient subpopulations most likely to benefit from PHARM-DC.
 
 **Novel electronic health record phenotyping of LGBTQ intersectional identities and associated health disparities using natural language processing and machine learning**  
 Harvard Catalyst  
