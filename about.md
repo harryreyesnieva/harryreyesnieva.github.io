@@ -114,7 +114,7 @@ REDCap, MS Access, FilemakerPro
 **Languages** English (native), Spanish (proficient), Mandarin (beginner)
 
 
-# Education of Patients and Service to the Community Activities
+# Education of Patients and Service to the Community
 
 2018 | **Queer Health Hackathon** <br> Co-organizer <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine EHR data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.  
 2013-2016 | **Human Rights Commission, City of Cambridge** <br> Vice Chair (2015-2016) <br> Commissioner (2013-2016) <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliations to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.  
