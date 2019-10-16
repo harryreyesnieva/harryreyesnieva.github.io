@@ -31,6 +31,12 @@ url: "http://www.harryreyesnieva.com" # the base hostname & protocol for your si
 twitter_username: harryreyesnieva
 github_username:  harryreyesnieva
 linkedin_username: harryreyes
+header_pages:
+  - about.md
+  - projects.md
+  - publications.md
+  - presentations.md
+  - news.md
 
 # Build settings
 theme: minima

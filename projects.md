@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-nav_order: 2
+nav_order: 3
 ---
 # Current Projects
 **Gender-based differences in presentation and treatment of acute myocardial infarction**  

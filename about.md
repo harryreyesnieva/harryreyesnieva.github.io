@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-nav_order: 1
+nav_order: 2
 ---
 [Curriculum vitae \[PDF\]](/assets/docs/CV_HReyesNieva.pdf){:target="_blank" align="right"}  
 [Google Scholar](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"}  
@@ -93,9 +93,9 @@ Summer 2016 | Teaching Fellow, HPM299 Research with Large Databases, Harvard T.H
 
 # Editorial Activities
 
-*Ad hoc Reviewer* <br> 
-Health Services Research <br> 
-Journal of General Internal Medicine <br> 
+*Ad hoc Reviewer*  
+Health Services Research  
+Journal of General Internal Medicine  
 Medical Care
 
 # Professional Organizations and Societies
