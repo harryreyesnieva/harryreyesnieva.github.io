@@ -72,7 +72,7 @@ Brigham and Women’s Physicians Organization Care Redesign Incubator and Startu
 Data Manager (PI: Linder)  
 Aim: To develop, implement, and evaluate an acute respiratory infection telephone management service at one of the Brigham and Women’s Primary Care Practices.  
   
-**Medical Malpractice and Patient Safety Protocol / Proactive Reducation of Outpatient Malpractice: Increasing Safety, Efficiency, and Satisfaction (The PROMISES Project)**  
+**Medical Malpractice and Patient Safety Protocol / Proactive Reducation of Outpatient Malpractice: Improving Safety, Efficiency, and Satisfaction (PROMISES)**  
 Agency for Healthcare Research and Quality (AHRQ) 1R18HS019508-01  
 Project Manager (PI: Schiff)  
 Aim: To test the impact of quality improvement techniques to accomplish innovations and improvements in 3 high risk ambulatory malpractice areas: 1) medication management, 2) test ordering and results management 3) follow-up and referral management.  
@@ -87,7 +87,7 @@ Health Resources and Services Administration (HRSA) U51HA02522
 Data Quality Assurance Manager / Data, Training, and Education Coordinator (PI: Kanki)   
 A $362 million grant for work in Nigeria, Botswana, and Tanzania to train health care workers, develop monitoring and evaluation systems, strengthen health care infrastructures, and collaborate with local hospitals and clinics that provide treatment for people living with HIV/AIDS.   
   
-**Pharmacist Intervention to Decrease Medication Errors in Heart Disease Patients (The PILL-CVD Study)**  
+**Pharmacist Intervention to Decrease Medication Errors in Heart Disease Patients (PILL-CVD)**  
 National Heart, Lung, and Blood Institute (NHLBI), R01HL089755  
 Research Assistant (Site PI: Schnipper)  
 Aim: To evaluate a literacy-focused program that provides educational assistance from pharmacists at the time of hospital discharge to people hospitalized with heart problems.
