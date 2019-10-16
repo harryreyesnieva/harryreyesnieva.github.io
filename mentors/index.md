@@ -49,7 +49,7 @@ Associate Director, Center for Patient Safety Research and Practice,<br>Brigham 
 <br>
 <br>
 <br>
-<img style="float:left" src="/assets/img/jeffrey-schnipper.png" height="250" color="gray" hspace="10"/>[**Jeffrey L. Schnipper, MD, MPH** (2008)](https://connects.catalyst.harvard.edu/Profiles/display/Person/54336){:target="_blank"}  
+<img style="float:left" src="/assets/img/jeffrey-schnipper.png" height="250" color="gray" hspace="10"/>[**Jeffrey L. Schnipper, MD, MPH, FHM** (2008)](https://connects.catalyst.harvard.edu/Profiles/display/Person/54336){:target="_blank"}  
 Associate Professor of Medicine, Harvard Medical School  
 Director of Clinical Research, Hospitalist Medicine,<br>Brigham and Women's Hospital 
 <br>
