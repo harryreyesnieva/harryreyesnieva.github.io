@@ -19,6 +19,7 @@ Columbia University
 <br>
 <br>
 <br>
+<br>
 <img style="float:right" src="/assets/img/li-zhou.png" height="275"  color="gray" hspace="10"/>
  <p align="right"><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/74124" target="_blank"><b>Li Zhou, MD, PhD, FACMI</b> (2016)</a><br>Associate Professor of Medicine, Harvard Medical School<br>Senior Medical Informatician, Partners HealthCare Systems </p>
 <br>
@@ -29,10 +30,13 @@ Columbia University
 <br>
 <br>
 <br>
+<br>
 <img style="float:left" src="/assets/img/gordon-schiff.jpg" height="300" color="gray" hspace="10"/>[**Gordon Schiff, MD** (2012)](https://primarycare.hms.harvard.edu/faculty-staff/gordon-schiff){:target="_blank"}  
-Associate Professor of Medicine, Harvard Medical School  <br>
+Associate Professor of Medicine, Harvard Medical School<br>
 Quality and Safety Director, HMS Center for Primary Care  
-Associate Director, Center for Patient Safety Research and Practice,<br>Brigham and Women's Hospital  
+Associate Director, Center for Patient Safety Research and Practice,<br>
+Brigham and Women's Hospital 
+<br>
 <br>
 <br>
 <br>
@@ -49,10 +53,12 @@ Associate Director, Center for Patient Safety Research and Practice,<br>Brigham 
 <br>
 <br>
 <br>
+<br>
 <img style="float:left" src="/assets/img/jeffrey-schnipper.png" height="250" color="gray" hspace="10"/>[**Jeffrey L. Schnipper, MD, MPH, FHM** (2008)](https://connects.catalyst.harvard.edu/Profiles/display/Person/54336){:target="_blank"}  
 Associate Professor of Medicine, Harvard Medical School  
-Director of Clinical Research, Hospitalist Medicine,<br>Brigham and Women's Hospital 
-<br>
+Research Director, Division of General Internal Medicine,<br>
+Director of Clinical Research, Hospitalist Medicine,<br>
+Brigham and Women's Hospital<br>
 <br>
 <br>
 <br>
