@@ -5,7 +5,7 @@ permalink: /mentors/
 nav_exclude: true
 ---
 
-I've had several wonderful mentors in my academic and personal journey. Out of fairness, I have chosen to list those below in reverse chronological order from when we first started working together.
+I've had several wonderful mentors in my academic and personal journey. A few are listed below in reverse chronological order from when we first started working together.
 <br>
 <br>
 <img style="float:left" src="/assets/img/noemie-elhadad.jpg" height="250"  color="gray" hspace="10"/>[**No&eacute;mie Elhadad, PhD** (2019)](https://www.dbmi.columbia.edu/people/noemie-elhadad/){:target="_blank"}  
@@ -31,11 +31,11 @@ Columbia University
 <br>
 <br>
 <br>
-<img style="float:left" src="/assets/img/gordon-schiff.jpg" height="300" color="gray" hspace="10"/>[**Gordon Schiff, MD** (2012)](https://primarycare.hms.harvard.edu/faculty-staff/gordon-schiff){:target="_blank"}  
-Associate Professor of Medicine, Harvard Medical School<br>
-Quality and Safety Director, HMS Center for Primary Care  
-Associate Director, Center for Patient Safety Research and Practice,<br>
-Brigham and Women's Hospital 
+<img style="float:left" src="/assets/img/david-bates.jpg" height="300" color="gray" hspace="10"/>[**David W. Bates, MD, MSc** (2013)](https://connects.catalyst.harvard.edu/Profiles/display/Person/449){:target="_blank"}  
+Chief, Division of General Internal Medicine and Primary Care,<br> Brigham and Women's Hospital<br>
+Medical Director, Clinical Quality and IS Analysis, Partners HealthCare<br>
+Professor of Medicine, Harvard Medical School<br>
+Professor of Health Policy and Management,<br>Harvard T. H. Chan School of Public Health<br>
 <br>
 <br>
 <br>
@@ -45,8 +45,9 @@ Brigham and Women's Hospital
 <br>
 <br>
 <br>
-<img style="float:right" src="/assets/img/phyllis-kanki.jpg" height="250" color="gray" hspace="10"/>
-<p align="right"><a href="https://www.hsph.harvard.edu/phyllis-kanki/" target="_blank"><b>Phyllis Kanki, DVM, DSc</b> (2008)</a><br>Mary Woodard Lasker Professor of Health Sciences<br>Department of Immunology and Infectious Diseases<br>Harvard T.H. Chan School of Public Health</p>  
+<img style="float:right" src="/assets/img/gordon-schiff.jpg" height="300" color="gray" hspace="10"/>
+<p align="right"><a href="https://primarycare.hms.harvard.edu/faculty-staff/gordon-schiff/" target="_blank"><b>Gordon D. Schiff, MD</b> (2012)</a><br>Associate Professor of Medicine, Harvard Medical School<br>Quality and Safety Director, HMS Center for Primary Care<br>
+Associate Director, Center for Patient Safety Research and Practice,<br>Brigham and Women's Hospital</p>
 <br>
 <br>
 <br>
@@ -54,11 +55,10 @@ Brigham and Women's Hospital
 <br>
 <br>
 <br>
-<img style="float:left" src="/assets/img/jeffrey-schnipper.png" height="250" color="gray" hspace="10"/>[**Jeffrey L. Schnipper, MD, MPH, FHM** (2008)](https://connects.catalyst.harvard.edu/Profiles/display/Person/54336){:target="_blank"}  
-Associate Professor of Medicine, Harvard Medical School  
-Research Director, Division of General Internal Medicine,<br>
-Director of Clinical Research, Hospitalist Medicine,<br>
-Brigham and Women's Hospital<br>
+<br>
+<br>
+<img style="float:left" src="/assets/img/phyllis-kanki.jpg" height="250" color="gray" hspace="10"/>
+<p align="left"><a href="https://www.hsph.harvard.edu/phyllis-kanki/" target="_blank"><b>Phyllis Kanki, DVM, DSc</b> (2008)</a><br>Mary Woodard Lasker Professor of Health Sciences<br>Department of Immunology and Infectious Diseases<br>Harvard T.H. Chan School of Public Health</p>  
 <br>
 <br>
 <br>
@@ -66,5 +66,15 @@ Brigham and Women's Hospital<br>
 <br>
 <br>
 <br>
-<img style="float:right" src="/assets/img/jeffrey-linder.jpg" height="250" color="gray" hspace="10"/>
-<p align="right"><a href="https://www.medicine.northwestern.edu/faculty/profile.html?xid=37195" target="_blank"><b>Jeffrey A. Linder, MD, MPH, FACP</b> (2007)</a><br>Chief, General Internal Medicine and Geriatrics<br>Michael A. Gertz Professor of Medicine<br>Feinberg School of Medicine, Northwestern University</p>
+<img style="float:right" src="/assets/img/jeffrey-schnipper.png" height="250" color="gray" hspace="10"/>
+<p align="right"><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/54336" target="_blank"><b>Jeffrey L. Schnipper, MD, MPH, FHM</b> (2008)</a><br>Associate Professor of Medicine, Harvard Medical School<br>Research Director, Division of General Internal Medicine & Primary Care,<br>
+Director of Clinical Research, Hospitalist Medicine Unit,<br>Brigham and Women's Hospital<br></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img style="float:left" src="/assets/img/jeffrey-linder.jpg" height="250" color="gray" hspace="10"/>
+<p align="left"><a href="https://www.medicine.northwestern.edu/faculty/profile.html?xid=37195" target="_blank"><b>Jeffrey A. Linder, MD, MPH, FACP</b> (2007)</a><br>Chief, General Internal Medicine and Geriatrics<br>Michael A. Gertz Professor of Medicine<br>Feinberg School of Medicine, Northwestern University</p>
