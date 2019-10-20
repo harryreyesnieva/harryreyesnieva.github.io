@@ -9,6 +9,10 @@ nav_order: 3
 *Advisor: No&eacute;mie Elhadad, PhD*  
 We aim to measure and characterize differences in acute myocardial infarction (AMI) among men and women using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on gender. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients and their impact on patient outcomes.
 
+**Recognizing and Normalizing Condition Concepts with Severity Modifiers**  
+*Advisor: Chunhua Weng, PhD*  
+The presence of qualifiers such as severity or disease stage complicate the recognition and normalization of biomedical concepts from free text. A single concept can often be mapped to a terminology in multiple ways. Our problem is motivated by inconsistent recognition of disease conditions in Criteria2Query (C2Q), a tool for exploring clinical trial inclusion and exclusion criteria. We are developing a novel two-step, ontology-aware mapping scheme that is optimized for extracting disease concepts at a high level of specificity. 
+
 # Projects Submitted for Funding
 **ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health**  
 NIH/NIMHD 1R21HD097292-01  
