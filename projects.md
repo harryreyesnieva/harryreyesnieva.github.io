@@ -5,7 +5,7 @@ permalink: /projects/
 nav_order: 3
 ---
 # Current Projects
-**Gender-based differences in presentation and treatment of acute myocardial infarction**  
+**Gender-based Differences in Presentation and Treatment of Acute Myocardial Infarction**  
 *Advisor: No&eacute;mie Elhadad, PhD*  
 We aim to measure and characterize differences in acute myocardial infarction (AMI) among men and women using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on gender. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients and their impact on patient outcomes.
 
