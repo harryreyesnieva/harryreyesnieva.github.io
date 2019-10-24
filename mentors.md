@@ -67,7 +67,7 @@ Associate Director, Center for Patient Safety Research and Practice,<br>Brigham 
 <br>
 <br>
 <img style="float:right" src="/assets/img/jeffrey-schnipper.png" height="250" color="gray" hspace="10"/>
-<p align="right"><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/54336" target="_blank"><b>Jeffrey L. Schnipper, MD, MPH, FHM</b> (2008)</a><br>Associate Professor of Medicine, Harvard Medical School<br>Research Director, Division of General Internal Medicine & Primary Care,<br>
+<p align="right"><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/54336" target="_blank"><b>Jeffrey L. Schnipper, MD, MPH, FHM</b> (2008)</a><br>Associate Professor of Medicine, Harvard Medical School<br>Research Director, Division of General Internal Medicine<br>and Primary Care,<br>
 Director of Clinical Research, Hospitalist Medicine Unit,<br>Brigham and Women's Hospital<br></p>
 <br>
 <br>
