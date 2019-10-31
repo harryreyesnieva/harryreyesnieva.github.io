@@ -18,7 +18,8 @@ Prior to pursuing a career in medical informatics and health services research, 
 *Doctor of Philosophy* in Biomedical Informatics, Expected May 2024  
 Coursework includes: Intelligent Decision Systems, Symbolic Methods, Programming and Statistics, Computer Applications in Health Care and Biomedicine   
 
-[**Beijing Language and Culture University, Beijing, China**](http://english.blcu.edu.cn/){:target="_blank"}  
+[**Beijing Language and Culture University, Beijing, China**](http://english.blcu.edu.cn/){:target="_blank"} 
+北京语言大学, 北京, 中国  
 *Summer Student*, Intensive Mandarin  
 
 [**Johns Hopkins Bloomberg School of Public Health, Baltimore, MD**](https://www.jhsph.edu/){:target="_blank"}   

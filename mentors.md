@@ -5,7 +5,7 @@ permalink: /mentors/
 nav_exclude: true
 ---
 
-I've had several wonderful mentors in my academic and personal journey. A few are listed below in reverse chronological order from when we first started working together.
+I've had several wonderful mentors in my academic and personal journey. A few are listed below in reverse chronological order from when mentorship first began.
 <br>
 <br>
 <img style="float:left" src="/assets/img/noemie-elhadad.jpg" height="250"  color="gray" hspace="10"/>[**No&eacute;mie Elhadad, PhD** (2019)](https://www.dbmi.columbia.edu/people/noemie-elhadad/){:target="_blank"}  
