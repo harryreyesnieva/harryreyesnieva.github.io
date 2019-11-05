@@ -10,6 +10,7 @@ nav_order: 4
 Practices Regarding Professional-Patient Boundaries. *Journal of General Internal Medicine.* (in press)
 2. Ali NB, **Reyes Nieva H**, Percac-Lima S, Shields HM, Linder JA, Yusuf Osman N. Health Care Use by Muslim Patients During Ramadan. *Journal of Health Care for the Poor and Underserved.* 2019;30(4):1360-1372.   
    [PMID: 31680102](https://www.ncbi.nlm.nih.gov/pubmed/31680102){:target="_blank"}
+    <div data-badge-popover="right" data-badge-type="2" data-pmid="31680102" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 3. Mixon AS, Smith GR, Mallouk M, **Reyes Nieva H**, Kripalani S, Rennke S, Chu E, Sridharan A, Dalal A, Mueller S, Williams M, Wetterneck T, Stein JM, Stolldorf D, Howell E, Orav J, Labonville S, Levin B, Yoon C, Gresham M, Goldstein J, Platt S, Nyenpan C, Schnipper JL. Design of MARQUIS2: study protocol for a mentored implementation study of an evidence-based toolkit to improve patient safety through medication reconciliation. *BMC Health Serv Res.* 2019 Sep 11; 19(1):659.   
    [PMID: 31511070](https://www.ncbi.nlm.nih.gov/pubmed/31511070){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="31511070" data-hide-no-mentions="true" class="altmetric-embed"></div>    
