@@ -112,7 +112,7 @@ Medical Care
 # Computer and Language Skills
 
 **Computing** Python, bash, SQL, R, SAS, LaTex, HTML, CSS, Javascript, ArcGIS, QGIS, SaTScan,
-REDCap, MS Access, FilemakerPro  
+REDCap, MS Access, Filemaker, git 
 
 **Languages** English (native), Spanish (proficient), Mandarin (beginner)
 
