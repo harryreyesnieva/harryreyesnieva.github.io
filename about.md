@@ -105,7 +105,7 @@ Medical Care
 
 2019–present | Member, New York Academy of Sciences
 2017–present | Member, Association for Computing Machinery <br> *Special Interest Groups:* Artificial Intelligence; Knowledge Discovery in Data; Bioinformatics, Computational Biology, and Biomedical Informatics
-2014–present | Member, American Medical Informatics Association <br> *Special Interest Groups:* Clinical Decision Support, Natural Language Processing, Clinical Research Informatics, Knowledge Discovery and Data Mining <br> *Abstract Reviewer,* Annual Symposium (2014–present) <br> *Mentor,* AMIA High School Scholars Program (2019-present)
+2014–present | Member, American Medical Informatics Association <br> *Special Interest Groups:* Clinical Decision Support; Natural Language Processing; Knowledge Discovery and Data Mining; Ethics, Legal, and Social Issues <br> *Abstract Reviewer,* Annual Symposium (2014–present) <br> *Mentor,* AMIA High School Scholars Program (2019-present)
 2012–2014 | Member, American Public Health Association <br> *Special Interest Groups:* Medical Care, Health Informatics Information Technology  
 2012–2014 | Member, AcademyHealth
 
