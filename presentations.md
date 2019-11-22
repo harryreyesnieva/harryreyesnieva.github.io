@@ -38,9 +38,7 @@ nav_order: 5
 11. Schiff GD, Brede N, Singer S, Foskett CA, **Reyes Nieva H**, Colling CA, Whitney DL, Ling J, Leydon N, Orav EJ, Bates DW, Biondolillo M. Courting Malpractice Risk: Failures in High Risk Outpatient Test and Referral Management and Documentation. Poster presentation. Society of General Internal Medicine Annual Meeting; 04/2013.
     
 **International**
-1. **Reyes Nieva H**, Ruan E, Schiff GD. Primary Care Physician-Patient Boundaries. Oral Presentation. 35th International Conference in Healthcare Quality & Safety, Kuala Lumpur, Malaysia; 9/2018.
-
-2. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
+1. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
 
 3. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
 
