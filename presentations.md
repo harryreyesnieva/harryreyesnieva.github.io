@@ -40,11 +40,11 @@ nav_order: 5
 **International**
 1. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
 
-3. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
+2. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
 
-4. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
+3. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
 
-5. Singer S, **Reyes Nieva H**, Brede N, Colling CA, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD. Malpractice Risk in Ambulatory Practices: Evaluation by Staff and Administrators in the PROMISES Study. Oral presentation. Israel National Institute for Health Policy Research, 5th International Jerusalem Conference for Health Policy; 06/2013.
+4. Singer S, **Reyes Nieva H**, Brede N, Colling CA, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD. Malpractice Risk in Ambulatory Practices: Evaluation by Staff and Administrators in the PROMISES Study. Oral presentation. Israel National Institute for Health Policy Research, 5th International Jerusalem Conference for Health Policy; 06/2013.
 
 # Report of Invited Teaching and Presentations
 *No presentations below were sponsored by outside entities.*
