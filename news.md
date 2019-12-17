@@ -10,5 +10,5 @@ April 15, 2016 | [Brigham and Womens Hospital, Brigham and Womens Faulkner Hospi
 October 23, 2015 | [The Importance of Being Known: Incorporating SO/GI Data into Patient Care](https://bwhbulletin.org/2015/10/23/the-importance-of-being-known-incorporating-sogi-data-into-patient-care/){:target="_blank"}
 October 20, 2015 | [Brigham and Women’s Hospital Has Started Collecting Gender and Sexuality Information from Patients](http://www.bostonmagazine.com/health/blog/2015/10/20/health-records-lgbt/){:target="_blank"}  
 May 27, 2014 | [Hooray for RAs: Research assistants recognized at first annual DGIM Research Day](https://bwhclinicalandresearchnews.org/2014/05/27/hooray-for-ras/){:target="_blank"}
-May 12, 2014 | [SGIM Announces Award Winners for 2014](http://www.sgim.org/about-us/news-and-initiatives/sgim-37th-annual-meeting)
+May 12, 2014 | [SGIM Announces Award Winners for 2014](http://www.sgim.org/about-us/news-and-initiatives/sgim-37th-annual-meeting){:target="_blank"}
 May 7, 2014 | [Three BWHers Receive Internal Medicine Awards](https://www.brighamandwomens.org/about-bwh/newsroom/awards-honors-grants-detail?id=1759){:target="_blank"}
