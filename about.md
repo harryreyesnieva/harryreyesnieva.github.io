@@ -20,20 +20,20 @@ Coursework includes: Intelligent Decision Systems, Symbolic Methods, Programming
 
 [**Beijing Language and Culture University, Beijing, China**](http://english.blcu.edu.cn/){:target="_blank"}  
 北京语言大学, 北京, 中国  
-*Summer Student*, Intensive Mandarin  
+*Summer Student*, Intensive Mandarin, 2019  
 
 [**Johns Hopkins Bloomberg School of Public Health, Baltimore, MD**](https://www.jhsph.edu/){:target="_blank"}   
-*Master of Applied Science* in Spatial Analysis  
+*Master of Applied Science* in Spatial Analysis, 2019  
 Thesis: Spatiotemporal modeling of opioid prescribing and persistent opioid use, 2000-2018  
 Coursework included: Biostatistics, Spatial Statistics, Epidemiology, Spatial Data Technologies  
 
 [**Harvard T.H. Chan School of Public Health, Boston, MA**](https://www.hsph.harvard.edu/){:target="_blank"}  
-*Special Student*, International and Population Health  
+*Special Student*, International and Population Health, 2009-2011  
 Coursework included: Immunology, Tuberculosis, Planning and Evaluation of Health Programs,  
 Financing Health Care in Developing Countries, Survey Research Methods in Community Health  
 
 [**Yale University, New Haven, CT**](https://www.yale.edu/){:target="_blank"}  
-*Bachelor of Arts* in Sociology and History  
+*Bachelor of Arts* in Sociology and History, 2005  
 Thesis: The IDA road to homeownership: asset-based development approaches to poverty alleviation
 Coursework included: Current Issues in Biological Sciences, Elements of Computing, Calculus I & II,  
 Social Policy Analysis, Portuguese for Spanish Speakers, Elementary Yoruba  
