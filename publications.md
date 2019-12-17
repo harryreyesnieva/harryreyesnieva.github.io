@@ -8,7 +8,8 @@ nav_order: 4
 
 1. **Reyes Nieva H**, Ruan E, Schiff G. Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices. *J Gen Intern Med.* (2019).  
    [PMID: 31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
-    <div data-badge-popover="right" data-badge-type="2" data-pmid="31755012" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+    <div data-badge-popover="right" data-badge-type="2" data-doi="10.1007/s11606-019-05543-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
   
 2. Ali NB, **Reyes Nieva H**, Percac-Lima S, Shields HM, Linder JA, Yusuf Osman N. Health Care Use by Muslim Patients During Ramadan. *Journal of Health Care for the Poor and Underserved.* 2019;30(4):1360-1372.   
    [PMID: 31680102](https://www.ncbi.nlm.nih.gov/pubmed/31680102){:target="_blank"}
