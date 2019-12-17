@@ -1,9 +1,11 @@
-I"&=<p><a href="/assets/docs/CV_HReyesNieva.pdf" target="_blank" align="right">Curriculum vitae [PDF]</a><br />
+I"gA<p><a href="/assets/docs/CV_HReyesNieva.pdf" target="_blank" align="right">Curriculum vitae [PDF]</a><br />
 <a href="https://scholar.google.com/citations?user=L58_1hAAAAAJ&amp;hl=en" target="_blank">Google Scholar</a></p>
 
-<p>My primary research area involves leveraging artificial intelligence to improve the quality and safety of patient care, support knowledge discovery, and promote health equity. Generally, my research interests concern developing and applying novel machine learning and natural language processing methods to study clinical cognition; assess disease risk, presence, progression and treatment response; identify disease subtypes and biomarkers associated with important outcomes; and study the fairness, accountability, and transparency of intelligent systems in the health care setting.  I’m funded by a <a href="https://www.nlm.nih.gov/ep/GrantTrainInstitute.html" target="_blank">National Library of Medicine Biomedical Informatics and Data Science Research Training Grant</a> (T15LM007079-28).</p>
+<p>My primary research area involves leveraging artificial intelligence to improve the quality and safety of patient care, support knowledge discovery, and promote health equity. Generally, my research interests concern developing and applying novel machine learning and natural language processing methods to examine and support clinical cognition and decision making; assess disease risk, presence, progression and treatment response; identify disease subtypes and biomarkers associated with important outcomes; and study the fairness, accountability, and transparency of intelligent systems in the health care setting. I’m funded by a <a href="https://www.nlm.nih.gov/ep/GrantTrainInstitute.html" target="_blank">National Library of Medicine Biomedical Informatics and Data Science Research Training Grant</a> (T15LM007079-28).</p>
 
-<p>Prior to pursuing a career in health services research, I was a member of the Strategic Information division of the <a href="https://www.state.gov/pepfar/" target="_blank">U.S. President’s Emergency Plan for AIDS Relief</a> (PEPFAR) at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a> which aimed to rapidly expand antiretroviral therapy (ART) treatment and care programs for people living with HIV/AIDS in sub-Saharan Africa. As Data Quality Assurance Manager for the Nigeria country program, my focus was scale-up and transition of data quality improvement and assurance activities nationwide. In this capacity, I worked closely with in-country quality improvement, monitoring and evaluation, and clinical specialists while developing or modifying pediatric and adult quality improvement dashboards and monitoring and evaluation tools. My division reported to the <a href="http://www.hrsa.gov/" target="_blank">U.S. Health Resources and Services Administration</a> (HRSA), <a href="https://www.state.gov/pepfar/" target="_blank">U.S. Centers for Disease Control and Prevention</a> (CDC), and <a href="http://data.unaids.org/pub/Report/2010/nigeria_2010_country_progress_report_en.pdf" target="_blank">United Nations General Assembly Special Session</a> (UNGASS) on HIV/AIDS.</p>
+<p>Over the years, I have been very fortunate to have many <a href="/mentors">excellent mentors</a>. Before starting my PhD program, I held a number of positions at <a href="https://www.brighamandwomens.org" target="_blank">Brigham and Women’s Hospital</a> (BWH), <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a> (HMS), and the <a href="https://www.hsph.harvard.edu/" target="_blank">Harvard T.H. Chan School of Public Health</a> (HSPH). While at BWH and HMS, I served on more than a dozen <a href="/projects">research studies</a>  and would eventually develop my own projects with generous support from <a href="https://catalyst.harvard.edu/" target="_blank">Harvard Catalyst</a>, the Clinical and Translational Science Awards (CTSA) Program, funded by the <a href="https://ncats.nih.gov/" target="_blank">NIH National Center for Advancing Translational Sciences</a> (NCATS).</p>
+
+<p>Prior to pursuing a career in medical informatics and health services research, I was a member of the Strategic Information division of the <a href="https://www.state.gov/pepfar/" target="_blank">U.S. President’s Emergency Plan for AIDS Relief</a> (PEPFAR) at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a> which aimed to rapidly expand antiretroviral therapy (ART) treatment and care programs for people living with HIV/AIDS in sub-Saharan Africa. As Data Quality Assurance Manager for the Nigeria country program, my focus was scale-up and transition of data quality improvement and assurance activities nationwide. In this capacity, I worked closely with in-country quality improvement, monitoring and evaluation, and clinical specialists while developing or modifying pediatric and adult quality improvement dashboards and monitoring and evaluation tools. My division reported to the <a href="http://www.hrsa.gov/" target="_blank">U.S. Health Resources and Services Administration</a> (HRSA), <a href="https://www.state.gov/pepfar/" target="_blank">U.S. Centers for Disease Control and Prevention</a> (CDC), and <a href="http://data.unaids.org/pub/Report/2010/nigeria_2010_country_progress_report_en.pdf" target="_blank">United Nations General Assembly Special Session</a> (UNGASS) on HIV/AIDS.</p>
 
 <h1 id="education">Education</h1>
 <p><a href="https://www.columbia.edu/" target="_blank"><strong>Columbia University in the City of New York, New York, NY</strong></a><br />
@@ -11,6 +13,7 @@
 Coursework includes: Intelligent Decision Systems, Symbolic Methods, Programming and Statistics, Computer Applications in Health Care and Biomedicine</p>
 
 <p><a href="http://english.blcu.edu.cn/" target="_blank"><strong>Beijing Language and Culture University, Beijing, China</strong></a><br />
+北京语言大学, 北京, 中国<br />
 <em>Summer Student</em>, Intensive Mandarin</p>
 
 <p><a href="https://www.jhsph.edu/" target="_blank"><strong>Johns Hopkins Bloomberg School of Public Health, Baltimore, MD</strong></a> <br />
@@ -246,15 +249,15 @@ Medical Care</p>
     </tr>
     <tr>
       <td>2017–present</td>
-      <td>Member, Association for Computing Machinery <br /> <em>Special Interest Groups: Artificial Intelligence; Knowledge Discovery in Data; Bioinformatics, Computational Biology, and Biomedical Informatics</em></td>
+      <td>Member, Association for Computing Machinery <br /> <em>Special Interest Groups:</em> Artificial Intelligence; Knowledge Discovery in Data; Bioinformatics, Computational Biology, and Biomedical Informatics</td>
     </tr>
     <tr>
       <td>2014–present</td>
-      <td>Member, American Medical Informatics Association <br /> <em>Special Interest Groups: Clinical Decision Support, Natural Language Processing, Clinical Research Informatics, Knowledge Discovery and Data Mining</em> <br /> <em>Abstract Reviewer, Annual Symposium (2014–present)</em></td>
+      <td>Member, American Medical Informatics Association <br /> <em>Special Interest Groups:</em> Clinical Decision Support; Natural Language Processing; Knowledge Discovery and Data Mining; Ethics, Legal, and Social Issues <br /> <em>Abstract Reviewer,</em> Annual Symposium (2014–present) <br /> <em>Mentor,</em> AMIA High School Scholars Program (2019-present)</td>
     </tr>
     <tr>
       <td>2012–2014</td>
-      <td>Member, American Public Health Association <br /> <em>Special Interest Groups: Medical Care, Health Informatics Information Technology</em></td>
+      <td>Member, American Public Health Association <br /> <em>Special Interest Groups:</em> Medical Care, Health Informatics Information Technology</td>
     </tr>
     <tr>
       <td>2012–2014</td>
@@ -266,7 +269,7 @@ Medical Care</p>
 <h1 id="computer-and-language-skills">Computer and Language Skills</h1>
 
 <p><strong>Computing</strong> Python, bash, SQL, R, SAS, LaTex, HTML, CSS, Javascript, ArcGIS, QGIS, SaTScan,
-REDCap, MS Access, FilemakerPro</p>
+REDCap, MS Access, FileMaker, git</p>
 
 <p><strong>Languages</strong> English (native), Spanish (proficient), Mandarin (beginner)</p>
 
