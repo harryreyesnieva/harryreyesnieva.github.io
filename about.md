@@ -16,7 +16,7 @@ Prior to pursuing a career in medical informatics and health services research, 
 # Education  
 [**Columbia University in the City of New York, New York, NY**](https://www.columbia.edu/){:target="_blank"}  
 *Doctor of Philosophy* in Biomedical Informatics, Expected May 2024  
-Coursework includes: Intelligent Decision Systems, Symbolic Methods, Programming and Statistics, Computer Applications in Health Care and Biomedicine   
+Coursework includes: Intelligent Decision Systems, Symbolic Methods, Computational Methods, Ethics and Fairness in Digital Health, Computer Applications in Health Care and Biomedicine, Programming and Statistics  
 
 [**Beijing Language and Culture University, Beijing, China**](http://english.blcu.edu.cn/){:target="_blank"}  
 北京语言大学, 北京, 中国  

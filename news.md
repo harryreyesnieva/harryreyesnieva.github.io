@@ -4,7 +4,10 @@ title: Latest News
 permalink: /news/
 nav_order: 6
 ---
-December 18, 2019 | [Harvard ThinkResearch Podcast Interview - Machine Learning and Health Equity](https://soundcloud.com/user-501356184/community-engaged-machine-learning-and-health-equity){:target="_blank"}
+
+<iframe width="100%" height="166" float="right" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722783449&color=%230500ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+December 18, 2019 | [Harvard ThinkResearch Podcast Interview - Machine Learning and Health Equity](https://soundcloud.com/user-501356184/community-engaged-machine-learning-and-health-equity){:target="_blank"} 
 March 15, 2019 | [National Academies of Sciences, Engineering, and Medicine Press Release: Ford Foundation Fellowships Honorable Mention List - 2019](http://nrc58.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=HM&CompYr=2019&Layout=wwwLibs%2fUtil_Web%2fPageLayouts%2fApplPrintLayout){:target="_blank"}
 September 25, 2018 | [Ruth and William Silen, MD Awards Oral Presentation Awardees](https://www.bscp.org/wp-content/uploads/2015/06/September-2018.pdf){:target="_blank"}
 October 4, 2017 | [Zhou, Reyes Nieva Awarded Harvard Catalyst Health Disparities Research Program Grant](https://www.brighamandwomens.org/about-bwh/newsroom/awards-honors-grants-detail?id=2838){:target="_blank"}
