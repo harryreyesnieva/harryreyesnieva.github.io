@@ -34,7 +34,6 @@ Financing Health Care in Developing Countries, Survey Research Methods in Commun
 
 [**Yale University, New Haven, CT**](https://www.yale.edu/){:target="_blank"}  
 *Bachelor of Arts* in Sociology and History, 2005  
-Thesis: The IDA road to homeownership: asset-based development approaches to poverty alleviation
 Coursework included: Current Issues in Biological Sciences, Elements of Computing, Calculus I & II,  
 Social Policy Analysis, Portuguese for Spanish Speakers, Elementary Yoruba  
 
