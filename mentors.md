@@ -41,6 +41,8 @@ Columbia University
 <br>
 <br>
 <br>
+<br>
+<br>
 <img style="float:left" src="/assets/img/david-bates.jpg" height="300" color="gray" hspace="10"/>[**David W. Bates, MD, MSc** (2013)](https://connects.catalyst.harvard.edu/Profiles/display/Person/449){:target="_blank"}  
 Chief, Division of General Internal Medicine and Primary Care,<br> Brigham and Women's Hospital<br>
 Medical Director, Clinical Quality and IS Analysis, Partners HealthCare<br>
