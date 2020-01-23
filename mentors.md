@@ -16,6 +16,8 @@ Columbia University </p>
 <br>
 <br>
 <br>
+<br>
+<br>
 <img style="float:left" src="/assets/img/noemie-elhadad.jpg" height="250"  color="gray" hspace="10"/>[**No&eacute;mie Elhadad, PhD** (2019)](https://www.dbmi.columbia.edu/people/noemie-elhadad/){:target="_blank"}  
 Associate Professor of Biomedical Informatics,  <br>
 Co-interim Chair and Graduate Program Director,  <br>
