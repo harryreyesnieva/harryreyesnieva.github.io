@@ -9,7 +9,7 @@ I've had several wonderful mentors in my academic and personal journey. A few ar
 <br>
 <br>
 <img style="float:right" src="/assets/img/lena-mamykina.jpg" height="250"  color="gray" hspace="10"/>
- <p align="right"><a href="https://www.dbmi.columbia.edu/profile/lena-mamykina/" target="_blank"><b>Lena Mamykina, PhD</b> (2020)</a><br>Associate Professor of Biomedical Informatics,<br> 
+ <p align="right"><a href="https://www.dbmi.columbia.edu/profile/lena-mamykina/" target="_blank"><b>Lena Mamykina, MS, PhD</b> (2020)</a><br>Associate Professor of Biomedical Informatics,<br> 
 Columbia University </p>
 <br>
 <br>

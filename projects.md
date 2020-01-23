@@ -6,8 +6,8 @@ nav_order: 3
 ---
 # Current Projects
 **Mechanistic Machine Learning**  
-*Advisor: Lena Mamykina, PhD*  
-The overarching goal of this research is to develop new approaches to facilitating clinical reasoning and decision-making through aligning clinicians' cognitive models of patients' pathophysiology, mechanistic models of human physiology, and empirical patient data.
+*Advisor: Lena Mamykina, MS, PhD*  
+The overarching goal of this research is to develop new approaches to facilitating clinical reasoning and decision-making through aligning clinicians' cognitive models of patients' pathophysiology, mechanistic models of human physiology, and empirical patient data. Reconciling differences between cognitive and mechanistic models requires deep understanding of medical cognition and clinical work, innovative computational modeling, and innovative co-design approaches that will bring together cognitive scientists, data scientists, and experts in human-computer interaction and clinical decision support.
 
 **Gender-based Differences in Presentation and Treatment of Acute Myocardial Infarction**  
 *Advisor: No&eacute;mie Elhadad, PhD*  
