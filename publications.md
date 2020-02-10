@@ -67,9 +67,9 @@ nav_order: 4
 
 4. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff G. Divisive hierarchical clustering analysis of primary care malpractice claims to identify patterns of diagnostic error.  
 
-5. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics in Eastern Massachusetts.  
+5. Chabria A, **Reyes Nieva H**, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J, DeCastro R, Cruz Garcia J, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions.
 
-6. Chabria A, **Reyes Nieva H**, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J, DeCastro R, Cruz Garcia J, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions.
+6. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics in Eastern Massachusetts. Under Review. JAMA Intern Med.
 
 # Proceedings of meetings and other non-peer reviewed research publications
 1. **Reyes Nieva H**, Kaplan RL, Madani N. Women and HIV: Update from the Middle East and North Africa. Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA). 2010 International AIDS Conference, Vienna, Austria.
