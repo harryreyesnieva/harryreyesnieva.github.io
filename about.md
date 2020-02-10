@@ -38,7 +38,7 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 Social Policy Analysis, Portuguese for Spanish Speakers, Elementary Yoruba  
 
 # Research Experience
-
+2020-present | Spring Rotation Student, Action Research for Collective Health (ARCH) Lab, Department of Biomedical Informatics, Columbia University, New York, NY
 2019-present | National Library of Medicine Predoctoral Research Fellow, Department of Biomedical Informatics, Columbia University, New York, NY
 2019-present | Fall Rotation Student, Elhadad Lab, Department of Biomedical Informatics, Columbia University, New York, NY
 2013-present | Visiting Postgraduate Research Fellow, Department of Medicine, Harvard Medical School, Boston, MA
