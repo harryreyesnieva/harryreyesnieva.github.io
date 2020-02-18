@@ -6,7 +6,7 @@ nav_order: 4
 ---
 # Peer reviewed publications in print or other media
 
-1. **Reyes Nieva H**, Ruan E, Schiff G. Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices. *J Gen Intern Med.* (2019).  
+1. **Reyes Nieva H**, Ruan E, Schiff G. Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices. *J Gen Intern Med.* 2020;35(2):457–464.  
    [PMID: 31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-doi="10.1007/s11606-019-05543-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
