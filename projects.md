@@ -26,7 +26,7 @@ The presence of qualifiers such as severity or disease stage complicate the reco
 **ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health**  
 NIH/NIMHD 1R21HD097292-01  
 Co-investigator (PI: Zhou) – Direct Costs Requested – $275,000  
-The goals of the ARISE-SGM (ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health) research project are to leverage advances in artificial intelligence to address logistical challenges in obtaining representative samples of sexual and gender minority (SGM) populations and characterize comorbidity prevalence and potential health inequities associated with different segments of SGM populations. Original SRG Action: Impact Score:38 Percentile:24+
+The goals of the ARISE-SGM (ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health) research project are to leverage advances in artificial intelligence to address logistical challenges in obtaining representative samples of sexual and gender minority (SGM) populations and characterize comorbidity prevalence and potential health inequities associated with different segments of SGM populations.
 
 # Funding Information  
 *Past*  
