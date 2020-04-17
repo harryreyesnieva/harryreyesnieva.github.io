@@ -5,6 +5,11 @@ permalink: /projects/
 nav_order: 3
 ---
 # Current Projects
+
+**CovidWatcher**
+*PIs: No&eacute;mie Elhadad, PhD; Lena Mamykina, MS, PhD; Nicholas Tatonetti, PhD* 
+CovidWatcher is an [app](https://apps.apple.com/us/app/covidwatcher/id1504295590) and [online portal](https://covidwatcher.dbmi.columbia.edu/) that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.
+
 **Mechanistic Machine Learning**  
 *Advisor: Lena Mamykina, MS, PhD*  
 The overarching goal of this research is to develop new approaches to facilitating clinical reasoning and decision-making through aligning clinicians' cognitive models of patients' pathophysiology, mechanistic models of human physiology, and empirical patient data. Reconciling differences between cognitive and mechanistic models requires deep understanding of medical cognition and clinical work, novel computational modeling, and innovative co-design approaches that will bring together cognitive scientists, data scientists, and experts in human-computer interaction and clinical decision support.
