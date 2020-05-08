@@ -9,7 +9,6 @@ nav_order: 4
 1. **Reyes Nieva H**, Ruan E, Schiff G. Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices. *J Gen Intern Med.* 2020;35(2):457–464.  
    [PMID: 31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-doi="10.1007/s11606-019-05543-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
   
 2. Ali NB, **Reyes Nieva H**, Percac-Lima S, Shields HM, Linder JA, Yusuf Osman N. Health Care Use by Muslim Patients During Ramadan. *J Health Care Poor Underserved.* 2019;30(4):1360-1372.   
    [PMID: 31680102](https://www.ncbi.nlm.nih.gov/pubmed/31680102){:target="_blank"}
@@ -69,9 +68,13 @@ nav_order: 4
 
 5. Chabria A, **Reyes Nieva H**, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J, DeCastro R, Cruz Garcia J, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions.
 
-6. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics in Eastern Massachusetts. Under Review. JAMA Netw Open.
+6. Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Moy ML. Tai Chi Exercise in Patients with COPD: a Randomized Controlled Feasibility Trial.
 
-7. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? Under Review. J Healthc Qual.
+7. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics in Eastern Massachusetts. Under Review. JAMA Netw Open.
+
+8. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? Under Review. J Healthc Qual.
+
+9. Linder JA, Weissman JS, **Reyes Nieva H**, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR. Overactive bladder in an integrated delivery system: a longitudinal cohort study. BMC Health Serv Res; 2020: in press.
 
 # Proceedings of meetings and other non-peer reviewed research publications
 1. **Reyes Nieva H**, Kaplan RL, Madani N. Women and HIV: Update from the Middle East and North Africa. Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA). 2010 International AIDS Conference, Vienna, Austria.
