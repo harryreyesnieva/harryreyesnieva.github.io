@@ -12,7 +12,7 @@ nav_order: 4
 
 2. Linder JA, Weissman JS, **Reyes Nieva H**, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR. Overactive bladder in an integrated delivery system: a longitudinal cohort study. *BMC Health Serv Res.* 2020 May 20;20(1):447.   
 [PMID: 32434511](https://www.ncbi.nlm.nih.gov/pubmed/32434511){:target="_blank"}
-<div data-badge-popover="right" data-badge-type="2" data-pmid="32434511" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+<div data-badge-popover="right" data-badge-type="2" data-pmid="32434511" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 3. Ali NB, **Reyes Nieva H**, Percac-Lima S, Shields HM, Linder JA, Yusuf Osman N. Health Care Use by Muslim Patients During Ramadan. *J Health Care Poor Underserved.* 2019;30(4):1360-1372.   
    [PMID: 31680102](https://www.ncbi.nlm.nih.gov/pubmed/31680102){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="31680102" data-hide-no-mentions="true" class="altmetric-embed"></div>    
