@@ -9,14 +9,14 @@ nav_order: 3
 **CovidWatcher**   
 *PIs: No&eacute;mie Elhadad, PhD; Lena Mamykina, MS, PhD; Nicholas Tatonetti, PhD*   
 CovidWatcher is an [app](https://apps.apple.com/us/app/covidwatcher/id1504295590){:target="_blank"} and [online portal](https://covidwatcher.dbmi.columbia.edu/){:target="_blank"} that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.   
-   
-**Mechanistic Machine Learning**  
-*PI: Lena Mamykina, MS, PhD*  
-The overarching goal of this research is to develop new approaches to facilitating clinical reasoning and decision-making through aligning clinicians' cognitive models of patients' pathophysiology, mechanistic models of human physiology, and empirical patient data. Reconciling differences between cognitive and mechanistic models requires deep understanding of medical cognition and clinical work, novel computational modeling, and innovative co-design approaches that will bring together cognitive scientists, data scientists, and experts in human-computer interaction and clinical decision support.
 
 **Differences in Presentation and Treatment of Acute Myocardial Infarction based on Gender and Race/Ethnicity**  
 *Advisor: No&eacute;mie Elhadad, PhD*  
 We aim to measure and characterize differences in presentation and treatment of acute myocardial infarction (AMI) using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on demographics. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients, lengths of time to treatment, and resulting impact on patient outcomes.
+
+**Mechanistic Machine Learning**  
+*PI: Lena Mamykina, MS, PhD*  
+The overarching goal of this research is to develop new approaches to facilitate clinical reasoning and decision-making by aligning clinicians' cognitive models of patients' pathophysiology, mechanistic models of human physiology, and empirical patient data. Reconciling differences between cognitive and mechanistic models requires deep understanding of medical cognition and clinical work, novel computational modeling, and innovative co-design approaches that bring together cognitive scientists, data scientists, and experts in human-computer interaction and clinical decision support.
 
 **Recognizing and Normalizing Condition Concepts with Severity Modifiers**  
 *Advisor: Chunhua Weng, PhD*  

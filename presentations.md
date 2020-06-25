@@ -14,28 +14,30 @@ nav_order: 5
 2. Singer S, **Reyes Nieva H**, Ling J, Leydon N, Weissman J, Griswold P, Yoon C, Bates, DW, Biondolilo M, Schiff GD. Risks for Making Promises: Increased Expectations but Limited Improvement with a Malpractice Safety Intervention. Poster presentation. Society of General Internal Medicine New England Regional Meeting. Boston, MA; 03/2015.
 
 **National**
-1. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
+1. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Delays in care and differential presentation of acute myocardial infarction. Open Mic Oral Presentation. National Library of Medicine Informatics Training Conference. Virtual Event; 06/2020.
 
-2. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu E, Mueller S, Smith GR, Williams M, Wetterneck TB, Stein J, Dalal A, Labonville SA, Sridharan A, Orav EJ, Levin B, Yoon C, Gresham M, Goldstein J, Kripilani S. Effects of a Refined Evidence-based Toolkit on Medication Reconciliation Quality and Safety at Multiple Hospitals: Results of the MARQUIS2 Study. Plenary presentation. Hospital Medicine 2019. National Harbor, MD; 03/2019.
+2. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
 
-3. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Don’t Come Back: Patient Terminations in Primary Care. Poster presentation. Society of General Internal Medicine Annual Meeting; 04/2018.
+3. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu E, Mueller S, Smith GR, Williams M, Wetterneck TB, Stein J, Dalal A, Labonville SA, Sridharan A, Orav EJ, Levin B, Yoon C, Gresham M, Goldstein J, Kripilani S. Effects of a Refined Evidence-based Toolkit on Medication Reconciliation Quality and Safety at Multiple Hospitals: Results of the MARQUIS2 Study. Plenary presentation. Hospital Medicine 2019. National Harbor, MD; 03/2019.
 
-4. Schnipper JL, Cruz Garcia J, **Reyes Nieva H**, Chabria A, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions. Poster presentation. Hospital Medicine 2018. Orlando, FL; 04/2018.
+4. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Don’t Come Back: Patient Terminations in Primary Care. Poster presentation. Society of General Internal Medicine Annual Meeting. Denver, CO; 04/2018.
 
-5. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
+5. Schnipper JL, Cruz Garcia J, **Reyes Nieva H**, Chabria A, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions. Poster presentation. Hospital Medicine 2018. Orlando, FL; 04/2018.
 
-6. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
+6. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
 
-7. Kroll DS, **Reyes Nieva H**, Barsky A, Linder JA. Benzodiazepines and Primary Care. Poster presentation. Academy of Psychosomatic Medicine, 61st Annual Meeting; 11/2014.
+7. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
 
-8. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
+8. Kroll DS, **Reyes Nieva H**, Barsky A, Linder JA. Benzodiazepines and Primary Care. Poster presentation. Academy of Psychosomatic Medicine, 61st Annual Meeting; 11/2014.
+
+9. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
   **\*Received the Outstanding Quality and Patient Safety Oral Presentation Award**
 
-9. Dempsey P, **Reyes Nieva H**, Businger A, Linder JA. Accuracy and Gaming of the Acute Bronchitis Antibiotic Prescribing Performance Measure. Poster presentation. Society of General Internal Medicine Annual Meeting. San Diego, CA; 04/2014.
+10. Dempsey P, **Reyes Nieva H**, Businger A, Linder JA. Accuracy and Gaming of the Acute Bronchitis Antibiotic Prescribing Performance Measure. Poster presentation. Society of General Internal Medicine Annual Meeting. San Diego, CA; 04/2014.
 
-10. Brede N, Singer S, **Reyes Nieva H**, Ling J, Leydon N, Colling CA, Satterstrom P, Yoon C, Orav EJ, Weissman JS, Goldmann D, Biondolillo M, Schiff GD. Patients Have Something to Say: Analysis of 514 Patient Safety and Quality Comments from the PROMISES Patient Survey. Oral presentation. Society of General Internal Medicine Annual Meeting; 04/2013.
+11. Brede N, Singer S, **Reyes Nieva H**, Ling J, Leydon N, Colling CA, Satterstrom P, Yoon C, Orav EJ, Weissman JS, Goldmann D, Biondolillo M, Schiff GD. Patients Have Something to Say: Analysis of 514 Patient Safety and Quality Comments from the PROMISES Patient Survey. Oral presentation. Society of General Internal Medicine Annual Meeting; 04/2013.
 
-11. Schiff GD, Brede N, Singer S, Foskett CA, **Reyes Nieva H**, Colling CA, Whitney DL, Ling J, Leydon N, Orav EJ, Bates DW, Biondolillo M. Courting Malpractice Risk: Failures in High Risk Outpatient Test and Referral Management and Documentation. Poster presentation. Society of General Internal Medicine Annual Meeting; 04/2013.
+12. Schiff GD, Brede N, Singer S, Foskett CA, **Reyes Nieva H**, Colling CA, Whitney DL, Ling J, Leydon N, Orav EJ, Bates DW, Biondolillo M. Courting Malpractice Risk: Failures in High Risk Outpatient Test and Referral Management and Documentation. Poster presentation. Society of General Internal Medicine Annual Meeting; 04/2013.
     
 **International**
 1. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
