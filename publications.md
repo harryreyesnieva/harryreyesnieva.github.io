@@ -10,8 +10,8 @@ nav_order: 4
    [PMID: 31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="31755012" data-hide-no-mentions="true" class="altmetric-embed"></div>
 2. Linder JA, Weissman JS, **Reyes Nieva H**, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR. Overactive bladder in an integrated delivery system: a longitudinal cohort study. *BMC Health Serv Res.* 2020 May 20;20(1):447.   
-[PMID: 32434511](https://www.ncbi.nlm.nih.gov/pubmed/32434511){:target="_blank"}
-<div data-badge-popover="right" data-badge-type="2" data-pmid="32434511" data-hide-no-mentions="true" class="altmetric-embed"></div>
+   [PMID: 32434511](https://www.ncbi.nlm.nih.gov/pubmed/32434511){:target="_blank"}
+    <div data-badge-popover="right" data-badge-type="2" data-pmid="32434511" data-hide-no-mentions="true" class="altmetric-embed"></div>
 3. Ali NB, **Reyes Nieva H**, Percac-Lima S, Shields HM, Linder JA, Yusuf Osman N. Health Care Use by Muslim Patients During Ramadan. *J Health Care Poor Underserved.* 2019;30(4):1360-1372.   
    [PMID: 31680102](https://www.ncbi.nlm.nih.gov/pubmed/31680102){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="31680102" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -36,7 +36,7 @@ nav_order: 4
    <div data-badge-popover="right" data-badge-type="2" data-pmid="25896089" data-hide-no-mentions="true" class="altmetric-embed"></div>
 10. Singer SJ, **Reyes Nieva H**, Brede N, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD. Evaluating ambulatory practice safety: the PROMISES project administrators and practice staff surveys. *Med Care.* 2015 Feb; 53(2):141-52.   
    [PMID: 25464161](https://www.ncbi.nlm.nih.gov/pubmed/25464161){:target="_blank"}
-   <div data-badge-popover="right" data-badge-type="2" data-pmid="25464161" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    <div data-badge-popover="right" data-badge-type="2" data-pmid="25464161" data-hide-no-mentions="true" class="altmetric-embed"></div>
 11. Linder JA, Doctor JN, Friedberg MW, **Reyes Nieva H**, Birks C, Meeker D, Fox CR. Time of day and the decision to prescribe antibiotics. *JAMA Intern Med.* 2014 Dec; 174(12):2029-31.   
     [PMID: 25286067](https://www.ncbi.nlm.nih.gov/pubmed/25286067){:target="_blank"} 
     <div data-badge-popover="right" data-badge-type="2" data-pmid="25286067" data-hide-no-mentions="true" class="altmetric-embed"></div>
