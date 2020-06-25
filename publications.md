@@ -56,8 +56,8 @@ nav_order: 4
     [PMID: 19225847](https://www.ncbi.nlm.nih.gov/pubmed/19225847){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="19225847" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-
 # Working Papers
+
 1. **Reyes Nieva H**, Blackley S, Streed C, Fiskio J, Zhou L. Variation in Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record.  
 
 2. **Reyes Nieva H**, Fiskio J, Blackley S, Streed C, Zhou L. Increased Risk of Ambulatory Care–Sensitive Condition Hospitalization Among Sexual and Gender Minorities.    
@@ -68,7 +68,7 @@ nav_order: 4
 
 5. Chabria A, **Reyes Nieva H**, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J, DeCastro R, Cruz Garcia J, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions.
 
-6. Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Moy ML. Tai Chi Exercise in Patients with COPD: a Randomized Controlled Feasibility Trial.
+6. Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Moy ML. The BEAM Study (Breathing, Education, Awareness, Movement): a Randomized Controlled Feasibility Trial of Tai Chi Exercise in Patients with COPD. Under Review. Respiratory Medicine.
 
 7. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics in Eastern Massachusetts. Under Review. JAMA Netw Open.
 
@@ -77,9 +77,11 @@ nav_order: 4
 9. Linder JA, Weissman JS, **Reyes Nieva H**, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR. Overactive bladder in an integrated delivery system: a longitudinal cohort study. BMC Health Serv Res; 2020: in press.
 
 # Proceedings of meetings and other non-peer reviewed research publications
+
 1. **Reyes Nieva H**, Kaplan RL, Madani N. Women and HIV: Update from the Middle East and North Africa. Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA). 2010 International AIDS Conference, Vienna, Austria.
 
 # Professional educational materials or reports, in print or other media
+
 1. [When Things Go Wrong in the Ambulatory Setting](/assets/docs/WhenThingsGoWrongInTheAmbulatorySetting.pdf){:target="_blank"}. 2013. The PROMISES Study.\*  
 \*member of the writing committee
 
