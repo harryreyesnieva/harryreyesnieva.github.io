@@ -7,13 +7,14 @@ nav_order: 4
 # Peer reviewed publications in print or other media
 
 1. **Reyes Nieva H**, Ruan E, Schiff G. Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices. *J Gen Intern Med.* 2020;35(2):457–464.   
-   [PMID: 31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}   
+   [PMID: 31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="31755012" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+
 2. Linder JA, Weissman JS, **Reyes Nieva H**, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR. Overactive bladder in an integrated delivery system: a longitudinal cohort study. *BMC Health Serv Res.* 2020 May 20;20(1):447.   
-[PMID: 32434511](https://www.ncbi.nlm.nih.gov/pubmed/32434511){:target="_blank"}   
+[PMID: 32434511](https://www.ncbi.nlm.nih.gov/pubmed/32434511){:target="_blank"}
 <div data-badge-popover="right" data-badge-type="2" data-pmid="32434511" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 3. Ali NB, **Reyes Nieva H**, Percac-Lima S, Shields HM, Linder JA, Yusuf Osman N. Health Care Use by Muslim Patients During Ramadan. *J Health Care Poor Underserved.* 2019;30(4):1360-1372.   
-   [PMID: 31680102](https://www.ncbi.nlm.nih.gov/pubmed/31680102){:target="_blank"}   
+   [PMID: 31680102](https://www.ncbi.nlm.nih.gov/pubmed/31680102){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="31680102" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 4. Mixon AS, Smith GR, Mallouk M, **Reyes Nieva H**, Kripalani S, Rennke S, Chu E, Sridharan A, Dalal A, Mueller S, Williams M, Wetterneck T, Stein JM, Stolldorf D, Howell E, Orav J, Labonville S, Levin B, Yoon C, Gresham M, Goldstein J, Platt S, Nyenpan C, Schnipper JL. Design of MARQUIS2: study protocol for a mentored implementation study of an evidence-based toolkit to improve patient safety through medication reconciliation. *BMC Health Serv Res.* 2019 Sep 11; 19(1):659.   
    [PMID: 31511070](https://www.ncbi.nlm.nih.gov/pubmed/31511070){:target="_blank"}
