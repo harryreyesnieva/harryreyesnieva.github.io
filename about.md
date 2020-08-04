@@ -7,7 +7,7 @@ nav_order: 2
 [Curriculum vitae \[PDF\]](/assets/docs/CV_HReyesNieva.pdf){:target="_blank" align="right"}  
 [Google Scholar](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"}  
   
-I'm a PhD student in the <a href="https://www.dbmi.columbia.edu/" target="_blank">Department of Biomedical Informatics</a> at <a href="https://www.columbia.edu/" target="_blank">Columbia University in the City of New York</a>, advised by Noémie Elhadad, PhD. My primary research area involves leveraging artificial intelligence to improve the quality and safety of patient care, support knowledge discovery in medicine, and promote health equity. Generally, my research interests concern developing and applying novel machine learning and natural language processing methods to examine and support clinical cognition and decision making; assess disease risk, presence, progression and treatment response; identify disease subtypes and biomarkers associated with important outcomes; and study the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that statistical and computational learning offers to better understand and improve the health of underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28).  
+My primary research area involves leveraging artificial intelligence to improve the quality and safety of patient care, support knowledge discovery in medicine, and promote health equity. Generally, my research interests concern developing and applying novel machine learning and natural language processing methods to examine and support clinical cognition and decision making; assess disease risk, presence, progression and treatment response; identify disease subtypes and biomarkers associated with important outcomes; and study the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that statistical and computational learning offers to better understand and improve the health of underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28).  
 
 Over the years, I have been very fortunate to have many [excellent mentors](/mentors). Before starting my PhD program, I held a number of positions at [Brigham and Women's Hospital](https://www.brighamandwomens.org){:target="_blank"} (BWH), <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a> (HMS), and the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/){:target="_blank"} (HSPH). While at BWH and HMS, I served on more than a dozen [research studies](/projects)  and would eventually develop my own projects with generous support from <a href="https://catalyst.harvard.edu/" target="_blank">Harvard Catalyst</a>, the Clinical and Translational Science Awards (CTSA) Program, funded by the <a href="https://ncats.nih.gov/" target="_blank">NIH National Center for Advancing Translational Sciences</a> (NCATS). 
 
@@ -16,6 +16,7 @@ Prior to pursuing a career in medical informatics and health services research, 
 # Education  
 [**Columbia University in the City of New York, New York, NY**](https://www.columbia.edu/){:target="_blank"}  
 *Doctor of Philosophy* in Biomedical Informatics, Expected May 2024  
+*Advisor:* Noémie Elhadad, PhD  
 Coursework includes: Intelligent Decision Systems, Computational Methods, Symbolic Methods, Computer Applications in Health Care and Biomedicine, Programming and Statistics
 
 [**Beijing Language and Culture University, Beijing, China**](http://english.blcu.edu.cn/){:target="_blank"}  
@@ -39,9 +40,10 @@ Social Policy Analysis, Portuguese for Spanish Speakers, Elementary Yoruba
 
 # Research Experience
 
-2020-present | Spring Rotation Student, Action Research for Collective Health (ARCH) Lab, Department of Biomedical Informatics, Columbia University, New York, NY
+
 2019-present | National Library of Medicine Predoctoral Research Fellow, Department of Biomedical Informatics, Columbia University, New York, NY
-2019-present | Fall Rotation Student, Elhadad Lab, Department of Biomedical Informatics, Columbia University, New York, NY
+2020 | Spring Rotation Student, Action Research for Collective Health (ARCH) Lab, Department of Biomedical Informatics, Columbia University, New York, NY
+2019 | Fall Rotation Student, Elhadad Lab, Department of Biomedical Informatics, Columbia University, New York, NY
 2013-present | Visiting Postgraduate Research Fellow, Department of Medicine, Harvard Medical School, Boston, MA
 2013-2019 | Predoctoral Research Fellow, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
 2012-2019 | Research Manager, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
@@ -72,6 +74,8 @@ Summer 2016 | Teaching Fellow, HPM299 Research with Large Databases, Harvard T.H
 
 # Committee Service
 
+2020–present | Biomedical Informatics Seminar Series Planning Committee, Columbia University
+ &nbsp; | 2019–present Member
 2019–present | Electronic Health Record Phenotyping Working Group, Columbia University
  &nbsp; | 2019–present Member
 2015–2018 | Partners Sexual Orientation and Gender Identity Working Group
