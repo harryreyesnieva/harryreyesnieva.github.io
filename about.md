@@ -54,8 +54,9 @@ Social Policy Analysis, Portuguese for Spanish Speakers, Elementary Yoruba
 
 # Teaching Experience
 
-Summer 2017 | Teaching Fellow, HPM299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
-Summer 2016 | Teaching Fellow, HPM299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
+Fall 2020 | Teaching Assistant, Introduction to Computer Applications in Healthcare and Biomedicine, Columbia University, New York, NY
+Summer 2017 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
+Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
 2005–2006 | Teacher, English-as-a-Second-Language, New York City Board of Education/New York City Teaching Fellows, New York, NY
 2000-2001 | Reading Tutor (work study), America Reads, New Haven, CT
 
