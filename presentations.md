@@ -11,8 +11,6 @@ nav_order: 5
 1. **Reyes Nieva H**, Blackley S, Streed C, Fiskio J, Zhou L. High physician and clinic-level variation in documentation of sexual orientation and gender identity in the electronic health record. Plenary presentation. New England Science Symposium, Boston, MA; 4/2018.\*    
   **\*Received a Ruth and William Silen, MD Oral Presentation Award**  
 
-2. Singer S, **Reyes Nieva H**, Ling J, Leydon N, Weissman J, Griswold P, Yoon C, Bates, DW, Biondolilo M, Schiff GD. Risks for Making Promises: Increased Expectations but Limited Improvement with a Malpractice Safety Intervention. Poster presentation. Society of General Internal Medicine New England Regional Meeting. Boston, MA; 03/2015.
-
 **National**
 1. Pang C, **Reyes Nieva H**, Chen R, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Podium Presentation. American Medical Informatics Association Annual Symposium. Virtual Event; 11/2020.
 
