@@ -76,7 +76,7 @@ Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan 
 # Committee Service
 
 2020–present | Biomedical Informatics Seminar Series Planning Committee, Columbia University
- &nbsp; | 2019–present Member
+ &nbsp; | 2020–present Member
 2019–present | Electronic Health Record Phenotyping Working Group, Columbia University
  &nbsp; | 2019–present Member
 2015–2018 | Partners Sexual Orientation and Gender Identity Working Group
