@@ -76,6 +76,8 @@ nav_order: 4
 
 8. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? Under Review. J Healthc Qual.
 
+9. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. Effects of a Refined Evidence-based Toolkit on Medication Reconciliation Quality and Safety at Multiple Hospitals: Results of the MARQUIS2 Pragmatic Quality Improvement Study. Under Review. JAMA.
+
 # Proceedings of meetings and other non-peer reviewed research publications
 
 1. **Reyes Nieva H**, Kaplan RL, Madani N. Women and HIV: Update from the Middle East and North Africa. Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA). 2010 International AIDS Conference, Vienna, Austria.
