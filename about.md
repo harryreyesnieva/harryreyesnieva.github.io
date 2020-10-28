@@ -30,14 +30,22 @@ Coursework included: Biostatistics, Spatial Statistics, Epidemiology, Spatial Da
 
 [**Harvard T.H. Chan School of Public Health, Boston, MA**](https://www.hsph.harvard.edu/){:target="_blank"}  
 *Special Student*, International and Population Health, 2009-2011  
-Coursework included: Statistical Methods for Medical Research, Survey Research Methods in Community Health, Planning and Evaluation of Health Programs, Financing Health Care in Developing Countries, International Reproductive Health Issues, Immunology, Tuberculosis   
+Coursework included: Statistical Methods for Medical Research, Survey Research Methods in Community Health, Planning and Evaluation of Health Programs, Financing Health Care in Developing Countries, International Reproductive Health Issues, Survey of Immunology, Tuberculosis   
 
 [**Yale University, New Haven, CT**](https://www.yale.edu/){:target="_blank"}  
 *Bachelor of Arts* in Sociology and History, 2005  
 Coursework included: Current Issues in Biological Sciences, Elements of Computing, Calculus I & II, Linear Algebra, Social Policy Analysis, Portuguese for Spanish Speakers, Elementary Yoruba  
 
-# Research Experience
 
+# Teaching Experience
+
+Fall 2020 | Teaching Assistant, Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
+Summer 2017 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
+Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
+2005–2006 | Teacher, English-as-a-Second-Language, New York City Board of Education/New York City Teaching Fellows, New York, NY
+2000-2001 | Reading Tutor (work study), America Reads, New Haven, CT
+
+# Research Experience
 
 2019-present | National Library of Medicine Predoctoral Research Fellow, Department of Biomedical Informatics, Columbia University, New York, NY
 2020 | Spring Rotation Student, Action Research for Collective Health (ARCH) Lab, Department of Biomedical Informatics, Columbia University, New York, NY
@@ -49,15 +57,6 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 2008-2011 | Research Assistant (per diem), Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
 2007-2008 | Research Assistant (full-time), Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
 2004 | Research Assistant, Yale University, Department of Sociology, New Haven, CT
-
-# Teaching Experience
-
-Fall 2020 | Teaching Assistant, Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
-Summer 2017 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
-Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
-2005–2006 | Teacher, English-as-a-Second-Language, New York City Board of Education/New York City Teaching Fellows, New York, NY
-2000-2001 | Reading Tutor (work study), America Reads, New Haven, CT
-
 
 # Other Experience
 

@@ -8,10 +8,12 @@ nav_order: 5
 *Works resulting in publication are not included below.*
 
 **Regional**
+
 1. **Reyes Nieva H**, Blackley S, Streed C, Fiskio J, Zhou L. High physician and clinic-level variation in documentation of sexual orientation and gender identity in the electronic health record. Plenary presentation. New England Science Symposium, Boston, MA; 4/2018.\*    
   **\*Received a Ruth and William Silen, MD Oral Presentation Award**  
 
 **National**
+
 1. Pang C, **Reyes Nieva H**, Chen R, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Podium Presentation. American Medical Informatics Association Annual Symposium. Virtual Event; 11/2020.
 
 2. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Delays in care and differential presentation of acute myocardial infarction. Oral Presentation. National Library of Medicine Informatics Training Conference. Virtual Event; 06/2020.
@@ -42,13 +44,16 @@ nav_order: 5
 14. Schiff GD, Brede N, Singer S, Foskett CA, **Reyes Nieva H**, Colling CA, Whitney DL, Ling J, Leydon N, Orav EJ, Bates DW, Biondolillo M. Courting Malpractice Risk: Failures in High Risk Outpatient Test and Referral Management and Documentation. Poster presentation. Society of General Internal Medicine Annual Meeting; 04/2013.
     
 **International**
-1. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
 
-2. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
+1. Sun TY, Bear Don't Walk OJ IV, **Reyes Nieva H**, Chen J, Elhadad N. Exploring Gender Disparities in Time to Diagnosis. Poster presentation. Machine Learning for Health (ML4Health) Workshop at the Conference on Neural Information Processing Systems (NeurIPS). Virtual Event; 12/2020.
 
-3. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
+2. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
 
-4. Singer S, **Reyes Nieva H**, Brede N, Colling CA, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD. Malpractice Risk in Ambulatory Practices: Evaluation by Staff and Administrators in the PROMISES Study. Oral presentation. Israel National Institute for Health Policy Research, 5th International Jerusalem Conference for Health Policy; 06/2013.
+3. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
+
+4. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
+
+5. Singer S, **Reyes Nieva H**, Brede N, Colling CA, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD. Malpractice Risk in Ambulatory Practices: Evaluation by Staff and Administrators in the PROMISES Study. Oral presentation. Israel National Institute for Health Policy Research, 5th International Jerusalem Conference for Health Policy; 06/2013.
 
 # Report of Invited Teaching and Presentations
 *No presentations below were sponsored by outside entities.*
@@ -75,7 +80,7 @@ nav_order: 5
 1. Identifying and Understanding Malpractice-Prone Diagnostic Pitfalls. 2016. Risk Management Foundation of the Harvard Medical Institutions Incorporated (RMF), CRICO Research Day. Boston, MA
 
 **National**
-1. LGBTQ Talk. 2020. Co-hosted by MedTech and Queers & Allies, Oakland University William Beaumont School of Medicine, Rochester, MI.  
+1. LGBTQ Health Services Research in the Age of Deep Learning. 2020. Co-hosted by MedTech and Queers & Allies, Oakland University William Beaumont School of Medicine, Rochester, MI.  
 
 **International**   
 1. Introduction to Data Management/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
