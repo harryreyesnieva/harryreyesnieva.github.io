@@ -74,6 +74,9 @@ nav_order: 5
 **Regional**  
 1. Identifying and Understanding Malpractice-Prone Diagnostic Pitfalls. 2016. Risk Management Foundation of the Harvard Medical Institutions Incorporated (RMF), CRICO Research Day. Boston, MA
 
+**National**
+1. LGBTQ Talk. 2020. Co-hosted by MedTech and Queers & Allies, Oakland University William Beaumont School of Medicine, Rochester, MI.  
+
 **International**   
 1. Introduction to Data Management/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
   
