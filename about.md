@@ -36,6 +36,22 @@ Coursework included: Statistical Methods for Medical Research, Survey Research M
 *Bachelor of Arts* in Sociology and History, 2005  
 Coursework included: Current Issues in Biological Sciences, Elements of Computing, Calculus I & II, Linear Algebra, Social Policy Analysis, Portuguese for Spanish Speakers, Elementary Yoruba  
 
+# Honors
+
+2019–present | National Library of Medicine Predoctoral Research Fellowship, Training in Biomedical Informatics at Columbia University (T15LM007079-28)
+2019-2020 | Dean’s Fellowship, Columbia University Vagelos College of Physicians and Surgeons
+2018 | Ford Foundation Predoctoral Fellowship Honorable Mention, National Academies of Sciences, Engineering, and Medicine
+2018 | Ruth and William Silen, MD Award, Third Place, New England Science Symposium
+2018 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare
+2016-2018 | Merit Scholarship, Johns Hopkins Bloomberg School of Public Health
+2016 | LGBTQ Leadership Award, Brigham Health
+2015  | Brigham Way honoree, Brigham and Women’s Hospital
+2015 | Practice-Based Research Network Conference Travel Scholarship, North American Primary Care Research Group
+2014 | Partners in Excellence Award for Quality Treatment and Service, Partners HealthCare
+2014 | Outstanding Quality and Patient Safety Oral Presentation Award, Society of General Internal Medicine
+2012 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare
+2004 | Mellon Forum Undergraduate Thesis Research Funding Award, Yale University
+2002 | Y50K Business Plan Competition, Second Place (Social Enterprise), Yale Entrepreneurship Society
 
 # Teaching Experience
 
@@ -48,8 +64,7 @@ Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan 
 # Research Experience
 
 2019-present | National Library of Medicine Predoctoral Research Fellow, Department of Biomedical Informatics, Columbia University, New York, NY
-2020 | Spring Rotation Student, Action Research for Collective Health (ARCH) Lab, Department of Biomedical Informatics, Columbia University, New York, NY
-2019 | Fall Rotation Student, Elhadad Lab, Department of Biomedical Informatics, Columbia University, New York, NY
+2020 | Spring Rotation Student, Action Research for Collective Health (ARCH) Lab (PI: Lena Mamykina, PhD), Department of Biomedical Informatics, Columbia University, New York, NY
 2013-present | Visiting Postgraduate Research Fellow, Department of Medicine, Harvard Medical School, Boston, MA
 2013-2019 | Predoctoral Research Fellow, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
 2012-2019 | Research Manager, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
@@ -112,14 +127,6 @@ Medical Care
 2012–2014 | Member, American Public Health Association <br> *Special Interest Groups:* Medical Care, Health Informatics Information Technology  
 2012–2014 | Member, AcademyHealth
 
-# Computer and Language Skills
-
-**Computing** Python, bash, SQL, R, SAS, LaTex, HTML, CSS, Javascript, ArcGIS, QGIS, SaTScan,
-REDCap, MS Access, FileMaker, git 
-
-**Languages** English (native), Spanish (proficient), Mandarin (beginner)
-
-
 # Education of Patients and Service to the Community
 
 2018 | **Queer Health Hackathon** <br> Co-organizer <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.  
@@ -128,19 +135,9 @@ REDCap, MS Access, FileMaker, git
 2007 | **Timmy Global Health**, Dominican Republic <br> Medical Relief Volunteer <br> Helped establish temporary medical clinics along Haiti-Dominican Republic border; triaged patients, managed pharmacy, translated proper drug use and application.   
 2001-2005 | **Latino Youth Enrichment Team** (LYET), New Haven, CT <br> Co-Director <br> Managed community center mentorship program and developed instructional methods for Latino youth ranging in age from 6 through 13.
 
-# Honors
+# Computer and Language Skills
 
-2019–present | National Library of Medicine Predoctoral Research Fellowship, Training in Biomedical Informatics at Columbia University (T15LM007079-28)
-2019-2020 | Dean’s Fellowship, Columbia University Vagelos College of Physicians and Surgeons
-2018 | Ford Foundation Predoctoral Fellowship Honorable Mention, National Academies of Sciences, Engineering, and Medicine
-2018 | Ruth and William Silen, MD Award, Third Place, New England Science Symposium
-2018 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare
-2016-2018 | Merit Scholarship, Johns Hopkins Bloomberg School of Public Health
-2016 | LGBTQ Leadership Award, Brigham Health
-2015  | Brigham Way honoree, Brigham and Women’s Hospital
-2015 | Practice-Based Research Network Conference Travel Scholarship, North American Primary Care Research Group
-2014 | Partners in Excellence Award for Quality Treatment and Service, Partners HealthCare
-2014 | Outstanding Quality and Patient Safety Oral Presentation Award, Society of General Internal Medicine
-2012 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare
-2004 | Mellon Forum Undergraduate Thesis Research Funding Award, Yale University
-2002 | Y50K Business Plan Competition, Second Place (Social Enterprise), Yale Entrepreneurship Society
+**Computing** Python, R, SAS, SQL, bash, LaTex, HTML, CSS, Javascript, ArcGIS, QGIS, SaTScan,
+REDCap, MS Access, FileMaker, git 
+
+**Languages** English (native), Spanish (proficient), Mandarin (beginner)
