@@ -9,7 +9,7 @@ nav_order: 4
 1. **Reyes Nieva H**, Ruan E, Schiff G. Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices. *J Gen Intern Med.* 2020;35(2):457–464.   
    [PMID: 31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="31755012" data-hide-no-mentions="true" class="altmetric-embed"></div>
-2. Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Moy ML. The BEAM Study (Breathing, Education, Awareness, Movement): a Randomized Controlled Feasibility Trial of Tai Chi Exercise in Patients with COPD. *BMJ Open Respiratory Research.* In press.   
+2. Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Moy ML. The BEAM Study (Breathing, Education, Awareness, Movement): a Randomized Controlled Feasibility Trial of Tai Chi Exercise in Patients with COPD. *BMJ Open Respiratory Research.* In press.
 3. Linder JA, Weissman JS, **Reyes Nieva H**, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR. Overactive bladder in an integrated delivery system: a longitudinal cohort study. *BMC Health Serv Res.* 2020 May 20;20(1):447.   
    [PMID: 32434511](https://www.ncbi.nlm.nih.gov/pubmed/32434511){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="32434511" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -33,7 +33,7 @@ nav_order: 4
    [PMID: 26883526](https://www.ncbi.nlm.nih.gov/pubmed/26883526){:target="_blank"} 
    <div data-badge-popover="right" data-badge-type="2" data-pmid="26883526" data-hide-no-mentions="true" class="altmetric-embed"></div>
 10. Solomon SR, Gooding HC, **Reyes Nieva H**, Linder JA. Acute Care Utilization by Patients After Graduation of Their Resident Primary Care Physicians. *J Gen Intern Med.* 2015 Nov; 30(11):1611-7.   
-   [PMID: 25896089](https://www.ncbi.nlm.nih.gov/pubmed/25896089){:target="_blank"}    
+   [PMID: 25896089](https://www.ncbi.nlm.nih.gov/pubmed/25896089){:target="_blank"}   
    <div data-badge-popover="right" data-badge-type="2" data-pmid="25896089" data-hide-no-mentions="true" class="altmetric-embed"></div>
 11. Singer SJ, **Reyes Nieva H**, Brede N, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD. Evaluating ambulatory practice safety: the PROMISES project administrators and practice staff surveys. *Med Care.* 2015 Feb; 53(2):141-52.   
    [PMID: 25464161](https://www.ncbi.nlm.nih.gov/pubmed/25464161){:target="_blank"}
