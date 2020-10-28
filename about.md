@@ -30,7 +30,7 @@ Coursework included: Biostatistics, Spatial Statistics, Epidemiology, Spatial Da
 
 [**Harvard T.H. Chan School of Public Health, Boston, MA**](https://www.hsph.harvard.edu/){:target="_blank"}  
 *Special Student*, International and Population Health, 2009-2011  
-Coursework included: Statistical Methods for Medical Research, Survey Research Methods in Community Health, Immunology, Tuberculosis, Planning and Evaluation of Health Programs, Financing Health Care in Developing Countries   
+Coursework included: Statistical Methods for Medical Research, Survey Research Methods in Community Health, Planning and Evaluation of Health Programs, Financing Health Care in Developing Countries, International Reproductive Health Issues, Immunology, Tuberculosis   
 
 [**Yale University, New Haven, CT**](https://www.yale.edu/){:target="_blank"}  
 *Bachelor of Arts* in Sociology and History, 2005  
