@@ -61,7 +61,7 @@ nav_order: 4
 
 # Working Papers
 
-1. **Reyes Nieva H** and Elhadad N. Probabilistic Topic Modeling and Trend Analysis of Health Disparities and Minority Health Literature, 1975-2019. Under Review.
+1. **Reyes Nieva H** and Elhadad N. Probabilistic Topic Modeling and Trend Analysis of Health Disparities and Minority Health Literature, 1975-2019.
 
 2. **Reyes Nieva H**, Blackley S, Streed C, Fiskio J, Zhou L. Variation in Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record.  
 
