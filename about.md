@@ -41,7 +41,7 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 2019–present | National Library of Medicine Predoctoral Research Fellowship, Training in Biomedical Informatics at Columbia University (T15LM007079-28)
 2019-2020 | Dean’s Fellowship, Columbia University Vagelos College of Physicians and Surgeons
 2018 | Ford Foundation Predoctoral Fellowship Honorable Mention, National Academies of Sciences, Engineering, and Medicine
-2018 | Ruth and William Silen, MD Award, Third Place, New England Science Symposium
+2018 | Ruth and William Silen, MD Award, New England Science Symposium
 2018 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare
 2016-2018 | Merit Scholarship, Johns Hopkins Bloomberg School of Public Health
 2016 | LGBTQ Leadership Award, Brigham Health
