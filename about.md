@@ -64,7 +64,7 @@ Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan 
 # Research Experience
 
 2019-present | National Library of Medicine Predoctoral Research Fellow, Department of Biomedical Informatics, Columbia University, New York, NY
-2020 | Spring Rotation Student, Action Research for Collective Health (ARCH) Lab (PI: Lena Mamykina, PhD), Department of Biomedical Informatics, Columbia University, New York, NY
+2020 | Rotation Student, Action Research for Collective Health (ARCH) Lab (PI: Lena Mamykina, PhD), Department of Biomedical Informatics, Columbia University, New York, NY
 2013-present | Visiting Postgraduate Research Fellow, Department of Medicine, Harvard Medical School, Boston, MA
 2013-2019 | Predoctoral Research Fellow, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
 2012-2019 | Research Manager, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
