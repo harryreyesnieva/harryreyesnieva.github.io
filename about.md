@@ -50,7 +50,7 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 2014 | Partners in Excellence Award for Quality Treatment and Service, Partners HealthCare
 2014 | Outstanding Quality and Patient Safety Oral Presentation Award, Society of General Internal Medicine
 2012 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare
-2004 | Mellon Forum Undergraduate Thesis Research Funding Award, Yale University
+2004 | Mellon Forum Undergraduate Thesis Research Award, Yale University
 2002 | Y50K Business Plan Competition, Second Place (Social Enterprise), Yale Entrepreneurship Society
 
 # Teaching Experience
