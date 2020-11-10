@@ -45,7 +45,7 @@ nav_order: 5
     
 **International**
 
-1. Sun TY, Bear Don't Walk OJ IV, **Reyes Nieva H**, Chen J, Elhadad N. Exploring Gender Disparities in Time to Diagnosis. Poster presentation. Machine Learning for Health (ML4Health) Workshop at the Conference on Neural Information Processing Systems (NeurIPS). Virtual Event; 12/2020.
+1. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis. Poster presentation. Machine Learning for Health (ML4Health) Workshop at the Conference on Neural Information Processing Systems (NeurIPS). Virtual Event; 12/2020.
 
 2. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
 
