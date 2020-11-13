@@ -129,6 +129,7 @@ Medical Care
 
 # Education of Patients and Service to the Community
 
+2019-present | **Columbia DBMI Summer Research Fellowship** <br> Co-organizer <br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduate students.  
 2018 | **Queer Health Hackathon** <br> Co-organizer <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.  
 2013-2016 | **Human Rights Commission, City of Cambridge** <br> Vice Chair (2015-2016) <br> Commissioner (2013-2016) <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliations to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.  
 2006-2009 | **Boston Medical Reserve Corps** <br> Emergency Medical Technician <br> The Boston Medical Reserve Corps is a group of volunteers who are ready to respond should there be a public health emergency in Boston.  
