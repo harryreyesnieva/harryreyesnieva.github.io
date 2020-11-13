@@ -84,6 +84,7 @@ nav_order: 4
 10. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis.
     [arxiv id: 2011.06100](https://arxiv.org/abs/2011.06100){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-arxiv-id="2011.06100" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 # Proceedings of meetings and other non-peer reviewed research publications
 
 1. **Reyes Nieva H**, Kaplan RL, Madani N. Women and HIV: Update from the Middle East and North Africa. Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA). 2010 International AIDS Conference, Vienna, Austria.
