@@ -69,16 +69,21 @@ nav_order: 4
 
 3. **Reyes Nieva H**, Balaguera M, Lonsdale J, Mendez T, Rodriguez Y, Troncoso N, Flores CA, Ray M, Kieffer T, Rosselli-Risal L. Comunidad en Acción: A social support weight loss intervention for Spanish-speaking patients with type 2 diabetes mellitus.  
 
-4. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff G. Divisive hierarchical clustering analysis of primary care malpractice claims to identify patterns of diagnostic error.  
+4. **Reyes Nieva H**, Volodarskaya M, Ruan E, Wright A, Singh H, Schiff G. Divisive hierarchical clustering analysis of primary care malpractice claims to identify patterns of diagnostic error.  
 
-5. Chabria A, **Reyes Nieva H**, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J, DeCastro R, Cruz Garcia J, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions.
+5. **Reyes Nieva H**, Volodarskaya M, Ruan E, Wright A, Singh H, Schiff G. Diagnostic Pitfalls: A New Paradigm to Understand and Prevent Diagnostic Errors.  
 
-6. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics in Eastern Massachusetts. Under Review. *J Gen Intern Med.*
+6. Chabria A, **Reyes Nieva H**, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J, DeCastro R, Cruz Garcia J, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions.
 
-7. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? Under Review. *Jt Comm J Qual Patient Saf.*
+7. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics in Eastern Massachusetts. Under Review. *J Gen Intern Med.*
 
 8. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. Effects of a Refined Evidence-based Toolkit on Medication Reconciliation Quality and Safety at Multiple Hospitals: Results of the MARQUIS2 Pragmatic Quality Improvement Study. Under Review. *BMJ Qual Saf.*
 
+9. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? Under Review. *Jt Comm J Qual Patient Saf.*
+
+10. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis.
+    [arxiv id: 2011.06100](https://arxiv.org/abs/2011.06100){:target="_blank"}
+    <div data-badge-popover="right" data-badge-type="2" data-arxiv-id="2011.06100" data-hide-no-mentions="true" class="altmetric-embed"></div>
 # Proceedings of meetings and other non-peer reviewed research publications
 
 1. **Reyes Nieva H**, Kaplan RL, Madani N. Women and HIV: Update from the Middle East and North Africa. Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA). 2010 International AIDS Conference, Vienna, Austria.
