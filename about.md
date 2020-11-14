@@ -87,28 +87,28 @@ Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan 
 # Committee Service
 
 2020–present | Biomedical Informatics Seminar Series Planning Committee, Columbia University
- &nbsp; | 2020–present | Member
+ &nbsp; | 2020–present Member
 2019–present | Electronic Health Record Phenotyping Working Group, Columbia University
- &nbsp; | 2019–present | Member
+ &nbsp; | 2019–present Member
 2015–2018 | Partners Sexual Orientation and Gender Identity Working Group
- &nbsp; | 2015–2018 | Founding Member
+ &nbsp; | 2015–2018 Founding Member
 2015–2016 | Brigham Health Equity and Diversity Council
-&nbsp; | 2015–2016 | Founding Member
- &nbsp; | 2015–2016 | Co-Chair, Data Working Group
+&nbsp; | 2015–2016 Founding Member
+ &nbsp; | 2015–2016 Co-Chair, Data Working Group
 2013–2015 | Partners eCare Research Working Group
- &nbsp; | 2013–2015 | Member
+ &nbsp; | 2013–2015 Member
 2013–2015 | Partners eCare Sexual Orientation and Gender Identity Working Group
- &nbsp; | 2013–2015 | Member
+ &nbsp; | 2013–2015 Member
 2013–2014 | Partners Human Research Committee, Insight Usability Working Group
- &nbsp; | 2013–2014 | Member
+ &nbsp; | 2013–2014 Member
 2013–2014  | Partners Enterprise Research Portal Working Group
- &nbsp; | 2013–2014 | Member
+ &nbsp; | 2013–2014 Member
 2011–2019 | Brigham Health LGBTQ and Allies Employee Resource Group
- &nbsp; | 2011–2019 | Member
- &nbsp; | 2014–2016 | Co-Chair
+ &nbsp; | 2011–2019 Member
+ &nbsp; | 2014–2016 Co-Chair
 2007–2008 | Association of Multicultural Members of Partners Healthcare
- &nbsp; | 2007–2008 | Member
- &nbsp; | 2007–2008 | Vice-Chair, Brigham and Women’s Hospital Chapter
+ &nbsp; | 2007–2008 Member
+ &nbsp; | 2007–2008 Vice-Chair, Brigham and Women’s Hospital Chapter
 
 # Editorial Activities
 
