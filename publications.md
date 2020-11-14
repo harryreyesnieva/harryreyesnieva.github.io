@@ -82,7 +82,7 @@ nav_order: 4
 9. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? Under Review. *Jt Comm J Qual Patient Saf.*
 
 10. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis.   
-    [arXiv: 2011.06100](https://arxiv.org/abs/2011.06100){:target="_blank"}   
+    [arXiv: 2011.06100](https://arxiv.org/abs/2011.06100){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-arxiv-id="2011.06100" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 # Proceedings of meetings and other non-peer reviewed research publications
