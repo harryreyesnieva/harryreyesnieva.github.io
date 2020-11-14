@@ -54,7 +54,6 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 2002 | Y50K Business Plan Competition, Second Place (Social Enterprise), Yale Entrepreneurship Society
 
 # Teaching Experience
-
 Fall 2020 | Teaching Assistant, Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
 Summer 2017 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
 Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
@@ -88,28 +87,28 @@ Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan 
 # Committee Service
 
 2020–present | Biomedical Informatics Seminar Series Planning Committee, Columbia University
- &nbsp; | 2020–present Member
+ &nbsp; | 2020–present | Member
 2019–present | Electronic Health Record Phenotyping Working Group, Columbia University
- &nbsp; | 2019–present Member
+ &nbsp; | 2019–present | Member
 2015–2018 | Partners Sexual Orientation and Gender Identity Working Group
- &nbsp; | 2015–2018 Founding Member
+ &nbsp; | 2015–2018 | Founding Member
 2015–2016 | Brigham Health Equity and Diversity Council
-&nbsp; | 2015–2016 Founding Member
- &nbsp; | 2015–2016 Co-Chair, Data Working Group
+&nbsp; | 2015–2016 | Founding Member
+ &nbsp; | 2015–2016 | Co-Chair, Data Working Group
 2013–2015 | Partners eCare Research Working Group
- &nbsp; | 2013–2015 Member
+ &nbsp; | 2013–2015 | Member
 2013–2015 | Partners eCare Sexual Orientation and Gender Identity Working Group
- &nbsp; | 2013–2015 Member
+ &nbsp; | 2013–2015 | Member
 2013–2014 | Partners Human Research Committee, Insight Usability Working Group
- &nbsp; | 2013–2014 Member
+ &nbsp; | 2013–2014 | Member
 2013–2014  | Partners Enterprise Research Portal Working Group
- &nbsp; | 2013–2014 Member
+ &nbsp; | 2013–2014 | Member
 2011–2019 | Brigham Health LGBTQ and Allies Employee Resource Group
- &nbsp; | 2011–2019 Member
- &nbsp; | 2014–2016 Co-Chair
+ &nbsp; | 2011–2019 | Member
+ &nbsp; | 2014–2016 | Co-Chair
 2007–2008 | Association of Multicultural Members of Partners Healthcare
- &nbsp; | 2007–2008 Member
- &nbsp; | 2007–2008 Vice-Chair, Brigham and Women’s Hospital Chapter
+ &nbsp; | 2007–2008 | Member
+ &nbsp; | 2007–2008 | Vice-Chair, Brigham and Women’s Hospital Chapter
 
 # Editorial Activities
 
@@ -129,7 +128,7 @@ Medical Care
 
 # Education of Patients and Service to the Community
 
-2019-present | **Columbia DBMI Summer Research Fellowship** <br> Co-organizer <br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduate students.  
+2019-present | **Columbia DBMI Summer Research Program** <br> Co-organizer<br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduates. Serve as an instructor during an intensive data science bootcamp for summer students. 
 2018 | **Queer Health Hackathon** <br> Co-organizer <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.  
 2013-2016 | **Human Rights Commission, City of Cambridge** <br> Vice Chair (2015-2016) <br> Commissioner (2013-2016) <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliations to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.  
 2006-2009 | **Boston Medical Reserve Corps** <br> Emergency Medical Technician <br> The Boston Medical Reserve Corps is a group of volunteers who are ready to respond should there be a public health emergency in Boston.  
