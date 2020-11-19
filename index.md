@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img style="float:right" src="/assets/img/bright.jpg" height="300"  color="gray" hspace="20"/>
+<img style="float:right" src="/assets/img/bwoffice.jpg" height="300"  color="gray" hspace="20"/>
 
 Welcome! I'm a PhD student in the <a href="https://www.dbmi.columbia.edu/" target="_blank">Department of Biomedical Informatics</a> at <a href="https://www.columbia.edu/" target="_blank">Columbia University</a>, advised by <a href="https://www.dbmi.columbia.edu/profil/noemie-elhadad/" target="_blank">Noémie Elhadad</a>, and a Visiting Postgraduate Research Fellow at <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a>. My primary research area involves leveraging machine learning and natural language processing to improve the quality, safety, and equity of health care and support knowledge discovery in medicine. I am especially passionate about using and expanding the vast toolbox that statistical and computational learning offers to better understand and improve the health of underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28).
 
