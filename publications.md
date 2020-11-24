@@ -70,27 +70,9 @@ nav_order: 4
 3. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? *Jt Comm J Qual Patient Saf.*
 
 
-# Working Papers
+# Manuscripts in preprint
 
-1. **Reyes Nieva H** and Elhadad N. Probabilistic topic modeling and trend analysis of health disparities and minority health literature, 1975-2019: a scoping review.
-
-2. **Reyes Nieva H**, Blackley S, Fiskio J, Streed C, Zhou L. Variation in Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record.  
-
-3. **Reyes Nieva H** and Zhou L. Increased Risk of Ambulatory Care–Sensitive Condition Hospitalization Among Sexual and Gender Minorities.    
-
-4. **Reyes Nieva H**, Balaguera M, Lonsdale J, Mendez T, Rodriguez Y, Troncoso N, Flores CA, Ray M, Kieffer T, Rosselli-Risal L. Comunidad en Acción: A social support weight loss intervention for Spanish-speaking patients with type 2 diabetes mellitus.  
-
-5. **Reyes Nieva H**, Volodarskaya M, Ruan E, Wright A, Singh H, Schiff G. Diagnostic Pitfalls: A New Paradigm to Understand and Prevent Diagnostic Errors. 
-
-6. **Reyes Nieva H**, Volodarskaya M, Ruan E, Wright A, Schiff G. Hierarchical clustering analysis of primary care malpractice claims to identify patterns of diagnostic error.  
-
-7. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential presentation and delays in care for acute myocardial infarction associated with gender racial or ethnic origin.
-
-8. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns reveals systemic gender bias in US healthcare.
-
-9. Chabria A, **Reyes Nieva H**, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J, DeCastro R, Cruz Garcia J, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions.
-
-10. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis.   
+1. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis.    
     [arXiv:2011.06100](https://arxiv.org/abs/2011.06100){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-arxiv-id="2011.06100" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
