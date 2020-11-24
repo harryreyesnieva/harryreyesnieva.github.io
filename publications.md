@@ -10,8 +10,8 @@ nav_order: 4
    [PMID:31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="31755012" data-hide-no-mentions="true" class="altmetric-embed"></div>
 2. Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Moy ML. The BEAM Study (Breathing, Education, Awareness, Movement): a Randomized Controlled Feasibility Trial of Tai Chi Exercise in Patients with COPD. *BMJ Open Respiratory Research.* 2020; 7(e000697):1-12.   
-   [doi:10.1136/bmjresp-2020-000697.](https://bmjopenrespres.bmj.com/content/7/1/e000697){:target="_blank"}
-   <div data-badge-popover="right" data-badge-type="2" data-doi="10.1136/bmjresp-2020-000697" data-hide-no-mentions="true" class="altmetric-embed"></div>
+   [PMID:33219007](https://bmjopenrespres.bmj.com/content/7/1/e000697){:target="_blank"}
+   <div data-badge-popover="right" data-badge-type="2" data-pmid="33219007" data-hide-no-mentions="true" class="altmetric-embed"></div>
 3. Linder JA, Weissman JS, **Reyes Nieva H**, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR. Overactive bladder in an integrated delivery system: a longitudinal cohort study. *BMC Health Serv Res.* 2020 May 20;20(1):447.   
    [PMID:32434511](https://www.ncbi.nlm.nih.gov/pubmed/32434511){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="32434511" data-hide-no-mentions="true" class="altmetric-embed"></div>
