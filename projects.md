@@ -4,28 +4,28 @@ title: Projects
 permalink: /projects/
 nav_order: 3
 ---
-# Current Projects
-
+# Current Projects   
 **CovidWatcher**   
 *PIs: No&eacute;mie Elhadad, PhD; Lena Mamykina, MS, PhD; Nicholas Tatonetti, PhD*   
-CovidWatcher is an [app](https://apps.apple.com/us/app/covidwatcher/id1504295590){:target="_blank"} and [online portal](https://covidwatcher.dbmi.columbia.edu/){:target="_blank"} that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.   
+CovidWatcher is an [app](https://apps.apple.com/us/app/covidwatcher/id1504295590){:target="_blank"} and [online portal](https://covidwatcher.dbmi.columbia.edu/){:target="_blank"} that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.
 
 **Differences in Presentation and Treatment of Acute Myocardial Infarction based on Gender and Race/Ethnicity**  
 *Advisor: No&eacute;mie Elhadad, PhD*  
 We aim to measure and characterize differences in presentation and treatment of acute myocardial infarction (AMI) using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on demographics. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients, lengths of time to treatment, and resulting impact on patient outcomes.
-
-**Mechanistic Machine Learning**  
-*PI: Lena Mamykina, MS, PhD*  
-The overarching goal of this research is to develop new approaches to facilitate clinical reasoning and decision-making by aligning clinicians' cognitive models of patients' pathophysiology, mechanistic models of human physiology, and empirical patient data. Reconciling differences between cognitive and mechanistic models requires deep understanding of medical cognition and clinical work, novel computational modeling, and innovative co-design approaches that bring together cognitive scientists, data scientists, and experts in human-computer interaction and clinical decision support.
 
 **Recognizing and Normalizing Condition Concepts with Severity Modifiers**  
 *Advisor: Chunhua Weng, PhD*  
 The presence of qualifiers such as severity or disease stage complicate the recognition and normalization of biomedical concepts from free text. A single concept can often be mapped to a terminology in multiple ways. Our problem is motivated by inconsistent recognition of disease conditions in Criteria2Query (C2Q), a tool for exploring clinical trial inclusion and exclusion criteria. We are developing a novel two-step, ontology-aware mapping scheme that is optimized for extracting disease concepts at a high level of specificity. 
 
 # Projects Submitted for Funding
+**Financial Toxicity and Cancer Treatment: Examining Trends and Disparities via Causal Inference**
+Robert Wood Johnson Foundation HD4A Award
+Co-Principal Investigator (PI: Elhadad)
+The goal of this study is to apply state-of-the-art causal inference methods to a large, longitudinal cohort to isolate factors contributing to financial toxicity following cancer diagnosis. We will derive actionable insights that identify and quantify disparities in clinical and catastrophic financial outcomes, enabling policymakers and providers to prioritize targeted interventions that are most likely to reduce financial toxicity for the greatest proportion of the population while mitigating disparities in outcomes among different sociodemographic and socioeconomic groups.
+
 **ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health**  
 NIH/NIMHD 1R21HD097292-01  
-Co-investigator (PI: Zhou) – Direct Costs Requested – $275,000  
+Co-investigator (PI: Zhou) 
 The goals of the ARISE-SGM (ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health) research project are to leverage advances in artificial intelligence to address logistical challenges in obtaining representative samples of sexual and gender minority (SGM) populations and characterize comorbidity prevalence and potential health inequities associated with different segments of SGM populations.
 
 # Funding Information  
