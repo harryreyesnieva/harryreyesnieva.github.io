@@ -10,7 +10,7 @@ nav_order: 4
    [PMID:31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
    <div data-badge-popover="right" data-badge-type="2" data-pmid="31755012" data-hide-no-mentions="true" class="altmetric-embed"></div>
 2. Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Moy ML. The BEAM Study (Breathing, Education, Awareness, Movement): a Randomized Controlled Feasibility Trial of Tai Chi Exercise in Patients with COPD. *BMJ Open Respiratory Research.* 2020; 7(e000697):1-12.   
-   [PMID:33219007](https://bmjopenrespres.bmj.com/content/7/1/e000697){:target="_blank"}
+   [PMID:33219007](https://www.ncbi.nlm.nih.gov/pubmed/33219007){:target="_blank"}
    <div data-badge-popover="right" data-badge-type="2" data-pmid="33219007" data-hide-no-mentions="true" class="altmetric-embed"></div>
 3. Linder JA, Weissman JS, **Reyes Nieva H**, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR. Overactive bladder in an integrated delivery system: a longitudinal cohort study. *BMC Health Serv Res.* 2020 May 20;20(1):447.   
    [PMID:32434511](https://www.ncbi.nlm.nih.gov/pubmed/32434511){:target="_blank"}
@@ -69,7 +69,7 @@ nav_order: 4
 
 3. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? *Jt Comm J Qual Patient Saf.*
 
-4. Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Yeh GY. Exploring tai chi exercise and mind-body breathing in patients with COPD in a randomized controlled feasibility trial.
+4. Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Yeh GY. Exploring tai chi exercise and mind-body breathing in patients with COPD in a randomized controlled feasibility trial. *BMJ Open Respiratory Research*
 
 5. Stolldorf DP, Arole O, Jaser L, Jahrstorfer R, Solanky N, Molla M, Succari L, Picot-Vierra L, Szabloswki K, Tichy EM, Sen S, Murphy M, Badr S, Addar M, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Dalal AK, Sridharan A, Goldstein J, Platt S, Nyenpan C, Kripalani S, Schnipper JL. Improving medication reconciliation in hospitals: MARQUIS2 hospitals’ experiences implementing the MARQUIS toolkit using a mentored implementation approach. *BMJ Qual Saf.*
 
