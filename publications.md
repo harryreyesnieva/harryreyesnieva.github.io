@@ -69,7 +69,7 @@ nav_order: 4
 
 3. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? *Jt Comm J Qual Patient Saf.*
 
-4. Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Yeh GY. Exploring tai chi exercise and mind-body breathing in patients with COPD in a randomized controlled feasibility trial. *BMJ Open Respiratory Research*
+4. Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Yeh GY. Exploring tai chi exercise and mind-body breathing in patients with COPD in a randomized controlled feasibility trial. *COPD*
 
 5. Stolldorf DP, Arole O, Jaser L, Jahrstorfer R, Solanky N, Molla M, Succari L, Picot-Vierra L, Szabloswki K, Tichy EM, Sen S, Murphy M, Badr S, Addar M, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Dalal AK, Sridharan A, Goldstein J, Platt S, Nyenpan C, Kripalani S, Schnipper JL. Improving medication reconciliation in hospitals: MARQUIS2 hospitals’ experiences implementing the MARQUIS toolkit using a mentored implementation approach. *BMJ Qual Saf.*
 
