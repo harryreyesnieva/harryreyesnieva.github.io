@@ -68,9 +68,8 @@ Aim: To understand variation in overactive bladder treatment, medication adheren
 **Are Physicians and Patients Adhering to the Published Guidelines for Fasting during Ramadan?**  
 Martin P. Solomon Award for Primary Care Scholarship  
 Co-Investigator (PI: Ali)  
-Aim: To measure differences in rates of health care utilization for Muslim patients just prior to, during, and after Ramadan.
-  
-  
+Aim: To measure differences in rates of health care utilization for Muslim patients just prior to, during, and after Ramadan. 
+ 
 **BWH DGIM Research Day**  
 Brigham Research Institute/Office for Research Careers Microgrant Pilot Program  
 Principal Investigator ($1,000)  
