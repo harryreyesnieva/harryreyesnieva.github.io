@@ -37,6 +37,7 @@ Coursework included: Statistical Methods for Medical Research, Survey Research M
 Coursework included: Current Issues in Biological Sciences, Elements of Computing, Calculus I & II, Linear Algebra, Social Policy Analysis, Portuguese for Spanish Speakers, Elementary Yoruba  
 
 # Research Experience   
+
 2019-present | National Library of Medicine Predoctoral Research Fellow, Department of Biomedical Informatics, Columbia University, New York, NY
 2013-present | Visiting Postgraduate Research Fellow, Department of Medicine, Harvard Medical School, Boston, MA
 2020 | Rotation Student, Action Research for Collective Health Lab (PI: Lena Mamykina, PhD), Department of Biomedical Informatics, Columbia University, New York, NY
@@ -48,6 +49,7 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 2004 | Research Assistant, Yale University, Department of Sociology, New Haven, CT
 
 # Teaching Experience   
+
 Summer 2021 | Instructor, Data Science Bootcamp, Biomedical Informatics Summer Research Program, Columbia University, New York, NY
 Fall 2020 | Teaching Assistant, Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
 Summer 2017 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
@@ -56,6 +58,7 @@ Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan 
 2000-2001 | Reading Tutor (work study), America Reads, New Haven, CT
 
 # Committee Service   
+
 2020–present | Biomedical Informatics Seminar Series Planning Committee, Columbia University
  &nbsp; | 2020–present Member
 2019–present | Electronic Health Record Phenotyping Working Group, Columbia University
@@ -81,6 +84,7 @@ Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan 
  &nbsp; | 2007–2008 Vice-Chair, Brigham and Women’s Hospital Chapter
 
 # Professional Organizations and Societies   
+
 2019–present | Member, New York Academy of Sciences
 2017–present | Member, Association for Computing Machinery <br> *Special Interest Groups:* Artificial Intelligence; Knowledge Discovery in Data; High Performance Computing; Bioinformatics, Computational Biology, and Biomedical Informatics
 2014–present | Member, American Medical Informatics Association <br> *Special Interest Groups:* Clinical Decision Support; Natural Language Processing; Knowledge Discovery and Data Mining; Ethics, Legal, and Social Issues <br> *Abstract Reviewer,* Annual Symposium (2014–present) <br> *Mentor,* AMIA High School Scholars Program (2019-present)
@@ -88,6 +92,7 @@ Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan 
 2012–2014 | Member, AcademyHealth
 
 # Editorial Activities   
+
 *Student Editorial Board*   
 Journal of the American Medical Informatics Association
 
@@ -98,6 +103,7 @@ Journal of General Internal Medicine
 Medical Care
 
 # Honors   
+
 2019–present | National Library of Medicine Predoctoral Research Fellowship, Training in Biomedical Informatics at Columbia University (T15LM007079-28)
 2019-2020 | Dean’s Fellowship, Columbia University Vagelos College of Physicians and Surgeons
 2018 | Ford Foundation Predoctoral Fellowship Honorable Mention, National Academies of Sciences, Engineering, and Medicine
@@ -114,6 +120,7 @@ Medical Care
 2002 | Y50K Business Plan Competition, Second Place (Social Enterprise), Yale Entrepreneurship Society
 
 # Education of Patients and Service to the Community   
+
 2021-present | **COVID-19 Vaccination Effort, New York Presbyterian Hospital** <br> Armory Volunteer <br> Verify patients have scheduled appointments prior to entrance, check patients in for visit via Epic system, schedule follow-up visits for second dose administration, and assist with traffic flow as patients move through the vaccination process.
 2020-present | **Columbia DBMI Summer Research Program** <br> Co-organizer<br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduates. Serve as an instructor during an intensive data science bootcamp for summer students.
 2018 | **Queer Health Hackathon** <br> Co-organizer <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.
@@ -123,6 +130,7 @@ Medical Care
 2001-2005 | **Latino Youth Enrichment Team** (LYET), New Haven, CT <br> Co-Director <br> Managed community center mentorship program and developed instructional methods for Latino youth ranging in age from 6 through 13.
 
 # Other Experience   
+
 2010-2012 | Data Quality Assurance Manager, Harvard/US President’s Emergency Plan for AIDS Relief (PEPFAR), Boston, MA
 2008-2010 | Data, Training, and Education Coordinator, Harvard/US President’s Emergency Plan for AIDS Relief (PEPFAR), Boston, MA
 2006-2007 | Emergency Medical Technician, Tufts Emergency Medical Services, Medford, MA
