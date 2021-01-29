@@ -69,7 +69,7 @@ Associate Director, Center for Patient Safety Research and Practice,<br>Brigham 
 <br>
 <br>
 <br>
-<img style="float:left" src="/assets/img/phyllis-kanki.jpg" height="250" color="gray" hspace="10"/>
+<img style="float:left" src="/assets/img/phyllis-kanki.jpeg" height="250" color="gray" hspace="10"/>
 <p align="left"><a href="https://www.hsph.harvard.edu/phyllis-kanki/" target="_blank"><b>Phyllis Kanki, DVM, DSc</b> (2008)</a><br>Mary Woodard Lasker Professor of Health Sciences<br>Department of Immunology and Infectious Diseases<br>Harvard T.H. Chan School of Public Health</p>  
 <br>
 <br>
