@@ -9,7 +9,9 @@ nav_order: 5
 
 **Regional**
 
-1. **Reyes Nieva H**, Blackley S, Streed C, Fiskio J, Zhou L. High physician and clinic-level variation in documentation of sexual orientation and gender identity in the electronic health record. Plenary presentation. New England Science Symposium, Boston, MA; 4/2018.\*    
+1. **Reyes Nieva H** and Elhadad N. Probabilistic Topic Modeling and Trend Analysis of Health Disparities and Minority Health Literature, 1975-2020: A Scoping Review. Poster presentation. New England Science Symposium, Virtual Event; 4/2021.
+
+2. **Reyes Nieva H**, Blackley S, Streed C, Fiskio J, Zhou L. High physician and clinic-level variation in documentation of sexual orientation and gender identity in the electronic health record. Plenary presentation. New England Science Symposium, Boston, MA; 4/2018.\*    
   **\*Received a Ruth and William Silen, MD Oral Presentation Award**  
 
 **National**
