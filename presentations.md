@@ -62,21 +62,23 @@ nav_order: 5
 
 **Local**  
 
-1. Diversity, Culture, and Inclusion Series - LGBTQ Health. 2019. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+1. Guest Lecturer, Health Equity and Informatics, Fall 2020. BINF G4011: Acculturation to Medicine and Clinical Informatics, Biomedical Informatics, Columbia University.
 
-2. Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record. 2018. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+2. Diversity, Culture, and Inclusion Series - LGBTQ Health. 2019. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-3. Algorithmic Bias and Health Disparities. 2017. Machine Learning Working Group, Partners HealthCare.
+3. Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record. 2018. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-4. Improving and Leveraging Sexual Orientation and Gender Identity Demographics in Epic. 2017. Sexual Orientation and Gender Identity Working Group, Partners HealthCare.  
+4. Algorithmic Bias and Health Disparities. 2017. Machine Learning Working Group, Partners HealthCare.
 
-5. Designing and Building Clinical Research Databases. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.
+5. Improving and Leveraging Sexual Orientation and Gender Identity Demographics in Epic. 2017. Sexual Orientation and Gender Identity Working Group, Partners HealthCare.  
 
-6. Data Management and Manipulation using Microsoft Access. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+6. Designing and Building Clinical Research Databases. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.
 
-7. The LGBTQ Data Collection Gap: Sexual Orientation and Gender Identity in the EHR. 2014. LGBTQ and Allies Employee Resource Group, Brigham Health.
+7. Data Management and Manipulation using Microsoft Access. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-8. How Busy Clinicians Can Improve Care and Pursue Scholarship. 2013. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Faculty Retreat.  
+8. The LGBTQ Data Collection Gap: Sexual Orientation and Gender Identity in the EHR. 2014. LGBTQ and Allies Employee Resource Group, Brigham Health.
+
+9. How Busy Clinicians Can Improve Care and Pursue Scholarship. 2013. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Faculty Retreat.  
 
 **Regional**  
 1. Identifying and Understanding Malpractice-Prone Diagnostic Pitfalls. 2016. Risk Management Foundation of the Harvard Medical Institutions Incorporated (RMF), CRICO Research Day. Boston, MA
