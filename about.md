@@ -52,7 +52,7 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 # Teaching Experience   
 
 Summer 2021 | Instructor, Data Science Bootcamp, Biomedical Informatics Summer Research Program, Columbia University, New York, NY
-Spring 2021 | Preceptor in Clinical Informatics, Mechanisms and Practice, Columbia Vagelos College of Physicians and Surgeons, New York, NY.
+Spring 2021 | Preceptor in Clinical Informatics, Mechanisms and Practice, Columbia Vagelos College of Physicians and Surgeons, New York, NY
 Fall 2020 | Teaching Assistant, Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
 Summer 2017 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
 Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
