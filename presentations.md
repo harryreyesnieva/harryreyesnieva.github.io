@@ -16,7 +16,7 @@ nav_order: 5
 
 **National**
 
-1. Pang C, **Reyes Nieva H**, Chen R, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Podium Presentation. American Medical Informatics Association Annual Symposium. Virtual Event; 11/2020.
+2. Pang C, **Reyes Nieva H**, Chen R, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Podium Presentation. American Medical Informatics Association Annual Symposium. Virtual Event; 11/2020.
 
 2. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Delays in care and differential presentation of acute myocardial infarction. Oral Presentation. National Library of Medicine Informatics Training Conference. Virtual Event; 06/2020.
 
@@ -81,9 +81,11 @@ nav_order: 5
 9. How Busy Clinicians Can Improve Care and Pursue Scholarship. 2013. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Faculty Retreat.  
 
 **Regional**  
+
 1. Identifying and Understanding Malpractice-Prone Diagnostic Pitfalls. 2016. Risk Management Foundation of the Harvard Medical Institutions Incorporated (RMF), CRICO Research Day. Boston, MA
 
 **International**   
+
 1. Introduction to Data Management/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
   
 2. Critical Elements in Database Cleaning, a Checklist /Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  

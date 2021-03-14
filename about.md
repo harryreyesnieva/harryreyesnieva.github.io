@@ -15,8 +15,9 @@ Prior to pursuing a career in medical informatics and health services research, 
 
 # Education  
 [**Columbia University in the City of New York, New York, NY**](https://www.columbia.edu/){:target="_blank"}  
-*Doctor of Philosophy* in Biomedical Informatics, Expected May 2024  
-*Advisor:* Noémie Elhadad, PhD  
+*Doctor of Philosophy* in Biomedical Informatics, Expected May 2024   
+*Master of Arts* in Biomedical Informatics, Expected May 2021   
+*Advisor:* Noémie Elhadad, PhD   
 Coursework includes: Intelligent Decision Systems, Computational Methods, Symbolic Methods, Statistical Methods for Causal Inference, Natural Language Processing, Programming and Statistics
 
 [**Beijing Language and Culture University, Beijing, China**](http://english.blcu.edu.cn/){:target="_blank"}  
