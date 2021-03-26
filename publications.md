@@ -47,7 +47,7 @@ nav_order: 4
 11. Solomon SR, Gooding HC, **Reyes Nieva H**, Linder JA. Acute Care Utilization by Patients After Graduation of Their Resident Primary Care Physicians. *J Gen Intern Med.* 2015 Nov; 30(11):1611-7.   
     [PMID:25896089](https://www.ncbi.nlm.nih.gov/pubmed/25896089){:target="_blank"}   
     <div data-badge-popover="right" data-badge-type="2" data-pmid="25896089" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    
+   
 12. Singer SJ, **Reyes Nieva H**, Brede N, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD. Evaluating ambulatory practice safety: the PROMISES project administrators and practice staff surveys. *Med Care.* 2015 Feb; 53(2):141-52.   
    [PMID:25464161](https://www.ncbi.nlm.nih.gov/pubmed/25464161){:target="_blank"}
     <div data-badge-popover="right" data-badge-type="2" data-pmid="25464161" data-hide-no-mentions="true" class="altmetric-embed"></div>
