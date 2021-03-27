@@ -5,7 +5,7 @@ permalink: /publications/
 nav_order: 4
 ---
 # Peer reviewed publications in print or other media
-1. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. Effects of a Refined Evidence-based Toolkit on Medication Reconciliation Quality and Safety at Multiple Hospitals: Results of the MARQUIS2 Pragmatic Quality Improvement Study. *BMJ Qual Saf.* In press. 
+1. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. Effects of a Refined Evidence-based Toolkit on Medication Reconciliation Quality and Safety at Multiple Hospitals: Results of the MARQUIS2 Pragmatic Quality Improvement Study. *BMJ Qual Saf.* In press.
    
 2. **Reyes Nieva H**, Ruan E, Schiff G. Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices. *J Gen Intern Med.* 2020;35(2):457–464.   
    [PMID:31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
@@ -40,9 +40,9 @@ nav_order: 4
    <div data-badge-popover="right" data-badge-type="2" data-pmid="27177914" data-hide-no-mentions="true" class="altmetric-embed"></div>
    
 10. Bell SP, Schnipper JL, Goggins K, Bian A, Shintani A, Roumie CL, Dalal AK, Jacobson TA, Rask KJ, Vaccarino V, Gandhi TK, Labonville SA, Johnson D, Neal EB, Kripalani, PILL-CVD Study Group.\* Effect of Pharmacist Counseling Intervention on Health Care Utilization Following Hospital Discharge: A Randomized Control Trial. *J Gen Intern Med.* 2016 May; 31(5):470-7.      
-   \*member of the investigative team cited in the appendix of the manuscript   
-   [PMID:26883526](https://www.ncbi.nlm.nih.gov/pubmed/26883526){:target="_blank"}   
-   <div data-badge-popover="right" data-badge-type="2" data-pmid="26883526" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    \*member of the investigative team cited in the appendix of the manuscript   
+    [PMID:26883526](https://www.ncbi.nlm.nih.gov/pubmed/26883526){:target="_blank"}   
+    <div data-badge-popover="right" data-badge-type="2" data-pmid="26883526" data-hide-no-mentions="true" class="altmetric-embed"></div>
    
 11. Solomon SR, Gooding HC, **Reyes Nieva H**, Linder JA. Acute Care Utilization by Patients After Graduation of Their Resident Primary Care Physicians. *J Gen Intern Med.* 2015 Nov; 30(11):1611-7.   
     [PMID:25896089](https://www.ncbi.nlm.nih.gov/pubmed/25896089){:target="_blank"}   
