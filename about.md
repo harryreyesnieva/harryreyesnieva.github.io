@@ -25,8 +25,8 @@ Coursework includes: Intelligent Decision Systems, Computational Methods, Symbol
 *Summer Student*, Intensive Mandarin, 2019  
 
 [**Johns Hopkins Bloomberg School of Public Health, Baltimore, MD**](https://www.jhsph.edu/){:target="_blank"}   
-*Master of Applied Science* in Spatial Analysis, 2019 
-Advisor: Frank Curriero, PhD 
+*Master of Applied Science* in Spatial Analysis, 2019   
+Advisor: Frank Curriero, PhD   
 Thesis: Spatiotemporal modeling of opioid prescribing and persistent opioid use, 2000-2018  
 Coursework included: Biostatistics, Spatial Statistics, Epidemiology, Spatial Data Technologies  
 
