@@ -80,6 +80,8 @@ nav_order: 4
 
 # Manuscripts under review for publication   
 1. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics. *J Gen Intern Med.*   
+
+2. Schnipper JL, **Reyes Nieva H**, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study. *BMJ Qual Saf.*   
  
 2. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? *Jt Comm J Qual Patient Saf.*   
 
