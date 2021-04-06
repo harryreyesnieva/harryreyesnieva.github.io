@@ -16,7 +16,7 @@ Prior to pursuing a career in medical informatics and health services research, 
 # Education  
 [**Columbia University in the City of New York, New York, NY**](https://www.columbia.edu/){:target="_blank"}  
 *Doctor of Philosophy* in Biomedical Informatics, Expected May 2024   
-*Master of Arts* in Biomedical Informatics, Expected May 2021   
+*Master of Arts* in Biomedical Informatics, 2021   
 *Advisor:* Noémie Elhadad, PhD   
 Coursework includes: Intelligent Decision Systems, Computational Methods, Symbolic Methods, Statistical Methods for Causal Inference, Natural Language Processing, Programming and Statistics
 
@@ -128,7 +128,7 @@ Medical Care
 2020-present | **Columbia DBMI Summer Research Program** <br> Co-organizer<br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduates. Serve as an instructor during an intensive data science bootcamp for summer students.
 2018 | **Queer Health Hackathon** <br> Co-organizer <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.
 2013-2016 | **Human Rights Commission, City of Cambridge** <br> Vice Chair (2015-2016) <br> Commissioner (2013-2016) <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliations to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.
-2006-2009 | **Boston Medical Reserve Corps** <br> Emergency Medical Technician <br> The Boston Medical Reserve Corps is a group of volunteers who are ready to respond should there be a public health emergency in Boston.
+2006-2016 | **Boston Medical Reserve Corps** <br> Emergency Medical Technician <br> The Boston Medical Reserve Corps is a group of volunteers who are ready to respond should there be a public health emergency in Boston.
 2007 | **Timmy Global Health**, Dominican Republic <br> Medical Relief Volunteer <br> Helped establish temporary medical clinics along Haiti-Dominican Republic border; triaged patients, managed pharmacy, translated proper drug use and application.
 2001-2005 | **Latino Youth Enrichment Team** (LYET), New Haven, CT <br> Co-Director <br> Managed community center mentorship program and developed instructional methods for Latino youth ranging in age from 6 through 13.
 

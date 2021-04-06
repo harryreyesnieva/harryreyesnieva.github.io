@@ -5,7 +5,7 @@ permalink: /publications/
 nav_order: 4
 ---
 # Peer reviewed publications in print or other media
-1. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics. *J Gen Intern Med.* In press.
+1. Groisser A, **Reyes Nieva H**, Ruan E, Wright A, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics. *J Gen Intern Med.* In press.
 
 2. **Reyes Nieva H**, Ruan E, Schiff G. Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices. *J Gen Intern Med.* 2020;35(2):457–464.   
    [PMID:31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
