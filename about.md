@@ -52,11 +52,12 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 
 # Teaching Experience   
 
+Spring 2022 | Teaching Assistant, BINF G5000 Defining, Evaluating, and Improving Quality in Healthcare, Columbia University, New York, NY
 Summer 2021 | Instructor, Data Science Bootcamp, Biomedical Informatics Summer Research Program, Columbia University, New York, NY
-Spring 2021 | Preceptor in Clinical Informatics, Mechanisms and Practice, Columbia Vagelos College of Physicians and Surgeons, New York, NY
-Fall 2020 | Teaching Assistant, Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
-Summer 2017 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
-Summer 2016 | Teaching Fellow, Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
+Spring 2021 | Preceptor in Clinical Informatics, INTCM 7210 Mechanisms and Practice, Columbia Vagelos College of Physicians and Surgeons, New York, NY
+Fall 2020 | Teaching Assistant, BINF G4011 Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
+Summer 2017 | Teaching Fellow, HPM 299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
+Summer 2016 | Teaching Fellow, HPM 299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
 2005–2006 | Teacher, English-as-a-Second-Language, New York City Board of Education/New York City Teaching Fellows, New York, NY
 2000-2001 | Reading Tutor (work study), America Reads, New Haven, CT
 
