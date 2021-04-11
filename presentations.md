@@ -20,25 +20,27 @@ nav_order: 5
 
 2. Pang C, **Reyes Nieva H**, Chen R, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Podium Presentation. American Medical Informatics Association Annual Symposium. Virtual Event; 11/2020.
 
-3. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Delays in care and differential presentation of acute myocardial infarction. Oral Presentation. National Library of Medicine Informatics Training Conference. Virtual Event; 06/2020.
+3. Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, **Reyes Nieva H**, Bearnot B, Streed C. Using patterns of missing EHR data to identify care disparities in gender diverse patients. Oral Presentation. APHA Annual Meeting and Expo. 10/2020.
 
-4. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. Virtual Event; 06/2020.
+4. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Delays in care and differential presentation of acute myocardial infarction. Oral Presentation. National Library of Medicine Informatics Training Conference. Virtual Event; 06/2020.
 
-5. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
+5. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. Virtual Event; 06/2020.
 
-6. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu E, Mueller S, Smith GR, Williams M, Wetterneck TB, Stein J, Dalal A, Labonville SA, Sridharan A, Orav EJ, Levin B, Yoon C, Gresham M, Goldstein J, Kripilani S. Effects of a Refined Evidence-based Toolkit on Medication Reconciliation Quality and Safety at Multiple Hospitals: Results of the MARQUIS2 Study. Plenary presentation. Hospital Medicine 2019. National Harbor, MD; 03/2019.
+6. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
 
-7. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Don’t Come Back: Patient Terminations in Primary Care. Poster presentation. Society of General Internal Medicine Annual Meeting. Denver, CO; 04/2018.
+7. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu E, Mueller S, Smith GR, Williams M, Wetterneck TB, Stein J, Dalal A, Labonville SA, Sridharan A, Orav EJ, Levin B, Yoon C, Gresham M, Goldstein J, Kripilani S. Effects of a Refined Evidence-based Toolkit on Medication Reconciliation Quality and Safety at Multiple Hospitals: Results of the MARQUIS2 Study. Plenary presentation. Hospital Medicine 2019. National Harbor, MD; 03/2019.
 
-8. Schnipper JL, Cruz Garcia J, **Reyes Nieva H**, Chabria A, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions. Poster presentation. Hospital Medicine 2018. Orlando, FL; 04/2018.
+8. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Don’t Come Back: Patient Terminations in Primary Care. Poster presentation. Society of General Internal Medicine Annual Meeting. Denver, CO; 04/2018.
 
-9. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
+9. Schnipper JL, Cruz Garcia J, **Reyes Nieva H**, Chabria A, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions. Poster presentation. Hospital Medicine 2018. Orlando, FL; 04/2018.
 
-10. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
+10. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
 
-11. Kroll DS, **Reyes Nieva H**, Barsky A, Linder JA. Benzodiazepines and Primary Care. Poster presentation. Academy of Psychosomatic Medicine, 61st Annual Meeting; 11/2014.
+11. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
 
-12. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
+12. Kroll DS, **Reyes Nieva H**, Barsky A, Linder JA. Benzodiazepines and Primary Care. Poster presentation. Academy of Psychosomatic Medicine, 61st Annual Meeting; 11/2014.
+
+13. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
     **\*Received the Outstanding Quality and Patient Safety Oral Presentation Award**   
     
 **International**
