@@ -39,8 +39,8 @@ nav_order: 4
     <div data-badge-popover="right" data-badge-type="2" data-pmid="27892623" data-hide-no-mentions="true" class="altmetric-embed"></div>
     
 10. Kroll DS, **Reyes Nieva H**, Barsky AJ, Linder JA. Benzodiazepines are Prescribed More Frequently to Patients Already at Risk for Benzodiazepine-Related Adverse Events in Primary Care. *J Gen Intern Med.* 2016 09; 31(9):1027-34.   
-   [PMID:27177914](https://www.ncbi.nlm.nih.gov/pubmed/27177914){:target="_blank"}   
-   <div data-badge-popover="right" data-badge-type="2" data-pmid="27177914" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    [PMID:27177914](https://www.ncbi.nlm.nih.gov/pubmed/27177914){:target="_blank"}   
+    <div data-badge-popover="right" data-badge-type="2" data-pmid="27177914" data-hide-no-mentions="true" class="altmetric-embed"></div>
    
 11. Bell SP, Schnipper JL, Goggins K, Bian A, Shintani A, Roumie CL, Dalal AK, Jacobson TA, Rask KJ, Vaccarino V, Gandhi TK, Labonville SA, Johnson D, Neal EB, Kripalani, PILL-CVD Study Group.\* Effect of Pharmacist Counseling Intervention on Health Care Utilization Following Hospital Discharge: A Randomized Control Trial. *J Gen Intern Med.* 2016 May; 31(5):470-7.      
     \*member of the investigative team cited in the appendix of the manuscript   
