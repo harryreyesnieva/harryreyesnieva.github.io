@@ -26,10 +26,6 @@ nav_order: 5
 
 6. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
 
-7. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu E, Mueller S, Smith GR, Williams M, Wetterneck TB, Stein J, Dalal A, Labonville SA, Sridharan A, Orav EJ, Levin B, Yoon C, Gresham M, Goldstein J, Kripilani S. Effects of a Refined Evidence-based Toolkit on Medication Reconciliation Quality and Safety at Multiple Hospitals: Results of the MARQUIS2 Study. Plenary presentation. Hospital Medicine 2019. National Harbor, MD; 03/2019.
-
-8. Groisser A, **Reyes Nieva H**, Wright A, Ruan E, Schiff GD. Don’t Come Back: Patient Terminations in Primary Care. Poster presentation. Society of General Internal Medicine Annual Meeting. Denver, CO; 04/2018.
-
 9. Schnipper JL, Cruz Garcia J, **Reyes Nieva H**, Chabria A, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions. Poster presentation. Hospital Medicine 2018. Orlando, FL; 04/2018.
 
 10. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
