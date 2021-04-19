@@ -5,16 +5,21 @@ permalink: /projects/
 nav_order: 3
 ---
 # Current Projects   
-**CovidWatcher**   
-*PIs: No&eacute;mie Elhadad, PhD; Lena Mamykina, MS, PhD; Nicholas Tatonetti, PhD*   
-CovidWatcher is an [app](https://apps.apple.com/us/app/covidwatcher/id1504295590){:target="_blank"} and [online portal](https://covidwatcher.dbmi.columbia.edu/){:target="_blank"} that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.
+
+**A Computational Scoping Review and Gap Analysis of Health Disparities and Minority Health Literature, 1975-2020**
+Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
+Given the vast wealth of literature regarding health disparities and minority health (HDMH) and limitations placed on scale and scope when performing traditional manual review, computational methods are useful for conducting large-scale assessments. We aim to leverage natural language processing and machine learning methods to perform a comprehensive scoping review and characterize major topics found in the HDMH literature, examine change in topic mention over time, identify any notable gaps in coverage, and derive actionable insights for further inquiry.
+
+**Exploring Gender Disparities in Time to Diagnosis**
+Co-investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
+\item & Sex and gender-based healthcare disparities contribute to differences in health outcomes. Focusing on time to diagnosis (TTD), we are conducting two large-scale, complementary analyses among men and women across 29 diseases and 195K patients. We further explore how TTD disparities affect diagnostic performance between genders, both across and persistent to time, by evaluating gender-agnostic disease classifiers across increasing diagnostic information.   
 
 **Delays in Care and Differential Presentation of Acute Myocardial Infarction**  
-*Advisor: No&eacute;mie Elhadad, PhD*  
+Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
 We aim to measure and characterize differences in presentation and treatment of acute myocardial infarction (AMI) using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on demographics. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients, lengths of time to treatment, and resulting impact on patient outcomes.
 
 **Recognizing and Normalizing Condition Concepts with Severity Modifiers**  
-*Advisor: Chunhua Weng, PhD*  
+Co-investigator, *Advisor: Chunhua Weng, PhD*  
 The presence of qualifiers such as severity or disease stage complicate the recognition and normalization of biomedical concepts from free text. A single concept can often be mapped to a terminology in multiple ways. Our problem is motivated by inconsistent recognition of disease conditions in Criteria2Query (C2Q), a tool for exploring clinical trial inclusion and exclusion criteria. We are developing a novel two-step, ontology-aware mapping scheme that is optimized for extracting disease concepts at a high level of specificity. 
 
 # Projects Submitted for Funding
@@ -111,12 +116,15 @@ Aim: To measure and evaluate antiviral and antibiotic prescribing for patients w
 
 # Clinical Innovations
 
-**Pediatric quality improvement tool at 33 Harvard PEPFAR sites in Nigeria**  
-Co-developed and evaluated a utility to extract information from electronic health record (EHR) data warehouse and generate measures based on 23 pediatric quality of care indicators. Programmed module to review continuity of care, drug therapy initiation, medication adherence, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment or diagnostic evaluation, treatment failure, toxicity management, nutritional assessment, and treatment response.
+**CovidWatcher** / Co-developer  
+An [app](https://apps.apple.com/us/app/covidwatcher/id1504295590){:target="_blank"} and [online portal](https://covidwatcher.dbmi.columbia.edu/){:target="_blank"} that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.
 
-**Adult quality improvement tool at 33 Harvard PEPFAR sites in Nigeria**  
-Co-developed and evaluated a utility to extract information from EHR data warehouse and generate measures based on 15 adult quality of care indicators. Module reviews continuity of care, drug therapy initiation, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment, treatment failure, and treatment response.
+**Harvard PEPFAR Nigeria Pediatric quality improvement tool** / Co-developer
+Co-developed and evaluated a utility to extract information from electronic health record (EHR) data warehouse and generate measures based on 23 pediatric quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Programmed module to review continuity of care, drug therapy initiation, medication adherence, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment or diagnostic evaluation, treatment failure, toxicity management, nutritional assessment, and treatment response.
 
-**Data quality assessment tool, version 2.0 at 33 Harvard PEPFAR sites in Nigeria**  
-Instituted major modifications to and evaluated a pre-existing EHR utility to incorporate expanded data quality indicators. With this utility, central and site-level data managers are able to better monitor and improve data completeness, validity, accuracy, and currency.
+**Harvard PEPFAR Nigeria Adult quality improvement tool** / Co-developer
+Co-developed and evaluated a utility to extract information from EHR data warehouse and generate measures based on 15 adult quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Module reviews continuity of care, drug therapy initiation, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment, treatment failure, and treatment response.
+
+**Harvard PEPFAR Nigeria Data quality assessment tool, version 2.0** / Co-developer  
+Instituted major modifications to and evaluated a pre-existing EHR utility to incorporate expanded data quality indicators at 33 Harvard PEPFAR sites in Nigeria. With this utility, central and site-level data managers are able to better monitor and improve data completeness, validity, accuracy, and currency.
 
