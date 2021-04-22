@@ -6,8 +6,8 @@ nav_order: 4
 ---
 # Peer reviewed publications in print or other media
 
-1. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. Effects of a Refined Evidence-based Toolkit and Mentored Implementation on Medication Reconciliation at Eighteen Hospitals: Results of the MARQUIS2 Study. *BMJ Qual Saf.* In press.
-   doi: 10.1136/bmjqs-2020-012709
+1. Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. Effects of a Refined Evidence-based Toolkit and Mentored Implementation on Medication Reconciliation at Eighteen Hospitals: Results of the MARQUIS2 Study. *BMJ Qual Saf.* In press.   
+   doi: 10.1136/bmjqs-2020-012709   
 
 2. Groisser A, **Reyes Nieva H**, Ruan E, Wright A, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics. *J Gen Intern Med.* In press.   
    doi: 10.1007/s11606-021-06793-7
