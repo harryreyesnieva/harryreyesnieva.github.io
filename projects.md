@@ -12,7 +12,7 @@ Given the vast wealth of literature regarding health disparities and minority he
 
 **Exploring Gender Disparities in Time to Diagnosis**   
 Co-investigator, *Advisor: No&eacute;mie Elhadad, PhD*   
-Sex and gender-based healthcare disparities contribute to differences in health outcomes. Focusing on time to diagnosis (TTD), we are conducting two large-scale, complementary analyses among men and women across 29 diseases and 195K patients. We further explore how TTD disparities affect diagnostic performance between genders, both across and persistent to time, by evaluating gender-agnostic disease classifiers across increasing diagnostic information.   
+Sex and gender-based healthcare disparities contribute to differences in health outcomes. Focusing on time to diagnosis (TTD), we are conducting two large-scale, complementary analyses among men and women across over 100 diseases and millions of patients. We further explore how TTD disparities affect diagnostic performance between genders, both across and persistent to time, by evaluating gender-agnostic disease classifiers across increasing diagnostic information.   
 
 **Delays in Care and Differential Presentation of Acute Myocardial Infarction**   
 Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
