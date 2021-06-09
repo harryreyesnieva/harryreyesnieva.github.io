@@ -14,7 +14,9 @@ nav_order: 4
    [PMID:33927025](https://www.ncbi.nlm.nih.gov/pubmed/33927025){:target="_blank"}
    <div data-badge-popover="right" data-badge-type="2" data-pmid="33927025" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-3. Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Yeh GY. Exploring tai chi exercise and mind-body breathing in patients with COPD in a randomized controlled feasibility trial. *COPD.* 2021. In press.   
+3. Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, **Reyes Nieva H**, Pinheiro A, Davis RB, Yeh GY. Exploring tai chi exercise and mind-body breathing in patients with COPD in a randomized controlled feasibility trial. *COPD.* 2021. Online ahead of print. 
+   [doi:10.1080/15412555.2021.1928037](https://www.tandfonline.com/doi/full/10.1080/15412555.2021.1928037){:target="_blank"}
+   <div data-badge-popover="right" data-badge-type="2" data-doi="10.1080/15412555.2021.1928037" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 4. **Reyes Nieva H**, Ruan E, Schiff G. Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices. *J Gen Intern Med.* 2020;35(2):457–464.   
    [PMID:31755012](https://www.ncbi.nlm.nih.gov/pubmed/31755012){:target="_blank"}
