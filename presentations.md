@@ -5,7 +5,7 @@ permalink: /presentations/
 nav_order: 5
 ---
 # Abstracts, Poster Presentations and Exhibits Presented at Professional Meetings
-*Works resulting in publication are not included below.*
+*Works resulting in publication are not included below unless special recognition was received.*
 
 **Regional**
 
