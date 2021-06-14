@@ -14,15 +14,15 @@ nav_order: 5
 
 **National**
 
-1. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association. San Diego, CA; 1/2021.   
+1. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association. San Diego, CA; 11/2021.   
 
 2. **Reyes Nieva H** and Elhadad N. Latent Topics and Trends in Health Disparities Literature. Poster presentation. National Library of Medicine Informatics Training Conference. 06/2021.
 
-3. Pang C, **Reyes Nieva H**, Chen R, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Podium Presentation. American Medical Informatics Association Annual Symposium. Virtual Event; 11/2020.
+3. Pang C, **Reyes Nieva H**, Chen R, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Oral Presentation. American Medical Informatics Association Annual Symposium. 11/2020.
 
 4. Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, **Reyes Nieva H**, Bearnot B, Streed C. Using patterns of missing EHR data to identify care disparities in gender diverse patients. Oral Presentation. APHA Annual Meeting and Expo. 10/2020.
 
-5. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. Virtual Event; 06/2020.
+5. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. 06/2020.
 
 6. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
 
