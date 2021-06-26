@@ -108,6 +108,7 @@ Medical Care
 
 # Honors   
 
+2021-present | HSF Scholar, Hispanic Scholarship Fund   
 2019–present | National Library of Medicine Predoctoral Research Fellowship, Training in Biomedical Informatics at Columbia University (T15LM007079-28)
 2019-2020 | Dean’s Fellowship, Columbia University Vagelos College of Physicians and Surgeons
 2018 | Ford Foundation Predoctoral Fellowship Honorable Mention, National Academies of Sciences, Engineering, and Medicine
