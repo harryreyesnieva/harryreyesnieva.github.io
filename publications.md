@@ -95,9 +95,10 @@ nav_order: 4
  
 2. Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? *Jt Comm J Qual Patient Saf.*   
 
-3. Stolldorf DP, Arole O, Jaser L, Jahrstorfer R, Solanky N, Molla M, Succari L, Picot-Vierra L, Szabloswki K, Tichy EM, Sen S, Murphy M, Badr S, Addar M, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Dalal AK, Sridharan A, Goldstein J, Platt S, Nyenpan C, Kripalani S, Schnipper JL. Improving medication reconciliation in hospitals: MARQUIS2 hospitals’ experiences implementing the MARQUIS toolkit using a mentored implementation approach. *BMJ Qual Saf.*
+3. Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Diagnostic Pitfalls: A New Construct to Anticipate and Prevent Diagnostic Errors. *JAMA Int Med.*   
 
-4. Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Diagnostic Pitfalls: A New Construct to Anticipate and Prevent Diagnostic Errors. *Annals of Internal Medicine.*   
+4. Stolldorf DP, Arole O, Jaser L, Jahrstorfer R, Solanky N, Molla M, Succari L, Picot-Vierra L, Szabloswki K, Tichy EM, Sen S, Murphy M, Badr S, Addar M, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Dalal AK, Sridharan A, Goldstein J, Platt S, Nyenpan C, Kripalani S, Schnipper JL. Improving medication reconciliation in hospitals: MARQUIS2 hospitals’ experiences implementing the MARQUIS toolkit using a mentored implementation approach. *J Hosp Med.*
+
 
 # Manuscripts in preprint   
 1. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis.    
