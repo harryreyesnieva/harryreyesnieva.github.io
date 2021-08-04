@@ -106,6 +106,7 @@ Journal of General Internal Medicine
 Medical Care
 
 # Honors   
+
 2021-2023 | HOPE Scholarship, Biomedical Science Careers Program   
 2021-2022 | HSF Scholar, Hispanic Scholarship Fund   
 2019–present | National Library of Medicine Predoctoral Research Fellowship, Training in Biomedical Informatics at Columbia University (T15LM007079-28)   
