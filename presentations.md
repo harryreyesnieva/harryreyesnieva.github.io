@@ -39,13 +39,15 @@ nav_order: 5
     
 **International**
 
-1. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis. Poster presentation. Machine Learning for Health (ML4Health) Workshop at the Conference on Neural Information Processing Systems (NeurIPS). Virtual Event; 12/2020.
+1. Desai PM, Ostropolets A, Richter LR, **Reyes Nieva H**, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K. Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity. OHDSI Global Symposium. 09/2021.
 
-2. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
+2. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis. Poster presentation. Machine Learning for Health (ML4Health) Workshop at the Conference on Neural Information Processing Systems (NeurIPS). 12/2020.
 
-3. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
+3. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
 
-4. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
+4. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
+
+5. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
 
 # Report of Invited Teaching and Presentations
 *No presentations below were sponsored by outside entities.*
