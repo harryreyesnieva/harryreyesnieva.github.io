@@ -109,19 +109,19 @@ Medical Care
 2021-2023 | HOPE Scholarship, Biomedical Science Careers Program   
 2021-2022 | HSF Scholar, Hispanic Scholarship Fund   
 2019–present | National Library of Medicine Predoctoral Research Fellowship, Training in Biomedical Informatics at Columbia University (T15LM007079-28)   
-2019-2020 | Dean’s Fellowship, Columbia University Vagelos College of Physicians and Surgeons
-2018 | Ford Foundation Predoctoral Fellowship Honorable Mention, National Academies of Sciences, Engineering, and Medicine
-2018 | Ruth and William Silen, MD Award, New England Science Symposium
-2018 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare
-2016-2018 | Merit Scholarship, Johns Hopkins Bloomberg School of Public Health
-2016 | LGBTQ Leadership Award, Brigham Health
-2015  | Brigham Way honoree, Brigham and Women’s Hospital
-2015 | Practice-Based Research Network Conference Travel Scholarship, North American Primary Care Research Group
-2014 | Partners in Excellence Award for Quality Treatment and Service, Partners HealthCare
-2014 | Outstanding Quality and Patient Safety Oral Presentation Award, Society of General Internal Medicine
-2012 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare
-2004 | Mellon Forum Undergraduate Thesis Research Award, Yale University
-2002 | Y50K Business Plan Competition, Second Place (Social Enterprise), Yale Entrepreneurship Society
+2019-2020 | Dean’s Fellowship, Columbia University Vagelos College of Physicians and Surgeons   
+2018 | Ford Foundation Predoctoral Fellowship Honorable Mention, National Academies of Sciences, Engineering, and Medicine   
+2018 | Ruth and William Silen, MD Award, New England Science Symposium   
+2018 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare   
+2016-2018 | Merit Scholarship, Johns Hopkins Bloomberg School of Public Health   
+2016 | LGBTQ Leadership Award, Brigham Health   
+2015  | Brigham Way honoree, Brigham and Women’s Hospital   
+2015 | Practice-Based Research Network Conference Travel Scholarship, North American Primary Care Research Group   
+2014 | Partners in Excellence Award for Quality Treatment and Service, Partners HealthCare   
+2014 | Outstanding Quality and Patient Safety Oral Presentation Award, Society of General Internal Medicine   
+2012 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare   
+2004 | Mellon Forum Undergraduate Thesis Research Award, Yale University   
+2002 | Y50K Business Plan Competition, Second Place (Social Enterprise), Yale Entrepreneurship Society   
 
 # Education of Patients and Service to the Community   
 
