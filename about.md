@@ -7,7 +7,7 @@ nav_order: 2
 [Curriculum vitae \[PDF\]](/assets/docs/CV_HReyesNieva.pdf){:target="_blank" align="right"}  
 [Google Scholar](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"}  
   
-My primary research area leverages machine learning, natural language processing, and causal inference methods to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern examining and supporting clinical cognition and decision making; assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate study of the health of underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28).  
+My primary research area leverages machine learning, natural language processing, and causal inference methods to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern examining and supporting clinical cognition and decision making; assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28).  
 
 Over the years, I have been very fortunate to have many [excellent mentors](/mentors). Before starting my PhD program, I held a number of positions at [Brigham and Women's Hospital](https://www.brighamandwomens.org){:target="_blank"} (BWH), <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a> (HMS), and the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/){:target="_blank"} (HSPH). While at BWH and HMS, I served on more than a dozen [research studies](/projects)  and would eventually develop my own projects with generous support from <a href="https://catalyst.harvard.edu/" target="_blank">Harvard Catalyst</a>, the Clinical and Translational Science Awards (CTSA) Program, funded by the <a href="https://ncats.nih.gov/" target="_blank">NIH National Center for Advancing Translational Sciences</a> (NCATS). 
 
@@ -27,7 +27,7 @@ Coursework includes: Intelligent Decision Systems, Computational Methods, Symbol
 [**Johns Hopkins Bloomberg School of Public Health, Baltimore, MD**](https://www.jhsph.edu/){:target="_blank"}   
 *Master of Applied Science* in Spatial Analysis, 2019   
 Advisor: Frank Curriero, PhD   
-Thesis: Spatiotemporal modeling of opioid prescribing and persistent opioid use, 2000-2018  
+Thesis: Spatio-temporal modeling of opioid prescribing and persistent opioid use, 2000-2018  
 Coursework included: Biostatistics, Spatial Statistics, Epidemiology, Spatial Data Technologies  
 
 [**Harvard T.H. Chan School of Public Health, Boston, MA**](https://www.hsph.harvard.edu/){:target="_blank"}  
@@ -40,10 +40,10 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 
 # Research Experience   
 
-2019-present | National Library of Medicine Predoctoral Research Fellow, Department of Biomedical Informatics, Columbia University, New York, NY
+2019-present | National Library of Medicine Pre-doctoral Research Fellow, Department of Biomedical Informatics, Columbia University, New York, NY
 2013-present | Visiting Postgraduate Research Fellow, Department of Medicine, Harvard Medical School, Boston, MA
 2020 | Rotation Student, Action Research for Collective Health Lab (PI: Lena Mamykina, PhD), Department of Biomedical Informatics, Columbia University, New York, NY
-2013-2019 | Predoctoral Research Fellow, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
+2013-2019 | Pre-doctoral Research Fellow, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
 2012-2019 | Research Manager, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
 2012-2019 | Network Manager, Brigham and Women's Primary Care Practice-Based Research Network, Boston, MA
 2008-2011 | Research Assistant (per diem), Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
@@ -129,7 +129,7 @@ Medical Care
 2021-present | **COVID-19 Vaccination Effort, New York Presbyterian Hospital** <br> Armory Volunteer <br> Verify patients have scheduled appointments prior to entrance, check patients in for visit via Epic system, schedule follow-up visits for second dose administration, and assist with traffic flow as patients move through the vaccination process.
 2020-present | **Columbia DBMI Summer Research Program** <br> Co-organizer<br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduates. Serve as an instructor during an intensive data science bootcamp for summer students.
 2018 | **Queer Health Hackathon** <br> Co-organizer <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.
-2013-2016 | **Human Rights Commission, City of Cambridge** <br> Vice Chair (2015-2016) <br> Commissioner (2013-2016) <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliations to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.
+2013-2016 | **Human Rights Commission, City of Cambridge** <br> Vice Chair (2015-2016) <br> Commissioner (2013-2016) <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliation to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.
 2006-2016 | **Boston Medical Reserve Corps** <br> Emergency Medical Technician <br> The Boston Medical Reserve Corps is a group of volunteers who are ready to respond should there be a public health emergency in Boston.
 2007 | **Timmy Global Health**, Dominican Republic <br> Medical Relief Volunteer <br> Helped establish temporary medical clinics along Haiti-Dominican Republic border; triaged patients, managed pharmacy, translated proper drug use and application.
 2001-2005 | **Latino Youth Enrichment Team** (LYET), New Haven, CT <br> Co-Director <br> Managed community center mentorship program and developed instructional methods for Latino youth ranging in age from 6 through 13.
