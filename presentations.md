@@ -26,8 +26,6 @@ nav_order: 5
 
 6. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
 
-7. Schnipper JL, Cruz Garcia J, **Reyes Nieva H**, Chabria A, Shannon EM, Czado K, Jain R, Cerciello E, Ganesan E, Dave J. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions. Poster presentation. Hospital Medicine 2018. Orlando, FL; 04/2018.
-
 8. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
 
 9. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
