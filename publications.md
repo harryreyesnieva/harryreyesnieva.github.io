@@ -91,7 +91,7 @@ nav_order: 4
 
 # Manuscripts under review for publication      
 
-1. Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Diagnostic Pitfalls: A New Construct to Anticipate and Prevent Diagnostic Errors. *JAMA Int Med.*   
+1. Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Diagnostic Pitfalls: A New Construct to Anticipate and Prevent Diagnostic Errors. *JAMA Network Open.*   
 
 2. Schnipper JL, **Reyes Nieva H**, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study. *BMJ Qual Saf.*   
  
