@@ -16,7 +16,7 @@ Prior to pursuing a career in medical informatics and health services research, 
 # Education  
 [**Columbia University in the City of New York, New York, NY**](https://www.columbia.edu/){:target="_blank"}  
 *Doctor of Philosophy* in Biomedical Informatics, Expected May 2024   
-*Master of Arts* in Biomedical Informatics, 2021   
+*Master of Arts* in Biomedical Informatics, 2021 (GPA: 4.0)
 *Advisor:* Noémie Elhadad, PhD   
 Coursework includes: Intelligent Decision Systems, Computational Methods, Symbolic Methods, Statistical Methods for Causal Inference, Natural Language Processing, Programming and Statistics
 
@@ -106,8 +106,8 @@ Journal of General Internal Medicine
 Medical Care
 
 # Honors   
-
-2021-2023 | HOPE Scholarship, Biomedical Science Careers Program   
+2021-2024 | Computational and Data Science Fellowship, Association for Computing Machinery (ACM) Special Interest Group in High Performance Computing (SIGHPC)   
+2021-2023 | HOPE Scholarship, Biomedical Science Careers Program, Harvard Medical School   
 2021-2022 | HSF Scholar, Hispanic Scholarship Fund   
 2019–present | National Library of Medicine Predoctoral Research Fellowship, Training in Biomedical Informatics at Columbia University (T15LM007079-28)   
 2019-2020 | Dean’s Fellowship, Columbia University Vagelos College of Physicians and Surgeons   
@@ -122,11 +122,10 @@ Medical Care
 2014 | Outstanding Quality and Patient Safety Oral Presentation Award, Society of General Internal Medicine   
 2012 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare   
 2004 | Mellon Forum Undergraduate Thesis Research Award, Yale University   
-2002 | Y50K Business Plan Competition, Second Place (Social Enterprise), Yale Entrepreneurship Society   
 
 # Education of Patients and Service to the Community   
 
-2021-present | **COVID-19 Vaccination Effort, New York Presbyterian Hospital** <br> Armory Volunteer <br> Verify patients have scheduled appointments prior to entrance, check patients in for visit via Epic system, schedule follow-up visits for second dose administration, and assist with traffic flow as patients move through the vaccination process.
+2021 | **COVID-19 Vaccination Effort, New York Presbyterian Hospital** <br> Armory Volunteer <br> Verify patients have scheduled appointments prior to entrance, check patients in for visit via Epic system, schedule follow-up visits for second dose administration, and assist with traffic flow as patients move through the vaccination process.
 2020-present | **Columbia DBMI Summer Research Program** <br> Co-organizer<br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduates. Serve as an instructor during an intensive data science bootcamp for summer students.
 2018 | **Queer Health Hackathon** <br> Co-organizer <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.
 2013-2016 | **Human Rights Commission, City of Cambridge** <br> Vice Chair (2015-2016) <br> Commissioner (2013-2016) <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliation to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.
@@ -147,7 +146,6 @@ Medical Care
 2000-2001 | Program Assistant, Yale University, International Affairs Council, New Haven, CT
 
 # Computer and Language Skills   
-**Computing** Python, R, SAS, SQL, bash, LaTex, HTML, CSS, Javascript, ArcGIS, QGIS, SaTScan,
-REDCap, MS Access, FileMaker, git 
+**Computing** Python, R, SAS, SQL, bash, git, LaTex, HTML, CSS, ArcGIS, QGIS, SaTScan 
 
-**Languages** English (native), Spanish (proficient), Mandarin (beginner)
+**Languages** English, Spanish, Mandarin (beginner)
