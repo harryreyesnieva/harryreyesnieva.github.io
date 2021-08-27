@@ -16,7 +16,7 @@ Prior to pursuing a career in medical informatics and health services research, 
 # Education  
 [**Columbia University in the City of New York, New York, NY**](https://www.columbia.edu/){:target="_blank"}  
 *Doctor of Philosophy* in Biomedical Informatics, Expected May 2024   
-*Master of Arts* in Biomedical Informatics, 2021 (GPA: 4.0)
+*Master of Arts* in Biomedical Informatics, 2021 (GPA: 4.0)   
 *Advisor:* Noémie Elhadad, PhD   
 Coursework includes: Intelligent Decision Systems, Computational Methods, Symbolic Methods, Statistical Methods for Causal Inference, Natural Language Processing, Programming and Statistics
 
@@ -106,6 +106,7 @@ Journal of General Internal Medicine
 Medical Care
 
 # Honors   
+
 2021-2024 | Computational and Data Science Fellowship, Association for Computing Machinery (ACM) Special Interest Group in High Performance Computing (SIGHPC)   
 2021-2023 | HOPE Scholarship, Biomedical Science Careers Program, Harvard Medical School   
 2021-2022 | HSF Scholar, Hispanic Scholarship Fund   
