@@ -91,8 +91,8 @@ Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard 
 
 2020-present | *Member*, Latinx in AI
 2019–present | *Member*, New York Academy of Sciences
-2017–present | *Member*, Association for Computing Machinery <br> Special Interest Groups: Artificial Intelligence; Knowledge Discovery in Data; High Performance Computing; Bioinformatics, Computational Biology, and Biomedical Informatics
-2014–present | *Member*, American Medical Informatics Association <br> *Special Interest Groups:* Clinical Decision Support; Natural Language Processing; Knowledge Discovery and Data Mining; Ethics, Legal, and Social Issues <br> *Abstract Reviewer,* Annual Symposium (2014–present) <br> *Mentor,* AMIA High School Scholars Program (2019-present)
+2017–present | *Member*, Association for Computing Machinery <br> Special Interest Groups: Artificial Intelligence; Biomedical Informatics; High Performance Computing; Knowledge Discovery in Data
+2014–present | *Member*, American Medical Informatics Association <br> *Special Interest Groups:* Clinical Decision Support; Ethics, Legal, and Social Issues; Knowledge Discovery and Data Mining; Natural Language Processing<br> *Abstract Reviewer,* Annual Symposium (2014–present) <br> *Mentor,* AMIA High School Scholars Program (2019-present)
 2012–2014 | *Member*, American Public Health Association <br> *Special Interest Groups:* Medical Care, Health Informatics Information Technology  
 2012–2014 | *Member*, AcademyHealth
 
@@ -149,6 +149,6 @@ Medical Care
 2000-2001 | Program Assistant, Yale University, International Affairs Council, New Haven, CT
 
 # Computer and Language Skills   
-**Computing** Python, R, SAS, SQL, Unix, bash, git, LaTex, HTML, CSS, ArcGIS, QGIS, SaTScan 
+**Computing** Python, SQL, Unix, bash, git, R, SAS, LaTex, HTML, CSS, ArcGIS, QGIS, SaTScan 
 
 **Languages** English, Spanish, Mandarin (beginner)
