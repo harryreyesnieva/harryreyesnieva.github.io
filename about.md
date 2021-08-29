@@ -7,7 +7,7 @@ nav_order: 2
 [Curriculum vitae \[PDF\]](/assets/docs/CV_HReyesNieva.pdf){:target="_blank" align="right"}  
 [Google Scholar](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"}  
   
-My primary research area leverages machine learning, natural language processing, and causal inference methods to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern examining and supporting clinical cognition and decision making; assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28).  
+My primary research area leverages machine learning, natural language processing, and causal inference methods to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern examining and supporting clinical cognition and decision making; assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28).
 
 Over the years, I have been very fortunate to have many [excellent mentors](/mentors). Before starting my PhD program, I held a number of positions at [Brigham and Women's Hospital](https://www.brighamandwomens.org){:target="_blank"} (BWH), <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a> (HMS), and the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/){:target="_blank"} (HSPH). While at BWH and HMS, I served on more than a dozen [research studies](/projects)  and would eventually develop my own projects with generous support from <a href="https://catalyst.harvard.edu/" target="_blank">Harvard Catalyst</a>, the Clinical and Translational Science Awards (CTSA) Program, funded by the <a href="https://ncats.nih.gov/" target="_blank">NIH National Center for Advancing Translational Sciences</a> (NCATS). 
 
@@ -40,60 +40,61 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 
 # Research Experience   
 
-2019-present | National Library of Medicine Pre-doctoral Research Fellow, Department of Biomedical Informatics, Columbia University, New York, NY
-2013-present | Visiting Postgraduate Research Fellow, Department of Medicine, Harvard Medical School, Boston, MA
-2020 | Rotation Student, Action Research for Collective Health Lab (PI: Lena Mamykina, PhD), Department of Biomedical Informatics, Columbia University, New York, NY
-2013-2019 | Pre-doctoral Research Fellow, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
-2012-2019 | Research Manager, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
-2012-2019 | Network Manager, Brigham and Women's Primary Care Practice-Based Research Network, Boston, MA
-2008-2011 | Research Assistant (per diem), Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
-2007-2008 | Research Assistant (full-time), Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
-2004 | Research Assistant, Yale University, Department of Sociology, New Haven, CT
+2019-present | *National Library of Medicine Predoctoral Research Trainee*, Department of Biomedical Informatics, Columbia University, New York, NY
+2013-present | *Visiting Postgraduate Research Fellow*, Department of Medicine, Harvard Medical School, Boston, MA
+2013-2019 | *Predoctoral Research Fellow*, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
+2012-2019 | *Network Manager*, Brigham and Women's Primary Care Practice-Based Research Network, Boston, MA
+2012-2019 | *Research Manager*, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
+2008-2011 | *Research Assistant (per diem)*, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
+2007-2008 | *Research Assistant (full-time)*, Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Boston, MA
+2004 | *Research Assistant*, Yale University, Department of Sociology, New Haven, CT
 
 # Teaching Experience   
 
-Spring 2022 | Teaching Assistant, BINF G5000 Defining, Evaluating, and Improving Quality in Healthcare, Columbia University, New York, NY
-Spring 2021 | Preceptor in Clinical Informatics, INTC M7210 Mechanisms and Practice, Columbia Vagelos College of Physicians and Surgeons, New York, NY
-Fall 2020 | Teaching Assistant, BINF G4011 Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
-Summer 2017 | Teaching Fellow, HPM 299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
-Summer 2016 | Teaching Fellow, HPM 299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
-2005–2006 | Teacher, English-as-a-Second-Language, New York City Board of Education/New York City Teaching Fellows, New York, NY
-2000-2001 | Reading Tutor (work study), America Reads, New Haven, CT
+Spring 2022 | *Teaching Assistant*, BINF G5000 Defining, Evaluating, and Improving Quality in Healthcare, Columbia University, New York, NY
+Spring 2021 | *Preceptor in Clinical Informatics*, INTC M7210 Mechanisms and Practice, Columbia Vagelos College of Physicians and Surgeons, New York, NY
+Fall 2020 | *Teaching Assistant*, BINF G4011 Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
+Summer 2017 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
+Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
+2005–2006 | *Teacher, English-as-a-Second-Language*, New York City Board of Education/New York City Teaching Fellows, New York, NY
+2000-2001 | *Reading Tutor (work study)*, America Reads, New Haven, CT
 
 # Committee Service   
 
-2020–present | Biomedical Informatics Seminar Series Planning Committee, Columbia University
+2021-present | *Toward Diversity, Equity, and Inclusion in Informatics, Health Care, and Society Seminar Series Planning Committee*, Columbia University
+ &nbsp; | 2021–present Member
+2020–present | *Biomedical Informatics Seminar Series Planning Committee*, Columbia University
  &nbsp; | 2020–present Member
-2019–present | Electronic Health Record Phenotyping Working Group, Columbia University
+2019–present | *Electronic Health Record Phenotyping Working Group*, Columbia University
  &nbsp; | 2019–present Member
-2015–2018 | Partners Sexual Orientation and Gender Identity Working Group
+2015–2018 | *Partners Sexual Orientation and Gender Identity Working Group*
  &nbsp; | 2015–2018 Founding Member
-2015–2016 | Brigham Health Equity and Diversity Council
+2015–2016 | *Brigham Health Equity and Diversity Council*
 &nbsp; | 2015–2016 Founding Member
  &nbsp; | 2015–2016 Co-Chair, Data Working Group
-2013–2015 | Partners eCare Research Working Group
+2013–2015 | *Partners eCare Research Working Group*
  &nbsp; | 2013–2015 Member
-2013–2015 | Partners eCare Sexual Orientation and Gender Identity Working Group
+2013–2015 | *Partners eCare Sexual Orientation and Gender Identity Working Group*
  &nbsp; | 2013–2015 Member
-2013–2014 | Partners Human Research Committee, Insight Usability Working Group
+2013–2014 | *Partners Human Research Committee, Insight Usability Working Group*
  &nbsp; | 2013–2014 Member
-2013–2014  | Partners Enterprise Research Portal Working Group
+2013–2014  | *Partners Enterprise Research Portal Working Group*
  &nbsp; | 2013–2014 Member
-2011–2019 | Brigham Health LGBTQ and Allies Employee Resource Group
+2011–2019 | *Brigham Health LGBTQ and Allies Employee Resource Group*
  &nbsp; | 2011–2019 Member
  &nbsp; | 2014–2016 Co-Chair
-2007–2008 | Association of Multicultural Members of Partners Healthcare
+2007–2008 | *Association of Multicultural Members of Partners Healthcare*
  &nbsp; | 2007–2008 Member
  &nbsp; | 2007–2008 Vice-Chair, Brigham and Women’s Hospital Chapter
 
 # Professional Organizations and Societies   
 
-2020-present | Member, Latinx in AI
-2019–present | Member, New York Academy of Sciences
-2017–present | Member, Association for Computing Machinery <br> *Special Interest Groups:* Artificial Intelligence; Knowledge Discovery in Data; High Performance Computing; Bioinformatics, Computational Biology, and Biomedical Informatics
-2014–present | Member, American Medical Informatics Association <br> *Special Interest Groups:* Clinical Decision Support; Natural Language Processing; Knowledge Discovery and Data Mining; Ethics, Legal, and Social Issues <br> *Abstract Reviewer,* Annual Symposium (2014–present) <br> *Mentor,* AMIA High School Scholars Program (2019-present)
-2012–2014 | Member, American Public Health Association <br> *Special Interest Groups:* Medical Care, Health Informatics Information Technology  
-2012–2014 | Member, AcademyHealth
+2020-present | *Member*, Latinx in AI
+2019–present | *Member*, New York Academy of Sciences
+2017–present | *Member*, Association for Computing Machinery <br> *Special Interest Groups:* Artificial Intelligence; Knowledge Discovery in Data; High Performance Computing; Bioinformatics, Computational Biology, and Biomedical Informatics
+2014–present | *Member*, American Medical Informatics Association <br> *Special Interest Groups:* Clinical Decision Support; Natural Language Processing; Knowledge Discovery and Data Mining; Ethics, Legal, and Social Issues <br> *Abstract Reviewer,* Annual Symposium (2014–present) <br> *Mentor,* AMIA High School Scholars Program (2019-present)
+2012–2014 | *Member*, American Public Health Association <br> *Special Interest Groups:* Medical Care, Health Informatics Information Technology  
+2012–2014 | *Member*, AcademyHealth
 
 # Editorial Activities   
 
@@ -108,22 +109,22 @@ Medical Care
 
 # Honors   
 
-2021-2024 | Computational and Data Science Fellowship, Association for Computing Machinery (ACM) Special Interest Group in High Performance Computing (SIGHPC)   
-2021-2023 | HOPE Scholarship, Biomedical Science Careers Program, Harvard Medical School   
-2021-2022 | HSF Scholar, Hispanic Scholarship Fund   
-2019–present | National Library of Medicine Predoctoral Research Fellowship, Training in Biomedical Informatics at Columbia University (T15LM007079-28)   
-2019-2020 | Dean’s Fellowship, Columbia University Vagelos College of Physicians and Surgeons   
-2018 | Ford Foundation Predoctoral Fellowship Honorable Mention, National Academies of Sciences, Engineering, and Medicine   
-2018 | Ruth and William Silen, MD Award, New England Science Symposium   
-2018 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare   
-2016-2018 | Merit Scholarship, Johns Hopkins Bloomberg School of Public Health   
-2016 | LGBTQ Leadership Award, Brigham Health   
-2015  | Brigham Way honoree, Brigham and Women’s Hospital   
-2015 | Practice-Based Research Network Conference Travel Scholarship, North American Primary Care Research Group   
-2014 | Partners in Excellence Award for Quality Treatment and Service, Partners HealthCare   
-2014 | Outstanding Quality and Patient Safety Oral Presentation Award, Society of General Internal Medicine   
-2012 | Partners in Excellence Award for Leadership and Innovation, Partners HealthCare   
-2004 | Mellon Forum Undergraduate Thesis Research Award, Yale University   
+2021-2024 | *Computational and Data Science Fellowship*, Association for Computing Machinery (ACM) Special Interest Group in High Performance Computing (SIGHPC)   
+2021-2023 | *HOPE Scholarship*, Biomedical Science Careers Program, Harvard Medical School   
+2021-2022 | *HSF Scholar*, Hispanic Scholarship Fund   
+2019–present | *Predoctoral Research Trainee Fellowship*, National Library of Medicine   
+2019-2020 | *Dean’s Fellowship*, Columbia University Vagelos College of Physicians and Surgeons   
+2018 | *Ford Foundation Predoctoral Fellowship Honorable Mention*, National Academies of Sciences, Engineering, and Medicine   
+2018 | *Partners in Excellence Award for Leadership and Innovation*, Partners HealthCare   
+2018 | *Ruth and William Silen MD Award, Third Prize*, New England Science Symposium   
+2016-2018 | *Merit Scholarship*, Johns Hopkins Bloomberg School of Public Health   
+2016 | *LGBTQ Leadership Award*, Brigham Health   
+2015 | *Brigham Way honoree*, Brigham and Women’s Hospital   
+2015 | *Practice-Based Research Network Conference Travel Scholarship*, North American Primary Care Research Group   
+2014 | *Partners in Excellence Award for Quality Treatment and Service*, Partners HealthCare   
+2014 | *Outstanding Quality and Patient Safety Oral Presentation Award*, Society of General Internal Medicine   
+2012 | *Partners in Excellence Award for Leadership and Innovation*, Partners HealthCare   
+2004 | *Mellon Forum Undergraduate Thesis Research Funding Award*, Yale University   
 
 # Education of Patients and Service to the Community   
 
