@@ -18,7 +18,7 @@ Prior to pursuing a career in medical informatics and health services research, 
 *Doctor of Philosophy* in Biomedical Informatics, Expected May 2024   
 *Master of Arts* in Biomedical Informatics, 2021 (GPA: 4.0)   
 *Advisor:* Noémie Elhadad, PhD   
-Coursework includes: Intelligent Decision Systems, Computational Methods, Symbolic Methods, Statistical Methods for Causal Inference, Natural Language Processing, Programming and Statistics
+Coursework includes: Intelligent Decision Systems, Computational Methods, Symbolic Methods, Natural Language Processing, Computer Applications in Health Care, Programming and Statistics
 
 [**Beijing Language and Culture University, Beijing, China**](http://english.blcu.edu.cn/){:target="_blank"}  
 北京语言大学, 北京, 中国  
