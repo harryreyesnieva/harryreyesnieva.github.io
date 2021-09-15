@@ -128,25 +128,25 @@ Medical Care
 
 # Education of Patients and Service to the Community   
 
-2021 | **COVID-19 Vaccination Effort, New York Presbyterian Hospital** <br> Armory Volunteer <br> Verify patients have scheduled appointments prior to entrance, check patients in for visit via Epic system, schedule follow-up visits for second dose administration, and assist with traffic flow as patients move through the vaccination process.
-2020-present | **Columbia DBMI Summer Research Program** <br> Co-organizer<br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduates. Serve as an instructor during an intensive data science bootcamp for summer students.
-2018 | **Queer Health Hackathon** <br> Co-organizer <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.
-2013-2016 | **Human Rights Commission, City of Cambridge** <br> Vice Chair (2015-2016) <br> Commissioner (2013-2016) <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliation to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.
-2006-2016 | **Boston Medical Reserve Corps** <br> Emergency Medical Technician <br> The Boston Medical Reserve Corps is a group of volunteers who are ready to respond should there be a public health emergency in Boston.
-2007 | **Timmy Global Health**, Dominican Republic <br> Medical Relief Volunteer <br> Helped establish temporary medical clinics along Haiti-Dominican Republic border; triaged patients, managed pharmacy, translated proper drug use and application.
-2001-2005 | **Latino Youth Enrichment Team** (LYET), New Haven, CT <br> Co-Director <br> Managed community center mentorship program and developed instructional methods for Latino youth ranging in age from 6 through 13.
+2021 | **COVID-19 Vaccination Effort, New York Presbyterian Hospital** <br> *Armory Volunteer* <br> Verify patients have scheduled appointments prior to entrance, check patients in for visit via Epic system, schedule follow-up visits for second dose administration, and assist with traffic flow as patients move through the vaccination process.
+2020-present | **Columbia DBMI Summer Research Program** <br> *Co-organizer* <br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduates. Serve as an instructor during an intensive data science bootcamp for summer students.
+2018 | **Queer Health Hackathon** <br> *Co-organizer* <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.
+2013-2016 | **Human Rights Commission, City of Cambridge** <br> *Vice Chair (2015-2016)* <br> *Commissioner (2013-2016)* <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliation to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.
+2006-2016 | **Boston Medical Reserve Corps** <br> *Emergency Medical Technician* <br> The Boston Medical Reserve Corps is a group of volunteers who are ready to respond should there be a public health emergency in Boston.
+2007 | **Timmy Global Health**, Dominican Republic <br> *Medical Relief Volunteer* <br> Helped establish temporary medical clinics along Haiti-Dominican Republic border; triaged patients, managed pharmacy, translated proper drug use and application.
+2001-2005 | **Latino Youth Enrichment Team** (LYET), New Haven, CT <br> *Co-Director* <br> Managed community center mentorship program and developed instructional methods for Latino youth ranging in age from 6 through 13.
 
 # Other Experience   
 
-2010-2012 | Data Quality Assurance Manager, Harvard/US President’s Emergency Plan for AIDS Relief (PEPFAR), Boston, MA
-2008-2010 | Data, Training, and Education Coordinator, Harvard/US President’s Emergency Plan for AIDS Relief (PEPFAR), Boston, MA
-2006-2007 | Emergency Medical Technician, Tufts Emergency Medical Services, Medford, MA
-2004-2005 | Client Outreach Officer, Advanced Strategies for Healthcare Access, New Haven, CT
-2003-2004 | Editorial Assistant/Contributor, Yale Medicine Magazine, New Haven, CT
-2003 | Paralegal, Raymond B. Schwartzberg & Associates, New York, NY
-2001-2002 | Client Advocate, Student Health Outreach (SHOut), New Haven, CT, 2001-2002
-2000-2001 | Library Clerk, Yale University, Sterling Memorial Library
-2000-2001 | Program Assistant, Yale University, International Affairs Council, New Haven, CT
+2010-2012 | *Data Quality Assurance Manager*, Harvard/US President’s Emergency Plan for AIDS Relief (PEPFAR), Boston, MA
+2008-2010 | *Data, Training, and Education Coordinator*, Harvard/US President’s Emergency Plan for AIDS Relief (PEPFAR), Boston, MA
+2006-2007 | *Emergency Medical Technician*, Tufts Emergency Medical Services, Medford, MA
+2004-2005 | *Client Outreach Officer*, Advanced Strategies for Healthcare Access, New Haven, CT
+2003-2004 | *Editorial Assistant/Contributor*, Yale Medicine Magazine, New Haven, CT
+2003 | *Paralegal*, Raymond B. Schwartzberg & Associates, New York, NY
+2001-2002 | *Client Advocate*, Student Health Outreach (SHOut), New Haven, CT, 2001-2002
+2000-2001 | *Library Clerk*, Yale University, Sterling Memorial Library
+2000-2001 | *Program Assistant*, Yale University, International Affairs Council, New Haven, CT
 
 # Computer and Language Skills   
 **Computing** Python, SQL, Unix, bash, git, R, SAS, LaTex, HTML, CSS, ArcGIS, QGIS, SaTScan 
