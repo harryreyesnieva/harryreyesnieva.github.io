@@ -18,7 +18,7 @@ nav_order: 5
 
 2. **Reyes Nieva H** and Elhadad N. Latent Topics and Trends in Health Disparities Literature. Poster presentation. National Library of Medicine Informatics Training Conference. 06/2021.
 
-3. Pang C, **Reyes Nieva H**, Chen R, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Oral Presentation. American Medical Informatics Association Annual Symposium. 11/2020.
+3. Pang C, Chen R, **Reyes Nieva H**, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Oral Presentation. American Medical Informatics Association Annual Symposium. 11/2020.
 
 4. Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, **Reyes Nieva H**, Bearnot B, Streed C. Using patterns of missing EHR data to identify care disparities in gender diverse patients. Oral Presentation. APHA Annual Meeting and Expo. 10/2020.
 
