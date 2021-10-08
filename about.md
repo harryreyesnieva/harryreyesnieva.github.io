@@ -51,7 +51,7 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 
 # Teaching Experience   
 
-Spring 2022 | *Teaching Assistant*, BINF G5000 Defining, Evaluating, and Improving Quality in Healthcare, Columbia University, New York, NY
+Spring 2022 | *Teaching Assistant*, BINF G4008 Interrogating Justice and Ethics in Digital Health, Columbia University, New York, NY
 Spring 2021 | *Preceptor in Clinical Informatics*, INTC M7210 Mechanisms and Practice, Columbia Vagelos College of Physicians and Surgeons, New York, NY
 Fall 2020 | *Teaching Assistant*, BINF G4011 Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
 Summer 2017 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
