@@ -14,17 +14,19 @@ nav_order: 5
 
 **National**
 
-1. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association. San Diego, CA; 11/2021.   
+1. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association. San Diego, CA; 11/2021.
 
-2. **Reyes Nieva H** and Elhadad N. Latent Topics and Trends in Health Disparities Literature. Poster presentation. National Library of Medicine Informatics Training Conference. 06/2021.
+2. Sun TY, Chen JL, **Reyes Nieva H**, Bear Don't Walk IV OJ, Altosaar J, Elhadad N. Examining Gender Differences in Time to Diagnosis through Fairness and Time-Variant Evaluation of EHR Data. Oral Presentation. American Medical Informatics Association. San Diego, CA; 11/2021.  
 
-3. Pang C, Chen R, **Reyes Nieva H**, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Oral Presentation. American Medical Informatics Association Annual Symposium. 11/2020.
+3. **Reyes Nieva H** and Elhadad N. Latent Topics and Trends in Health Disparities Literature. Poster presentation. National Library of Medicine Informatics Training Conference. 06/2021.
 
-4. Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, **Reyes Nieva H**, Bearnot B, Streed C. Using patterns of missing EHR data to identify care disparities in gender diverse patients. Oral Presentation. APHA Annual Meeting and Expo. 10/2020.
+4. Pang C, Chen R, **Reyes Nieva H**, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Oral Presentation. American Medical Informatics Association Annual Symposium. 11/2020.
 
-5. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. 06/2020.
+5. Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, **Reyes Nieva H**, Bearnot B, Streed C. Using patterns of missing EHR data to identify care disparities in gender diverse patients. Oral Presentation. APHA Annual Meeting and Expo. 10/2020.
 
-6. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
+6. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. 06/2020.
+
+7. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
 
 8. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
 
@@ -41,11 +43,9 @@ nav_order: 5
 
 2. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis. Poster presentation. Machine Learning for Health (ML4Health) Workshop at the Conference on Neural Information Processing Systems (NeurIPS). 12/2020.
 
-3. **Reyes Nieva H**, Volodarskaya M, Wright A, Singh H, Ruan E, Schiff GD. Diagnostic Pitfalls: A New Approach to Understand and Prevent Diagnostic Error. Poster presentation. Society to Improve Diagnosis in Medicine 9th International Conference. Hollywood, CA; 11/2016.
+3. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
 
-4. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
-
-5. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
+4. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
 
 # Report of Invited Teaching and Presentations
 *No presentations below were sponsored by outside entities.*
