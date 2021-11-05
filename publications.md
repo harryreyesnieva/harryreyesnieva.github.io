@@ -6,7 +6,7 @@ nav_order: 4
 ---
 # Peer reviewed publications in print or other media
 
-1. Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Diagnostic Pitfalls: A New Construct to Anticipate and Prevent Diagnostic Errors. *JAMA Network Open.* In press.
+1. Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Diagnostic Pitfalls: Characterizing Clinical Situations Vulnerable to Diagnostic Errors. *JAMA Network Open.* In press.   
 
 2. Groisser A, **Reyes Nieva H**, Ruan E, Wright A, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics. *J Gen Intern Med.* 2021 May 04.   
    [PMID:33948801](https://pubmed.ncbi.nlm.nih.gov/33948801/){:target="_blank"}
