@@ -98,8 +98,9 @@ Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard 
 
 # Editorial Activities   
 
-*Student Editorial Board*   
-Journal of the American Medical Informatics Association
+*Editorial Roles*   
+2021-present | Student Editorial Board Member, Journal of the American Medical Informatics Association   
+2022-present | Journal Club Manager, Journal of the American Medical Informatics Association    
 
 *Ad hoc Reviewer*  
 Health Services Research  
@@ -149,6 +150,6 @@ Medical Care
 2000-2001 | *Program Assistant*, Yale University, International Affairs Council, New Haven, CT
 
 # Computer and Language Skills   
-**Computing** Python, SQL, Unix, bash, git, R, SAS, LaTex, HTML, CSS, ArcGIS, QGIS, SaTScan 
+**Computing** Python, R, SAS, SQL, Unix, bash, git, LaTex, HTML, CSS, ArcGIS, QGIS, SaTScan 
 
 **Languages** English, Spanish, Mandarin (beginner)
