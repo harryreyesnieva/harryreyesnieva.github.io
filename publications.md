@@ -41,8 +41,8 @@ nav_order: 4
    <div data-badge-popover="right" data-badge-type="2" data-pmid="31511070" data-hide-no-mentions="true" class="altmetric-embed"></div>
     
 10. Schiff GD, **Reyes Nieva H**, Griswold P, Leydon N, Ling J, Federico F, Keohane C, Ellis BR, Foskett C, Orav EJ, Yoon C, Goldmann D, Weissman JS, Bates DW, Biondolillo M, Singer SJ. Randomized Trial of Reducing Ambulatory Malpractice and Safety Risk: Results of the Massachusetts PROMISES Project. *Med Care.* 2017 08; 55(8):797-805.   
-   [PMID:28650922](https://www.ncbi.nlm.nih.gov/pubmed/28650922){:target="_blank"}   
-   <div data-badge-popover="right" data-badge-type="2" data-pmid="28650922" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    [PMID:28650922](https://www.ncbi.nlm.nih.gov/pubmed/28650922){:target="_blank"}   
+    <div data-badge-popover="right" data-badge-type="2" data-pmid="28650922" data-hide-no-mentions="true" class="altmetric-embed"></div>
     
 11. Schiff GD, **Reyes Nieva H**, Griswold P, Leydon N, Ling J, Biondolillo M, Singer SJ. Addressing Ambulatory Safety and Malpractice: The Massachusetts PROMISES Project. *Health Serv Res.* 2016 12; 51 Suppl 3:2634-2641.   
     [PMID:27892623](https://www.ncbi.nlm.nih.gov/pubmed/27892623){:target="_blank"}   
