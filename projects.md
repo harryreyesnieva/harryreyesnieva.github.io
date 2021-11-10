@@ -10,13 +10,13 @@ nav_order: 3
 Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
 Given the vast wealth of literature regarding health disparities and minority health (HDMH) and limitations placed on scale and scope when performing traditional manual review, computational methods are useful for conducting large-scale assessments. We aim to leverage natural language processing and machine learning methods to perform a comprehensive scoping review and characterize major topics found in the HDMH literature, examine change in topic mention over time, identify any notable gaps in coverage, and derive actionable insights for further inquiry.
 
+**Differential Presentation and Delays in Care for Acute Myocardial Infarction**   
+Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
+We aim to measure and characterize differences in presentation and treatment of acute myocardial infarction (AMI) using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on demographics. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients, lengths of time to treatment, and resulting impact on patient outcomes.
+
 **Exploring Gender Disparities in Time to Diagnosis**   
 Co-investigator, *Advisor: No&eacute;mie Elhadad, PhD*   
 Sex and gender-based healthcare disparities contribute to differences in health outcomes. Focusing on time to diagnosis (TTD), we are conducting two large-scale, complementary analyses among men and women across over 100 diseases and millions of patients. We further explore how TTD disparities affect diagnostic performance between genders, both across and persistent to time, by evaluating gender-agnostic disease classifiers across increasing diagnostic information.   
-
-**Delays in Care and Differential Presentation of Acute Myocardial Infarction**   
-Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
-We aim to measure and characterize differences in presentation and treatment of acute myocardial infarction (AMI) using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on demographics. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients, lengths of time to treatment, and resulting impact on patient outcomes.
 
 **Recognizing and Normalizing Condition Concepts with Severity Modifiers**  
 Co-investigator, *Advisor: Chunhua Weng, PhD*  
