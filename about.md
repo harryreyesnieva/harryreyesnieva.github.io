@@ -9,13 +9,16 @@ nav_order: 2
 PhD Student in Biomedical Informatics, Columbia University    
 Visiting Postgraduate Research Fellow in Medicine, Harvard Medical School   
 
-[**Curriculum vitae**](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"} &#124; [**Google Scholar Page**](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"} &#124; [**Harvard Catalyst Page**](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}   
+<p align="center">   
+[**Curriculum vitae**](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"} &#124; [**Google Scholar Page**](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"} &#124; [**Harvard Catalyst Page**](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}</p>   
    
-My primary research area leverages machine learning and natural language processing to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28). I am also the recipient of a [Computational and Data Science Fellowship](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"} from the [Association for Computing Machinery](https://www.acm.org/){:target="_blank"} (ACM) [Special Interest Group in High Performance Computing](https://www.sighpc.org/home){:target="_blank"} (SIGHPC).
+My primary research area leverages machine learning and natural language processing to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. 
 
-Over the years, I have been very fortunate to have many [excellent mentors](/mentors). Before starting my PhD program, I held a number of positions at [Brigham and Women's Hospital](https://www.brighamandwomens.org){:target="_blank"} (BWH), <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a> (HMS), and the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/){:target="_blank"} (HSPH). While at BWH and HMS, I served on more than a dozen [research studies](/projects)  and would eventually develop my own projects with generous support from <a href="https://catalyst.harvard.edu/" target="_blank">Harvard Catalyst</a>, the Clinical and Translational Science Awards (CTSA) Program, funded by the <a href="https://ncats.nih.gov/" target="_blank">NIH National Center for Advancing Translational Sciences</a> (NCATS). 
+As a first generation college graduate, I have benefitted greatly from many [excellent mentors](/mentors). I am also an active mentor/mentee through the [Biomedical Sciences Careers Program](https://www.bscp.org/){:target="_blank"} at Harvard Medical School and [DBMI Summer Research Program](https://www.dbmi.columbia.edu/summer/){:target="_blank"} at Columbia University. Before starting my PhD program, I held a number of positions at [Brigham and Women's Hospital](https://www.brighamandwomens.org){:target="_blank"} (BWH), [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"} (HMS), and the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/){:target="_blank"} (HSPH). While at BWH and HMS, I served on more than a dozen [research studies](/projects) and would eventually develop my own projects with generous support from [Harvard Catalyst](https://catalyst.harvard.edu/){:target="_blank"}, the Clinical and Translational Science Awards (CTSA) Program, funded by the [NIH National Center for Advancing Translational Sciences](https://ncats.nih.gov/){:target="_blank"} (NCATS).  
 
-Prior to pursuing a career in medical informatics and health services research, I was a member of the Strategic Information division of the <a href="https://www.state.gov/pepfar/" target="_blank">U.S. President’s Emergency Plan for AIDS Relief</a> (PEPFAR) at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a> which aimed to rapidly expand antiretroviral therapy (ART) treatment and care programs for people living with HIV/AIDS in sub-Saharan Africa. As Data Quality Assurance Manager for the Nigeria country program, my focus was scale-up and transition of data quality improvement and assurance activities nationwide. In this capacity, I worked closely with in-country quality improvement, monitoring and evaluation, and clinical specialists while developing or modifying pediatric and adult quality improvement dashboards and monitoring and evaluation tools. My division reported to the <a href="http://www.hrsa.gov/" target="_blank">U.S. Health Resources and Services Administration</a> (HRSA), <a href="https://www.state.gov/pepfar/" target="_blank">U.S. Centers for Disease Control and Prevention</a> (CDC), and <a href="https://data.unaids.org/pub/report/2010/nigeria_2010_country_progress_report_en.pdf" target="_blank">United Nations General Assembly Special Session</a> (UNGASS) on HIV/AIDS.
+Prior to pursuing a career in biomedical informatics and health services research, I was a member of the Strategic Information division of the [U.S. President’s Emergency Plan for AIDS Relief](https://www.state.gov/pepfar/){:target="_blank"} (PEPFAR) at [Harvard University](https://www.harvard.edu/){:target="_blank"} which aimed to rapidly expand antiretroviral therapy (ART) treatment and care programs for people living with HIV/AIDS in sub-Saharan Africa. As Data Quality Assurance Manager for the Nigeria country program, my focus was scale-up and transition of data quality improvement and assurance activities nationwide. In this capacity, I worked closely with in-country quality improvement, monitoring and evaluation, and clinical specialists while developing or modifying pediatric and adult quality improvement dashboards and monitoring and evaluation tools. My division reported to the [U.S. Health Resources and Services Administration](http://www.hrsa.gov/){:target="_blank"} (HRSA), [U.S. Centers for Disease Control and Prevention](https://www.state.gov/pepfar/){:target="_blank"} (CDC), and [United Nations General Assembly Special Session](https://data.unaids.org/pub/report/2010/nigeria_2010_country_progress_report_en.pdf){:target="_blank"} (UNGASS) on HIV/AIDS.
+
+My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28). I am also the recipient of a [Computational and Data Science Fellowship](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"} from the [Association for Computing Machinery](https://www.acm.org/){:target="_blank"} (ACM) [Special Interest Group in High Performance Computing](https://www.sighpc.org/home){:target="_blank"} (SIGHPC).
 
 # Education  
 [**Columbia University in the City of New York, New York, NY**](https://www.columbia.edu/){:target="_blank"}  
@@ -63,6 +66,38 @@ Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard 
 2005–2006 | *Teacher, English-as-a-Second-Language*, New York City Board of Education/New York City Teaching Fellows, New York, NY
 2000-2001 | *Reading Tutor (work study)*, America Reads, New Haven, CT
 
+# Editorial Activities   
+
+*Editorial Roles*   
+2021-present | Journal of the American Medical Informatics Association
+ &nbsp; | 2021-present, Editorial Board, Student Member
+ &nbsp; | 2022-present, Journal Club Manager
+
+*Ad hoc Reviewer*  
+Health Services Research  
+JAMA Network Open  
+Journal of General Internal Medicine  
+Medical Care
+
+# Honors   
+
+2021-2024 | *Computational and Data Science Fellowship*, Association for Computing Machinery (ACM) Special Interest Group in High Performance Computing (SIGHPC)   
+2021-2023 | *HOPE Scholarship*, Biomedical Science Careers Program, Harvard Medical School   
+2021-2022 | *HSF Scholar*, Hispanic Scholarship Fund   
+2019–present | *Predoctoral Research Trainee Fellowship*, National Library of Medicine   
+2019-2020 | *Dean’s Fellowship*, Columbia University Vagelos College of Physicians and Surgeons   
+2018 | *Ford Foundation Predoctoral Fellowship Honorable Mention*, National Academies of Sciences, Engineering, and Medicine   
+2018 | *Partners in Excellence Award for Leadership and Innovation*, Partners HealthCare   
+2018 | *Ruth and William Silen MD Award, Third Prize*, New England Science Symposium   
+2016-2018 | *Merit Scholarship*, Johns Hopkins Bloomberg School of Public Health   
+2016 | *LGBTQ Leadership Award*, Brigham Health   
+2015 | *Brigham Way honoree*, Brigham and Women’s Hospital   
+2015 | *Practice-Based Research Network Conference Travel Scholarship*, North American Primary Care Research Group   
+2014 | *Partners in Excellence Award for Quality Treatment and Service*, Partners HealthCare   
+2014 | *Outstanding Quality and Patient Safety Oral Presentation Award*, Society of General Internal Medicine   
+2012 | *Partners in Excellence Award for Leadership and Innovation*, Partners HealthCare   
+2004 | *Mellon Forum Undergraduate Thesis Research Funding Award*, Yale University   
+
 # Committee Service   
 
 2021-present | *Toward Diversity, Equity, and Inclusion in Informatics, Health Care, and Society Seminar Series Planning Committee*, Columbia University
@@ -99,37 +134,6 @@ Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard 
 2014–present | *Member*, American Medical Informatics Association <br> *Special Interest Groups:* Clinical Decision Support; Ethics, Legal, and Social Issues; Knowledge Discovery and Data Mining; Natural Language Processing<br> *Abstract Reviewer,* Annual Symposium (2014–present) <br> *Mentor,* AMIA High School Scholars Program (2019-present)
 2012–2014 | *Member*, American Public Health Association <br> *Special Interest Groups:* Medical Care, Health Informatics Information Technology  
 2012–2014 | *Member*, AcademyHealth
-
-# Editorial Activities   
-
-*Editorial Roles*   
-2021-present | Student Editorial Board Member, Journal of the American Medical Informatics Association   
-2022-present | Journal Club Manager, Journal of the American Medical Informatics Association    
-
-*Ad hoc Reviewer*  
-Health Services Research  
-JAMA Network Open  
-Journal of General Internal Medicine  
-Medical Care
-
-# Honors   
-
-2021-2024 | *Computational and Data Science Fellowship*, Association for Computing Machinery (ACM) Special Interest Group in High Performance Computing (SIGHPC)   
-2021-2023 | *HOPE Scholarship*, Biomedical Science Careers Program, Harvard Medical School   
-2021-2022 | *HSF Scholar*, Hispanic Scholarship Fund   
-2019–present | *Predoctoral Research Trainee Fellowship*, National Library of Medicine   
-2019-2020 | *Dean’s Fellowship*, Columbia University Vagelos College of Physicians and Surgeons   
-2018 | *Ford Foundation Predoctoral Fellowship Honorable Mention*, National Academies of Sciences, Engineering, and Medicine   
-2018 | *Partners in Excellence Award for Leadership and Innovation*, Partners HealthCare   
-2018 | *Ruth and William Silen MD Award, Third Prize*, New England Science Symposium   
-2016-2018 | *Merit Scholarship*, Johns Hopkins Bloomberg School of Public Health   
-2016 | *LGBTQ Leadership Award*, Brigham Health   
-2015 | *Brigham Way honoree*, Brigham and Women’s Hospital   
-2015 | *Practice-Based Research Network Conference Travel Scholarship*, North American Primary Care Research Group   
-2014 | *Partners in Excellence Award for Quality Treatment and Service*, Partners HealthCare   
-2014 | *Outstanding Quality and Patient Safety Oral Presentation Award*, Society of General Internal Medicine   
-2012 | *Partners in Excellence Award for Leadership and Innovation*, Partners HealthCare   
-2004 | *Mellon Forum Undergraduate Thesis Research Funding Award*, Yale University   
 
 # Education of Patients and Service to the Community   
 
