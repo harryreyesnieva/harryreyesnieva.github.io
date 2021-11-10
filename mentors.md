@@ -5,7 +5,7 @@ permalink: /mentors/
 nav_exclude: true
 ---
 
-As a first generation college graduate, I have benefited greatly from many [excellent mentors](/mentors) in my academic and personal journey. I am also an active mentor/mentee through the [Biomedical Sciences Careers Program](https://www.bscp.org/) at Harvard Medical School and [DBMI Summer Research Program](https://www.dbmi.columbia.edu/summer/) at Columbia University. A few of my mentors are listed below in reverse chronological order from when mentorship first began. 
+As a first generation college graduate, I have benefited greatly from many [excellent mentors](/mentors) in my academic and personal journey. I am also an active mentor/mentee through the [Biomedical Science Careers Program](https://www.bscp.org/) at Harvard Medical School and [DBMI Summer Research Program](https://www.dbmi.columbia.edu/summer/) at Columbia University. A few of my mentors are listed below in reverse chronological order from when mentorship first began. 
 <br>
 <br>
 <img style="float:right" src="/assets/img/lena-mamykina.jpg" height="250"  color="gray" hspace="10"/>
