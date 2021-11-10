@@ -4,17 +4,13 @@ title: About
 permalink: /about/
 nav_order: 2
 ---
-[**Curriculum vitae**](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"} &#124; [**Google Scholar Page**](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"} &#124; [**Harvard Catalyst Page**](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}  
 
 **Harry Reyes Nieva, MAS, MA**   
 PhD Student in Biomedical Informatics, Columbia University    
-Visiting Postgraduate Research Fellow in Medicine, Harvard Medical School
+Visiting Postgraduate Research Fellow in Medicine, Harvard Medical School   
 
-New York-Presbyterian Hospital   
-622 West 168th Street, PH20-WS6   
-New York, New York 10032   
-harry.reyes_columbia.edu   
-  
+[**Curriculum vitae**](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"} &#124; [**Google Scholar Page**](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"} &#124; [**Harvard Catalyst Page**](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}   
+   
 My primary research area leverages machine learning and natural language processing to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28). I am also the recipient of a [Computational and Data Science Fellowship](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"} from the [Association for Computing Machinery](https://www.acm.org/){:target="_blank"} (ACM) [Special Interest Group in High Performance Computing](https://www.sighpc.org/home){:target="_blank"} (SIGHPC).
 
 Over the years, I have been very fortunate to have many [excellent mentors](/mentors). Before starting my PhD program, I held a number of positions at [Brigham and Women's Hospital](https://www.brighamandwomens.org){:target="_blank"} (BWH), <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a> (HMS), and the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/){:target="_blank"} (HSPH). While at BWH and HMS, I served on more than a dozen [research studies](/projects)  and would eventually develop my own projects with generous support from <a href="https://catalyst.harvard.edu/" target="_blank">Harvard Catalyst</a>, the Clinical and Translational Science Awards (CTSA) Program, funded by the <a href="https://ncats.nih.gov/" target="_blank">NIH National Center for Advancing Translational Sciences</a> (NCATS). 
