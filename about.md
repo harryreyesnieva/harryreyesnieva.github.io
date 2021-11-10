@@ -5,7 +5,7 @@ permalink: /about/
 nav_order: 2
 ---
 
-Harry Reyes Nieva, MAS, MA
+Harry Reyes Nieva, MAS, MA   
 [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/)     
 [Columbia University in the City of New York](http://www.columbia.edu/)   
 622 West 168th Street, PH20   
