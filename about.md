@@ -8,9 +8,8 @@ nav_order: 2
 **Harry Reyes Nieva, MAS, MA**   
 PhD Student in Biomedical Informatics, Columbia University    
 Visiting Postgraduate Research Fellow in Medicine, Harvard Medical School   
-
-<p align="center">   
-[**Curriculum vitae**](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"} &#124; [**Google Scholar Page**](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"} &#124; [**Harvard Catalyst Page**](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}</p>   
+  
+[**Curriculum vitae**](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"} &#124; [**Google Scholar Page**](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"} &#124; [**Harvard Catalyst Page**](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}   
    
 My primary research area leverages machine learning and natural language processing to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. 
 
