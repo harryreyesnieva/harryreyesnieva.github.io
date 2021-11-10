@@ -6,16 +6,19 @@ nav_order: 3
 ---
 # Current Projects   
 
-&nbsp;|**A Computational Scoping Review and Gap Analysis of Health Disparities and Minority Health Literature, 1975-2020**   
+**A Computational Scoping Review and Gap Analysis of Health Disparities and Minority Health Literature, 1975-2020**   
 Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
 Given the vast wealth of literature regarding health disparities and minority health (HDMH) and limitations placed on scale and scope when performing traditional manual review, computational methods are useful for conducting large-scale assessments. We aim to leverage natural language processing and machine learning methods to perform a comprehensive scoping review and characterize major topics found in the HDMH literature, examine change in topic mention over time, identify any notable gaps in coverage, and derive actionable insights for further inquiry.
-&nbsp;|**Exploring Gender Disparities in Time to Diagnosis**   
+
+**Exploring Gender Disparities in Time to Diagnosis**   
 Co-investigator, *Advisor: No&eacute;mie Elhadad, PhD*   
 Sex and gender-based healthcare disparities contribute to differences in health outcomes. Focusing on time to diagnosis (TTD), we are conducting two large-scale, complementary analyses among men and women across over 100 diseases and millions of patients. We further explore how TTD disparities affect diagnostic performance between genders, both across and persistent to time, by evaluating gender-agnostic disease classifiers across increasing diagnostic information.   
-&nbsp;|**Delays in Care and Differential Presentation of Acute Myocardial Infarction**   
+
+**Delays in Care and Differential Presentation of Acute Myocardial Infarction**   
 Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
 We aim to measure and characterize differences in presentation and treatment of acute myocardial infarction (AMI) using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on demographics. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients, lengths of time to treatment, and resulting impact on patient outcomes.
-&nbsp;|**Recognizing and Normalizing Condition Concepts with Severity Modifiers**  
+
+**Recognizing and Normalizing Condition Concepts with Severity Modifiers**  
 Co-investigator, *Advisor: Chunhua Weng, PhD*  
 The presence of qualifiers such as severity or disease stage complicate the recognition and normalization of biomedical concepts from free text. A single concept can often be mapped to a terminology in multiple ways. Our problem is motivated by inconsistent recognition of disease conditions in Criteria2Query (C2Q), a tool for exploring clinical trial inclusion and exclusion criteria. We are developing a novel two-step, ontology-aware mapping scheme that is optimized for extracting disease concepts at a high level of specificity. 
 
