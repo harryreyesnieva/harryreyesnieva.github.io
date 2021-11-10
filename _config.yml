@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Harry Reyes Nieva
-email: harry dot reyes at columbia dot edu
+email: harry.reyes_at_columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a PhD student in the Department of Biomedical Informatics at 
-  Columbia University in the City of New York. My primary research 
-  area involves leveraging artificial intelligence to promote health 
+  Columbia University in the City of New York. My research
+  leverages artificial intelligence to promote health
   equity, improve the quality and safety of patient care, and support 
   knowledge discovery in medicine.
 baseurl: "" # the subpath of your site, e.g. /blog
