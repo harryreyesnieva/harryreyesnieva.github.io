@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 nav_order: 2
 ---
-[Curriculum vitae \[PDF\]](/assets/docs/CV_HReyesNieva.pdf){:target="_blank" align="right"}  
-[Google Scholar](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"}  
+
+#### Contact Information
+
+Harry Reyes Nieva, PhD Student   
+[Department of Biomedical Informatics](https://www.dbmi.columbia.edu/)     
+[Columbia University in the City of New York](http://www.columbia.edu/)   
+622 West 168th Street, PH20   
+New York, New York 10032   
+
+[**Curriculum vitae**](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"} | [Google Scholar Page](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"} | [Harvard Catalyst Page](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}  
   
 My primary research area leverages machine learning and natural language processing to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. My PhD is funded by the <a href="https://www.nlm.nih.gov/" target="_blank">National Library of Medicine</a> through a Biomedical Informatics and Data Science Research training grant (T15LM007079-28). I am also the recipient of a [Computational and Data Science Fellowship](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"} from the [Association for Computing Machinery](https://www.acm.org/){:target="_blank"} (ACM) [Special Interest Group in High Performance Computing](https://www.sighpc.org/home){:target="_blank"} (SIGHPC).
 
@@ -25,7 +33,7 @@ Coursework includes: Intelligent Decision Systems, Computational Methods, Symbol
 *Summer Student*, Intensive Mandarin, 2019  
 
 [**Johns Hopkins Bloomberg School of Public Health, Baltimore, MD**](https://www.jhsph.edu/){:target="_blank"}   
-*Master of Applied Science* in Spatial Analysis, 2019   
+*Master of Applied Science* in Spatial Analysis, 2019  
 Advisor: Frank Curriero, PhD   
 Thesis: Spatio-temporal modeling of opioid prescribing and persistent opioid use, 2000-2018  
 Coursework included: Biostatistics, Spatial Statistics, Epidemiology, Spatial Data Technologies  
