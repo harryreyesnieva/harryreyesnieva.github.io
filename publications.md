@@ -8,8 +8,8 @@ nav_order: 4
 
 1. Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Diagnostic Pitfalls: Characterizing Clinical Situations Vulnerable to Diagnostic Errors. *JAMA Network Open.* In press.   
 
-2. <div data-badge-popover="right" data-badge-type="donut" data-pmid="33948801" data-hide-no-mentions="true" class="altmetric-embed"></div>Groisser A, **Reyes Nieva H**, Ruan E, Wright A, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics. *J Gen Intern Med.* 2021 May 04.   
-   [PMID:33948801](https://pubmed.ncbi.nlm.nih.gov/33948801/){:target="_blank"}
+2. <div data-badge-popover="right" data-badge-type="donut" data-pmid="33948801" data-hide-no-mentions="true" class="altmetric-embed">Groisser A, **Reyes Nieva H**, Ruan E, Wright A, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics. *J Gen Intern Med.* 2021 May 04.   
+   [PMID:33948801](https://pubmed.ncbi.nlm.nih.gov/33948801/){:target="_blank"}</div>
 
 3. <div data-badge-popover="right" data-badge-type="donut" data-pmid="33927025" data-hide-no-mentions="true" class="altmetric-embed"></div>Schnipper JL, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. Effects of a Refined Evidence-based Toolkit and Mentored Implementation on Medication Reconciliation at Eighteen Hospitals: Results of the MARQUIS2 Study. *BMJ Qual Saf.* 2021 Apr 29.   
    [PMID:33927025](https://www.ncbi.nlm.nih.gov/pubmed/33927025){:target="_blank"}
