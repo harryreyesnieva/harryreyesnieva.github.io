@@ -50,7 +50,7 @@ Agency for Healthcare Research and Quality (AHRQ) R21 HS 024587-01
 Project Manager/Statistical Programmer (PI: Schnipper)  
 Aim: To implement a smart pillbox intervention for patients discharged from the hospital to the community and to evaluate the effects of the intervention on post-discharge medication discrepancies, medication adherence, and chronic disease management.
 
-**Implementation of a Medication Reconciliation Protocol to Improve Patient Safety** 
+**Implementation of a Medication Reconciliation Protocol to Improve Patient Safety**   
 Agency for Healthcare Research and Quality (AHRQ) R18 HS 023757-01A1  
 Project Manager/Statistical Programmer (PI: Schnipper)    
 Aim: The long-term objective of this research is to widely disseminate, implement, and evaluate sustainable medication reconciliation interventions that improve patient safety during care transitions.  
@@ -81,7 +81,8 @@ Principal Investigator ($1,000)
 Aim: To develop the first annual Division-wide retreat for showcasing contributions and promoting career development of research assistants in the Division of General Internal Medicine and Primary Care at Brigham and Women's Hospital.  
   
 **Patient Outcomes Associated with Year-End Departure of Resident Primary Care Physicians**  
-Support for Excellence in Educational Development (SEED) Grant, BWH Co-Investigator/Statistical Programmer (PI: Solomon)  
+Support for Excellence in Educational Development (SEED) Grant, BWH   
+Co-Investigator/Statistical Programmer (PI: Solomon)   
 Aim: To investigate whether acute care utilization is increased disproportionately among patients of graduating resident physicians compared to non-graduating residents.  
   
 **Acute Respiratory Infection Telephone Management Service**  
@@ -116,15 +117,15 @@ Aim: To measure and evaluate antiviral and antibiotic prescribing for patients w
 
 # Clinical Innovations
 
-**CovidWatcher** / Co-developer  
+**CovidWatcher** / Co-developer   
 An [app](https://apps.apple.com/us/app/covidwatcher/id1504295590){:target="_blank"} and [online portal](https://covidwatcher.dbmi.columbia.edu/){:target="_blank"} that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.
 
-**Harvard PEPFAR Nigeria Pediatric quality improvement tool** / Co-developer
+**Harvard PEPFAR Nigeria Pediatric quality improvement tool** / Co-developer   
 Co-developed and evaluated a utility to extract information from electronic health record (EHR) data warehouse and generate measures based on 23 pediatric quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Programmed module to review continuity of care, drug therapy initiation, medication adherence, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment or diagnostic evaluation, treatment failure, toxicity management, nutritional assessment, and treatment response.
 
-**Harvard PEPFAR Nigeria Adult quality improvement tool** / Co-developer
+**Harvard PEPFAR Nigeria Adult quality improvement tool** / Co-developer   
 Co-developed and evaluated a utility to extract information from EHR data warehouse and generate measures based on 15 adult quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Module reviews continuity of care, drug therapy initiation, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment, treatment failure, and treatment response.
 
-**Harvard PEPFAR Nigeria Data quality assessment tool, version 2.0** / Co-developer  
+**Harvard PEPFAR Nigeria Data quality assessment tool, version 2.0** / Co-developer   
 Instituted major modifications to and evaluated a pre-existing EHR utility to incorporate expanded data quality indicators at 33 Harvard PEPFAR sites in Nigeria. With this utility, central and site-level data managers are able to better monitor and improve data completeness, validity, accuracy, and currency.
 
