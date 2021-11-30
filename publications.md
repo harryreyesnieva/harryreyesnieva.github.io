@@ -4,9 +4,7 @@ title: Publications
 permalink: /publications/
 nav_order: 4
 ---
-# Peer reviewed publications in print or other media
-
-Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Diagnostic Pitfalls: Characterizing Clinical Situations Vulnerable to Diagnostic Errors. *JAMA Network Open.* In press.   
+# Peer reviewed publications in print or other media  
 
 <div data-badge-popover="right" data-badge-type="donut" data-pmid="33948801" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></div> Groisser A, **Reyes Nieva H**, Ruan E, Wright A, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics. *J Gen Intern Med.* 2021 May 04. [PMID:33948801](https://pubmed.ncbi.nlm.nih.gov/33948801/){:target="_blank"}
 
@@ -58,6 +56,8 @@ Bear Don't Walk OJ IV, **Reyes Nieva H**, Lee SS, Elhadad N. A Scoping Review of
 Schnipper JL, **Reyes Nieva H**, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study. *BMJ Qual Saf.*   
  
 Chabria A, **Reyes Nieva H**, Czado K, Shannon EM, Gaetani R, Gresham M, Cruz Garcia J, Ganesan H, Cerciello E, Dave J, Jain R, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions. *BMC Health Services Research.*   
+
+Sun TY, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng R, Ryan P, Elhadad N. Large-scale characterization of gender-based differences in diagnosis. Science. Under review.
 
 Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? *Jt Comm J Qual Patient Saf.*   
 
