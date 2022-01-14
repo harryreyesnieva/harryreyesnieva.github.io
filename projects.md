@@ -6,7 +6,7 @@ nav_order: 3
 ---
 # Current Projects   
 
-**A Computational Scoping Review and Gap Analysis of Health Disparities and Minority Health Literature, 1975-2020**   
+**A Computational Scoping Review and Gap Analysis of Health Disparities and Minority Health Literature**   
 Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
 Given the vast wealth of literature regarding health disparities and minority health (HDMH) and limitations placed on scale and scope when performing traditional manual review, computational methods are useful for conducting large-scale assessments. We aim to leverage natural language processing and machine learning methods to perform a comprehensive scoping review and characterize major topics found in the HDMH literature, examine change in topic mention over time, identify any notable gaps in coverage, and derive actionable insights for further inquiry.
 
