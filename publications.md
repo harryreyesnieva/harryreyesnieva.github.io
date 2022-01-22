@@ -6,7 +6,7 @@ nav_order: 4
 ---
 # Peer reviewed publications in print or other media  
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1001/jamanetworkopen.2021.44531" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></div> Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Characteristics of Disease-Specific and Generic Diagnostic Pitfalls: A Qualitative Study. *JAMA Netw Open.* 2022;5(1):e2144531. [doi:10.1001/jamanetworkopen.2021.44531](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788285){:target="_blank"}
+<div data-badge-popover="right" data-badge-type="donut" data-pmid="35061037" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></div> Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, **Reyes Nieva H**. Characteristics of Disease-Specific and Generic Diagnostic Pitfalls: A Qualitative Study. *JAMA Netw Open.* 2022;5(1):e2144531. [PMID:35061037](https://pubmed.ncbi.nlm.nih.gov/35061037/){:target="_blank"}
 
 <div data-badge-popover="right" data-badge-type="donut" data-pmid="33948801" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></div> Groisser A, **Reyes Nieva H**, Ruan E, Wright A, Schiff GD. Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics. *J Gen Intern Med.* 2021 May 04. [PMID:33948801](https://pubmed.ncbi.nlm.nih.gov/33948801/){:target="_blank"}
 
