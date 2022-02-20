@@ -63,7 +63,7 @@ Bear Don't Walk OJ IV, **Reyes Nieva H**, Lee SS, Elhadad N. A Scoping Review of
 
 Schnipper JL, **Reyes Nieva H**, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study. *BMJ Qual Saf.*   
  
-Chabria A, **Reyes Nieva H**, Czado K, Shannon EM, Gaetani R, Gresham M, Cruz Garcia J, Ganesan H, Cerciello E, Dave J, Jain R, Schnipper JL. Barriers and Facilitators to Implementing an Electronic Pillbox Intervention During Care Transitions. *BMC Health Services Research.*   
+Chabria A, **Reyes Nieva H**, Czado K, Shannon EM, Gaetani R, Gresham M, Cruz Garcia J, Ganesan H, Cerciello E, Dave J, Jain R, Schnipper JL. Implementing an Electronic Pillbox Intervention to Improve Medication Safety During Care Transitions: Methods and Descriptive Analysis of Barriers to Implementation. *BMC Health Services Research.*   
 
 Sun TY, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng R, Ryan P, Elhadad N. Large-scale characterization of gender-based differences in diagnosis. Science. Under review.
 

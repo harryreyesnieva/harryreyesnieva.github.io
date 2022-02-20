@@ -77,7 +77,7 @@ Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard 
 
 *Ad hoc Reviewer*  
 
-Health Services Research | JAMA Network Open
+Applied Clinical Informatics | JAMA Network Open
 Journal of General Internal Medicine | Medical Care
 
 
