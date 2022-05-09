@@ -18,10 +18,6 @@ We aim to measure and characterize differences in presentation and treatment of 
 Co-investigator, *Advisor: No&eacute;mie Elhadad, PhD*   
 Sex and gender-based healthcare disparities contribute to differences in health outcomes. Focusing on time to diagnosis (TTD), we are conducting two large-scale, complementary analyses among men and women across over 100 diseases and millions of patients. We further explore how TTD disparities affect diagnostic performance between genders, both across and persistent to time, by evaluating gender-agnostic disease classifiers across increasing diagnostic information.   
 
-**Recognizing and Normalizing Condition Concepts with Severity Modifiers**  
-Co-investigator, *Advisor: Chunhua Weng, PhD*  
-The presence of qualifiers such as severity or disease stage complicate the recognition and normalization of biomedical concepts from free text. A single concept can often be mapped to a terminology in multiple ways. Our problem is motivated by inconsistent recognition of disease conditions in Criteria2Query (C2Q), a tool for exploring clinical trial inclusion and exclusion criteria. We are developing a novel two-step, ontology-aware mapping scheme that is optimized for extracting disease concepts at a high level of specificity. 
-
 # Projects Submitted for Funding
 **Financial Toxicity and Cancer Treatment: Examining Trends and Disparities via Causal Inference**  
 Robert Wood Johnson Foundation HD4A Award  
