@@ -26,15 +26,11 @@ nav_order: 5
 
 6. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. 06/2020.
 
-7. **Reyes Nieva H**, Ruan E, Volodarskaya M, Wright A, Lim A, Singh H, Agarwal S, Schiff GD. Diagnostic Pitfalls: Operationalizing a New Paradigm to Understand and Prevent Diagnostic Errors. Poster presentation. Society of General Internal Medicine Annual Meeting. Washington, DC; 05/2019.
+7. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
 
-8. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
+8. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
 
-9. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
-
-10. Kroll DS, **Reyes Nieva H**, Barsky A, Linder JA. Benzodiazepines and Primary Care. Poster presentation. Academy of Psychosomatic Medicine, 61st Annual Meeting; 11/2014.
-
-11. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
+9. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
     **\*Received the Outstanding Quality and Patient Safety Oral Presentation Award**   
     
 **International**
@@ -52,23 +48,25 @@ nav_order: 5
 
 **Local**  
 
-1. Guest Lecturer, Health Equity and Informatics, Fall 2020. BINF G4011: Acculturation to Medicine and Clinical Informatics, Biomedical Informatics, Columbia University.
+1. Mining the Health Disparities and Minority Health Bibliome. 2022. Biomedical Informatics Seminar Series, Department of Biomedical Informatics, Columbia University. 
 
-2. Diversity, Culture, and Inclusion Series - LGBTQ Health. 2019. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+2. Guest Lecturer, Health Equity and Informatics, Fall 2020. BINF G4011: Acculturation to Medicine and Clinical Informatics, Biomedical Informatics, Columbia University.
 
-3. Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record. 2018. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+3. Diversity, Culture, and Inclusion Series - LGBTQ Health. 2019. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-4. Algorithmic Bias and Health Disparities. 2017. Machine Learning Working Group, Partners HealthCare.
+4. Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record. 2018. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-5. Improving and Leveraging Sexual Orientation and Gender Identity Demographics in Epic. 2017. Sexual Orientation and Gender Identity Working Group, Partners HealthCare.  
+5. Algorithmic Bias and Health Disparities. 2017. Machine Learning Working Group, Partners HealthCare.
 
-6. Designing and Building Clinical Research Databases. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.
+6. Improving and Leveraging Sexual Orientation and Gender Identity Demographics in Epic. 2017. Sexual Orientation and Gender Identity Working Group, Partners HealthCare.  
 
-7. Data Management and Manipulation using Microsoft Access and SQL. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+7. Designing and Building Clinical Research Databases. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.
 
-8. The LGBTQ Data Collection Gap: Sexual Orientation and Gender Identity in the EHR. 2014. LGBTQ and Allies Employee Resource Group, Brigham Health.
+8. Data Management and Manipulation using Microsoft Access and SQL. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-9. How Busy Clinicians Can Improve Care and Pursue Scholarship. 2013. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Faculty Retreat.  
+9. The LGBTQ Data Collection Gap: Sexual Orientation and Gender Identity in the EHR. 2014. LGBTQ and Allies Employee Resource Group, Brigham Health.
+
+10. How Busy Clinicians Can Improve Care and Pursue Scholarship. 2013. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Faculty Retreat.  
 
 **Regional**  
 

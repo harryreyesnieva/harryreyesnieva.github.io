@@ -59,7 +59,8 @@ Coursework included: Current Issues in Biological Sciences, Elements of Computin
 
 # Teaching Experience   
 
-Spring 2022 | *Teaching Assistant*, BINF G4008 Interrogating Justice and Ethics in Digital Health, Columbia University, New York, NY
+Fall 2022 | *Teaching Assistant*, BINF G4008 Interrogating Ethics and Justice in Digital Health, Columbia University, New York, NY
+Spring 2022 | *Preceptor in Clinical Informatics*, INTC M7210 Mechanisms and Practice, Columbia Vagelos College of Physicians and Surgeons, New York, NY
 Spring 2021 | *Preceptor in Clinical Informatics*, INTC M7210 Mechanisms and Practice, Columbia Vagelos College of Physicians and Surgeons, New York, NY
 Fall 2020 | *Teaching Assistant*, BINF G4011 Acculturation to Medicine & Clinical Informatics, Columbia University, New York, NY
 Summer 2017 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard T.H. Chan School of Public Health, Boston, MA
@@ -76,10 +77,11 @@ Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard 
  &nbsp; | 2022-present, Journal Club Manager
 
 *Ad hoc Reviewer*  
-
-Applied Clinical Informatics | JAMA Network Open
-Journal of General Internal Medicine | Medical Care
-
+Applied Clinical Informatics (ACI) | ACI Open
+JAMA Network Open
+Journal of the American Medical Informatics Association (JAMIA) | JAMIA Open
+Journal of General Internal Medicine (JGIM)
+Medical Care
 
 # Honors   
 
@@ -102,12 +104,12 @@ Journal of General Internal Medicine | Medical Care
 
 # Committee Service   
 
-2021-present | *Toward Diversity, Equity, and Inclusion in Informatics, Health Care, and Society Seminar Series Planning Committee*, Columbia University
- &nbsp; | 2021–present Member
-2020–present | *Biomedical Informatics Seminar Series Planning Committee*, Columbia University
- &nbsp; | 2020–present Member
-2019–present | *Electronic Health Record Phenotyping Working Group*, Columbia University
- &nbsp; | 2019–present Member
+2021-2022 | *Toward Diversity, Equity, and Inclusion in Informatics, Health Care, and Society Seminar Series Planning Committee*, Columbia University
+ &nbsp; | 2021–2022 Founding Member
+2020–2022 | *Biomedical Informatics Seminar Series Planning Committee*, Columbia University
+ &nbsp; | 2020–2022 Member
+2019–2021 | *Electronic Health Record Phenotyping Working Group*, Columbia University
+ &nbsp; | 2019–2021 Member
 2015–2018 | *Partners Sexual Orientation and Gender Identity Working Group*
  &nbsp; | 2015–2018 Founding Member
 2015–2016 | *Brigham Health Equity and Diversity Council*
@@ -140,7 +142,6 @@ Journal of General Internal Medicine | Medical Care
 # Education of Patients and Service to the Community   
 
 2021 | **COVID-19 Vaccination Effort, New York Presbyterian Hospital** <br> *Armory Volunteer* <br> Verify patients have scheduled appointments prior to entrance, check patients in for visit via Epic system, schedule follow-up visits for second dose administration, and assist with traffic flow as patients move through the vaccination process.
-2020-present | **Columbia DBMI Summer Research Program** <br> *Co-organizer* <br> Help organize summer program that aims to promote biomedical informatics and health data science as a career choice for rising high school seniors and college undergraduates. Serve as an instructor during an intensive data science bootcamp for summer students.
 2018 | **Queer Health Hackathon** <br> *Co-organizer* <br> Organized 3-day collaborative data analysis event to convene software engineers, data scientists, and clinical experts to examine electronic health record (EHR) data for potential LGBTQ health disparities. Extracted and transformed/de-identified EHR data from health system enterprise data warehouse; loaded on Amazon Web Services Cloud platform.
 2013-2016 | **Human Rights Commission, City of Cambridge** <br> *Vice Chair (2015-2016)* <br> *Commissioner (2013-2016)* <br> Adjudicated complaints of discrimination occurring in Cambridge, Massachusetts related to housing, employment, education, and public accommodation. Facilitated conciliation to settle disputes among parties. Conducted information sessions on civil rights throughout Cambridge.
 2006-2016 | **Boston Medical Reserve Corps** <br> *Emergency Medical Technician* <br> The Boston Medical Reserve Corps is a group of volunteers who are ready to respond should there be a public health emergency in Boston.
