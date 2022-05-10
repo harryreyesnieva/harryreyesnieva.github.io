@@ -58,20 +58,6 @@ nav_order: 4
     
 <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11606-009-0933-9" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span> Linder JA, **Reyes Nieva H**, Blumentals WA. [Antiviral and antibiotic prescribing for influenza in primary care.](https://www.ncbi.nlm.nih.gov/pubmed/19225847){:target="_blank"} *J Gen Intern Med.* 2009 Apr; 24(4):504-10. PMID:19225847<span class="__dimensions_badge_embed__" data-doi="10.1007/s11606-009-0933-9" data-hide-zero-citations="true"  data-style="large_rectangle"></span>   
 
-# Manuscripts under review for publication      
-
-Chabria A, **Reyes Nieva H**, Czado K, Shannon EM, Gaetani R, Gresham M, Cruz Garcia J, Ganesan H, Cerciello E, Dave J, Jain R, Schnipper JL. Implementing an Electronic Pillbox Intervention to Improve Medication Safety During Care Transitions: Methods, Barriers, and Facilitators of Implementation. *BMC Health Services Research.*   
-
-Schnipper JL, **Reyes Nieva H**, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A,  Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group. What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study. *BMJ Qual Saf.*    
-
-Chaplin B, Agbaji O, **Reyes Nieva H**, Olatunde B, Chang C, Mitruka K, Sule H, Dajel T, Zee A, Ahmed ML, Ahmed I, Okonkwo P, Rawizza H, Kanki P. HIV point of care viral load monitoring improves timeliness in Nigeria. *Clin. Infect. Dis.*    
-
-Sun TY, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng R, Ryan P, Elhadad N. Large-scale characterization of gender-based differences in diagnosis. *Science.*   
-
-Stolldorf DP, Schnipper JL, Mixon AS, **Reyes Nieva H**, Dietrich MS, Kripalani S. MARQUIS Medication Reconciliation Toolkit Implementation: Do Organizational Context and Readiness for Change Matter? *Jt Comm J Qual Patient Saf.*   
-
-Stolldorf DP, Arole O, Jaser L, Jahrstorfer R, Solanky N, Molla M, Succari L, Picot-Vierra L, Szabloswki K, Tichy EM, Sen S, Murphy M, Badr S, Addar M, **Reyes Nieva H**, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Dalal AK, Sridharan A, Goldstein J, Platt S, Nyenpan C, Kripalani S, Schnipper JL. Improving medication reconciliation in hospitals: MARQUIS2 hospitals’ experiences implementing the MARQUIS toolkit using a mentored implementation approach. *J Hosp Med.*   
-
 # Manuscripts in preprint   
 <span data-badge-popover="right" data-badge-type="donut" data-arxiv-id="2011.06100" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span> Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. [Exploring Gender Disparities in Time to Diagnosis.](https://arxiv.org/abs/2011.06100){:target="_blank"} arXiv:2011.06100
 
