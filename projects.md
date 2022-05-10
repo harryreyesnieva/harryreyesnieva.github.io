@@ -26,7 +26,7 @@ The goal of this study is to apply state-of-the-art causal inference methods to 
 
 **ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health**  
 NIH/NIMHD 1R21HD097292-01  
-Co-investigator (PI: Zhou) 
+Co-investigator (PI: Zhou)   
 The goals of the ARISE-SGM (ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health) research project are to leverage advances in artificial intelligence to address logistical challenges in obtaining representative samples of sexual and gender minority (SGM) populations and characterize comorbidity prevalence and potential health inequities associated with different segments of SGM populations.
 
 # Funding Information  
