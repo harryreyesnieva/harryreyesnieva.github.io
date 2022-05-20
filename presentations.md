@@ -70,7 +70,9 @@ nav_order: 5
 
 **Regional**  
 
-1. Identifying and Understanding Malpractice-Prone Diagnostic Pitfalls. 2016. Risk Management Foundation of the Harvard Medical Institutions Incorporated (RMF), CRICO Research Day. Boston, MA
+1. Mining the Health Disparities and Minority Health Bibliome. 2022. New York City College of Technology (City Tech), City University of New York (CUNY), New York, NY   
+
+2. Identifying and Understanding Malpractice-Prone Diagnostic Pitfalls. 2016. Risk Management Foundation of the Harvard Medical Institutions Incorporated (RMF), CRICO Research Day. Boston, MA
 
 **International**   
 
