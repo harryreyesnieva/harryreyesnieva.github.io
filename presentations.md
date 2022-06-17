@@ -14,23 +14,25 @@ nav_order: 5
 
 **National**
 
-1. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association. San Diego, CA; 11/2021.
+1. **Reyes Nieva H** and Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review. Oral Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.   
 
-2. Sun TY, Chen JL, **Reyes Nieva H**, Bear Don't Walk IV OJ, Altosaar J, Elhadad N. Examining Gender Differences in Time to Diagnosis through Fairness and Time-Variant Evaluation of EHR Data. Oral Presentation. American Medical Informatics Association. San Diego, CA; 11/2021.  
+3. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association Annual Symposium. San Diego, CA; 11/2021.
 
-3. **Reyes Nieva H** and Elhadad N. Latent Topics and Trends in Health Disparities Literature. Poster presentation. National Library of Medicine Informatics Training Conference. 06/2021.
+4. Sun TY, Chen JL, **Reyes Nieva H**, Bear Don't Walk IV OJ, Altosaar J, Elhadad N. Examining Gender Differences in Time to Diagnosis through Fairness and Time-Variant Evaluation of EHR Data. Oral Presentation. American Medical Informatics Association Annual Symposium. San Diego, CA; 11/2021.  
 
-4. Pang C, Chen R, **Reyes Nieva H**, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Oral Presentation. American Medical Informatics Association Annual Symposium. 11/2020.
+5. **Reyes Nieva H** and Elhadad N. Latent Topics and Trends in Health Disparities Literature. Poster presentation. National Library of Medicine Informatics Training Conference. 06/2021.
 
-5. Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, **Reyes Nieva H**, Bearnot B, Streed C. Using patterns of missing EHR data to identify care disparities in gender diverse patients. Oral Presentation. APHA Annual Meeting and Expo. 10/2020.
+6. Pang C, Chen R, **Reyes Nieva H**, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Oral Presentation. American Medical Informatics Association Annual Symposium. 11/2020.
 
-6. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. 06/2020.
+7. Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, **Reyes Nieva H**, Bearnot B, Streed C. Using patterns of missing EHR data to identify care disparities in gender diverse patients. Oral Presentation. APHA Annual Meeting and Expo. 10/2020.
 
-7. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
+8. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. 06/2020.
 
-8. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
+9. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
 
-9. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
+10. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
+
+11. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
     **\*Received the Outstanding Quality and Patient Safety Oral Presentation Award**   
     
 **International**
