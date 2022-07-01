@@ -16,6 +16,8 @@ nav_order: 5
 
 1. **Reyes Nieva H** and Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review. Oral Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.   
 
+2. Acharya N, **Reyes Nieva H**, Natarajan K. Analyzing shifts in healthcare-seeking behavior among All of Us enrollees in the era of COVID-19. Poster Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.  
+
 3. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association Annual Symposium. San Diego, CA; 11/2021.
 
 4. Sun TY, Chen JL, **Reyes Nieva H**, Bear Don't Walk IV OJ, Altosaar J, Elhadad N. Examining Gender Differences in Time to Diagnosis through Fairness and Time-Variant Evaluation of EHR Data. Oral Presentation. American Medical Informatics Association Annual Symposium. San Diego, CA; 11/2021.  
