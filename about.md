@@ -132,6 +132,7 @@ Journal of General Internal Medicine
 
 # Professional Organizations and Societies   
 
+2022-present | *Member*, Association for Computational Linguistics   
 2020-present | *Member*, Latinx in AI
 2019–present | *Member*, New York Academy of Sciences
 2017–present | *Member*, Association for Computing Machinery <br> Special Interest Groups: Artificial Intelligence; Biomedical Informatics; High Performance Computing; Knowledge Discovery in Data
