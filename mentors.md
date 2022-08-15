@@ -4,7 +4,6 @@ title: On Mentorship
 permalink: /mentors/
 nav_exclude: true
 ---
-
 As a first generation college graduate, I have benefited greatly from many [excellent mentors](/mentors) in my academic and personal journey. I am also an active member of the [Biomedical Science Careers Program](https://www.bscp.org/) at Harvard Medical School. A few of my mentors are listed below in reverse chronological order from when mentorship first began. 
 <br>
 <br>
