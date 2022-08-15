@@ -8,6 +8,7 @@ nav_order: 2
 **Harry Reyes Nieva, MAS, MA**   
 PhD Student in Biomedical Informatics, Columbia University    
 Visiting Postgraduate Research Fellow in Medicine, Harvard Medical School   
+Pronouns: he, him
   
 | [**Curriculum vitae**](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"} &#124; [**Google Scholar Page**](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"} &#124; [**Harvard Catalyst Page**](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}   
    

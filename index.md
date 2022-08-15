@@ -3,7 +3,7 @@ layout: home
 ---
 <img style="float:right" src="/assets/img/bright.jpg" height="300" color="gray" hspace="20"/>
 
-Welcome! I'm a PhD student in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} at [Columbia University](https://www.columbia.edu/){:target="_blank"}, advised by [Noémie Elhadad](https://www.dbmi.columbia.edu/profil/noemie-elhadad/){:target="_blank"}, and a Visiting Postgraduate Research Fellow at [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"}. Recently, I joined the [Journal of the American Medical Informatics Association](https://academic.oup.com/jamia){:target="_blank"} Student Editorial Board and also serve as a Journal Club Manager.   
+Welcome! I'm Harry (pronouns: he, him). Currently, I'm a PhD student in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} at [Columbia University](https://www.columbia.edu/){:target="_blank"}, advised by [Noémie Elhadad](https://www.dbmi.columbia.edu/profil/noemie-elhadad/){:target="_blank"}, and a Visiting Postgraduate Research Fellow at [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"}. Recently, I joined the [Journal of the American Medical Informatics Association](https://academic.oup.com/jamia){:target="_blank"} Student Editorial Board and also serve as a Journal Club Manager.   
 
 My primary research area leverages machine learning and natural language processing to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. 
 
