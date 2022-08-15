@@ -5,17 +5,7 @@ permalink: /mentors/
 nav_exclude: true
 ---
 
-As a first generation college graduate, I have benefited greatly from many [excellent mentors](/mentors) in my academic and personal journey. I am also an active mentor/mentee through the [Biomedical Science Careers Program](https://www.bscp.org/) at Harvard Medical School and [DBMI Summer Research Program](https://www.dbmi.columbia.edu/summer/) at Columbia University. A few of my mentors are listed below in reverse chronological order from when mentorship first began. 
-<br>
-<br>
-<img style="float:right" src="/assets/img/lena-mamykina.jpg" height="250"  color="gray" hspace="10"/>
- <p align="right"><a href="https://www.dbmi.columbia.edu/profile/lena-mamykina/" target="_blank"><b>Lena Mamykina, MS, PhD</b> (2020)</a><br>Associate Professor of Biomedical Informatics,<br> 
-Columbia University </p>
-<br>
-<br>
-<br>
-<br>
-<br>
+As a first generation college graduate, I have benefited greatly from many [excellent mentors](/mentors) in my academic and personal journey. I am also an active member of the [Biomedical Science Careers Program](https://www.bscp.org/) at Harvard Medical School. A few of my mentors are listed below in reverse chronological order from when mentorship first began. 
 <br>
 <br>
 <img style="float:left" src="/assets/img/noemie-elhadad.jpg" height="250"  color="gray" hspace="10"/>[**No&eacute;mie Elhadad, PhD** (2019)](https://www.dbmi.columbia.edu/people/noemie-elhadad/){:target="_blank"}  
