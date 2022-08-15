@@ -10,7 +10,7 @@ As a first generation college graduate, I have benefited greatly from many [exce
 <br>
 <img style="float:left" src="/assets/img/noemie-elhadad-new.jpeg" height="250"  color="gray" hspace="10"/>[**No&eacute;mie Elhadad, PhD** (2019)](https://www.dbmi.columbia.edu/people/noemie-elhadad/){:target="_blank"}  
 Associate Professor of Biomedical Informatics,  <br>
-Co-interim Chair and Graduate Program Director,  <br>
+Vice Chair for Research and Graduate Program Director,  <br>
 Department of Biomedical Informatics  <br>
 Affiliate, Computer Science  <br>
 Affiliate, Data Science Institute  <br>
