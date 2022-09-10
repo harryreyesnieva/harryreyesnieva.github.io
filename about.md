@@ -78,11 +78,12 @@ Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard 
  &nbsp; | 2022-present, Journal Club Manager
 
 *Ad hoc Reviewer*  
+American Psychology   
 Applied Clinical Informatics    
 JAMA Network Open     
-Journal of the American Medical Informatics Association   
 Journal of Biomedical Informatics     
-Journal of General Internal Medicine      
+Journal of General Internal Medicine
+Journal of the American Medical Informatics Association         
 
 # Honors   
 
@@ -93,7 +94,8 @@ Journal of General Internal Medicine
 2019-2020 | *Dean’s Fellowship*, Columbia University Vagelos College of Physicians and Surgeons   
 2018 | *Ford Foundation Predoctoral Fellowship Honorable Mention*, National Academies of Sciences, Engineering, and Medicine   
 2018 | *Partners in Excellence Award for Leadership and Innovation*, Partners HealthCare   
-2018 | *Ruth and William Silen MD Award, Third Prize*, New England Science Symposium   
+2018 | *Ruth and William Silen MD Award, Third Prize*, New England Science Symposium
+2017 | *The Open Gate Grant*, Harvard Gender & Sexuality Caucus   
 2016-2018 | *Merit Scholarship*, Johns Hopkins Bloomberg School of Public Health   
 2016 | *LGBTQ Leadership Award*, Brigham Health   
 2015 | *Brigham Way honoree*, Brigham and Women’s Hospital   
