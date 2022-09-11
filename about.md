@@ -78,7 +78,7 @@ Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard 
  &nbsp; | 2022-present, Journal Club Manager
 
 *Ad hoc Reviewer*  
-American Psychology   
+American Psychologist   
 Applied Clinical Informatics    
 JAMA Network Open     
 Journal of Biomedical Informatics     
