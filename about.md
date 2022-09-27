@@ -83,7 +83,8 @@ Applied Clinical Informatics
 JAMA Network Open     
 Journal of Biomedical Informatics     
 Journal of General Internal Medicine   
-Journal of the American Medical Informatics Association         
+Journal of the American Medical Informatics Association    
+Medical Care        
 
 # Honors   
 
