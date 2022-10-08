@@ -136,6 +136,7 @@ Medical Care
 
 # Professional Organizations and Societies   
 
+2022-present | *Member*, Association for the Advancement of Artificial Intelligence    
 2022-present | *Member*, Association for Computational Linguistics   
 2020-present | *Member*, Latinx in AI
 2019–present | *Member*, New York Academy of Sciences
