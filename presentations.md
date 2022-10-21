@@ -18,7 +18,7 @@ nav_order: 5
 
 2. Acharya N, **Reyes Nieva H**, Natarajan K. Analyzing shifts in healthcare-seeking behavior among All of Us enrollees in the era of COVID-19. Poster Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.  
 
-3. Sun T, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng RF, Ryan P, Elhadad N. Large-scale Characterization of Gender Differences in Age at Diagnosis and Time to Diagnosis in Longitudinal Observational Health Data. National Institutes of Health (NIH) Office of Research on Women’s Health (ORWH) Workshop on Gender and Health: Impacts of Structural Sexism, Gender Norms, Relational Power Dynamics, and Gender Inequities. Poster Presentation. Virtual Event; 10/2022. 
+3. Sun T, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng RF, Ryan P, Elhadad N. Poster Presentation. Large-scale Characterization of Gender Differences in Age at Diagnosis and Time to Diagnosis in Longitudinal Observational Health Data. National Institutes of Health (NIH) Office of Research on Women’s Health (ORWH) Workshop on Gender and Health: Impacts of Structural Sexism, Gender Norms, Relational Power Dynamics, and Gender Inequities. Virtual Event; 10/2022. 
 
 4. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association Annual Symposium. San Diego, CA; 11/2021.
 
