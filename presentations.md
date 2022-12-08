@@ -7,6 +7,8 @@ nav_order: 5
 # Abstracts, Poster Presentations and Exhibits Presented at Professional Meetings
 *Works resulting in publication are not included below unless special recognition was received.*
 
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>   
+
 **Regional**
 
 1. **Reyes Nieva H**, Blackley S, Streed C, Fiskio J, Zhou L. High physician and clinic-level variation in documentation of sexual orientation and gender identity in the electronic health record. Plenary presentation. New England Science Symposium, Boston, MA; 4/2018.\*    
@@ -43,7 +45,7 @@ nav_order: 5
 
 1. Desai PM, Ostropolets A, Richter LR, **Reyes Nieva H**, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K. Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity. OHDSI Global Symposium. 09/2021.
 
-2. Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis. Poster presentation. Machine Learning for Health (ML4Health) Workshop at the Conference on Neural Information Processing Systems (NeurIPS). 12/2020.
+2. <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12913-022-08702-y" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis. Poster presentation. Machine Learning for Health (ML4Health) Workshop at the Conference on Neural Information Processing Systems (NeurIPS). 12/2020.<span class="__dimensions_badge_embed__" data-doi="10.1186/s12913-022-08702-y" data-hide-zero-citations="true" data-style="large_rectangle"></span> 
 
 3. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
 
