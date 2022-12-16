@@ -16,9 +16,9 @@ nav_order: 5
 
 **National**
 
-1.Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, Ahmed SA, Snyder D, Rahbari A, Ranard BL, Juneja P, Demner-Fushman D, Elhadad. Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text. Oral Presentation. American Medical Informatics Association 2023 Informatics Summit. Seattle, WA; 03/2023.
+3. Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, Ahmed SA, Snyder D, Rahbari A, Ranard BL, Juneja P, Demner-Fushman D, Elhadad. Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text. Oral Presentation. American Medical Informatics Association 2023 Informatics Summit. Seattle, WA; 03/2023.   
 
-2.Spotnitz M, Acharya N, Cimino JJ, Murphy S, Namjou B, Crimmins N, Walunas T, Liu C, Crosslin D, Benoit B, Rosenthal E, Pacheco J, Ostropolets A, **Reyes Nieva H**, Patterson JS, Richter LR, Callahan TJ, Elhussein A, Pang C, Kiryluk K, Nestor J, Khan A, Mohan S, Minty E, Chung W, Wei WQ, Natarajan K, Weng C. A metadata framework for electronic phenotypes. Poster Presentation. American Medical Informatics Association. 2023 Informatics Summit. Seattle, WA; 03/2023.
+3. Spotnitz M, Acharya N, Cimino JJ, Murphy S, Namjou B, Crimmins N, Walunas T, Liu C, Crosslin D, Benoit B, Rosenthal E, Pacheco J, Ostropolets A, **Reyes Nieva H**, Patterson JS, Richter LR, Callahan TJ, Elhussein A, Pang C, Kiryluk K, Nestor J, Khan A, Mohan S, Minty E, Chung W, Wei WQ, Natarajan K, Weng C. A metadata framework for electronic phenotypes. Poster Presentation. American Medical Informatics Association. 2023 Informatics Summit. Seattle, WA; 03/2023.   
 
 3. **Reyes Nieva H** and Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review. Oral Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.   
 
