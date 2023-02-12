@@ -16,9 +16,9 @@ nav_order: 5
 
 **National**
 
-3. Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, Ahmed SA, Snyder D, Rahbari A, Ranard BL, Juneja P, Demner-Fushman D, Elhadad. Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text. Oral Presentation. American Medical Informatics Association 2023 Informatics Summit. Seattle, WA; 03/2023.   
+1. Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Natarajan K, Perotte A, Demner-Fushman D, Elhadad. Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text. Oral Presentation. American Medical Informatics Association 2023 Informatics Summit. Seattle, WA; 03/2023.   
 
-3. Spotnitz M, Acharya N, Cimino JJ, Murphy S, Namjou B, Crimmins N, Walunas T, Liu C, Crosslin D, Benoit B, Rosenthal E, Pacheco J, Ostropolets A, **Reyes Nieva H**, Patterson JS, Richter LR, Callahan TJ, Elhussein A, Pang C, Kiryluk K, Nestor J, Khan A, Mohan S, Minty E, Chung W, Wei WQ, Natarajan K, Weng C. A metadata framework for electronic phenotypes. Poster Presentation. American Medical Informatics Association. 2023 Informatics Summit. Seattle, WA; 03/2023.   
+2. Spotnitz M, Acharya N, Cimino JJ, Murphy S, Namjou B, Crimmins N, Walunas T, Liu C, Crosslin D, Benoit B, Rosenthal E, Pacheco J, Ostropolets A, **Reyes Nieva H**, Patterson JS, Richter LR, Callahan TJ, Elhussein A, Pang C, Kiryluk K, Nestor J, Khan A, Mohan S, Minty E, Chung W, Wei WQ, Natarajan K, Weng C. A metadata framework for electronic phenotypes. Poster Presentation. American Medical Informatics Association. 2023 Informatics Summit. Seattle, WA; 03/2023.   
 
 3. **Reyes Nieva H** and Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review. Oral Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.   
 
@@ -47,9 +47,9 @@ nav_order: 5
     
 **International**
 
-1. Desai PM, Ostropolets A, Richter LR, **Reyes Nieva H**, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K. Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity. OHDSI Global Symposium. 09/2021.
+1. Tucker EG, **Reyes Nieva H**, Schiffer K, Grant L, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J. HIV Viral Load Suppression and Racial Disparities During the COVID-19 Pandemic in NYC. Poster Presentation. Conference on Retroviruses and Opportunistic Infections (CROI 2023). Seattle, WA; 02/2023.
 
-2. <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12913-022-08702-y" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>Sun TY, Bear Don't Walk OJ IV, Chen JL, **Reyes Nieva H**, Elhadad N. Exploring Gender Disparities in Time to Diagnosis. Poster presentation. Machine Learning for Health (ML4Health) Workshop at the Conference on Neural Information Processing Systems (NeurIPS). 12/2020.<span class="__dimensions_badge_embed__" data-doi="10.1186/s12913-022-08702-y" data-hide-zero-citations="true" data-style="large_rectangle"></span> 
+2. Desai PM, Ostropolets A, Richter LR, **Reyes Nieva H**, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K. Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity. Poster Presentation. OHDSI Global Symposium. 09/2021.
 
 3. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
 
@@ -60,25 +60,27 @@ nav_order: 5
 
 **Local**  
 
-1. Mining the Health Disparities and Minority Health Bibliome. 2022. Biomedical Informatics Seminar Series, Department of Biomedical Informatics, Columbia University. 
+1. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. 2023. Division of Infectious Diseases, Columbia University Irving Medical Center.
 
-2. Guest Lecturer, Health Equity and Informatics, Fall 2020. BINF G4011: Acculturation to Medicine and Clinical Informatics, Biomedical Informatics, Columbia University.
+2. Mining the Health Disparities and Minority Health Bibliome. 2022. Biomedical Informatics Seminar Series, Department of Biomedical Informatics, Columbia University. 
 
-3. Diversity, Culture, and Inclusion Series - LGBTQ Health. 2019. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+3. Guest Lecturer, Health Equity and Informatics, Fall 2020. BINF G4011: Acculturation to Medicine and Clinical Informatics, Biomedical Informatics, Columbia University.
 
-4. Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record. 2018. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+4. Diversity, Culture, and Inclusion Series - LGBTQ Health. 2019. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-5. Algorithmic Bias and Health Disparities. 2017. Machine Learning Working Group, Partners HealthCare.
+5. Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record. 2018. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-6. Improving and Leveraging Sexual Orientation and Gender Identity Demographics in Epic. 2017. Sexual Orientation and Gender Identity Working Group, Partners HealthCare.  
+6. Algorithmic Bias and Health Disparities. 2017. Machine Learning Working Group, Partners HealthCare.
 
-7. Designing and Building Clinical Research Databases. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.
+7. Improving and Leveraging Sexual Orientation and Gender Identity Demographics in Epic. 2017. Sexual Orientation and Gender Identity Working Group, Partners HealthCare.  
 
-8. Data Management and Manipulation using Microsoft Access and SQL. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+8. Designing and Building Clinical Research Databases. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.
 
-9. The LGBTQ Data Collection Gap: Sexual Orientation and Gender Identity in the EHR. 2014. LGBTQ and Allies Employee Resource Group, Brigham Health.
+9. Data Management and Manipulation using Microsoft Access and SQL. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-10. How Busy Clinicians Can Improve Care and Pursue Scholarship. 2013. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Faculty Retreat.  
+10. The LGBTQ Data Collection Gap: Sexual Orientation and Gender Identity in the EHR. 2014. LGBTQ and Allies Employee Resource Group, Brigham Health.
+
+11. How Busy Clinicians Can Improve Care and Pursue Scholarship. 2013. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Faculty Retreat.  
 
 **Regional**  
 

@@ -4,25 +4,11 @@ title: Projects
 permalink: /projects/
 nav_order: 3
 ---
-# Current Projects   
-
-**A Computational Scoping Review and Gap Analysis of Health Disparities and Minority Health Literature**   
-Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
-Given the vast wealth of literature regarding health disparities and minority health (HDMH) and limitations placed on scale and scope when performing traditional manual review, computational methods are useful for conducting large-scale assessments. We aim to leverage natural language processing and machine learning methods to perform a comprehensive scoping review and characterize major topics found in the HDMH literature, examine change in topic mention over time, identify any notable gaps in coverage, and derive actionable insights for further inquiry.
-
-**Differential Presentation and Delays in Care for Acute Myocardial Infarction**   
-Principal Investigator, *Advisor: No&eacute;mie Elhadad, PhD*  
-We aim to measure and characterize differences in presentation and treatment of acute myocardial infarction (AMI) using structured electronic health record data and free-text from clinical notes. We are using empirical distributional semantics methods (e.g., word2vec and GloVe) to identify potential biases and empirical associations based on demographics. We are also analyzing clinical notes over time prior to and after initial diagnosis to understand differences in the trajectories of sign or symptom documentation for patients, lengths of time to treatment, and resulting impact on patient outcomes.
-
-**Exploring Gender Disparities in Time to Diagnosis**   
-Co-investigator, *Advisor: No&eacute;mie Elhadad, PhD*   
-Sex and gender-based healthcare disparities contribute to differences in health outcomes. Focusing on time to diagnosis (TTD), we are conducting two large-scale, complementary analyses among women and men across over 100 diseases and millions of patients. We further explore how TTD disparities affect diagnostic performance between genders, both across and persistent to time, by evaluating gender-agnostic disease classifiers across increasing diagnostic information.   
-
 # Projects Submitted for Funding
 **Financial Toxicity and Cancer Treatment: Examining Trends and Disparities via Causal Inference**  
 Robert Wood Johnson Foundation HD4A Award  
 Co-Principal Investigator (PI: Elhadad)  
-The goal of this study is to apply state-of-the-art causal inference methods to a large, longitudinal cohort to isolate factors contributing to financial toxicity following cancer diagnosis. We will derive actionable insights that identify and quantify disparities in clinical and catastrophic financial outcomes, enabling policymakers and providers to prioritize targeted interventions that are most likely to reduce financial toxicity for the greatest proportion of the population while mitigating disparities in outcomes among different sociodemographic and socioeconomic groups.
+The goal of this study is to apply state-of-the-art causal inference methods to isolate factors contributing to financial toxicity following cancer diagnosis in a large, longitudinal cohort. We will derive actionable insights that identify and quantify disparities in clinical and catastrophic financial outcomes, enabling policymakers and providers to prioritize targeted interventions most likely to reduce financial toxicity for the greatest proportion of the population while mitigating disparities in outcomes among different sociodemographic and socioeconomic groups.
 
 **ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health**  
 NIH/NIMHD 1R21HD097292-01  
@@ -112,6 +98,12 @@ Research Assistant (PI: Linder)
 Aim: To measure and evaluate antiviral and antibiotic prescribing for patients with influenza being treated in primary care clinics.
 
 # Clinical Innovations
+
+**HDMH Monitor** / Principal developer   
+HDMH Monitor is an online article repository and interactive dashboard that leverages natural language processing and machine learning methods to support scientific discovery via automated archive, search, information synthesis, and data visualization of articles concerning health disparities and minority health (HDMH) in MEDLINE.
+
+**C-REACT: Contextualized Race and Ethnicity Annotations for Clinical Text** / Co-developer   
+The C-REACT dataset is a large publicly-available corpus of sentences from clinical notes manually annotated for information related to race and ethnicity (RE). This corpus contains two sets of gold-standard annotations for RE data. The first set contains granular RE-information such as patient country of origin and spoken language. The second set of annotations contains RE labels manually assigned by clinicians. This corpus is intended to improve understanding about granular information related to RE contained within the clinical note and how this information might be used to infer RE.   
 
 **CovidWatcher** / Co-developer   
 An [app](https://apps.apple.com/us/app/covidwatcher/id1504295590){:target="_blank"} and [online portal](https://covidwatcher.dbmi.columbia.edu/){:target="_blank"} that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.

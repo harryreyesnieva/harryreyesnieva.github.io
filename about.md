@@ -11,8 +11,8 @@ Visiting Postgraduate Research Fellow in Medicine, Harvard Medical School
 Pronouns: he, him
   
 | [**Curriculum vitae**](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"} &#124; [**Google Scholar Page**](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"} &#124; [**Harvard Catalyst Page**](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}   
-   
-My research leverages machine learning and natural language processing to improve the equity, quality, and safety of health care and support knowledge discovery in medicine. Generally, my research interests concern assessing disease risk, presence, progression, and treatment; identifying disease subtypes and biomarkers associated with important outcomes; and studying the fairness, accountability, and transparency of intelligent systems in the health care setting. I am especially passionate about using and expanding the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in underserved communities. 
+
+Building on my strong background in health services research and public health practice, my research examines and applies methods such as machine learning, deep learning, natural language processing, and spatial analysis to build equitable learning health systems, enable precision health, and contribute to knowledge discovery in medicine. In particular, my primary interests center around using and interrogating multimodal data sources and the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in populations that are marginalized. 
 
 My PhD is funded by the [National Library of Medicine](https://www.nlm.nih.gov/){:target="_blank"} (NLM) and [National Institute of Allergy and Infectious Diseases](https://www.niaid.nih.gov/){:target="_blank"} (NIAID) through a Biomedical Informatics and Data Science Research training grant (T15LM007079). I am also the recipient of a [Computational and Data Science Fellowship](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"} from the [Association for Computing Machinery](https://www.acm.org/){:target="_blank"} (ACM) [Special Interest Group in High Performance Computing](https://www.sighpc.org/home){:target="_blank"} (SIGHPC).
 
@@ -27,7 +27,7 @@ Prior to pursuing a career in biomedical informatics and health services researc
 *Doctor of Philosophy* in Biomedical Informatics, Expected May 2024   
 *Master of Arts* in Biomedical Informatics, 2021 (GPA: 4.0)   
 *Advisor:* Noémie Elhadad, PhD   
-Coursework includes: Intelligent Decision Systems, Computational Methods, Symbolic Methods, Natural Language Processing, Computer Applications in Health Care, Programming and Statistics
+Coursework includes: Intelligent Decision Systems, Computational Methods (Machine Learning in Healthcare), Symbolic Methods, Natural Language Processing, Data Science, Programming and Statistics
 
 [**Beijing Language and Culture University, Beijing, China**](http://english.blcu.edu.cn/){:target="_blank"}  
 北京语言大学, 北京, 中国  
@@ -71,12 +71,6 @@ Summer 2016 | *Teaching Fellow*, HPM 299 Research with Large Databases, Harvard 
 
 # Editorial Activities   
 
-*Editorial Roles*
-   
-2021-present | Journal of the American Medical Informatics Association
- &nbsp; | 2021-present, Editorial Board, Student Member
- &nbsp; | 2022-present, Journal Club Manager
-
 *Ad hoc Reviewer*  
 American Psychologist   
 Applied Clinical Informatics    
@@ -86,12 +80,18 @@ Journal of General Internal Medicine
 Journal of the American Medical Informatics Association    
 Medical Care        
 
+*Other Editorial Roles*   
+2021-present | Journal of the American Medical Informatics Association
+ &nbsp; | 2021-present, Editorial Board, Student Member
+ &nbsp; | 2022-present, Journal Club Manager
+
 # Honors   
 
+2022–2024 | *National Institute of Allergy and Infectious Diseases Predoctoral Research Trainee Fellowship*, National Institutes of Health (NIH)   
 2021-2024 | *Computational and Data Science Fellowship*, Association for Computing Machinery (ACM) Special Interest Group in High Performance Computing (SIGHPC)   
 2021-2023 | *HOPE Scholarship*, Biomedical Science Careers Program, Harvard Medical School   
 2021-2022 | *HSF Scholar*, Hispanic Scholarship Fund   
-2019–present | *Predoctoral Research Trainee Fellowship*, National Library of Medicine   
+2019–2022 | *National Library of Medicine Predoctoral Research Trainee Fellowship*, National Institutes of Health (NIH)   
 2019-2020 | *Dean’s Fellowship*, Columbia University Vagelos College of Physicians and Surgeons   
 2018 | *Ford Foundation Predoctoral Fellowship Honorable Mention*, National Academies of Sciences, Engineering, and Medicine   
 2018 | *Partners in Excellence Award for Leadership and Innovation*, Partners HealthCare   
