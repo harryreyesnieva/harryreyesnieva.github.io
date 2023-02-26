@@ -47,6 +47,8 @@ nav_order: 5
     
 **International**
 
+1. **Reyes Nieva H**, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Zucker J, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models to Identify Human Monkeypox. Poster Presentation. Symposium on Artificial Intelligence for Learning Health Systems (SAIL), Río Grande, Puerto Rico; 05/2023.
+
 1. Tucker EG, **Reyes Nieva H**, Schiffer K, Grant L, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J. HIV Viral Load Suppression and Racial Disparities During the COVID-19 Pandemic in NYC. Poster Presentation. Conference on Retroviruses and Opportunistic Infections (CROI 2023). Seattle, WA; 02/2023.
 
 2. Desai PM, Ostropolets A, Richter LR, **Reyes Nieva H**, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K. Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity. Poster Presentation. OHDSI Global Symposium. 09/2021.
