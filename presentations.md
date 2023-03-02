@@ -47,15 +47,19 @@ nav_order: 5
     
 **International**
 
-1. **Reyes Nieva H**, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Zucker J, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models to Identify Human Monkeypox. Poster Presentation. Symposium on Artificial Intelligence for Learning Health Systems (SAIL), Río Grande, Puerto Rico; 05/2023.
+1. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models to Identify Human Monkeypox. Poster Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
 
-1. Tucker EG, **Reyes Nieva H**, Schiffer K, Grant L, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J. HIV Viral Load Suppression and Racial Disparities During the COVID-19 Pandemic in NYC. Poster Presentation. Conference on Retroviruses and Opportunistic Infections (CROI 2023). Seattle, WA; 02/2023.
+2. **Reyes Nieva H**, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N, Zucker J. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. Poster Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
 
-2. Desai PM, Ostropolets A, Richter LR, **Reyes Nieva H**, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K. Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity. Poster Presentation. OHDSI Global Symposium. 09/2021.
+3. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine and Deep Learning Classifiers for Monkeypox. Poster Presentation. Symposium on Artificial Intelligence for Learning Health Systems (SAIL), Río Grande, Puerto Rico; 05/2023.
 
-3. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
+4. Tucker EG, **Reyes Nieva H**, Schiffer K, Grant L, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J. HIV Viral Load Suppression and Racial Disparities During the COVID-19 Pandemic in NYC. Poster Presentation. Conference on Retroviruses and Opportunistic Infections (CROI 2023). Seattle, WA; 02/2023.
 
-4. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
+5. Desai PM, Ostropolets A, Richter LR, **Reyes Nieva H**, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K. Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity. Poster Presentation. OHDSI Global Symposium. 09/2021.
+
+6. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
+
+7. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
 
 # Report of Invited Teaching and Presentations
 *No presentations below were sponsored by outside entities.*
