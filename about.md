@@ -81,8 +81,8 @@ Journal of the American Medical Informatics Association
 Medical Care        
 
 *Other Editorial Roles*   
-2021-present | Journal of the American Medical Informatics Association
- &nbsp; | 2021-present, Editorial Board, Student Member
+2021-present | Journal of the American Medical Informatics Association   
+ &nbsp; | 2021-present, Editorial Board, Student Member   
  &nbsp; | 2022-present, Journal Club Manager
 
 # Honors   
