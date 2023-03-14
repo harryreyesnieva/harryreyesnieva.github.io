@@ -90,29 +90,30 @@ nav_order: 5
 
 **Regional**  
 
+1. Getting into Graduate School and Succeeding / Panel. 2023. New England Science Symposium, Biomedical Science Careers Program, Boston, MA.   
 
-1. Mining the health disparities and minority health bibliome: a computational scoping review and gap analysis of 200,000+ articles. 2022. New York City College of Technology (City Tech), City University of New York (CUNY), New York, NY   
+2. Mining the health disparities and minority health bibliome: a computational scoping review and gap analysis of 200,000+ articles. 2022. New York City College of Technology (City Tech), City University of New York (CUNY), New York, NY   
 
-2. Identifying and Understanding Malpractice-Prone Diagnostic Pitfalls. 2016. Risk Management Foundation of the Harvard Medical Institutions Incorporated (RMF), CRICO Research Day. Boston, MA
+3. Identifying and Understanding Malpractice-Prone Diagnostic Pitfalls. 2016. Risk Management Foundation of the Harvard Medical Institutions Incorporated (RMF), CRICO Research Day. Boston, MA
 
 **International**   
 
-1. Introduction to Data Management/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
+1. Introduction to Data Management / Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
   
-2. Critical Elements in Database Cleaning, a Checklist /Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
+2. Critical Elements in Database Cleaning, a Checklist / Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
 
-3. Basics of Programming and Scripting/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
+3. Basics of Programming and Scripting / Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
 
-4. Monitoring data and trouble-shooting/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
+4. Monitoring data and trouble-shooting / Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria  
 
-5. Programming: Creating a Utility and Basics of Scripting/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria
+5. Programming: Creating a Utility and Basics of Scripting / Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria
 
-6. Programming and Trouble-shooting databases/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria
+6. Programming and Trouble-shooting databases / Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria
 
-7. Cohort Analyses I: Using EHR Data/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria
+7. Cohort Analyses I: Using EHR Data / Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria
 
-8. Cohort Analyses II: Using EHR Data/Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria
+8. Cohort Analyses II: Using EHR Data / Seminar. 2011. AIDS Prevention Initiative Nigeria Plus (APIN Plus), Abuja, Nigeria
 
-9. Improving Understanding and Medication Adherence with Flipcharts/Podium Presentation. 2011. AIDS Prevention Initiative Nigeria (APIN), Abuja, Nigeria
+9. Improving Understanding and Medication Adherence with Flipcharts / Podium Presentation. 2011. AIDS Prevention Initiative Nigeria (APIN), Abuja, Nigeria
 
  
