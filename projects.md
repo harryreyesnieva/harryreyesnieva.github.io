@@ -4,16 +4,6 @@ title: Projects
 permalink: /projects/
 nav_order: 3
 ---
-# Projects Submitted for Funding
-**Financial Toxicity and Cancer Treatment: Examining Trends and Disparities via Causal Inference**  
-Robert Wood Johnson Foundation HD4A Award  
-Co-Principal Investigator (PI: Elhadad)  
-The goal of this study is to apply state-of-the-art causal inference methods to isolate factors contributing to financial toxicity following cancer diagnosis in a large, longitudinal cohort. We will derive actionable insights that identify and quantify disparities in clinical and catastrophic financial outcomes, enabling policymakers and providers to prioritize targeted interventions most likely to reduce financial toxicity for the greatest proportion of the population while mitigating disparities in outcomes among different sociodemographic and socioeconomic groups.
-
-**ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health**  
-NIH/NIMHD 1R21HD097292-01  
-Co-investigator (PI: Zhou)   
-The goals of the ARISE-SGM (ARtificial Intelligence for the Study and Enhancement of Sexual and Gender Minority health) research project are to leverage advances in artificial intelligence to address logistical challenges in obtaining representative samples of sexual and gender minority (SGM) populations and characterize comorbidity prevalence and potential health inequities associated with different segments of SGM populations.
 
 # Funding Information  
 *Past*  
