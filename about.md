@@ -78,6 +78,7 @@ JAMA Network Open
 Journal of Biomedical Informatics     
 Journal of General Internal Medicine   
 Journal of the American Medical Informatics Association    
+Journal of Medical Internet Research
 Medical Care        
 
 *Other Editorial Roles*   
