@@ -26,7 +26,7 @@ This collaborative course provides innovative materials and hands-on experience 
 
 # Mechanisms and Practice (INTC M721)   
 Vagelos College of Physicians and Surgeons, Columbia University, Spring 2022 and Spring 2021   
-Course Instructor: Herb Chase, MD, MA    
+Course Instructor: Herbert Chase, MD, MA    
 Role: Preceptor in Clinical Informatics   
 
 Medical school clerkships are divided by two week-long intersessions called Mechanisms and Practice in which students come together for classroom-based small-group teaching. This design allows students to take a step back from their clerkships and process their experiences, exploring aspects of medicine and health care that run across the different clerkships, such as understanding the patient-physician relationship and accessing as well as using medical literature. This results in a well-rounded, comprehensive learning experience for students.
