@@ -31,6 +31,7 @@ url: "http://www.harryreyesnieva.com" # the base hostname & protocol for your si
 twitter_username: harryreyesnieva
 github_username:  harryreyesnieva
 linkedin_username: harryreyes
+
 header_pages:
   - about.md
   - projects.md
@@ -45,6 +46,27 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-twitter-plugin
+
+author:
+  # name: Harry Reyes Nieva
+  bio: "PhD Candidate in Biomedical Informatics"
+  location: "New York, NY"
+  links: &links
+    - label: "GitHub"
+      icon: &gh "fab fa-fw fa-github"
+      url: "https://github.com/harryreyesnieva"
+    - label: "Twitter"
+      icon: &twitter "fab fa-twitter"
+      url: "https://twitter.com/harryreyesnieva"
+    - label: "Email"
+      icon: &email "fas fa-fw fa-envelope"
+      url: "mailto:harry.reyes_at_columbia.edu"
+    - label: "Harvard Catalyst"
+      icon: &catalyst "fas fa-project-diagram"
+      url: "https://connects.catalyst.harvard.edu/profiles/display/Person/35947"
+
+footer:
+  links: *links
 
 defaults:
   - scope:
