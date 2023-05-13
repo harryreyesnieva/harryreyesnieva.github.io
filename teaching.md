@@ -5,11 +5,11 @@ permalink: /teaching/
 nav_order: 6
 ---
 
-**Interrogating Ethics and Justice in Digital Health (BINF G4008)**   
+# Interrogating Ethics and Justice in Digital Health (BINF G4008)   
 Columbia University, Fall 2022   
 Role: Teaching Assistant    
 Course Instructors: Sandra Soo-Jin Lee, PhD and Noémie Elhadad, PhD   
-Course Site: https://elhadadlab.github.io/4008-02/
+[Course Site](https://elhadadlab.github.io/4008-02/){:target="_blank"}
 
 Engaging with data is a civic requirement. Technical expertise must include engagement with the ethical issues and policy implications related to emerging data-driven techniques. The biomedical, health, and clinical domains are going through in-depth changes as artificial intelligence and data-driven thinking are becoming inherent to routine processes. How will knowledge production in health data science determine what counts as healthy, normal or disease in individuals and groups? Who will get access to what care and at what price when treatment recommendations are guided by artificial intelligence?
 
@@ -19,19 +19,23 @@ This collaborative course provides innovative materials and hands-on experience 
 - a series of use cases that reflect ongoing themes in ethics and justice in digital health, and corresponding simulated datasets & computational tools for students to engage with;
 - collaborative, multidisciplinary work on a research project at the intersection of ethics and digital health for students to synthesize their skills and knowledge acquired during the course; and
 - mentoring for students to write an op-ed on a specific topic in ethics for digital health targeted at the general public.
-
+<br>
+<br>
 <hr>
-
-**Acculturation to Medicine & Clinical Informatics (BINF G4011)**   
+<br>
+<br>
+# Acculturation to Medicine & Clinical Informatics (BINF G4011)   
 Columbia University, Fall 2020   
 Role: Teaching Assistant   
 Course Instructor: Sivan Kinberg, MD, MS, MA   
 
 This course offers an introduction to the practice and culture of medicine for informaticians using a mix of lectures, case-based discussions, and critical review of scientific journal articles. The goal is to “acculturate” students without clinical backgrounds to the practice of medicine to inform the study and design of clinical information systems. Each class session is structured to touch upon items from one or more of 3 key competency areas: biomedical science, clinical workflow and culture, and clinical informatics. Students learn about medical language and terminology; basic anatomy and physiology; introductory pathology and pathophysiology; the process of medical decision-making; patient safety, medication safety, and health IT; telemedicine; and the flow of information in the practice of medicine.
-
+<br>
+<br>
 <hr>
-
-**Research with Large Databases (HPM 299)**   
+<br>
+<br>
+# Research with Large Databases (HPM 299)   
 Harvard T.H. Chan School of Public Health, Summer 2016, Summer 2017   
 Role: Teaching Fellow    
 Course Instructors: Ellen P. McCarthy, PhD, MPH and John Ayanian, MD, MPP   
