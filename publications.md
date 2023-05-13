@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-nav_order: 5
+nav_order: 4
 ---
 
 # Peer reviewed publications in print or other media  

@@ -137,7 +137,6 @@ Medical Care
 
 # Professional Organizations and Societies   
 
-2023-present | *Reviewer*, Machine Learning for Healthcare (MLHC)
 2022-present | *Member*, Association for the Advancement of Artificial Intelligence    
 2022-present | *Member*, Association for Computational Linguistics   
 2020-present | *Member*, Latinx in AI

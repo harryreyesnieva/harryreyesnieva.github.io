@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
-nav_order: 3
+nav_order: 2
 ---
 
 If the embedded version of my CV does not work, you can download a copy [here](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"}.

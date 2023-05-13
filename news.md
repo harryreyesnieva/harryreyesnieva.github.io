@@ -2,7 +2,7 @@
 layout: page
 title: Latest News
 permalink: /news/
-nav_order: 6
+nav_order: 7
 ---
 
 <iframe width="100%" height="166" float="right" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722783449&color=%230500ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

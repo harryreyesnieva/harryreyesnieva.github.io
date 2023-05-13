@@ -33,13 +33,12 @@ github_username:  harryreyesnieva
 twitter_username: harryreyesnieva
 linkedin_username: harryreyes
 
-
 header_pages:
-  - about.md
   - cv.md
   - projects.md
   - publications.md
   - presentations.md
+  - teaching.md
   - news.md
 
 # Build settings
