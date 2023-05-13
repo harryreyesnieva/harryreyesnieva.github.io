@@ -25,7 +25,7 @@ This collaborative course provides innovative materials and hands-on experience 
 <br>
 
 # Mechanisms and Practice (INTC M721)   
-Vagelos College of Physicians and Surgeons, Columbia University, Spring 2022   
+Vagelos College of Physicians and Surgeons, Columbia University, Spring 2022 and Spring 2021   
 Course Instructor: Herb Chase, MD, MA    
 Role: Preceptor in Clinical Informatics   
 
