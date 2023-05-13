@@ -47,7 +47,7 @@ This course offers an introduction to the practice and culture of medicine for i
 <br>
 
 # Research with Large Databases (HPM 299)   
-Harvard T.H. Chan School of Public Health, Summer 2017 and Summer 2016   
+T.H. Chan School of Public Health, Harvard University, Summer 2017 and Summer 2016   
 Course Instructors: Ellen P. McCarthy, PhD, MPH and John Ayanian, MD, MPP   
 Role: Teaching Fellow    
 
