@@ -21,7 +21,6 @@ This collaborative course provides innovative materials and hands-on experience 
 - mentoring for students to write an op-ed on a specific topic in ethics for digital health targeted at the general public.
 
 <br>
-<br>
 <hr>
 <br>
 
@@ -29,9 +28,9 @@ This collaborative course provides innovative materials and hands-on experience 
 Vagelos College of Physicians and Surgeons, Columbia University, Spring 2022   
 Course Instructor: Herb Chase, MD, MA    
 Role: Preceptor in Clinical Informatics   
+
 Medical school clerkships are divided by two week-long intersessions called Mechanisms and Practice in which students come together for classroom-based small-group teaching. This design allows students to take a step back from their clerkships and process their experiences, exploring aspects of medicine and health care that run across the different clerkships, such as understanding the patient-physician relationship and accessing as well as using medical literature. This results in a well-rounded, comprehensive learning experience for students.
 
-<br>
 <br>
 <hr>
 <br>
@@ -43,7 +42,6 @@ Role: Teaching Assistant
 
 This course offers an introduction to the practice and culture of medicine for informaticians using a mix of lectures, case-based discussions, and critical review of scientific journal articles. The goal is to “acculturate” students without clinical backgrounds to the practice of medicine to inform the study and design of clinical information systems. Each class session is structured to touch upon items from one or more of 3 key competency areas: biomedical science, clinical workflow and culture, and clinical informatics. Students learn about medical language and terminology; basic anatomy and physiology; introductory pathology and pathophysiology; the process of medical decision-making; patient safety, medication safety, and health IT; telemedicine; and the flow of information in the practice of medicine.
 
-<br>
 <br>
 <hr>
 <br>
