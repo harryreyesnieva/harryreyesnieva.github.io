@@ -6,10 +6,10 @@ nav_order: 6
 ---
 
 # Interrogating Ethics and Justice in Digital Health (BINF G4008)   
-Columbia University, Fall 2022   
+[Course Website](https://elhadadlab.github.io/4008-02/){:target="_blank"}
+Graduate School of Arts and Sciences, Columbia University, Fall 2022   
 Role: Teaching Assistant    
 Course Instructors: Sandra Soo-Jin Lee, PhD and Noémie Elhadad, PhD   
-[Course Site](https://elhadadlab.github.io/4008-02/){:target="_blank"}
 
 Engaging with data is a civic requirement. Technical expertise must include engagement with the ethical issues and policy implications related to emerging data-driven techniques. The biomedical, health, and clinical domains are going through in-depth changes as artificial intelligence and data-driven thinking are becoming inherent to routine processes. How will knowledge production in health data science determine what counts as healthy, normal or disease in individuals and groups? Who will get access to what care and at what price when treatment recommendations are guided by artificial intelligence?
 
@@ -23,9 +23,17 @@ This collaborative course provides innovative materials and hands-on experience 
 <br>
 <hr>
 <br>
+# Mechanisms and Practice (INTC M721)
+Vagelos College of Physicians and Surgeons, Columbia University, Spring 2022
+Role: Preceptor in Clinical Informatics   
+Course Instructor: Herb Chase, MD, MA
+Medical school clerkships are divided by two week-long intersessions called Mechanisms and Practice in which students come together for classroom-based small-group teaching. This design allows students to take a step back from their clerkships and process their experiences, exploring aspects of medicine and health care that run across the different clerkships, such as understanding the patient-physician relationship and accessing as well as using medical literature. This results in a well-rounded, comprehensive learning experience for students.
+<br>
+<br>
+<hr>
 <br>
 # Acculturation to Medicine & Clinical Informatics (BINF G4011)   
-Columbia University, Fall 2020   
+Graduate School of Arts and Sciences, Columbia University, Fall 2020   
 Role: Teaching Assistant   
 Course Instructor: Sivan Kinberg, MD, MS, MA   
 
@@ -34,9 +42,8 @@ This course offers an introduction to the practice and culture of medicine for i
 <br>
 <hr>
 <br>
-<br>
 # Research with Large Databases (HPM 299)   
-Harvard T.H. Chan School of Public Health, Summer 2016, Summer 2017   
+Harvard T.H. Chan School of Public Health, Summer 2017 and Summer 2016
 Role: Teaching Fellow    
 Course Instructors: Ellen P. McCarthy, PhD, MPH and John Ayanian, MD, MPP   
 
