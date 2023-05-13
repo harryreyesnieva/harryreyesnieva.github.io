@@ -4,6 +4,9 @@ title: CV
 permalink: /cv/
 nav_order: 2
 ---
+    
+[**Harvard Catalyst Page**](http://connects.catalyst.harvard.edu/Profiles/display/Person/35947){:target="_blank"}  
+[**Google Scholar Page**](https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en){:target="_blank"}
 
 If the embedded version of my CV does not work, you can download a copy [here](/assets/docs/CV_HReyesNieva.pdf){:target="_blank"}.
 
