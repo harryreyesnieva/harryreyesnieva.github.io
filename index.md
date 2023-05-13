@@ -1,7 +1,16 @@
 ---
 layout: home
 ---
-<img style="float:right" src="/assets/img/bright.jpg" height="300" color="gray" hspace="20"/>
+<style>
+.avatar {
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+</style>
+
+<img style="float:right" src="/assets/img/bright.jpg" height="300" hspace="20" alt="Avatar" class="avatar"/>
 
 Welcome! I'm Harry (pronouns: he, him), a PhD student in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} at [Columbia University](https://www.columbia.edu/){:target="_blank"}, advised by [Noémie Elhadad](https://www.dbmi.columbia.edu/profil/noemie-elhadad/){:target="_blank"}, and a Visiting Postgraduate Research Fellow in Medicine at [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"}. Recently, I served a 2-year term on the [Journal of the American Medical Informatics Association](https://academic.oup.com/jamia){:target="_blank"} Student Editorial Board.  
 

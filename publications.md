@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 nav_order: 4
 ---
+
 # Peer reviewed publications in print or other media  
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>   
