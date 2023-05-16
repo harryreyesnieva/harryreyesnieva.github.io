@@ -45,9 +45,9 @@ nav_order: 5
     
 **International**
 
-1. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models to Identify Human Monkeypox. Poster Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
+1. **Reyes Nieva H**, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N, Zucker J. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. Oral Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
 
-2. **Reyes Nieva H**, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N, Zucker J. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. Poster Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
+2. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models to Identify Human Monkeypox. Poster Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
 
 3. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine and Deep Learning Classifiers for Monkeypox. Poster Presentation. Symposium on Artificial Intelligence for Learning Health Systems (SAIL), Río Grande, Puerto Rico; 05/2023.
 
