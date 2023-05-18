@@ -4,6 +4,7 @@ layout: home
 <style>
 .avatar {
   vertical-align: middle;
+  horizontal-align: middle;
   width: 225px;
   height: 225px;
   border-radius: 50%;
