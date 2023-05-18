@@ -8,6 +8,7 @@ nav_order: 7
 <iframe width="100%" height="166" float="right" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722783449&color=%230500ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 August 25, 2021 | [ACM SIGHPC Computational and Data Science Fellowships 2021 Winners Announced](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"}   
+January 29, 2021 | I passed the Breadth Exam of my PhD program and was awarded a Master of Arts in Biomedical Informatics!
 December 23, 2019 | [On the Margins \| Harvard Medicine Magazine](https://hms.harvard.edu/magazine/lgbtq-health/margins){:target="_blank"}
 December 18, 2019 | [Machine Learning and Health Equity \| ThinkResearch Podcast](https://soundcloud.com/user-501356184/community-engaged-machine-learning-and-health-equity){:target="_blank"} 
 March 15, 2019 | [Ford Foundation Fellowships Honorable Mention List 2019 \| National Academies of Sciences, Engineering, and Medicine Press Release](http://nrc58.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=HM&CompYr=2019&Layout=wwwLibs%2fUtil_Web%2fPageLayouts%2fApplPrintLayout){:target="_blank"}
