@@ -64,27 +64,29 @@ nav_order: 5
 
 **Local**  
 
-1. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. 2023. Division of Infectious Diseases, Columbia University Irving Medical Center.
+1. Leveraging Health Information Exchange to Improve Public Health Reporting and Monitoring. 2023. Department of Biomedical Informatics, Columbia University Irving Medical Center.
 
-2. Mining the Health Disparities and Minority Health Bibliome. 2022. Biomedical Informatics Seminar Series, Department of Biomedical Informatics, Columbia University. 
+2. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. 2023. Division of Infectious Diseases, Columbia University Irving Medical Center.
 
-3. Guest Lecturer, Health Equity and Informatics, Fall 2020. BINF G4011: Acculturation to Medicine and Clinical Informatics, Biomedical Informatics, Columbia University.
+3. Mining the Health Disparities and Minority Health Bibliome. 2022. Biomedical Informatics Seminar Series, Department of Biomedical Informatics, Columbia University Irving Medical Center. 
 
-4. Diversity, Culture, and Inclusion Series - LGBTQ Health. 2019. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+4. Guest Lecturer, Health Equity and Informatics, Fall 2020. BINF G4011: Acculturation to Medicine and Clinical Informatics, Department of Biomedical Informatics, Columbia University.
 
-5. Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record. 2018. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+5. Diversity, Culture, and Inclusion Series - LGBTQ Health. 2019. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-6. Algorithmic Bias and Health Disparities. 2017. Machine Learning Working Group, Partners HealthCare.
+6. Documentation of Sexual Orientation and Gender Identity in the Electronic Health Record. 2018. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-7. Improving and Leveraging Sexual Orientation and Gender Identity Demographics in Epic. 2017. Sexual Orientation and Gender Identity Working Group, Partners HealthCare.  
+7. Algorithmic Bias and Health Disparities. 2017. Machine Learning Working Group, Partners HealthCare.
 
-8. Designing and Building Clinical Research Databases. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.
+8. Improving and Leveraging Sexual Orientation and Gender Identity Demographics in Epic. 2017. Sexual Orientation and Gender Identity Working Group, Partners HealthCare.  
 
-9. Data Management and Manipulation using Microsoft Access and SQL. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
+9. Designing and Building Clinical Research Databases. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.
 
-10. The LGBTQ Data Collection Gap: Sexual Orientation and Gender Identity in the EHR. 2014. LGBTQ and Allies Employee Resource Group, Brigham Health.
+10. Data Management and Manipulation using Microsoft Access and SQL. 2014. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital.  
 
-11. How Busy Clinicians Can Improve Care and Pursue Scholarship. 2013. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Faculty Retreat.  
+11. The LGBTQ Data Collection Gap: Sexual Orientation and Gender Identity in the EHR. 2014. LGBTQ and Allies Employee Resource Group, Brigham Health.
+
+12. How Busy Clinicians Can Improve Care and Pursue Scholarship. 2013. Division of General Internal Medicine and Primary Care, Brigham and Women’s Hospital, Faculty Retreat.  
 
 **Regional**  
 

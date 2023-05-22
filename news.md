@@ -7,6 +7,7 @@ nav_order: 7
 
 <iframe width="100%" height="166" float="right" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722783449&color=%230500ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+May 22, 2023 | I passed the [Depth Exam of my PhD program](https://www.dbmi.columbia.edu/depth-exam/){:target="_blank"} and was awarded a Master of Philosophy in Biomedical Informatics!
 August 25, 2021 | [ACM SIGHPC Computational and Data Science Fellowships 2021 Winners Announced](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"}   
 January 29, 2021 | I passed the [Breadth Exam of my PhD program](https://www.dbmi.columbia.edu/breadth-exam/){:target="_blank"} and was awarded a Master of Arts in Biomedical Informatics!
 December 23, 2019 | [On the Margins \| Harvard Medicine Magazine](https://hms.harvard.edu/magazine/lgbtq-health/margins){:target="_blank"}
