@@ -8,9 +8,8 @@ As a first generation college graduate, I have benefited greatly from many excel
 <br>
 <br>
 <img style="float:left" src="/assets/img/noemie-elhadad-new.jpeg" height="250"  color="gray" hspace="10"/>[**No&eacute;mie Elhadad, PhD** (2019)](https://www.dbmi.columbia.edu/people/noemie-elhadad/){:target="_blank"}  
-Associate Professor of Biomedical Informatics,  <br>
-Vice Chair of Research and Graduate Program Director,  <br>
-Department of Biomedical Informatics  <br>
+Chair, Department of Biomedical Informatics <br>
+Associate Professor of Biomedical Informatics  <br>
 Affiliate, Computer Science  <br>
 Affiliate, Data Science Institute  <br>
 Columbia University  
@@ -19,8 +18,9 @@ Columbia University
 <br>
 <br>
 <br>
+<br>
 <img style="float:right" src="/assets/img/li-zhou.png" height="275"  color="gray" hspace="10"/>
- <p align="right"><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/74124" target="_blank"><b>Li Zhou, MD, PhD, FACMI</b> (2016)</a><br>Associate Professor of Medicine, Harvard Medical School<br>Senior Medical Informatician, Partners HealthCare Systems </p>
+ <p align="right"><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/74124" target="_blank"><b>Li Zhou, MD, PhD, FACMI</b> (2016)</a><br>Professor of Medicine, Harvard Medical School<br>Senior Medical Informatician, Partners HealthCare Systems </p>
 <br>
 <br>
 <br>
