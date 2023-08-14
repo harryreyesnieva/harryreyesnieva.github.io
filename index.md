@@ -11,7 +11,7 @@ layout: home
 }
 </style>
 
-<img style="float:right" src="/assets/img/bright.jpg" height="225" hspace="20" alt="Avatar" class="avatar"/>
+<img style="float:right" src="/assets/img/bright.jpeg" height="225" hspace="20" alt="Avatar" class="avatar"/>
 
 Welcome! I'm Harry (pronouns: he, him), a PhD candidate in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} at [Columbia University](https://www.columbia.edu/){:target="_blank"}, advised by [Noémie Elhadad](https://www.dbmi.columbia.edu/profil/noemie-elhadad/){:target="_blank"}, and a Visiting Postgraduate Research Fellow in Medicine at [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"}. Recently, I served a 2-year term on the [Journal of the American Medical Informatics Association](https://academic.oup.com/jamia){:target="_blank"} Student Editorial Board. I am also a co-organizer of the [Machine Learning for Health (ML4H) Symposium](https://ml4health.github.io/2023/){:target="_blank"} this year and chair the [Author Mentorship Program](https://ml4health.github.io/2023/author_mentorship.html){:target="_blank"}.
 
