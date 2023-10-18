@@ -73,9 +73,12 @@ Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Nataraj
     
 <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11606-009-0933-9" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span> Linder JA, **Reyes Nieva H**, Blumentals WA. [Antiviral and antibiotic prescribing for influenza in primary care.](https://www.ncbi.nlm.nih.gov/pubmed/19225847){:target="_blank"} *J Gen Intern Med.* 2009 Apr; 24(4):504-10. PMID:19225847<span class="__dimensions_badge_embed__" data-doi="10.1007/s11606-009-0933-9" data-hide-zero-citations="true"  data-style="large_rectangle"></span>     
 
-
 # Proceedings of meetings and other non-peer reviewed research publications   
 **Reyes Nieva H**, Kaplan RL, Madani N. Women and HIV: Update from the Middle East and North Africa. Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA). 2010 International AIDS Conference, Vienna, Austria.
+
+<span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.10.17.23296754" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Bakken S, Elhadad N. [Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles.](https://www.medrxiv.org/content/10.1101/2023.10.17.23296754){:target="_blank"} medRxiv 2023.10.17.23296754; DOI: 10.1101/2023.10.17.23296754.<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.10.17.23296754" data-hide-zero-citations="true"  data-style="large_rectangle"></span>
+
+<span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.10.12.23296976" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>Sun TY, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng RJ, Ryan PB, Elhadad N. [Large-scale characterization of gender differences in diagnosis prevalence and time to diagnosis.](https://www.medrxiv.org/content/10.1101/2023.10.12.23296976v2){:target="_blank"} medRxiv 2023.10.12.23296976; DOI: 10.1101/2023.10.12.23296976.<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.10.12.23296976" data-hide-zero-citations="true"  data-style="large_rectangle"></span>  
 
 # Professional educational materials or reports, in print or other media   
 [When Things Go Wrong in the Ambulatory Setting](/assets/docs/WhenThingsGoWrongInTheAmbulatorySetting.pdf){:target="_blank"}. 2013. The PROMISES Study.\*  
