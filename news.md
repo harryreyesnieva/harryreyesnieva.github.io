@@ -7,7 +7,12 @@ nav_order: 7
 
 <iframe width="100%" height="166" float="right" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722783449&color=%230500ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+September 7, 2023 | I was invited to present and serve as a panelist on *"Advancing Diversity, Equity, and Inclusion in Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle"* at the [AMIA 2023 Annual Symposium](https://amia.org/education-events/amia-2023-annual-symposium){:target="_blank"}.
+July 26, 2023 | I am presenting at the [STI and HIV World Congress](https://stihiv2023.org/){:target="_blank"} in Chicago, IL.
 May 22, 2023 | I passed the [Depth Exam of my PhD program](https://www.dbmi.columbia.edu/depth-exam/){:target="_blank"} and was awarded a Master of Philosophy in Biomedical Informatics!
+May 12, 2023 | I am co-organizing the [Machine Learning for Health (ML4H) Symposium](https://ml4health.github.io/2023/){:target="_blank"} this year and will chair the [Author Mentorship Program](https://ml4health.github.io/2023/author_mentorship.html){:target="_blank"}.
+May 10, 2023 | ¡Wepa! I am presenting at the [Symposium on Artificial Intelligence for Learning Health Systems](https://sail.health/){:target="_blank"} (SAIL) in Río Grande, Puerto Rico.
+Nov 6, 2022 | My research was spotlighted and selected for special presentation at the [AMIA 2022 Annual Symposium](https://amia.org/education-events/amia-2022-annual-symposium){:target="_blank"} for "demonstrating best practices in promoting diversity, equity, and inclusion through scholarly communications in biomedical informatics." 
 August 25, 2021 | [ACM SIGHPC Computational and Data Science Fellowships 2021 Winners Announced](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"}   
 January 29, 2021 | I passed the [Breadth Exam of my PhD program](https://www.dbmi.columbia.edu/breadth-exam/){:target="_blank"} and was awarded a Master of Arts in Biomedical Informatics!
 December 23, 2019 | [On the Margins \| Harvard Medicine Magazine](https://hms.harvard.edu/magazine/lgbtq-health/margins){:target="_blank"}
