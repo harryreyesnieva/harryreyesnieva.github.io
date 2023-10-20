@@ -34,7 +34,6 @@ twitter_username: harryreyesnieva
 linkedin_username: harryreyes
 
 header_pages:
-  - about.md
   - cv.md
   - projects.md
   - publications.md
