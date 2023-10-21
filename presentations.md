@@ -66,7 +66,7 @@ nav_order: 5
 
 **Local**  
 
-1. Leveraging Health Information Exchange to Improve Public Health Reporting and Monitoring. 2023. Department of Biomedical Informatics, Columbia University Irving Medical Center.
+1. Leveraging Health Information Exchange to Improve Public Health Reporting and Monitoring. 2023. Department of Biomedical Informatics, Columbia University Irving Medical Center.
 
 2. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. 2023. Division of Infectious Diseases, Columbia University Irving Medical Center.
 
