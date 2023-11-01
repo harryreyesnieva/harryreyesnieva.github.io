@@ -5,26 +5,6 @@ permalink: /projects/
 nav_order: 3
 ---
 
-# Clinical Innovations
-
-**Health Disparities and Minority Health (HDMH) Monitor** / Principal developer   
-The [Health Disparities and Minority Health (HDMH) Monitor](https://hdmhmonitor.dbmi.columbia.edu/){:target="_blank"} is an online article repository and interactive dashboard that leverages natural language processing and machine learning methods to support scientific discovery via automated archive, search, information synthesis, and data visualization of articles concerning HDMH in MEDLINE. It is based on a  large-scale computational scoping review aimed at characterizing major topics found among nearly a quarter million scientific articles in the HDMH literature, examining change in topic mention over time, identifying notable gaps in coverage, and deriving actionable insights for further inquiry.
-
-**C-REACT: Contextualized Race and Ethnicity Annotations for Clinical Text** / Co-developer   
-The C-REACT dataset is a large publicly-available corpus of sentences from clinical notes manually annotated for information related to race and ethnicity (RE). This corpus contains two sets of gold-standard annotations for RE data. The first set contains granular RE-information such as patient country of origin and spoken language. The second set of annotations contains RE labels manually assigned by clinicians. This corpus is intended to improve understanding about granular information related to RE contained within the clinical note and how this information might be used to infer RE.   
-
-**CovidWatcher** / Co-developer   
-An [app](https://apps.apple.com/us/app/covidwatcher/id1504295590){:target="_blank"} and [online portal](https://covidwatcher.dbmi.columbia.edu/){:target="_blank"} that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.
-
-**Harvard PEPFAR Nigeria Pediatric quality improvement tool** / Co-developer   
-Co-developed and evaluated a utility to extract information from electronic health record (EHR) data warehouse and generate measures based on 23 pediatric quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Programmed module to review continuity of care, drug therapy initiation, medication adherence, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment or diagnostic evaluation, treatment failure, toxicity management, nutritional assessment, and treatment response.
-
-**Harvard PEPFAR Nigeria Adult quality improvement tool** / Co-developer   
-Co-developed and evaluated a utility to extract information from EHR data warehouse and generate measures based on 15 adult quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Module reviews continuity of care, drug therapy initiation, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment, treatment failure, and treatment response.
-
-**Harvard PEPFAR Nigeria Data quality assessment tool, version 2.0** / Co-developer   
-Instituted major modifications to and evaluated a pre-existing EHR utility to incorporate expanded data quality indicators at 33 Harvard PEPFAR sites in Nigeria. With this utility, central and site-level data managers are able to better monitor and improve data completeness, validity, accuracy, and currency.
-
 # Funding Information  
 *Past*  
 **A Multicenter Randomized Controlled Trial of Pharmacist-Directed Transitional Care to Reduce Post-Hospitalization Utilization**  
@@ -107,3 +87,22 @@ Roche Laboratories, RLI 06001207
 Research Assistant (PI: Linder)  
 Aim: To measure and evaluate antiviral and antibiotic prescribing for patients with influenza being treated in primary care clinics.
 
+# Clinical Innovations
+
+**Health Disparities and Minority Health (HDMH) Monitor** / Principal developer   
+The [Health Disparities and Minority Health (HDMH) Monitor](https://hdmhmonitor.dbmi.columbia.edu/){:target="_blank"} is an online article repository and interactive dashboard that leverages natural language processing and machine learning methods to support scientific discovery via automated archive, search, information synthesis, and data visualization of articles concerning HDMH in MEDLINE. It is based on a  [large-scale computational scoping review](https://www.medrxiv.org/content/10.1101/2023.10.17.23296754){:target="_blank"} aimed at characterizing major topics found among nearly a quarter million scientific articles in the HDMH literature, examining change in topic mention over time, identifying notable gaps in coverage, and deriving actionable insights for further inquiry.
+
+**C-REACT: Contextualized Race and Ethnicity Annotations for Clinical Text** / Co-developer   
+The C-REACT dataset is a large publicly-available corpus of sentences from clinical notes manually annotated for information related to race and ethnicity (RE). This corpus contains two sets of gold-standard annotations for RE data. The first set contains granular RE-information such as patient country of origin and spoken language. The second set of annotations contains RE labels manually assigned by clinicians. This corpus is intended to improve understanding about granular information related to RE contained within the clinical note and how this information might be used to infer RE.   
+
+**CovidWatcher** / Co-developer   
+An [app](https://apps.apple.com/us/app/covidwatcher/id1504295590){:target="_blank"} and [online portal](https://covidwatcher.dbmi.columbia.edu/){:target="_blank"} that surveys users about their exposure to the new coronavirus (COVID-19), symptoms, access to medical care, and impact on daily life. The data collected is used to track the spread of coronavirus, giving citizens real-time information about hot spots and enabling health care officials to deploy resources where needed most.
+
+**Harvard PEPFAR Nigeria Pediatric quality improvement tool** / Co-developer   
+Co-developed and evaluated a utility to extract information from electronic health record (EHR) data warehouse and generate measures based on 23 pediatric quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Programmed module to review continuity of care, drug therapy initiation, medication adherence, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment or diagnostic evaluation, treatment failure, toxicity management, nutritional assessment, and treatment response.
+
+**Harvard PEPFAR Nigeria Adult quality improvement tool** / Co-developer   
+Co-developed and evaluated a utility to extract information from EHR data warehouse and generate measures based on 15 adult quality of care indicators at 33 Harvard PEPFAR sites in Nigeria. Module reviews continuity of care, drug therapy initiation, loss to follow-up, laboratory monitoring, disease screening based on clinical symptoms assessment, treatment failure, and treatment response.
+
+**Harvard PEPFAR Nigeria Data quality assessment tool, version 2.0** / Co-developer   
+Instituted major modifications to and evaluated a pre-existing EHR utility to incorporate expanded data quality indicators at 33 Harvard PEPFAR sites in Nigeria. With this utility, central and site-level data managers are able to better monitor and improve data completeness, validity, accuracy, and currency.
