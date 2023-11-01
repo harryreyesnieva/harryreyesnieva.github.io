@@ -89,8 +89,9 @@ Aim: To measure and evaluate antiviral and antibiotic prescribing for patients w
 
 # Clinical Innovations
 
-**HDMH Monitor** / Principal developer   
-HDMH Monitor is an online article repository and interactive dashboard that leverages natural language processing and machine learning methods to support scientific discovery via automated archive, search, information synthesis, and data visualization of articles concerning health disparities and minority health (HDMH) in MEDLINE.
+**Health Disparities and Minority Health (HDMH) Monitor** / Principal developer   
+The [Health Disparities and Minority Health (HDMH) Monitor](https://hdmhmonitor.dbmi.columbia.edu/){:target="_blank"} is an online article repository and interactive dashboard that leverages natural language processing and machine learning methods to support scientific discovery via automated archive, search, information synthesis, and data visualization of articles concerning HDMH in MEDLINE. It is based on a  large-scale computational scoping review aimed at characterizing major topics found among nearly a quarter million scientific articles in the HDMH literature, examining change in topic mention over time, identifying notable gaps in coverage, and deriving actionable insights for further inquiry.
+
 
 **C-REACT: Contextualized Race and Ethnicity Annotations for Clinical Text** / Co-developer   
 The C-REACT dataset is a large publicly-available corpus of sentences from clinical notes manually annotated for information related to race and ethnicity (RE). This corpus contains two sets of gold-standard annotations for RE data. The first set contains granular RE-information such as patient country of origin and spoken language. The second set of annotations contains RE labels manually assigned by clinicians. This corpus is intended to improve understanding about granular information related to RE contained within the clinical note and how this information might be used to infer RE.   
