@@ -9,7 +9,7 @@ nav_order: 4
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>   
 
-Tucker EG, **Reyes Nieva H**, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J. Using a Health Information Exchange to Characterize Changes in HIV Viral Load Suppression and Disparities During the COVID-19 Pandemic in NYC. *Open Forum Infectious Diseases.* 2023. In press.
+<span data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/ofid/ofad584" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>Tucker EG, **Reyes Nieva H**, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J. Using a Health Information Exchange to Characterize Changes in HIV Viral Load Suppression and Disparities During the COVID-19 Pandemic in NYC. *Open Forum Infectious Diseases.* 2023. doi: 10.1093/ofid/ofad584. In press.<span class="__dimensions_badge_embed__" data-doi="10.1093/ofid/ofad584" data-hide-zero-citations="true" data-style="large_rectangle"></span> 
 
 Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Natarajan K, Perotte A, Demner-Fushman D, Elhadad N. Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text. *AMIA Annu Symp Proc.* 2023. In press.
 
