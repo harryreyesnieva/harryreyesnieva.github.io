@@ -16,9 +16,9 @@ nav_order: 5
 
 **National**
 
-1. **Reyes Nieva H**. Challenges, Opportunities, and Considerations: Promoting Inclusive Research in the Era of Big Data. Oral Presentation / Panelist on "Advancing Diversity, Equity, and Inclusion in Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle" Panel. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.   
+1. **Reyes Nieva H**, Zucker J, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N. Enabling a Learning Public Health System: Enhanced Surveillance of Sexually Transmitted Infections. Oral Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.    
 
-2. **Reyes Nieva H**, Zucker J, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N. Enabling a Learning Public Health System: Enhanced Surveillance of Sexually Transmitted Infections. Oral Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.   
+2. **Reyes Nieva H**. Challenges, Opportunities, and Considerations: Promoting Inclusive Research in the Era of Big Data. Oral Presentation / Panelist on "Advancing Diversity, Equity, and Inclusion in Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle" Panel. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023. 
 
 3. **Reyes Nieva H**, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N, Zucker J. Development and Validation of Machine Learning and Deep Learning Models for Mpox in a Learning Health System. Poster Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.   
 
