@@ -9,7 +9,9 @@ nav_order: 4
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>   
 
-Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Natarajan K, Perotte A, Demner-Fushman D, Elhadad N. Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text. *AMIA Annu Symp Proc.* 2023. In press.
+<span data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Bakken S, Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles. *Science Advances.* In press.<span class="__dimensions_badge_embed__" data-doi="" data-hide-zero-citations="true"  data-style="large_rectangle"></span>
+
+<span data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Natarajan K, Perotte A, Demner-Fushman D, Elhadad N. Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text. *AMIA Annu Symp Proc.* 2023. In press.<span class="__dimensions_badge_embed__" data-doi="" data-hide-zero-citations="true"  data-style="large_rectangle"></span>
 
 <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/ofid/ofad584" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>Tucker EG, **Reyes Nieva H**, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J. [Using a Health Information Exchange to Characterize Changes in HIV Viral Load Suppression and Disparities During the COVID-19 Pandemic in NYC.](https://doi.org/10.1093/ofid/ofad584){:target="_blank"} *Open Forum Infectious Diseases.* 2023; ofad584. doi: 10.1093/ofid/ofad584. <span class="__dimensions_badge_embed__" data-doi="10.1093/ofid/ofad584" data-hide-zero-citations="true" data-style="large_rectangle"></span> 
 
@@ -80,10 +82,7 @@ Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Nataraj
 Hegselmann S, Parziale A, Shanmugam D, Tang S, Severson K, Asiedu MN, Chang S, Dossou BFP,
 Huang Q, Kamran F, Zhang H, Nagaraj S, Oala L, Xu S, Okolo CT, Zhou H, Dafflon J, Ellington C,
 Jabbour S, Jeong H, **Reyes Nieva H**, Yang Y, Zamzmi G, Mhasawade V, Truong V, Chandak P, Lee
-M, Argaw P, Heuton K, Singh H, Hartvigsen T. Machine Learning for Health (ML4H) 2023. 2023.
-Proceedings of Machine Learning Research. In Press.
-
-<span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.10.17.23296754" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Bakken S, Elhadad N. [Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles.](https://www.medrxiv.org/content/10.1101/2023.10.17.23296754){:target="_blank"} medRxiv. doi: 10.1101/2023.10.17.23296754. PMID: 37905137<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.10.17.23296754" data-hide-zero-citations="true"  data-style="large_rectangle"></span>
+M, Argaw P, Heuton K, Singh H, Hartvigsen T. Machine Learning for Health (ML4H) 2023. Proceedings of Machine Learning Research. 2023. 225: 1-12.
 
 <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.10.12.23296976" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>Sun TY, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng RJ, Ryan PB, Elhadad N. [Large-scale characterization of gender differences in diagnosis prevalence and time to diagnosis.](https://www.medrxiv.org/content/10.1101/2023.10.12.23296976v2){:target="_blank"} medRxiv. doi: 10.1101/2023.10.12.23296976. PMID: 37873224<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.10.12.23296976" data-hide-zero-citations="true"  data-style="large_rectangle"></span>  
 
