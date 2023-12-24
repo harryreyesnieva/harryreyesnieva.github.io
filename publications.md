@@ -9,7 +9,7 @@ nav_order: 4
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>   
 
-<span data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Bakken S, Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles. *Science Advances.* In press.<span class="__dimensions_badge_embed__" data-doi="" data-hide-zero-citations="true"  data-style="large_rectangle"></span>
+<span data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/sciadv.adf9033" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Bakken S, Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles. *Science Advances.* In press. doi: 10.1126/sciadv.adf9033<span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.adf9033" data-hide-zero-citations="true"  data-style="large_rectangle"></span>
 
 <span data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>Bear Don’t Walk OJ IV, Pichon A, **Reyes Nieva H**, Sun T, Altosaar J, Natarajan K, Perotte A, Demner-Fushman D, Elhadad N. Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text. *AMIA Annu Symp Proc.* 2023. In press.<span class="__dimensions_badge_embed__" data-doi="" data-hide-zero-citations="true"  data-style="large_rectangle"></span>
 
