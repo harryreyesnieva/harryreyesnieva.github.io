@@ -20,10 +20,10 @@ nav_order: 5
 
 2. **Reyes Nieva H**. Challenges, Opportunities, and Considerations: Promoting Inclusive Research in the Era of Big Data. Oral Presentation / Panelist on "Advancing Diversity, Equity, and Inclusion in Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle" Panel. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023. 
 
-3. **Reyes Nieva H**, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N, Zucker J. Development and Validation of Machine Learning and Deep Learning Models for Mpox in a Learning Health System. Poster Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.   
+3. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models for Mpox in a Learning Health System. Poster Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.   
 
 4. **Reyes Nieva H** and Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review. Oral Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.\*  
-   **Spotlighted and invited for special presentation at DEI Workshop for "demonstrating best practices in promoting diversity, equity, and inclusion through scholarly communications in biomedical informatics."**   
+   **\*Spotlighted and invited for special presentation by AMIA DEI Committee for "demonstrating best practices in promoting diversity, equity, and inclusion through scholarly communications in biomedical informatics."**   
 
 5. Acharya N, **Reyes Nieva H**, Natarajan K. Analyzing shifts in healthcare-seeking behavior among All of Us enrollees in the era of COVID-19. Poster Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.  
 
