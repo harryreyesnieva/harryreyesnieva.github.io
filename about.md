@@ -6,7 +6,7 @@ nav_order: 1
 ---
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-## Research Statement
+## Personal Statement
 
 My long-term goal is to pursue a career in academia as a professor. Building on two decades of domestic and international experience in clinical research and public health practice, my research examines and applies methods such as machine learning, deep learning, natural language processing, and spatial analysis to build equitable learning health systems, support precision health, and contribute to knowledge discovery in medicine. In particular, my primary interests center around using and interrogating multimodal data sources and the vast toolbox that computational learning offers to better understand, improve, and facilitate the study of health in populations and communities that are marginalized. My research goals are informed by a longstanding commitment to justice, equity, diversity, and inclusion (JEDI). This is largely demonstrated by many years of service on JEDI-oriented research studies, committees, and working groups; capacity-building efforts devoted to resource limited settings and marginalized communities; and voluntary civil service. 
 
