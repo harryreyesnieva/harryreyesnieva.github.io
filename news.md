@@ -7,6 +7,8 @@ nav_order: 7
 
 <iframe width="100%" height="166" float="right" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722783449&color=%230500ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+April 2, 2024 | I was selected for a [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/details-and-application/){:target="_blank"} by the Deutscher Akademischer Austauschdienst (DAAD), the German Academic Exchange Service funded by the Federal Ministry of Education and Research! The goal of the fellowship is to offer advanced doctoral candidates and post-doctoral scholars from around the world a personalized gateway to the German artificial intelligence research community.
+January 24, 2024 | Our paper, [Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles](https://www.science.org/doi/full/10.1126/sciadv.adf9033){:target="_blank"} was published *Science Advances*! 
 September 7, 2023 | I was invited to present and serve as a panelist on *"Advancing Diversity, Equity, and Inclusion in Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle"* at the [AMIA 2023 Annual Symposium](https://amia.org/education-events/amia-2023-annual-symposium){:target="_blank"}.
 July 26, 2023 | I am presenting at the [STI and HIV World Congress](https://stihiv2023.org/){:target="_blank"} in Chicago, IL.
 May 22, 2023 | I passed the [Depth Exam of my PhD program](https://www.dbmi.columbia.edu/depth-exam/){:target="_blank"} and was awarded a Master of Philosophy in Biomedical Informatics!
