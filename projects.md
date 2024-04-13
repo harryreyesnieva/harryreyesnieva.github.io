@@ -13,7 +13,7 @@ The [Health Disparities and Minority Health (HDMH) Monitor](https://hdmhmonitor.
 **C-REACT: Contextualized Race and Ethnicity Annotations for Clinical Text** / Co-developer   
 The C-REACT dataset is a large publicly-available corpus of sentences from clinical notes manually annotated for information related to race and ethnicity (RE). This corpus contains two sets of gold-standard annotations for RE data. The first set contains granular RE-information such as patient country of origin and spoken language. The second set of annotations contains RE labels manually assigned by clinicians. This corpus is intended to improve understanding about granular information related to RE contained within the clinical note and how this information might be used to infer RE. 
 
-**HERA: Health Equity Research Assessment** / Co-developer
+**HERA: Health Equity Research Assessment** / Co-developer   
 The [Health Equity Research Assessment (HERA)](https://data.ohdsi.org/HERACharacterization/){:target="_blank"} is a large-scale characterization conducted across [Observational Health Data Science Informatics (OHDSI)](https://www.ohdsi.org/){:target="_blank"} sites with heterogeneous populations and insurance coverage types, allowing for identification of persistent and generalizable trends in diagnosis differences. The HERA dashboard and visualizations can be used to download study data, further investigate health differences, and generate novel hypotheses.
 
 **CovidWatcher** / Co-developer   
