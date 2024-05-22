@@ -73,7 +73,7 @@ nav_order: 4
     
 <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11606-009-0933-9" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span> Linder JA, **Reyes Nieva H**, Blumentals WA. [Antiviral and antibiotic prescribing for influenza in primary care.](https://www.ncbi.nlm.nih.gov/pubmed/19225847){:target="_blank"} *J Gen Intern Med.* 2009 Apr; 24(4):504-10. PMID:19225847<span class="__dimensions_badge_embed__" data-doi="10.1007/s11606-009-0933-9" data-hide-zero-citations="true"  data-style="large_rectangle"></span>     
 
-# Proceedings of meetings and other non-peer reviewed research publications   
+# Proceedings of meetings and non-peer reviewed research publications   
 
 <span data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N. [Enabling a Learning Public Health System: Enhanced Surveillance of HIV and Other Sexually Transmitted Infections](https://www.medrxiv.org/content/10.1101/2024.04.10.24305612){:target="_blank"} medRxiv. 2024 Apr 12:2024.04.10.24305612. doi: 10.1101/2024.04.10.24305612. PMID: 38645158; PMCID: PMC11030475. <span class="__dimensions_badge_embed__" data-doi="10.1101/2024.04.10.24305612" data-hide-zero-citations="true"  data-style="large_rectangle"></span>      
 
