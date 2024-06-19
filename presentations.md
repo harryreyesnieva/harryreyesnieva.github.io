@@ -16,6 +16,8 @@ nav_order: 5
 
 **National**
 
+1. **Reyes Nieva H**, Zucker J, Elhadad N. Elucidating Health Inequities and Research Gaps in HIV and Other Sexually Transmitted Infections Using Data Mining and a Large Language Model: A Computational Scoping Review. Poster Presentation. STI Prevention. Atlanta, GA; 09/2024.   
+
 1. **Reyes Nieva H**, Zucker J, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N. Enabling a Learning Public Health System: Enhanced Surveillance of Sexually Transmitted Infections. Oral Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.    
 
 2. **Reyes Nieva H**. Challenges, Opportunities, and Considerations: Promoting Inclusive Research in the Era of Big Data. Oral Presentation / Panelist on "Advancing Diversity, Equity, and Inclusion in Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle" Panel. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023. 
