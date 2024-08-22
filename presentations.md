@@ -18,51 +18,55 @@ nav_order: 5
 
 1. **Reyes Nieva H**, Zucker J, Elhadad N. Elucidating Health Inequities and Research Gaps in HIV and Other Sexually Transmitted Infections Using Data Mining and a Large Language Model: A Computational Scoping Review. Poster Presentation. STI Prevention. Atlanta, GA; 09/2024.   
 
-1. **Reyes Nieva H**, Zucker J, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N. Enabling a Learning Public Health System: Enhanced Surveillance of Sexually Transmitted Infections. Oral Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.    
+2.  D’Avanzo P, Carnevale C, Theodore DA, **Reyes Nieva H**,, Bosco J, Zucker J, Meyers K. "I Don’t See Myself as a Gatekeeper": Doxy-PEP Knowledge, Attitudes and Practices Among Healthcare Providers in New York. Poster Presentation. STI Prevention. Atlanta, GA; 09/2024.   
 
-2. **Reyes Nieva H**. Challenges, Opportunities, and Considerations: Promoting Inclusive Research in the Era of Big Data. Oral Presentation / Panelist on "Advancing Diversity, Equity, and Inclusion in Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle" Panel. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023. 
+3. **Reyes Nieva H**, Zucker J, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N. Enabling a Learning Public Health System: Enhanced Surveillance of Sexually Transmitted Infections. Oral Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.    
 
-3. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models for Mpox in a Learning Health System. Poster Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.   
+4. **Reyes Nieva H**. Challenges, Opportunities, and Considerations: Promoting Inclusive Research in the Era of Big Data. Oral Presentation / Panelist on "Advancing Diversity, Equity, and Inclusion in Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle" Panel. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023. 
 
-4. **Reyes Nieva H** and Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review. Oral Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.\*  
+5. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models for Mpox in a Learning Health System. Poster Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.   
+
+6. **Reyes Nieva H** and Elhadad N. Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review. Oral Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.\*  
    **\*Spotlighted and invited for special presentation by AMIA DEI Committee for "demonstrating best practices in promoting diversity, equity, and inclusion through scholarly communications in biomedical informatics."**   
 
-5. Acharya N, **Reyes Nieva H**, Natarajan K. Analyzing shifts in healthcare-seeking behavior among All of Us enrollees in the era of COVID-19. Poster Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.  
+7. Acharya N, **Reyes Nieva H**, Natarajan K. Analyzing shifts in healthcare-seeking behavior among All of Us enrollees in the era of COVID-19. Poster Presentation. American Medical Informatics Association Annual Symposium. Washington, DC; 11/2022.  
 
-6. Sun T, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng RF, Ryan P, Elhadad N. Poster Presentation. Large-scale Characterization of Gender Differences in Age at Diagnosis and Time to Diagnosis in Longitudinal Observational Health Data. National Institutes of Health (NIH) Office of Research on Women’s Health (ORWH) Workshop on Gender and Health: Impacts of Structural Sexism, Gender Norms, Relational Power Dynamics, and Gender Inequities. Virtual Event; 10/2022. 
+8. Sun T, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng RF, Ryan P, Elhadad N. Poster Presentation. Large-scale Characterization of Gender Differences in Age at Diagnosis and Time to Diagnosis in Longitudinal Observational Health Data. National Institutes of Health (NIH) Office of Research on Women’s Health (ORWH) Workshop on Gender and Health: Impacts of Structural Sexism, Gender Norms, Relational Power Dynamics, and Gender Inequities. Virtual Event; 10/2022. 
 
-7. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association Annual Symposium. San Diego, CA; 11/2021.
+9. **Reyes Nieva H**, Sun TY, Gorman SR, Mao G, Elhadad N. Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity. Oral Presentation. American Medical Informatics Association Annual Symposium. San Diego, CA; 11/2021.
 
-8. Sun TY, Chen JL, **Reyes Nieva H**, Bear Don't Walk IV OJ, Altosaar J, Elhadad N. Examining Gender Differences in Time to Diagnosis through Fairness and Time-Variant Evaluation of EHR Data. Oral Presentation. American Medical Informatics Association Annual Symposium. San Diego, CA; 11/2021.  
+10. Sun TY, Chen JL, **Reyes Nieva H**, Bear Don't Walk IV OJ, Altosaar J, Elhadad N. Examining Gender Differences in Time to Diagnosis through Fairness and Time-Variant Evaluation of EHR Data. Oral Presentation. American Medical Informatics Association Annual Symposium. San Diego, CA; 11/2021.  
 
-9. **Reyes Nieva H** and Elhadad N. Latent Topics and Trends in Health Disparities Literature. Poster presentation. National Library of Medicine Informatics Training Conference. 06/2021.
+11. **Reyes Nieva H** and Elhadad N. Latent Topics and Trends in Health Disparities Literature. Poster presentation. National Library of Medicine Informatics Training Conference. 06/2021.
 
-10. Pang C, Chen R, **Reyes Nieva H**, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Oral Presentation. American Medical Informatics Association Annual Symposium. 11/2020.
+12. Pang C, Chen R, **Reyes Nieva H**, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K. Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases. Oral Presentation. American Medical Informatics Association Annual Symposium. 11/2020.
 
-11. Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, **Reyes Nieva H**, Bearnot B, Streed C. Using patterns of missing EHR data to identify care disparities in gender diverse patients. Oral Presentation. APHA Annual Meeting and Expo. 10/2020.
+13. Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, **Reyes Nieva H**, Bearnot B, Streed C. Using patterns of missing EHR data to identify care disparities in gender diverse patients. Oral Presentation. APHA Annual Meeting and Expo. 10/2020.
 
-12. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. 06/2020.
+14. Sun TY, **Reyes Nieva H**, Ryan P, Elhadad N. Large-scale characterization of diagnosis patterns across men and women in observational health data. Oral Presentation. National Library of Medicine Informatics Training Conference. 06/2020.
 
-13. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
+15. Mlaver E, Dalal AK, **Reyes Nieva H**, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P. An Analysis of Patient Portal Use in the Acute Care Setting. Oral Presentation. American Medical Informatics Association Annual Meeting. San Francisco, CA; 11/2015.
 
-14. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
+16. **Reyes Nieva H**, Palm K, Zucconi T. Advocacy and Implementation: Gathering SOGI Demographics in the Clinical Setting. Oral presentation. GLMA 33rd Annual Conference. Portland, OR; 9/2015.
 
-15. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
+17. **Reyes Nieva H**, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA. Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care. Oral presentation. Society of General Internal Medicine Annual Meeting, San Diego, CA; 4/2014.\*  
     **\*Received the Outstanding Quality and Patient Safety Oral Presentation Award**   
     
 **International**
 
-1. **Reyes Nieva H**, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N, Zucker J. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. Oral Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
+1. **Reyes Nieva H**, Kashyap A, Voss EA, Ostropolets A, Anand A, Ketenci M, DeFalco FJ, Natarajan K, Choi YS, Li Y, Allen MN, Guang S, Elhadad N. The Impact of Evolving Diagnostic Guidelines on Clinical Characterization of Endometriosis. Poster Presentation. OHDSI Global Symposium, New Brunswick, NJ; 10/2024.   
 
-2. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models to Identify Human Monkeypox. Poster Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
+2. **Reyes Nieva H**, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N, Zucker J. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. Oral Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
 
-3. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine and Deep Learning Classifiers for Monkeypox. Poster Presentation. Symposium on Artificial Intelligence for Learning Health Systems (SAIL), Río Grande, Puerto Rico; 05/2023.
+3. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine Learning and Deep Learning Models to Identify Human Monkeypox. Poster Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
 
-4. Desai PM, Ostropolets A, Richter LR, **Reyes Nieva H**, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K. Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity. Poster Presentation. OHDSI Global Symposium. 09/2021.
+4. **Reyes Nieva H**, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. Development and Validation of Machine and Deep Learning Classifiers for Monkeypox. Poster Presentation. Symposium on Artificial Intelligence for Learning Health Systems (SAIL), Río Grande, Puerto Rico; 05/2023.
 
-5. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
+5. Desai PM, Ostropolets A, Richter LR, **Reyes Nieva H**, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K. Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity. Poster Presentation. OHDSI Global Symposium. 09/2021.
 
-6. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
+6. **Reyes Nieva H**, Linder JA. Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting. Oral Presentation. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 7/2015.
+
+7. **Reyes Nieva H**, Linder JA. PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement. Workshop. North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD; 07/2014.
 
 # Report of Invited Teaching and Presentations
 *No presentations below were sponsored by outside entities.*
