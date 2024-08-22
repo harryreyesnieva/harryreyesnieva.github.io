@@ -17,7 +17,7 @@ Welcome! I'm Harry (pronouns: he, him). I'm in the final year of my PhD training
 
 Building on two decades of domestic and international experience in clinical and public health informatics, my research focuses on human-centered artificial intelligence (AI) and development of systematic, scalable data-driven approaches to promote health equity. My work usually examines and applies methods such as machine learning, natural language processing, and spatiotemporal analysis in addition to traditional biostatistics and epidemiology. I am particularly interested in using and interrogating multimodal data sources and the vast toolbox that computational learning offers to better understand, improve, and facilitate study of health in populations and communities that are marginalized. Generally, my research can be grouped into four primary domains: 
 1. Ethical considerations in AI, clinical practice, and digital health 
-2. Promoting health data equity and creating knowledge bases
+2. Promoting health data equity and creating new knowledge bases
 3. Elucidating health inequity and developing tools to facilitate further discovery
 4. Enabling equitable learning health systems and precision health
 
