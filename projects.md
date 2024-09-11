@@ -29,6 +29,15 @@ Co-developed and evaluated a utility to extract information from EHR data wareho
 Instituted major modifications to and evaluated a pre-existing EHR utility to incorporate expanded data quality indicators at 33 Harvard PEPFAR sites in Nigeria. With this utility, central and site-level data managers are able to better monitor and improve data completeness, validity, accuracy, and currency.
 
 # Funding Information  
+*Current*  
+**Development and Evaluation of a Disparities Reduction and QI Bundle to Improve
+Completion of Pre-Transplant Evaluation in a Learning Health System**   
+Learning Health System and Health Justice Research and Training Award   
+Co-Investigator (PI: Husain)   
+Aim: To identify patients at high risk for delayed kidney pre-transplant clinical
+evaluation using machine learning, target them for enhanced monitoring and
+engagement, and provide direct support to mitigate roadblocks contributing to delays.
+
 *Past*  
 **A Multicenter Randomized Controlled Trial of Pharmacist-Directed Transitional Care to Reduce Post-Hospitalization Utilization**  
 National Institute on Aging (NIA) R01 AG 058911-01  
@@ -109,3 +118,16 @@ Aim: To evaluate a literacy-focused program that provides educational assistance
 Roche Laboratories, RLI 06001207  
 Research Assistant (PI: Linder)  
 Aim: To measure and evaluate antiviral and antibiotic prescribing for patients with influenza being treated in primary care clinics.
+
+*Unfunded Current Projects*
+**Gender-based Differences in Presentation and Treatment of Acute Myocardial Infarction**   
+Aim: To characterize gender-based differences in time-to-treatment based on sign or symptom documentation when presenting to the emergency department with acute myocardial infarction and its resulting impact on patient outcomes across the dimensions of gender, race, and age.
+
+**Exploring Gender Disparities in Time to Diagnosis**   
+Aim: To characterize gender-based time-to-diagnosis disparities for over 100 diseases and explore how this affects diagnostic performance when evaluating gender-agnostic disease classifiers across increasing levels of diagnostic information for millions of patients.
+
+**Development and Validation of an Electronic Screening Tool for Endometriosis**   
+Aim: To develop machine learning models to improve endometriosis screening. To date, our best performing models have proven capable of detecting cases up to 3 years prior to original diagnosis date with robust accuracy, precision, and recall.
+
+**Implications of Changing Endometriosis Diagnosis Guidelines on Observational Health Research**    d d
+Aim: To investigate how shifts in guidelines for the diagnosis of endometriosis might impact observational health research related to the disease by comparing demographics and clinical histories across five  endometriosis phenotypes involving laparoscopy, imaging, and symptoms. 
