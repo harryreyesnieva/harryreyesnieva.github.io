@@ -30,8 +30,7 @@ Instituted major modifications to and evaluated a pre-existing EHR utility to in
 
 # Funding Information  
 *Current*  
-**Development and Evaluation of a Disparities Reduction and QI Bundle to Improve
-Completion of Pre-Transplant Evaluation in a Learning Health System**   
+**Development and Evaluation of an Informatics-Based Approach to Reducing Disparities in Kidney Transplant Evaluation Completion in a Learning Health System**   
 Learning Health System and Health Justice Research and Training Award   
 Co-Investigator (PI: Husain)   
 Aim: To identify patients at high risk for delayed kidney pre-transplant clinical
