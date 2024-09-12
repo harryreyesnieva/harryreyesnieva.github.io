@@ -119,7 +119,7 @@ Roche Laboratories, RLI 06001207
 Research Assistant (PI: Linder)  
 Aim: To measure and evaluate antiviral and antibiotic prescribing for patients with influenza being treated in primary care clinics.
 
-*Unfunded Current Projects*
+*Unfunded Current Projects*   
 **Gender-based Differences in Presentation and Treatment of Acute Myocardial Infarction**   
 Aim: To characterize gender-based differences in time-to-treatment based on sign or symptom documentation when presenting to the emergency department with acute myocardial infarction and its resulting impact on patient outcomes across the dimensions of gender, race, and age.
 
