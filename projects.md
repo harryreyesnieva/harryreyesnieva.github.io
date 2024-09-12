@@ -129,5 +129,5 @@ Aim: To characterize gender-based time-to-diagnosis disparities for over 100 dis
 **Development and Validation of an Electronic Screening Tool for Endometriosis**   
 Aim: To develop machine learning models to improve endometriosis screening. To date, our best performing models have proven capable of detecting cases up to 3 years prior to original diagnosis date with robust accuracy, precision, and recall.
 
-**Implications of Changing Endometriosis Diagnosis Guidelines on Observational Health Research**    d d
+**Implications of Changing Endometriosis Diagnosis Guidelines on Observational Health Research**    
 Aim: To investigate how shifts in guidelines for the diagnosis of endometriosis might impact observational health research related to the disease by comparing demographics and clinical histories across five  endometriosis phenotypes involving laparoscopy, imaging, and symptoms. 
