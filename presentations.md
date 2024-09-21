@@ -18,7 +18,7 @@ nav_order: 5
 
 1. **Reyes Nieva H**, Zucker J, Elhadad N. Elucidating Health Inequities and Research Gaps in HIV and Other Sexually Transmitted Infections Using Data Mining and a Large Language Model: A Computational Scoping Review. Poster Presentation. STI Prevention. Atlanta, GA; 09/2024.   
 
-2.  D’Avanzo P, Carnevale C, Theodore DA, **Reyes Nieva H**,, Bosco J, Zucker J, Meyers K. "I Don’t See Myself as a Gatekeeper": Doxy-PEP Knowledge, Attitudes and Practices Among Healthcare Providers in New York. Poster Presentation. STI Prevention. Atlanta, GA; 09/2024.   
+2.  D’Avanzo P, Bosco J, Carnevale C, Meyers K, Theodore DA, **Reyes Nieva H**, Zucker J. "I Don’t See Myself as a Gatekeeper": Doxy-PEP Knowledge, Attitudes and Practices Among Healthcare Providers in New York. Poster Presentation. STI Prevention. Atlanta, GA; 09/2024.   
 
 3. **Reyes Nieva H**, Zucker J, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N. Enabling a Learning Public Health System: Enhanced Surveillance of Sexually Transmitted Infections. Oral Presentation. American Medical Informatics Association 2023 Annual Symposium. New Orleans, LA; 11/2023.    
 
