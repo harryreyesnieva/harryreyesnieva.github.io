@@ -54,7 +54,7 @@ nav_order: 5
     
 **International**
 
-1. **Reyes Nieva H**, Kashyap A, Voss EA, Ostropolets A, Anand A, Ketenci M, DeFalco FJ, Natarajan K, Choi YS, Li Y, Allen MN, Guang S, Elhadad N. The Impact of Evolving Diagnostic Guidelines on Clinical Characterization of Endometriosis. Poster Presentation. OHDSI Global Symposium, New Brunswick, NJ; 10/2024.   
+1. **Reyes Nieva H**, Kashyap A, Voss EA, Ostropolets A, Anand A, Ketenci M, DeFalco FJ, Natarajan K, Choi YS, Li Y, Allen MN, Guang S, Elhadad N. [The Impact of Evolving Diagnostic Guidelines on Clinical Characterization of Endometriosis.](https://www.ohdsi.org/2024showcase-100/){:target="_blank"} Poster Presentation. OHDSI Global Symposium, New Brunswick, NJ; 10/2024.   
 
 2. **Reyes Nieva H**, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N, Zucker J. Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data. Oral Presentation. HIV and STI 2023 World Congress, Chicago, IL; 07/2023.
 
