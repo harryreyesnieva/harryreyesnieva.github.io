@@ -6,7 +6,7 @@ nav_order: 7
 ---
 
 <iframe width="100%" height="166" float="right" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722783449&color=%230500ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
+October 21, 2024 | 
 September 27, 2024 | Our preprint, [Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System](https://www.medrxiv.org/content/10.1101/2024.09.25.24314318){:target="_blank"}, is now available on medRxiv.
 June 18, 2024 | Our paper, [What works in medication reconciliation: an on-treatment and site analysis of the MARQUIS2 study](https://qualitysafety.bmj.com/content/32/8/457){:target="_blank"}, was ranked #1 among the [Top 10 Research Articles of 2023](https://blogs.bmj.com/qualitysafety/2024/06/18/top-10-articles-of-2023-1-5/){:target="_blank"} by [BMJ Quality and Safety](https://qualitysafety.bmj.com/){:target="_blank"}! 
 April 12, 2024 | [DBMI Trainees Earn DAAD AInet Fellowship, Connection with German AI Research Community](https://www.dbmi.columbia.edu/dbmi-trainees-earn-daad-ainet-fellowship/){:target="_blank"} 
