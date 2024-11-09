@@ -5,11 +5,6 @@ permalink: /publications/
 nav_order: 4
 ---
 
-* Citations: {{ site.data.scholar.citations }}
-* h-index: {{ site.data.scholar.h_index }}
-* i10-index: {{ site.data.scholar.i10_index }}
-
-
 # Preprints under review
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>   
 
