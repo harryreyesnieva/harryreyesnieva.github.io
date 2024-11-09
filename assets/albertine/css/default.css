@@ -65,7 +65,7 @@ section {
   }
   section a,
   section a:hover {
-    color:#1d4f91;
+    color:#0078BF;
   }
 
 /*******************
@@ -73,7 +73,7 @@ section {
  *******************/
 .intro-screen,
 .intro-screen header {
-  background-color:#1d4f91;
+  background-color:#0078BF;
   /*#44a9eb;*/
   color:#fff;
 }
