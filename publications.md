@@ -4,12 +4,18 @@ title: Publications
 permalink: /publications/
 nav_order: 4
 ---
+
+* Citations: {{ site.data.scholar.citations }}
+* h-index: {{ site.data.scholar.h_index }}
+* i10-index: {{ site.data.scholar.i10_index }}
+
+
 # Preprints under review
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>   
 
-<span data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. [Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System.](https://www.medrxiv.org/content/10.1101/2024.09.25.24314318){:target="_blank"} medRxiv \[Preprint\]. 2024 Sep 24:2024.09.25.24314318. doi: 10.1101/2024.09.25.24314318. PMID: 39399027. PMCID: PMC11469386. <span class="__dimensions_badge_embed__" data-doi="10.1101/2024.09.25.24314318" data-hide-zero-citations="true"  data-style="large_rectangle"></span>    
+<span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2024.09.25.24314318" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N. [Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System.](https://www.medrxiv.org/content/10.1101/2024.09.25.24314318){:target="_blank"} medRxiv \[Preprint\]. 2024 Sep 24:2024.09.25.24314318. doi: 10.1101/2024.09.25.24314318. PMID: 39399027. PMCID: PMC11469386. <span class="__dimensions_badge_embed__" data-doi="10.1101/2024.09.25.24314318" data-hide-zero-citations="true"  data-style="large_rectangle"></span>    
 
-<span data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N. [Enabling a Learning Public Health System: Enhanced Surveillance of HIV and Other Sexually Transmitted Infections.](https://www.medrxiv.org/content/10.1101/2024.04.10.24305612){:target="_blank"} medRxiv \[Preprint\]. 2024 Apr 12:2024.04.10.24305612. doi: 10.1101/2024.04.10.24305612. PMID: 38645158. PMCID: PMC11030475. <span class="__dimensions_badge_embed__" data-doi="10.1101/2024.04.10.24305612" data-hide-zero-citations="true"  data-style="large_rectangle"></span>       
+<span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2024.04.10.24305612" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>**Reyes Nieva H**, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N. [Enabling a Learning Public Health System: Enhanced Surveillance of HIV and Other Sexually Transmitted Infections.](https://www.medrxiv.org/content/10.1101/2024.04.10.24305612){:target="_blank"} medRxiv \[Preprint\]. 2024 Apr 12:2024.04.10.24305612. doi: 10.1101/2024.04.10.24305612. PMID: 38645158. PMCID: PMC11030475. <span class="__dimensions_badge_embed__" data-doi="10.1101/2024.04.10.24305612" data-hide-zero-citations="true"  data-style="large_rectangle"></span>       
 
 <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.10.12.23296976" data-hide-no-mentions="true" class="altmetric-embed" style="float:right"></span>Sun TY, Hardin J, **Reyes Nieva H**, Natarajan K, Cheng RJ, Ryan PB, Elhadad N. [Large-scale characterization of gender differences in diagnosis prevalence and time to diagnosis.](https://www.medrxiv.org/content/10.1101/2023.10.12.23296976v2){:target="_blank"} medRxiv \[Preprint\]. 2023 Oct 16:2023.10.12.23296976. doi: 10.1101/2023.10.12.23296976. PMID: 37873224. PMCID: PMC10592987.<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.10.12.23296976" data-hide-zero-citations="true"  data-style="large_rectangle"></span> 
 

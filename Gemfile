@@ -17,6 +17,8 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-twitter-plugin', '~> 2.1'
+  gem "nokogiri"
+  gem "open-uri"
 end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
