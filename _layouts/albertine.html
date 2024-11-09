@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ site.data.personal.name }}</title>
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,700">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/albertine/css/default.css">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <!-- Javascript -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</head>
+<body class="intro-screen">
+
+  <!-- ==================== -->
+  <!-- HEADER -->
+  <!-- ==================== -->
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-9 col-lg-9">
+          <h1>
+            {{ site.data.personal.name }}
+          </h1>
+          <h2>
+            {{ site.data.personal.label }}
+          </h2>
+        </div>
+<!--         <div class="col-xs-3 col-lg-3">
+          <img src="{{ site.baseurl }}{{ site.data.personal.picture }}" 
+               class="img-circle"
+               style="margin-top:-6px;width:56px;border:2px solid rgba(255,255,255,0.75)">
+        </div> -->
+      </div>
+    </div>
+  </header>
+
+<!--   <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+
+    {%- assign page_paths = site.header_pages | default: default_paths | sort: 'order' -%}
+
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    {%- if page_paths -%}
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      </nav>
+    {%- endif -%}
+  </div>
+</header> -->
+
+  <!-- ==================== -->
+  <!-- SECTION -->
+  <!-- ==================== -->
+  <div class="container"
+           id="section-about">
+    <div class="row">
+      <section class="col-md-8">
+        {% if site.data.personal.intro.title %}
+          <h3 style="font-size:48px">
+            {{ site.data.personal.intro.title }}
+          </h3>
+        {% else %}
+          <h3>
+            About
+          </h3>
+        {% endif %}
+
+        <div class="lead">
+          {{ site.data.personal.intro.body | markdownify }}
+        </div>
+        
+      </section>
+      <section class="col-md-offset-1 col-md-3">
+        <style>
+        .avatar {
+          vertical-align: middle;
+          horizontal-align: middle;
+          width: 225px;
+          height: 225px;
+          border-radius: 50%;
+        .icon {
+          width: 1em;
+          height: 1em;
+          vertical-align: -0.125em;
+        }
+
+        }
+        </style>
+        <img src="{{ site.baseurl }}{{ site.data.personal.picture }}"
+        height="225" hspace="20" alt="Avatar" class="avatar"/>
+
+        <h3>Contact</h3>
+        <p>
+          {{ site.data.personal.email | replace:'@',' <small>[at]</small> ' | replace:'.',' <small>[dot]</small> ' }}
+        </p>
+        <p>
+          {{ site.data.personal.department }}<br>
+          {{ site.data.personal.institution }}<br>
+          {{ site.data.personal.mailing_address | replace:'\n','<br>' }}
+        </p>
+ 
+
+        <p>
+          <a href="/assets/docs/CV_HReyesNieva.pdf" target="_blank">Curriculum Vitae</a> | <a href="https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en" target="_blank">Google Scholar Page</a>
+        </p>
+        <p>
+          Citations: 1156  &nbsp; &nbsp;  h-index: 14
+        </p>
+        <p>
+          {% for profile in site.data.personal.profiles %}
+            {% if profile.network == 'LinkedIn' %}
+              <i class="fa fa-linkedin-square"></i>
+            {% elsif profile.network == 'X/Twitter' %}
+              <i class="fa fa-twitter-square"></i>
+            {% elsif profile.network == 'Github' %}
+              <i class="fa fa-github-square"></i>
+
+            {% endif %}
+            <a href="{{ profile.url }}" target="_blank">
+              {{ profile.network }}
+            </a>
+            {% if forloop.last == false %}
+              <br>
+            {% endif %}
+          {% endfor %}
+        </p>
+      </section>
+    </div>
+  </div>
+
+  {% if site.data.publications.size > 0 %}
+  <div class="container">
+    <div class="row">
+      <section class="col-md-9">
+        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>  
+
+        <h3>Selected Publications</h3>
+
+        {% for publication in site.data.selected_publications %}
+        <p>
+        <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
+        data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
+            {{ publication.authors }}. 
+            <b>
+              <a href="{{ publication.pdf }} target='_blank'">
+                {{ publication.title }}.
+              </a>
+            </b>
+            
+            {% case publication.type %}
+              {% when 'conference' %}
+                {{ publication.conference }}. {{ publication.year }} {{ publication.month }}. {{ publication.pages }}.
+
+              {% when 'dissertation' %}
+                {{ publication.publisher }}
+
+              {% when 'journal' %}
+                {{ publication.journal }}. 
+                {{ publication.year }}.
+                {{ publication.volume }}({{ publication.issue }}):{{ publication.pages }}. PMID: {{ publication.pmid }}.
+                <br>
+                <b>{{ publication.note}}</b>
+        
+
+              {% when 'preprint' %}
+          
+                {{ publication.server }}.
+                {{ publication.year }} {{ publication.month }}. 
+                doi: {{ publication.doi }}. 
+                <br>
+                <b>{{ publication.note}}</b>
+                
+
+              {% when 'magazine' %}
+                {{ publication.magazine }},
+                {{ publication.volume }},
+                {{ publication.issue }},
+                {{ publication.pages }}
+            {% endcase %}
+
+         
+          <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>
+         
+        {% endfor %}
+        <a href="/publications">--see all publications</a>
+        <br>
+      </section>
+    </div>
+  </div>
+  {% endif %}
+
+  {% if site.data.projects.size > 0 %}
+  <!-- ==================== -->
+  <!-- PROJECTS -->
+  <!-- ==================== -->
+  <section class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <h3>Selected Projects</h3>
+      </div>
+    </div>
+
+    {% for project in site.data.selected_projects %}
+      <div class="row">
+        <div class="col-xs-4
+                    col-sm-3
+                    col-md-3
+                    col-lg-2">
+          <p>
+            <img src="{{ site.baseurl }}{{ project.image }}" 
+                 class="img-responsive img-thumbnail"
+                 style="width:100%">
+          </p>
+        </div>
+        <div class="col-xs-12
+                    col-sm-9
+                    col-md-6
+                    col-lg-7">
+          <p>
+            <b>
+              {% if project.url %}
+                <a href="{{ project.url }}">
+                  {{ project.name }}
+                </a>
+              {% else %}
+                {{ project.name }}
+              {% endif %}
+            </b>
+          </p>
+
+          {{ project.description | markdownify }}
+        </div>
+      </div>
+      <br>
+    {% endfor %}
+    <a href="/projects">--see all projects</a>
+
+  </section>
+  {% endif %}
+
+  {% if site.data.presentations.size > 0 %}
+  <!-- ==================== -->
+  <!-- PRESENTATIONS -->
+  <!-- ==================== -->
+  <section class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <h3>Selected Presentations</h3>
+      </div>
+    </div>
+
+    {% for presentation in site.data.selected_presentations %}
+      <div class="row">
+        <div class="col-md-9">
+          <p>
+            
+              {% if presentation.slides_url %}
+                <a href="{{ presentation.slides_url }}">
+                  {{ presentation.title }}
+                </a>
+              {% else %}
+                {{ presentation.authors }}. <b><span style="color:#69B3E7;">{{ presentation.title }}</span></b>
+              {% endif %}
+            
+            
+            <br>
+            <small>{{ presentation.date }}</small> 
+            {{ presentation.location }} 
+            <br>
+            {{ presentation.description }}
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+    <a href="/presentations">--see all presentations</a>
+  </section>
+  {% endif %}
+
+  <!-- ==================== -->
+  <!-- FOOTER -->
+  <!-- ==================== -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <hr>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          <h4 class="footer-heading"> &copy; 2019-2024 All Rights Reserved.</h4>
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ==================== -->
+  <!-- JAVASCRIPTS -->
+  <!-- ==================== -->
+  <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+  <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.4/waypoints.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('#section-about').waypoint(function (direction) {
+        if (direction === 'down') {
+          $('body').removeClass('intro-screen');
+        } else {
+          $('body').addClass('intro-screen');
+        }
+      });
+    });
+  </script>
+</body>
+</html>

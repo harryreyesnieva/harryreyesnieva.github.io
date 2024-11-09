@@ -1,0 +1,167 @@
+
+-
+  type: journal
+  title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap 
+  Analysis of 200,000+ Articles"
+  authors: <b>Reyes Nieva H</b>, Bakken S, Elhadad N
+  journal: Science Advances
+  volume: 10 
+  issue: 4
+  year: 2024
+  month: January
+  pages: eadf9033
+  pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
+  url: https://pubmed.ncbi.nlm.nih.gov/38266089
+  pmid: 38266089
+  doi: 10.1126/sciadv.adf9033
+-
+  type: preprint
+  title: "Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System"
+  authors: <b>Reyes Nieva H</b>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
+  server: medRxiv [Preprint]
+  year: 2024
+  month: September
+  pdf: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
+  url:
+  doi: 10.1101/2024.09.25.24314318
+  pmid: 39399027
+-
+  type: preprint
+  title: "Enabling a Learning Public Health System: Enhanced Surveillance of HIV and Other Sexually Transmitted Infections"
+  authors: <b>Reyes Nieva H</b>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
+  server: medRxiv [Preprint]
+  year: 2024
+  month: April
+  pdf: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
+  url:
+  doi: 10.1101/2024.09.25.24314318
+  pmid: 38645158
+-
+  type: conference
+  title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
+  authors: |
+    Bear Don’t Walk IV OJ, Pichon A, <b>Reyes Nieva H</b>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, 
+    Demner-Fushman D, Elhadad N
+  conference: AMIA Annu Symp Proc
+  year: 2024
+  month: January
+  pages: 289-298
+  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38222422/
+  url: https://pubmed.ncbi.nlm.nih.gov/38222422/
+  pmid: 38222422
+-
+  type: journal
+  title: "What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study"
+  authors: |
+    Schnipper JL, <b>Reyes Nieva H</b>, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, 
+    Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
+  journal: BMJ Qual Saf
+  year: 2023
+  volume: 32
+  issue: 8
+  pages: 457-469
+  pmid: 38156044
+  pdf:
+  url:
+  doi: 10.1136/bmjqs-2022-014806
+  pmid: 36948542
+  note: >
+    <i class="fa fa-star"></i> <b>Ranked #1 among the <a href="https://blogs.bmj.com/qualitysafety/2024/06/18/top-10-articles-of-2023-1-5/" 
+    target="_blank">top research articles of 2023</a> by BMJ Quality and Safety</b>
+-
+  type: journal
+  title: The Timeliness of Point of Care Viral Load Results Improves HIV Monitoring in Nigeria
+  authors: Chaplin B, Agbaji O, <b>Reyes Nieva H</b>, Olatunde B, Chang C, Mitruka K, Sule H, Dajel T, Zee A, Ahmed ML, Ahmed I, Okonkwo P, Rawizza H, Kanki P
+  journal: Clin Infect Dis
+  year: 2023
+  month: February
+  volume: 76
+  issue: 3
+  pages: e671-e680
+  pdf: https://pubmed.ncbi.nlm.nih.gov/35872644/
+  url: https://pubmed.ncbi.nlm.nih.gov/35872644/
+  pmid: 35872644
+  doi: 10.1093/cid/ciac609
+
+-
+  type: journal
+  title: A Scoping Review of Ethics Considerations in Clinical Natural Language Processing
+  authors: |
+    Bear Don’t Walk OJ IV, <b>Reyes Nieva H</b>, Lee SSJ, Elhadad N
+  journal: JAMIA Open
+  year: 2022
+  month: July 
+  volume: 5
+  issue: 2
+  pages: ooac039
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC9154253/pdf/ooac039.pdf
+  url: https://pubmed.ncbi.nlm.nih.gov/35663112/
+  pmid: 35663112
+  doi: 10.1093/jamiaopen/ooac039
+
+-
+  type: journal
+  title: "Characteristics of Disease-Specific and Generic Diagnostic Pitfalls: A Qualitative Study"
+  authors: Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, <b>Reyes Nieva H</b>
+  journal: JAMA Netw Open
+  year: 2022 
+  volume: 5
+  issue: 1
+  pages: e2144531
+  pdf: https://pubmed.ncbi.nlm.nih.gov/35061037/
+  url: https://pubmed.ncbi.nlm.nih.gov/35061037/
+  pmid: 35061037 
+  doi: 10.1001/jamanetworkopen.2021.44531
+  # note: <b>Senior Author Publication</b>
+-
+  type: journal
+  title: "Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices"
+  authors: <b>Reyes Nieva H</b>, Ruan E, Schiff G 
+  journal: J Gen Intern Med
+  year: 2020
+  volume: 35
+  issue: 2
+  pages: 457–464
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/31755012
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31755012
+  pmid: 31755012
+  doi: 10.1007/s11606-019-05543-0
+-
+  type: conference
+  title: "Exploring Gender Disparities in Time to Diagnosis"
+  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, <b>Reyes Nieva H</b>, Elhadad N
+  conference: Machine Learning for Health (ML4H) Workshop at the Conference on Neural Information Processing Systems (NeurIPS)
+  year: 2020
+  month: December
+  pages: 1-6
+  pdf: https://arxiv.org/pdf/2011.06100
+  url: https://arxiv.org/abs/2011.06100
+  doi: 10.48550/arXiv.2011.06100
+  arxivid: arXiv:2011.06100 
+-
+  type: journal
+  title: "Scale-up of networked HIV treatment in Nigeria: creation of an integrated electronic medical records system"
+  authors: Chaplin B, Meloni S, Eisen G, Jolayemi T, Banigbe B, Adeola J, Wen C, <b>Reyes Nieva H</b>, Chang C, Okonkwo P, Kanki P
+  journal: Int J Med Inform
+  year: 2015
+  volume: 84
+  issue: 1
+  pages: 58-68
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25301692
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25301692
+  pmid: 25301692
+  doi: 10.1016/j.ijmedinf.2014.09.006
+-
+  type: journal
+  title: "Time of day and the decision to prescribe antibiotics"
+  authors: Linder JA, Doctor JN, Friedberg MW, <b>Reyes Nieva H</b>, Birks C, Meeker D, Fox CR
+  journal: JAMA Intern Med
+  year: 2014 
+  volume: 174
+  issue: 12
+  pages: 2029-31
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25286067
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25286067
+  pmid: 25286067
+  doi: 10.1001/jamainternmed.2014.5225
+

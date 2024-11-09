@@ -1,0 +1,118 @@
+# -
+#   type: dissertation
+#   title: "Leveraging Computational Methods to Advance Health Equity Science Through Evidence Synthesis, Monitoring, 
+#   and Precision Public Health"
+#   authors: Harry Reyes Nieva
+#   year: 2025
+#   publisher: Columbia University
+#   pdf: 
+#   url: 
+
+-
+  type: journal
+  title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap 
+  Analysis of 200,000+ Articles."
+  authors: Reyes Nieva H, Bakken S, Elhadad N
+  journal: Science Advances
+  volume: 10 
+  issue: 4
+  year: 2024
+  month: January
+  pages: eadf9033
+  pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
+  url: https://pubmed.ncbi.nlm.nih.gov/38266089
+  doi: 10.1126/sciadv.adf9033
+-
+  type: preprint
+  title: "Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System."
+  authors: Reyes Nieva H, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
+  journal: medRxiv [Preprint]
+  year: 2024
+  month: September
+  url: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
+  doi: 10.1101/2024.09.25.24314318
+-
+  type: preprint
+  title: "Enabling a Learning Public Health System: Enhanced Surveillance of HIV and Other Sexually Transmitted Infections."
+  authors: Reyes Nieva H, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
+  journal: medRxiv [Preprint]
+  year: 2024
+  month: April
+  url: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
+  doi: 10.1101/2024.09.25.24314318
+-
+  authors: Bear Don’t Walk IV OJ, Pichon A, Reyes Nieva H, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, Demner-Fushman D, Elhadad N. 
+  title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text." 
+  journal: AMIA Annu Symp Proc. 
+  year: 2024
+  pages: 289-298
+  pmid: 38222422
+-
+  type: preprint
+  title: "Large-scale characterization of gender differences in diagnosis prevalence and time to diagnosis."
+  authors: Sun TY, Hardin J, Reyes Nieva H, Natarajan K, Cheng RJ, Ryan PB, Elhadad N
+  journal: medRxiv [Preprint]
+  year: 2023
+  month: October
+  url: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
+  doi: 10.1101/2023.10.12.23296976
+-
+  type: journal
+  title: "Using a Health Information Exchange to Characterize Changes in HIV Viral Load Suppression and Disparities 
+  During the COVID-19 Pandemic in NYC. Open Forum Infectious Diseases."
+  authors: Tucker EG, Reyes Nieva H, Schiffer K, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J. 
+  year: 2023
+  volume: 10
+  issue: 12
+  pmid: 38156044
+-
+  type: journal
+  title: "What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study."
+  authors: Schnipper JL, Reyes Nieva H, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
+  year: 2023
+  volume: 32
+  issue: 8
+  page: 457-469
+  pmid: 38156044
+  doi: 10.1136/bmjqs-2022-014806
+  pmid: 36948542
+  note: "**Ranked #1 among the top research articles of 2023 by BMJ Quality and Safety**"
+-
+  type: conference
+  title: "Exploring Gender Disparities in Time to Diagnosis"
+  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, Reyes Nieva H, Elhadad N
+  conference: Machine Learning for Health (ML4H) Workshop at the Conference on Neural Information Processing Systems (NeurIPS)
+  year: 2020
+  pages: 
+  pdf: arXiv:2011.06100
+  url: https://arxiv.org/pdf/2011.06100
+-
+  type: journal
+  title: "Characteristics of Disease-Specific and Generic Diagnostic Pitfalls: A Qualitative Study"
+  authors: Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, Reyes Nieva H
+  journal: JAMA Netw Open
+  year: 2022 
+  volume: 5
+  issue: 1
+  pages: e2144531
+  pmid: 35061037 
+  doi: 10.1001/jamanetworkopen.2021.44531
+-
+  type: journal
+  title: "Scale-up of networked HIV treatment in Nigeria: creation of an integrated electronic medical records system."
+  authors: Chaplin B, Meloni S, Eisen G, Jolayemi T, Banigbe B, Adeola J, Wen C, Reyes Nieva H, Chang C, Okonkwo P, Kanki P
+  journal: Int J Med Inform
+  year: 2015
+  volume: 84
+  issue: 1
+  pages: 58-68
+-
+  type: journal
+  title: "Time of day and the decision to prescribe antibiotics"
+  authors: Linder JA, Doctor JN, Friedberg MW, Reyes Nieva H, Birks C, Meeker D, Fox CR
+  journal: JAMA Intern Med
+  year: 2014 
+  volume: 174
+  issue: 12
+  pages: 2029-31
+  pmid: 25286067
