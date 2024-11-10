@@ -27,16 +27,16 @@
 
   <!-- Media Query for Mobile -->
   <style>
-    /* Hide mobile image on larger screens */
-    @media (min-width: 768px) {
-      .mobile-img {
+    /* Hide the desktop image on small screens */
+    @media (max-width: 767px) {
+      .desktop-img {
         display: none;
       }
     }
 
-    /* Show mobile image on smaller screens */
-    @media (max-width: 767px) {
-      .desktop-img {
+    /* Hide the mobile image on larger screens */
+    @media (min-width: 768px) {
+      .mobile-img {
         display: none;
       }
     }
