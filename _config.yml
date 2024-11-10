@@ -8,10 +8,10 @@ title: Harry Reyes Nieva
 description: |
   I'm a PhD candidate in the Department of Biomedical Informatics at
   Columbia University in the City of New York. My research
-  leverages artificial intelligence to promote health
-  equity, improve the quality and safety of patient care, and support 
+  leverages artificial intelligence to advance health
+  equity science, improve the quality and safety of patient care, and support 
   knowledge discovery in medicine.
-baseurl: 
+baseurl: http://www.harryreyesnieva.com
 url: "http://www.harryreyesnieva.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  harryreyesnieva
