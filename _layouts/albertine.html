@@ -24,6 +24,23 @@
   <!-- Javascript -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+  <!-- Media Query for Mobile -->
+  <style>
+    /* Hide mobile image on larger screens */
+    @media (min-width: 768px) {
+      .mobile-img {
+        display: none;
+      }
+    }
+
+    /* Show mobile image on smaller screens */
+    @media (max-width: 767px) {
+      .desktop-img {
+        display: none;
+      }
+    }
+  </style>
 </head>
 <body class="intro-screen">
 
@@ -49,11 +66,20 @@
             {{ site.data.personal.label }}
           </h2>
         </div>
-<!--         <div class="col-xs-3 col-lg-3">
+
+        <!-- Mobile version of image (only visible on small screens) -->
+        <div class="col-xs-3 col-lg-3 mobile-img">
           <img src="{{ site.baseurl }}{{ site.data.personal.picture }}" 
                class="img-circle"
                style="margin-top:-6px;width:56px;border:2px solid rgba(255,255,255,0.75)">
-        </div> -->
+        </div>
+
+        <!-- Desktop version of image (only visible on larger screens) -->
+        <div class="col-xs-3 col-lg-3 desktop-img">
+          <img src="{{ site.baseurl }}{{ site.data.personal.picture }}" 
+               class="img-circle"
+               style="margin-top:-6px;width:56px;border:2px solid rgba(255,255,255,0.75)">
+        </div>
       </div>
     </div>
   </header>
