@@ -58,84 +58,104 @@
   <!-- ==================== -->
   <!-- PUBLICATIONS -->
   <!-- ==================== -->
-  <div class="container" id="section-publications">
-    <div class="row">
-      <div class="col-md-10">   
-        <h1>Publications</h1>  
-      </div>
-    </div>
-  </div>     
-
-  {% if site.data.preprints.size > 0 %}
-  <div class="container" id="section-preprints">
-    <div class="row">
-      <div class="col-md-10">   
-        <h2>Preprints under review</h2>
-        {% for preprint in site.data.preprints %}
-          <b>{{ forloop.index }}. </b>
-          <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ preprint.doi }}" 
-          data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
-          {{ preprint.authors }}. 
-          <b>
-            <a href="https://doi.org/{{ preprint.doi }}" target='_blank'>
-              {{ preprint.title }}.
-            </a>
-          </b>
-          {{ preprint.server }}. {{ preprint.year }} {{ preprint.month }}. doi: {{ preprint.doi }}. 
-          <br>
-          <b>{{ preprint.note}}</b>
-          <span class="__dimensions_badge_embed__" data-doi="{{ preprint.doi }}" data-link-target="_blank"
-          data-hide-zero-citations="true" data-style="large_rectangle"></span>
-          <br><br>
-        {% endfor %}
-      </div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-10">   
+    <h1>Publications</h1>  
     </div>
   </div>
-  {% endif %}
+</div>     
 
-  {% if site.data.publications.size > 0 %}
-  <div class="container" id="section-peer-reviewed">
-    <div class="row">
-      <div class="col-md-10">   
-        <h2>Peer reviewed publications in print or other media</h2>
-        {% for publication in site.data.publications %}
+{% if site.data.preprints.size > 0 %}
+<div class="container">
+  <div class="row">
+    <div class="col-md-10">   
+      <h2>Preprints under review</h2>
+          
+          {% for preprint in site.data.preprints %}
           <b>{{ forloop.index }}. </b>
-          {% case publication.type %}
-            {% when 'journal' %}
-              <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ publication.doi }}" 
-              data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
-              {{ publication.authors }}. 
-              <b><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publication.pmid }}/" target='_blank'>
-              {{ publication.title }}.</a></b>
-              {{ publication.journal }}. {{ publication.year }}. {{ publication.volume }}({{ publication.issue }}):{{ publication.pages }}. PMID: {{ publication.pmid }}.
-              <br>
-              <b>{{ publication.note}}</b>
-              <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-link-target="_blank"
-              data-hide-zero-citations="true" data-style="large_rectangle"></span>
-            {% when 'conference' %}
-              <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
-              data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
-              {{ publication.authors }}.
-              <b><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publication.pmid }}/" target='_blank'>
-              {{ publication.title }}.</a></b>
-              {{ publication.conference }}. {{ publication.year }} {{ publication.month }}. {{ publication.pages }}.
-              <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" 
-              data-link-target="_blank" data-hide-zero-citations="true" data-style="large_rectangle"></span>
-            {% when 'dissertation' %}
-              {{ publication.publisher }}
-            {% when 'magazine' %}
-              {{ publication.magazine }},
-              {{ publication.volume }},
-              {{ publication.issue }},
-              {{ publication.pages }}
-          {% endcase %}
-          <br>
+
+          <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ preprint.doi }}" 
+          data-link-target="_blank"
+          data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
+              {{ preprint.authors }}. 
+
+                <b>
+                <a href="https://doi.org/{{ publication.doi }}" target='_blank'>
+                  {{ preprint.title }}.
+                </a>
+                </b>
+            
+                {{ preprint.server }}.
+                {{ preprint.year }} {{ preprint.month }}. doi: {{ preprint.doi }}. 
+                <br>
+                <b>{{ preprint.note}}</b>
+
+           
+          <span class="__dimensions_badge_embed__" data-doi="{{ preprint.doi }}" 
+          data-link-target="_blank"
+          data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>         
+        <br>
+        {% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% if site.data.publications.size > 0 %}
+<div class="container">
+  <div class="row">
+    <div class="col-md-10">   
+    <h2>Peer reviewed publicatons in print or other media</h2>
+        {% for publication in site.data.publications %}
+        <b>{{ forloop.index }}. </b>
+
+            
+            {% case publication.type %}
+
+              {% when 'journal' %}
+                <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ publication.doi }}" 
+                data-link-target="_blank"
+                data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
+                {{ publication.authors }}. 
+                <b><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publication.pmid }}/" target='_blank'>
+                {{ publication.title }}.</a></b>
+                {{ publication.journal }}. 
+                {{ publication.year }}.
+                {{ publication.volume }}({{ publication.issue }}):{{ publication.pages }}. PMID: {{ publication.pmid }}.
+                <br>
+                <b>{{ publication.note}}</b>
+                <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-link-target="_blank"
+                data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>
+
+              {% when 'conference' %}
+                <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
+                data-link-target="_blank"
+                data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
+                {{ publication.authors }}.
+                <b><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publication.pmid }}/" target='_blank'>
+                {{ publication.title }}.</a></b>
+                {{ publication.conference }}. {{ publication.year }} {{ publication.month }}. {{ publication.pages }}.
+                <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" 
+                data-link-target="_blank" data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>
+
+              {% when 'dissertation' %}
+                {{ publication.publisher }}
+
+              {% when 'magazine' %}
+                {{ publication.magazine }},
+                {{ publication.volume }},
+                {{ publication.issue }},
+                {{ publication.pages }}
+            {% endcase %}
+            <br>
         {% endfor %}
         <br><br>
-      </div>
-    </div>
-  </div>
-  {% endif %}
+</div>
+</div>
+</div>
+{% endif %}
+
 {% if site.data.proceedings.size > 0 %}
 <div class="container">
   <div class="row">
@@ -214,23 +234,7 @@
   <script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.4/waypoints.min.js"></script>
   <script>
     $(document).ready(function () {
-      $('#section-publications').waypoint(function (direction) {
-        if (direction === 'down') {
-          $('body').removeClass('intro-screen');
-        } else {
-          $('body').addClass('intro-screen');
-        }
-      });
-
-      $('#section-preprints').waypoint(function (direction) {
-        if (direction === 'down') {
-          $('body').removeClass('intro-screen');
-        } else {
-          $('body').addClass('intro-screen');
-        }
-      });
-
-      $('#section-peer-reviewed').waypoint(function (direction) {
+      $('#section-about').waypoint(function (direction) {
         if (direction === 'down') {
           $('body').removeClass('intro-screen');
         } else {
@@ -241,3 +245,4 @@
   </script>
 </body>
 </html>
+
