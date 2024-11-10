@@ -59,12 +59,15 @@
   <!-- ==================== -->
   <!-- PRESENTATIONS -->
   <!-- ==================== -->
+
   {% if site.data.presentations.size > 0 %}
 
   <div class="container" id="section-presentations">
     <div class="row">
       <div class="col-md-9">  
+  
   <h1>Presentations</h1>
+  <p><em>Works resulting in publication are not included below unless awarded special recognition.</em></p>
     {% for presentation in site.data.presentations %}
               <b>{{ forloop.index }}. </b>
               {% if presentation.slides_url %}
