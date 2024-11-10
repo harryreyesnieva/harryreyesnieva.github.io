@@ -1,0 +1,46 @@
+-
+  type: proceedings
+  authors: Hegselmann S, Parziale A, Shanmugam D, Tang S, Severson K, Asiedu MN, Chang S, Dossou BFP, Huang Q, Kamran F, Zhang H, Nagaraj S, Oala L, Xu S, Okolo CT, Zhou H, Dafflon J, Ellington C, Jabbour S, Jeong H, <b>Reyes Nieva H</b>, Yang Y, Zamzmi G, Mhasawade V, Truong V, Chandak P, Lee M, Argaw P, Heuton K, Singh H, Hartvigsen T
+  title: Machine Learning for Health (ML4H) 2023
+  venue: Proceedings of Machine Learning Research
+  url: https://proceedings.mlr.press/v225/hegselmann23a.html
+  year: 2023
+  issue: 225
+  pages: 1-12
+-
+  type: proceedings
+  title: "Exploring Gender Disparities in Time to Diagnosis"
+  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, <b>Reyes Nieva H</b>, Elhadad N
+  venue: Machine Learning for Health (ML4H) Workshop at the Conference on Neural Information Processing Systems (NeurIPS)
+  year: 2020
+  month: December
+  pages: 1-6
+  pdf: https://arxiv.org/pdf/2011.06100
+  url: https://arxiv.org/abs/2011.06100
+  doi: 10.48550/arXiv.2011.06100
+  arxivid: arXiv:2011.06100 
+-
+  type: proceedings
+  authors: <b>Reyes Nieva H</b>, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA
+  title: |
+    Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care 
+      "in Abstracts from the 37th Annual Meeting of the Society of General Internal Medicine"
+  venue: J Gen Intern Med
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4429500/
+  year: 2014
+  month: Apr
+  volume: 29
+  issue: Suppl 1
+  page: 55
+  pmid: 24737224
+  note: >
+    <i class="fa fa-trophy"></i> Received the <b>Outstanding Quality and Patient Safety Oral Presentation Award</b> from the Society of General Internal Medicine.
+-
+  type: proceedings
+  authors: <b>Reyes Nieva H</b>, Kaplan RL, Madani N
+  title: |
+    Women and HIV: Update from the Middle East and North Africa
+  venue: Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA)
+  year: 2010 
+  journal: International AIDS Conference, Vienna, Austria.
+  url: 

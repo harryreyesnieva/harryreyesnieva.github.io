@@ -13,7 +13,7 @@
 -
   name: "Health Disparities and Minority Health (HDMH) Monitor / Principal developer"
   description: >
-    The Health Disparities and Minority Health (HDMH) Monitor is an online article repository and interactive dashboard 
+    The [Health Disparities and Minority Health (HDMH) Monitor](https://hdmhmonitor.dbmi.columbia.edu/){:target="_blank"} is an online article repository and interactive dashboard 
     that leverages natural language processing and machine learning methods to support scientific discovery via 
     automated archive, search, information synthesis, and data visualization of articles concerning HDMH in MEDLINE. 
     It is based on a [large-scale computational scoping review](https://www.science.org/doi/10.1126/sciadv.adf9033){:target="_blank"} 
@@ -25,18 +25,17 @@
 -
   name: 'C-REACT: Contextualized Race and Ethnicity Annotations for Clinical Text / Co-developer'
   description: >
-    The C-REACT dataset is a large publicly-available corpus of sentences from clinical notes manually annotated for 
+    The [C-REACT dataset](https://physionet.org/content/race-ethnicity-clinical-text/){:target="_blank"} is a large publicly-available corpus of sentences from clinical notes manually annotated for 
     information related to race and ethnicity (RE). This corpus contains two sets of gold-standard annotations for RE data. 
     The first set contains granular RE-information such as patient country of origin and spoken language. The second set of 
     annotations contains RE labels manually assigned by clinicians. This corpus is intended to improve understanding about 
     granular information related to RE contained within the clinical note and how this information might be used to infer RE.
   image: /img/physionet-logo.png
   url: https://physionet.org/content/race-ethnicity-clinical-text/
-
 -
   name: 'HERA: Health Equity Research Assessment / Co-developer'
   description: >
-    The Health Equity Research Assessment (HERA) is a large-scale characterization conducted across 
+    The [Health Equity Research Assessment (HERA)](https://data.ohdsi.org/HERACharacterization/){:target="_blank"} is a large-scale characterization conducted across 
     [Observational Health Data Science Informatics (OHDSI)](https://www.ohdsi.org/){:target="_blank"} sites with heterogeneous 
     populations and insurance coverage types, allowing for identification of persistent and generalizable trends in diagnosis 
     differences. The HERA dashboard and visualizations can be used to download study data, further investigate health 
@@ -46,7 +45,7 @@
 -
   name: 'CovidWatcher / Co-developer'
   description: >
-    Covidwatcher is an app and online portal that surveyed users about their exposure to COVID-19, symptoms, access to 
+    [Covidwatcher](https://www.dbmi.columbia.edu/covidwatcher/){:target="_blank"} is an app and online portal that surveyed users about their exposure to COVID-19, symptoms, access to 
     medical care, and impact on daily life. The data collected was used to track the spread of coronavirus, giving 
     citizens real-time information about hot spots, and enabling health care officials to deploy resources where needed most.
   image: /img/covidwatcher.png

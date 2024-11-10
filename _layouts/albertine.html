@@ -10,7 +10,7 @@
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,700">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="/assets/albertine/css/default.css">
 
@@ -35,7 +35,15 @@
       <div class="row">
         <div class="col-xs-9 col-lg-9">
           <h1>
-            {{ site.data.personal.name }}
+            <a href="{{ site.baseurl }}">{{ site.data.personal.name }}</a>  &nbsp; &nbsp; &nbsp; &nbsp;
+
+            <a href="{{ site.baseurl }}/about"> About</a> &nbsp;
+            <a href="{{ site.baseurl }}/cv"> CV</a> &nbsp;
+            <a href="{{ site.baseurl }}/projects"> Projects</a> &nbsp;
+            <a href="{{ site.baseurl }}/publications"> Publications</a> &nbsp;
+            <a href="{{ site.baseurl }}/presentations"> Presentations</a> &nbsp;
+            <a href="{{ site.baseurl }}/teaching"> Teaching</a> &nbsp;
+            <a href="{{ site.baseurl }}/news"> News</a>
           </h1>
           <h2>
             {{ site.data.personal.label }}
@@ -50,39 +58,6 @@
     </div>
   </header>
 
-<!--   <header class="site-header" role="banner">
-
-  <div class="wrapper">
-    {%- assign default_paths = site.pages | map: "path" -%}
-
-    {%- assign page_paths = site.header_pages | default: default_paths | sort: 'order' -%}
-
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    {%- if page_paths -%}
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
-          {%- endfor -%}
-        </div>
-      </nav>
-    {%- endif -%}
-  </div>
-</header> -->
-
   <!-- ==================== -->
   <!-- SECTION -->
   <!-- ==================== -->
@@ -95,9 +70,9 @@
             {{ site.data.personal.intro.title }}
           </h3>
         {% else %}
-          <h3>
+<!--           <h3>
             About
-          </h3>
+          </h3> -->
         {% endif %}
 
         <div class="lead">
@@ -126,17 +101,19 @@
 
         <h3>Contact</h3>
         <p>
-          {{ site.data.personal.email | replace:'@',' <small>[at]</small> ' | replace:'.',' <small>[dot]</small> ' }}
+          {{ site.data.personal.email | replace:'@',' <small><small>[at]</small></small> ' | replace:'.',' 
+          <small><small>[dot]</small></small> ' }}</small>
         </p>
         <p>
           {{ site.data.personal.department }}<br>
           {{ site.data.personal.institution }}<br>
           {{ site.data.personal.mailing_address | replace:'\n','<br>' }}
         </p>
- 
-
         <p>
-          <a href="/assets/docs/CV_HReyesNieva.pdf" target="_blank">Curriculum Vitae</a> | <a href="https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en" target="_blank">Google Scholar Page</a>
+          <a href="{{ site.baseurl }}/assets/docs/CV_HReyesNieva.pdf" target="_blank">Curriculum Vitae</a>
+        </p> 
+        <p>
+          <a href="https://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en" target="_blank">Google Scholar Page</a>
         </p>
         <p>
           Citations: 1156  &nbsp; &nbsp;  h-index: 14
@@ -169,7 +146,7 @@
       <section class="col-md-9">
         <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>  
 
-        <h3>Selected Publications</h3>
+        <h3>Selected Publications <small><a href="{{ site.baseurl }}/publications"> (show all)</a></small></h3>
 
         {% for publication in site.data.selected_publications %}
         <p>
@@ -177,7 +154,7 @@
         data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
             {{ publication.authors }}. 
             <b>
-              <a href="{{ publication.pdf }} target='_blank'">
+              <a href="{{ publication.pdf }}">
                 {{ publication.title }}.
               </a>
             </b>
@@ -217,7 +194,6 @@
           <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>
          
         {% endfor %}
-        <a href="/publications">--see all publications</a>
         <br>
       </section>
     </div>
@@ -230,10 +206,9 @@
   <!-- ==================== -->
   <section class="container">
     <div class="row">
-      <div class="col-md-9">
-        <h3>Selected Projects</h3>
+      <div class="col-md-12">
+        <h3>Selected Projects <small><a href="{{ site.baseurl }}/projects"> (show all)</a></small></h3>
       </div>
-    </div>
 
     {% for project in site.data.selected_projects %}
       <div class="row">
@@ -268,8 +243,8 @@
       </div>
       <br>
     {% endfor %}
-    <a href="/projects">--see all projects</a>
-
+      
+    </div>
   </section>
   {% endif %}
 
@@ -279,14 +254,13 @@
   <!-- ==================== -->
   <section class="container">
     <div class="row">
-      <div class="col-md-9">
-        <h3>Selected Presentations</h3>
-      </div>
-    </div>
+      <div class="col-md-11">
+        <h3>Selected Presentations <small><a href="{{ site.baseurl }}/presentations"> (show all)</a></small></h3>
+
 
     {% for presentation in site.data.selected_presentations %}
       <div class="row">
-        <div class="col-md-9">
+        <div class="col-md-11">
           <p>
             
               {% if presentation.slides_url %}
@@ -307,7 +281,8 @@
         </div>
       </div>
     {% endfor %}
-    <a href="/presentations">--see all presentations</a>
+       </div>
+    </div>
   </section>
   {% endif %}
 
@@ -324,11 +299,11 @@
       <div class="row">
         <div class="col-xs-12">
           <h4 class="footer-heading"> &copy; 2019-2024 All Rights Reserved.</h4>
-          </a>
         </div>
       </div>
     </div>
   </footer>
+
 
   <!-- ==================== -->
   <!-- JAVASCRIPTS -->

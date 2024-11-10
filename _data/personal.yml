@@ -8,12 +8,12 @@ email: harry.reyes@columbia.edu
 
 phone: 
 
-department: Department of Biomedical Informatics
+department: Dept of Biomedical Informatics
 
 institution: Columbia University
 
 mailing_address: >
-  622 West 168th Street, PH20
+  622 West 168th Street, PH20\n
   New York, NY 10032
 
 profiles:
@@ -50,11 +50,11 @@ intro:
     [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"}. Recently, I served a 2-year term on the 
     [Journal of the American Medical Informatics Association](https://academic.oup.com/jamia){:target="_blank"} Student Editorial Board 
     and was a co-organizer of the 2023 [Machine Learning for Health (ML4H) Symposium](https://ml4health.github.io/2023/){:target="_blank"}. 
-    I am also a [DAAD AInet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/){:target="_blank"} through the German
+    I am also a [DAAD AInet Fellow for Safety and Security in AI](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/){:target="_blank"} through the German
     Academic Exchange Service, Deutscher Akademischer Austauschdienst (DAAD).
 
     Building on two decades of domestic and international experience in clinical and public health informatics, 
-    my research focuses on human-centered artificial intelligence (AI) and development of systematic, scalable 
+    my research focuses on human-centered artificial intelligence (AI) and development of systematic, scalable, 
     data-driven approaches to promote health equity. My work usually examines and applies methods such as 
     machine learning, natural language processing, and spatiotemporal analysis in addition to traditional 
     biostatistics and epidemiology. I am particularly interested in using and interrogating multimodal data 

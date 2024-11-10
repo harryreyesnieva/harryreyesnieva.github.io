@@ -1,18 +1,7 @@
-# -
-#   type: dissertation
-#   title: "Leveraging Computational Methods to Advance Health Equity Science Through Evidence Synthesis, Monitoring, 
-#   and Precision Public Health"
-#   authors: Harry Reyes Nieva
-#   year: 2025
-#   publisher: Columbia University
-#   pdf: 
-#   url: 
-
 -
   type: journal
-  title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap 
-  Analysis of 200,000+ Articles."
-  authors: Reyes Nieva H, Bakken S, Elhadad N
+  title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles"
+  authors: <b>Reyes Nieva H</b>, Bakken S, Elhadad N
   journal: Science Advances
   volume: 10 
   issue: 4
@@ -21,98 +10,444 @@
   pages: eadf9033
   pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
   url: https://pubmed.ncbi.nlm.nih.gov/38266089
+  pmid: 38266089
   doi: 10.1126/sciadv.adf9033
 -
-  type: preprint
-  title: "Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System."
-  authors: Reyes Nieva H, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
-  journal: medRxiv [Preprint]
+  type: conference
+  title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
+  authors: |
+    Bear Don’t Walk IV OJ, Pichon A, <b>Reyes Nieva H</b>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, Demner-Fushman D, Elhadad N
+  conference: AMIA Annu Symp Proc
   year: 2024
-  month: September
-  url: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
-  doi: 10.1101/2024.09.25.24314318
--
-  type: preprint
-  title: "Enabling a Learning Public Health System: Enhanced Surveillance of HIV and Other Sexually Transmitted Infections."
-  authors: Reyes Nieva H, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
-  journal: medRxiv [Preprint]
-  year: 2024
-  month: April
-  url: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
-  doi: 10.1101/2024.09.25.24314318
--
-  authors: Bear Don’t Walk IV OJ, Pichon A, Reyes Nieva H, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, Demner-Fushman D, Elhadad N. 
-  title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text." 
-  journal: AMIA Annu Symp Proc. 
-  year: 2024
+  month: January
   pages: 289-298
+  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38222422/
+  url: https://pubmed.ncbi.nlm.nih.gov/38222422/
   pmid: 38222422
 -
-  type: preprint
-  title: "Large-scale characterization of gender differences in diagnosis prevalence and time to diagnosis."
-  authors: Sun TY, Hardin J, Reyes Nieva H, Natarajan K, Cheng RJ, Ryan PB, Elhadad N
-  journal: medRxiv [Preprint]
-  year: 2023
-  month: October
-  url: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
-  doi: 10.1101/2023.10.12.23296976
--
   type: journal
-  title: "Using a Health Information Exchange to Characterize Changes in HIV Viral Load Suppression and Disparities 
-  During the COVID-19 Pandemic in NYC. Open Forum Infectious Diseases."
-  authors: Tucker EG, Reyes Nieva H, Schiffer K, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J. 
-  year: 2023
+  authors: Tucker EG, <b>Reyes Nieva H</b>, Schiffer K, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J
+  title: Using a Health Information Exchange to Characterize Changes in HIV Viral Load Suppression and Disparities During the COVID-19 Pandemic in NYC
+  journal: Open Forum Infectious Diseases 
+  year: 2023 
+  month: Nov 
   volume: 10
   issue: 12
+  pages: ofad584
   pmid: 38156044
+  pdf: https://pubmed.ncbi.nlm.nih.gov/38156044/
+  url: https://pubmed.ncbi.nlm.nih.gov/38156044/
 -
   type: journal
-  title: "What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study."
-  authors: Schnipper JL, Reyes Nieva H, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
+  title: "What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study"
+  authors: |
+    Schnipper JL, <b>Reyes Nieva H</b>, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, 
+    Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
+  journal: BMJ Qual Saf
   year: 2023
   volume: 32
   issue: 8
-  page: 457-469
+  pages: 457-469
   pmid: 38156044
+  pdf: https://pubmed.ncbi.nlm.nih.gov/36948542/
+  url: https://pubmed.ncbi.nlm.nih.gov/36948542/
   doi: 10.1136/bmjqs-2022-014806
   pmid: 36948542
-  note: "**Ranked #1 among the top research articles of 2023 by BMJ Quality and Safety**"
+  note: >
+    <i class="fa fa-star"></i> <b>Ranked #1 among the <a href="https://blogs.bmj.com/qualitysafety/2024/06/18/top-10-articles-of-2023-1-5/" 
+    target="_blank">top research articles of 2023</a> by BMJ Quality and Safety</b>
+- 
+  type: journal
+  authors: Spotnitz M, Acharya N, Cimino JJ, Murphy S, Namjou B, Crimmins N, Walunas T, Liu C, Crosslin D, Benoit B, Rosenthal E, Pacheco J, Ostropolets A, <b>Reyes Nieva H</b>, Patterson JS, Richter LR, Callahan TJ, Elhussein A, Pang C, Kiryluk K, Nestor J, Khan A, Mohan S, Minty E, Chung W, Wei WQ, Natarajan K, Weng C 
+  title: A metadata framework for computational phenotypes
+  journal: JAMIA Open
+  year: 2023
+  month: July
+  volume: 6
+  issue: 2
+  pages: ooad032
+  pmid: 37181728
+  pdf: https://pubmed.ncbi.nlm.nih.gov/37181728/
+  url: https://pubmed.ncbi.nlm.nih.gov/37181728/
 -
-  type: conference
-  title: "Exploring Gender Disparities in Time to Diagnosis"
-  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, Reyes Nieva H, Elhadad N
-  conference: Machine Learning for Health (ML4H) Workshop at the Conference on Neural Information Processing Systems (NeurIPS)
-  year: 2020
-  pages: 
-  pdf: arXiv:2011.06100
-  url: https://arxiv.org/pdf/2011.06100
+  type: journal
+  title: The Timeliness of Point of Care Viral Load Results Improves HIV Monitoring in Nigeria
+  authors: Chaplin B, Agbaji O, <b>Reyes Nieva H</b>, Olatunde B, Chang C, Mitruka K, Sule H, Dajel T, Zee A, Ahmed ML, Ahmed I, Okonkwo P, Rawizza H, Kanki P
+  journal: Clin Infect Dis
+  year: 2023
+  month: February
+  volume: 76
+  issue: 3
+  pages: e671-e680
+  pdf: https://pubmed.ncbi.nlm.nih.gov/35872644/
+  url: https://pubmed.ncbi.nlm.nih.gov/35872644/
+  pmid: 35872644
+  doi: 10.1093/cid/ciac609
+-
+  type: journal
+  title: A Scoping Review of Ethics Considerations in Clinical Natural Language Processing
+  authors: |
+    Bear Don’t Walk OJ IV, <b>Reyes Nieva H</b>, Lee SSJ, Elhadad N
+  journal: JAMIA Open
+  year: 2022
+  month: July 
+  volume: 5
+  issue: 2
+  pages: ooac039
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC9154253/pdf/ooac039.pdf
+  url: https://pubmed.ncbi.nlm.nih.gov/35663112/
+  pmid: 35663112
+  doi: 10.1093/jamiaopen/ooac039
+-
+  type: journal
+  authors: Shahani A, <b>Reyes Nieva H</b>, Czado K, Shannon E, Gaetani R, Gresham M, Cruz Garcia J, Ganesan H, Cerciello E, Dave J, Jain R, Schnipper JL
+  title: |
+    An Electronic Pillbox Intervention Designed to Improve Medication Safety During Care Transitions: Challenges and Lessons Learned regarding Implementation and Evaluation
+  journal: BMC Health Serv Res
+  year: 2022 
+  month: Oct 
+  volume: 22
+  issue: 1
+  pages: 1304
+  pmid: 36309744
+  pdf: https://pubmed.ncbi.nlm.nih.gov/36309744/
+  url: https://pubmed.ncbi.nlm.nih.gov/36309744/
+-
+  type: journal
+  authors: |
+    Schnipper JL, <b>Reyes Nieva H</b>, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
+  title: |
+    Effects of a Refined Evidence-based Toolkit and Mentored Implementation on Medication Reconciliation at Eighteen Hospitals: Results of the MARQUIS2 Study
+  journal: BMJ Qual Saf
+  year: 2022
+  month: April
+  volume: 31
+  issue: 4
+  pages: 278-286
+  pmid: 33927025
+  pdf:
+  url:
+-
+  type: journal
+  authors: Groisser A, <b>Reyes Nieva H</b>, Ruan E, Wright A, Schiff GD
+  title: |
+    Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics
+  journal: J Gen Intern Med
+  year: 2022 
+  month: February
+  volume: 37
+  issue: 3
+  pages: 548-555
+  pmid: 33948801
+  pdf:
+  url:
 -
   type: journal
   title: "Characteristics of Disease-Specific and Generic Diagnostic Pitfalls: A Qualitative Study"
-  authors: Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, Reyes Nieva H
+  authors: Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, <b>Reyes Nieva H</b>
   journal: JAMA Netw Open
   year: 2022 
   volume: 5
   issue: 1
   pages: e2144531
+  pdf: https://pubmed.ncbi.nlm.nih.gov/35061037/
+  url: https://pubmed.ncbi.nlm.nih.gov/35061037/
   pmid: 35061037 
   doi: 10.1001/jamanetworkopen.2021.44531
+  # note: <b>Senior Author Publication</b>
 -
   type: journal
-  title: "Scale-up of networked HIV treatment in Nigeria: creation of an integrated electronic medical records system."
-  authors: Chaplin B, Meloni S, Eisen G, Jolayemi T, Banigbe B, Adeola J, Wen C, Reyes Nieva H, Chang C, Okonkwo P, Kanki P
+  authors: Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, <b>Reyes Nieva H</b>, Pinheiro A, Davis RB, Yeh GY
+  title: Exploring tai chi exercise and mind-body breathing in patients with COPD in a randomized controlled feasibility trial
+  journal: |
+    COPD: Journal of Chronic Obstructive Pulmonary Disease
+  year: 2021
+  volume: 18
+  issue: 3
+  pages: 288-298
+  pmid: 34106027
+  pdf:
+  url:
+-
+  type: journal
+  authors: Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, <b>Reyes Nieva H</b>, Pinheiro A, Davis RB, Moy ML
+  title: |
+    The BEAM Study (Breathing, Education, Awareness, Movement): a Randomized Controlled Feasibility Trial of Tai Chi Exercise in Patients with COPD
+  journal: BMJ Open Respiratory Research
+  year: 2021 
+  month: June
+  volume: 18
+  issue: 3
+  pages: 288-298
+  pmid: 33219007
+  pdf:
+  url:
+-
+  type: journal
+  authors: Linder JA, Weissman JS, <b>Reyes Nieva H</b>, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR
+  title: |
+    Overactive bladder in an integrated delivery system: a longitudinal cohort study
+  journal: BMC Health Serv Res
+  year: 2020 
+  month: May 
+  volume: 20
+  issue: 1
+  pages: 447
+  pmid: 32434511
+  pdf:
+  url:
+-
+  type: journal
+  title: "Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices"
+  authors: <b>Reyes Nieva H</b>, Ruan E, Schiff G 
+  journal: J Gen Intern Med
+  year: 2020
+  volume: 35
+  issue: 2
+  pages: 457–464
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/31755012
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31755012
+  pmid: 31755012
+  doi: 10.1007/s11606-019-05543-0
+  pdf:
+  url:
+-
+  type: journal
+  authors: Ali NB, <b>Reyes Nieva H</b>, Percac-Lima S, Shields HM, Linder JA, Yusuf Osman N
+  title: Health Care Use by Muslim Patients During Ramadan
+  journal: J Health Care Poor Underserved
+  year: 2019
+  volume: 30
+  issue: 4
+  pages: 1360-1372
+  pmid: 31680102
+  pdf:
+  url:
+-
+  type: journal
+  authors: Mixon AS, Smith GR, Mallouk M, <b>Reyes Nieva H</b>, Kripalani S, Rennke S, Chu E, Sridharan A, Dalal A, Mueller S, Williams M, Wetterneck T, Stein JM, Stolldorf D, Howell E, Orav J, Labonville S, Levin B, Yoon C, Gresham M, Goldstein J, Platt S, Nyenpan C, Schnipper JL
+  title: |
+    Design of MARQUIS2: study protocol for a mentored implementation study of an evidence-based toolkit to improve patient safety through medication reconciliation
+  journal: BMC Health Serv Res
+  year: 2019
+  month: September 
+  volume: 19
+  issue: 1
+  pages: 659
+  pmid: 31511070
+  pdf:
+  url:
+-
+  type: journal
+  authors: Schiff GD, <b>Reyes Nieva H</b>, Griswold P, Leydon N, Ling J, Federico F, Keohane C, Ellis BR, Foskett C, Orav EJ, Yoon C, Goldmann D, Weissman JS, Bates DW, Biondolillo M, Singer SJ
+  title: |
+    Randomized Trial of Reducing Ambulatory Malpractice and Safety Risk: Results of the Massachusetts PROMISES Project
+  journal: Med Care
+  year: 2017
+  month: August
+  volume: 55
+  issue: 8
+  pages: 797-805
+  pmid: 28650922
+  pdf:
+  url:
+-
+  type: journal
+  authors: Schiff GD, <b>Reyes Nieva H</b>, Griswold P, Leydon N, Ling J, Biondolillo M, Singer SJ
+  title: |
+    Addressing Ambulatory Safety and Malpractice: The Massachusetts PROMISES Project
+  journal: Health Serv Res
+  year: 2016 
+  month: 12
+  volume: 51
+  issue: Suppl 3
+  pages: 2634-2641
+  pmid: 27892623
+  pdf:
+  url:
+-
+  type: journal
+  authors: Kroll DS, <b>Reyes Nieva H</b>, Barsky AJ, Linder JA
+  title: Benzodiazepines are Prescribed More Frequently to Patients Already at Risk for Benzodiazepine-Related Adverse Events in Primary Care
+  journal: J Gen Intern Med
+  year: 2016
+  month: September
+  volume: 31
+  issue: 9
+  pages: 1027-34
+  pmid: 27177914
+  pdf:
+  url:
+-
+  type: journal
+  authors: Bell SP, Schnipper JL, Goggins K, Bian A, Shintani A, Roumie CL, Dalal AK, Jacobson TA, Rask KJ, Vaccarino V, Gandhi TK, Labonville SA, Johnson D, Neal EB, Kripalani, PILL-CVD Study Group*
+  title: |
+    Effect of Pharmacist Counseling Intervention on Health Care Utilization Following Hospital Discharge: A Randomized Control Trial
+  journal: J Gen Intern Med
+  year: 2016 
+  month: May
+  volume: 31
+  issue: 5
+  pages: 470-7
+  pmid: 26883526
+  note: |
+    *member of the investigative team cited in the appendix of the manuscript
+  pdf:
+  url:
+-
+  type: journal
+  authors: Solomon SR, Gooding HC, <b>Reyes Nieva H</b>, Linder JA
+  title: Acute Care Utilization by Patients After Graduation of Their Resident Primary Care Physicians
+  journal: J Gen Intern Med
+  year: 2015
+  month: Nov
+  volume: 30
+  issue: 11
+  pages: 1611-7
+  pmid: 25896089
+  pdf:
+  url:
+-
+  type: journal
+  authors: Singer SJ, <b>Reyes Nieva H</b>, Brede N, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD
+  title: |
+    Evaluating ambulatory practice safety: the PROMISES project administrators and practice staff surveys
+  journal: Med Care
+  year: 2015 
+  month: Feb
+  volume: 53
+  issue: 2
+  pages: 141-52
+  pmid: 25464161
+  pdf:
+  url:
+-
+  type: journal
+  title: "Scale-up of networked HIV treatment in Nigeria: creation of an integrated electronic medical records system"
+  authors: Chaplin B, Meloni S, Eisen G, Jolayemi T, Banigbe B, Adeola J, Wen C, <b>Reyes Nieva H</b>, Chang C, Okonkwo P, Kanki P
   journal: Int J Med Inform
   year: 2015
   volume: 84
   issue: 1
   pages: 58-68
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25301692
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25301692
+  pmid: 25301692
+  doi: 10.1016/j.ijmedinf.2014.09.006
 -
   type: journal
   title: "Time of day and the decision to prescribe antibiotics"
-  authors: Linder JA, Doctor JN, Friedberg MW, Reyes Nieva H, Birks C, Meeker D, Fox CR
+  authors: Linder JA, Doctor JN, Friedberg MW, <b>Reyes Nieva H</b>, Birks C, Meeker D, Fox CR
   journal: JAMA Intern Med
   year: 2014 
   volume: 174
   issue: 12
   pages: 2029-31
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25286067
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25286067
   pmid: 25286067
+  doi: 10.1001/jamainternmed.2014.5225
+-
+  type: journal
+  authors: Schiff G, Griswold P, Ellis BR, Puopolo AL, Brede N, <b>Reyes Nieva H</b>, Federico F, Leydon N, Ling J, Wachenheim D, Leape LL, Biondolillo M
+  title: Doing right by our patients when things go wrong in the ambulatory setting
+  journal: Jt Comm J Qual Patient Saf
+  year: 2014
+  month: Feb
+  volume: 40
+  issue: 2
+  pages: 91-6
+  pmid: 24716332
+  pdf:
+  url:
+-
+  type: journal
+  authors: Kripalani S, Roumie CL, Dalal AK, Cawthon C, Businger A, Eden SK, Shintani A, Sponsler KC, Harris LJ, Theobald C, Huang RL, Scheurer D, Hunt S, Jacobson TA, Rask KJ, Vaccarino V, Gandhi TK, Bates DW, Williams MV, Schnipper JL, PILL-CVD Study Group* 
+  title: |
+    Effect of a pharmacist intervention on clinically important medication errors after hospital discharge: a randomized trial
+  journal: Ann Intern Med
+  year: 2012
+  month: Jul
+  volume: 157
+  issue: 1
+  pages: 1-10
+  pmid: 22751755
+  note: |
+    *member of the investigative team cited in the appendix of the manuscript
+  pdf:
+  url:
+-
+  type: journal
+  authors: Schnipper JL, Roumie CL, Cawthon C, Businger A, Dalal AK, Mugalla I, Eden S, Jacobson TA, Rask KJ, Vaccarino V, Gandhi TK, Bates DW, Johnson DC, Labonville S, Gregory D, Kripalani S, PILL-CVD Study Group* 
+  title: Rationale and design of the Pharmacist Intervention for Low Literacy in Cardiovascular Disease (PILL-CVD) study
+  journal: Circ Cardiovasc Qual Outcomes
+  year: 2010
+  month: Mar
+  volume: 3
+  issue: 2
+  pages: 212-9
+  pmid: 20233982
+  notes: |
+    *member of the investigative team cited in the appendix of the manuscript
+  pdf:
+  url:
+-
+  type: journal
+  authors: Linder JA, <b>Reyes Nieva H</b>, Blumentals WA
+  title: Antiviral and antibiotic prescribing for influenza in primary care
+  journal: J Gen Intern Med
+  year: 2009
+  month: Apr
+  volume: 24
+  issue: 4
+  pages: 504-10
+  pmid: 19225847
+  pdf:
+  url:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
