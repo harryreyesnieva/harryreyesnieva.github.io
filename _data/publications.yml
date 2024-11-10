@@ -183,6 +183,18 @@
   pdf:
   url:
 -
+  type: conference
+  title: "Exploring Gender Disparities in Time to Diagnosis"
+  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, <b>Reyes Nieva H</b>, Elhadad N
+  conference: Machine Learning for Health (ML4H) Workshop at the Conference on Neural Information Processing Systems (NeurIPS)
+  year: 2020
+  month: December
+  pages: 1-6
+  pdf: https://arxiv.org/pdf/2011.06100
+  url: https://arxiv.org/abs/2011.06100
+  doi: 10.48550/arXiv.2011.06100
+  arxivid: arXiv:2011.06100 
+-
   type: journal
   authors: Linder JA, Weissman JS, <b>Reyes Nieva H</b>, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR
   title: |

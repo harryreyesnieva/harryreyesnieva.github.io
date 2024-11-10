@@ -9,18 +9,6 @@
   pages: 1-12
 -
   type: proceedings
-  title: "Exploring Gender Disparities in Time to Diagnosis"
-  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, <b>Reyes Nieva H</b>, Elhadad N
-  venue: Machine Learning for Health (ML4H) Workshop at the Conference on Neural Information Processing Systems (NeurIPS)
-  year: 2020
-  month: December
-  pages: 1-6
-  pdf: https://arxiv.org/pdf/2011.06100
-  url: https://arxiv.org/abs/2011.06100
-  doi: 10.48550/arXiv.2011.06100
-  arxivid: arXiv:2011.06100 
--
-  type: proceedings
   authors: <b>Reyes Nieva H</b>, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA
   title: |
     Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care 
