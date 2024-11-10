@@ -1,4 +1,3 @@
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -59,16 +58,17 @@
   <!-- ==================== -->
   <!-- CV -->
   <!-- ==================== -->
-    <div class="container">
+    <div class="container" id="section-cv">
       <div class="row">
         <div class="col-xs-10">
         
         <h1 class="post-title">Curriculum Vitae</h1>
-	<p>If the embedded version of my CV does not work, you can download a copy <a href="/assets/docs/CV_HReyesNieva.pdf" target='_blank'>here</a>.</p>
-	<object data="/assets/docs/CV_HReyesNieva.pdf" width="1000" height="1000" type='application/pdf'></object>
-	</div>
-</div>
-</div>
+        <p>If the embedded version of my CV does not work, you can download a copy <a href="/assets/docs/CV_HReyesNieva.pdf" target='_blank'>here</a>.</p>
+        <object data="/assets/docs/CV_HReyesNieva.pdf" width="1000" height="1000" type='application/pdf'></object>
+        </div>
+      </div>
+    </div>
+
   <!-- ==================== -->
   <!-- FOOTER -->
   <!-- ==================== -->
@@ -96,7 +96,7 @@
   <script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.4/waypoints.min.js"></script>
   <script>
     $(document).ready(function () {
-      $('#section-about').waypoint(function (direction) {
+      $('#section-cv').waypoint(function (direction) {
         if (direction === 'down') {
           $('body').removeClass('intro-screen');
         } else {
