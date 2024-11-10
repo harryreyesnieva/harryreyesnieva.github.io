@@ -151,7 +151,7 @@
         {% for publication in site.data.selected_publications %}
         <p>
         <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
-        data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
+        data-hide-no-mentions="true" class="altmetric-embed" data-link-target="_blank" style="float:right" > </span>
             {{ publication.authors }}. 
             <b>
               <a href="{{ publication.pdf }}">
@@ -191,7 +191,8 @@
             {% endcase %}
 
          
-          <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>
+          <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" data-hide-zero-citations="true"  
+          data-link-target="_blank" data-style="large_rectangle"></span></p>
          
         {% endfor %}
         <br>

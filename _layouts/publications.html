@@ -77,6 +77,7 @@
           <b>{{ forloop.index }}. </b>
 
           <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ preprint.doi }}" 
+          data-link-target="_blank"
           data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
               {{ preprint.authors }}. 
 
@@ -93,6 +94,7 @@
 
            
           <span class="__dimensions_badge_embed__" data-doi="{{ preprint.doi }}" 
+          data-link-target="_blank"
           data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>         
         <br>
         {% endfor %}
@@ -114,6 +116,7 @@
 
               {% when 'journal' %}
                 <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ publication.doi }}" 
+                data-link-target="_blank"
                 data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
                 {{ publication.authors }}. 
                 <b><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publication.pmid }}/" target='_blank'>
@@ -123,16 +126,19 @@
                 {{ publication.volume }}({{ publication.issue }}):{{ publication.pages }}. PMID: {{ publication.pmid }}.
                 <br>
                 <b>{{ publication.note}}</b>
-                <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>
+                <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-link-target="_blank"
+                data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>
 
               {% when 'conference' %}
                 <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
+                data-link-target="_blank"
                 data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
                 {{ publication.authors }}.
                 <b><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publication.pmid }}/" target='_blank'>
                 {{ publication.title }}.</a></b>
                 {{ publication.conference }}. {{ publication.year }} {{ publication.month }}. {{ publication.pages }}.
-                <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>
+                <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" 
+                data-link-target="_blank" data-hide-zero-citations="true"  data-style="large_rectangle"></span></p>
 
               {% when 'dissertation' %}
                 {{ publication.publisher }}
