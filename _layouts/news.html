@@ -1,4 +1,3 @@
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -59,160 +58,38 @@
   <!-- ==================== -->
   <!-- NEWS -->
   <!-- ==================== -->
-
-    <div class="container">
+    <div class="container" id="section-news">
       <div class="row">
         <div class="col-xs-10">
-        <div  class="center">
+        <div class="center">
         
         <h1 class="post-title">News</h1>
         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-    <iframe width="100%" height="166" float="right" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722783449&amp;color=%230500ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
-<br>
-<br>
-
-{% if site.data.news.size > 0 %}
-
-<div class="container">
-    <div class="row">
-      <div class="col-md-9">   
-        {% for new in site.data.news %}
-
-        {{ new.date }} -  {{ new.description }}
+        <iframe width="100%" height="166" float="right" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722783449&amp;color=%230500ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
         <br>
         <br>
-         
-        {% endfor %}
-        <br>
+
+        {% if site.data.news.size > 0 %}
+
+        <div class="container">
+            <div class="row">
+              <div class="col-md-9">   
+                {% for new in site.data.news %}
+
+                {{ new.date }} -  {{ new.description }}
+                <br>
+                <br>
+                 
+                {% endfor %}
+                <br>
+              </div>
+          {% endif %}
+        </div>
+        </div>
+        </div>
       </div>
-  {% endif %}
-</div>
-</div>
-</div>
-</div>
-<!-- 
-<br>
-<br>
-<table class="center">
-  <tbody>
-    <tr>
-      <td style="width:18%">2024 October 21</td>
-      <td>I am presenting our work to address <a href="https://www.ohdsi.org/2024showcase-100/" target="_blank">under and misdiagnosis in endometriosis</a> at the <a href="https://www.ohdsi.org/ohdsi2024/" target="_blank">OHDSI Global Symposium</a> in New Brunswick, NJ.</td>
-    </tr>
-    <tr>
-      <td>2024 September 27</td>
-      <td>Our preprint, <a href="https://www.medrxiv.org/content/10.1101/2024.09.25.24314318" target="_blank">Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System</a>, is now available on medRxiv.</td>
-    </tr>
-    <tr>
-      <td>2024 June 18</td>
-      <td>Our paper, <a href="https://qualitysafety.bmj.com/content/32/8/457" target="_blank">What works in medication reconciliation: an on-treatment and site analysis of the MARQUIS2 study</a>, was ranked #1 among the <a href="https://blogs.bmj.com/qualitysafety/2024/06/18/top-10-articles-of-2023-1-5/" target="_blank">Top 10 Research Articles of 2023</a> by <a href="https://qualitysafety.bmj.com/" target="_blank">BMJ Quality and Safety</a>!</td>
-    </tr>
-    <tr>
-      <td>2024 April 12</td>
-      <td><a href="https://www.dbmi.columbia.edu/dbmi-trainees-earn-daad-ainet-fellowship/" target="_blank">DBMI Trainees Earn DAAD AInet Fellowship, Connection with German AI Research Community</a></td>
-    </tr>
-    <tr>
-      <td>2024 April 10</td>
-      <td>Our preprint, <a href="https://www.medrxiv.org/content/10.1101/2024.04.10.24305612" target="_blank">Enabling a Learning Public Health System: Enhanced Surveillance of HIV and Other Sexually Transmitted Infections</a>, is now available on medRxiv.</td>
-    </tr>
-    <tr>
-      <td>2024 January 24</td>
-      <td>Our paper, <a href="https://www.science.org/doi/full/10.1126/sciadv.adf9033" target="_blank">Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles</a>, was published in <em>Science Advances</em>!</td>
-    </tr>
-    <tr>
-      <td>2023 October 16</td>
-      <td>Our preprint, <a href="https://www.medrxiv.org/content/10.1101/2023.10.12.23296976v2" target="_blank">Large-scale characterization of gender differences in diagnosis prevalence and time to diagnosis</a>, is now available on medRxiv.</td>
-    </tr>
-    <tr>
-      <td>2023 September 7</td>
-      <td>I was invited to present and serve as a panelist on <em>“Advancing Diversity, Equity, and Inclusion in Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle”</em> at the <a href="https://amia.org/education-events/amia-2023-annual-symposium" target="_blank">AMIA 2023 Annual Symposium</a>.</td>
-    </tr>
-    <tr>
-      <td>2023 July 26</td>
-      <td>I am presenting our work on fostering a learning public health system at the <a href="https://stihiv2023.org/" target="_blank">STI and HIV World Congress</a> in Chicago, IL.</td>
-    </tr>
-    <tr>
-      <td>2023 May 22</td>
-      <td>I passed the <a href="https://www.dbmi.columbia.edu/depth-exam/" target="_blank">Depth Exam of my PhD program</a> and was awarded a Master of Philosophy in Biomedical Informatics!</td>
-    </tr>
-    <tr>
-      <td>2023 May 12</td>
-      <td>I am co-organizing the <a href="https://ml4health.github.io/2023/" target="_blank">Machine Learning for Health (ML4H) Symposium</a> this year and will chair the <a href="https://ml4health.github.io/2023/author_mentorship.html" target="_blank">Author Mentorship Program</a>.</td>
-    </tr>
-    <tr>
-      <td>2023 May 10</td>
-      <td>¡Wepa! I am presenting our work on mpox AI/ML surveillance models at the <a href="https://sail.health/" target="_blank">Symposium on Artificial Intelligence for Learning Health Systems</a> (SAIL) in Río Grande, Puerto Rico.</td>
-    </tr>
-    <tr>
-      <td>2022 Nov 6</td>
-      <td>My research was spotlighted and selected for special presentation at the <a href="https://amia.org/education-events/amia-2022-annual-symposium" target="_blank">AMIA 2022 Annual Symposium</a> for “demonstrating best practices in promoting diversity, equity, and inclusion through scholarly communications in biomedical informatics.”</td>
-    </tr>
-    <tr>
-      <td>2021 August 25</td>
-      <td><a href="https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners" target="_blank">ACM SIGHPC Computational and Data Science Fellowships 2021 Winners Announced</a></td>
-    </tr>
-    <tr>
-      <td>2021 January 29</td>
-      <td>I passed the <a href="https://www.dbmi.columbia.edu/breadth-exam/" target="_blank">Breadth Exam of my PhD program</a> and was awarded a Master of Arts in Biomedical Informatics!</td>
-    </tr>
-    <tr>
-      <td>2019 December 23</td>
-      <td><a href="https://hms.harvard.edu/magazine/lgbtq-health/margins" target="_blank">On the Margins | Harvard Medicine Magazine</a></td>
-    </tr>
-    <tr>
-      <td>2019 December 18</td>
-      <td><a href="https://soundcloud.com/user-501356184/community-engaged-machine-learning-and-health-equity" target="_blank">Machine Learning and Health Equity | ThinkResearch Podcast</a></td>
-    </tr>
-    <tr>
-      <td>2019 March 15</td>
-      <td><a href="http://nrc58.nas.edu/FordFellows20/ExtRpts/PressReleaseRoster.aspx?RptMode=HM&amp;CompYr=2019&amp;Layout=wwwLibs%2fUtil_Web%2fPageLayouts%2fApplPrintLayout" target="_blank">Ford Foundation Fellowships Honorable Mention List 2019 | National Academies of Sciences, Engineering, and Medicine Press Release</a></td>
-    </tr>
-    <tr>
-      <td>2018 September 25</td>
-      <td><a href="https://www.bscp.org/wp-content/uploads/2015/06/September-2018.pdf" target="_blank">Ruth and William Silen, MD Awards Oral Presentation Awardees</a></td>
-    </tr>
-    <tr>
-      <td>2017 October 4</td>
-      <td><a href="https://www.brighamandwomens.org/about-bwh/newsroom/awards-honors-grants-detail?id=2838" target="_blank">Zhou, Reyes Nieva Awarded Harvard Catalyst Health Disparities Research Program Grant</a></td>
-    </tr>
-    <tr>
-      <td>2016 November 20</td>
-      <td><a href="https://www.brighamandwomens.org/about-bwh/newsroom/awards-honors-grants-detail?id=2553" target="_blank">Braverman, Palm, Reyes Nieva Receive Inaugural LGBT Leadership Awards</a></td>
-    </tr>
-    <tr>
-      <td>2016 April 15</td>
-      <td><a href="https://www.brighamandwomens.org/about-bwh/newsroom/press-releases-detail?id=2322" target="_blank">Brigham and Womens Hospital, Brigham and Womens Faulkner Hospital Both Highlighted in 2016 Healthcare Equality Index</a></td>
-    </tr>
-    <tr>
-      <td>2015 October 23</td>
-      <td><a href="https://bwhbulletin.org/2015/10/23/the-importance-of-being-known-incorporating-sogi-data-into-patient-care/" target="_blank">The Importance of Being Known: Incorporating SO/GI Data into Patient Care</a></td>
-    </tr>
-    <tr>
-      <td>2015 October 20</td>
-      <td><a href="https://www.bostonmagazine.com/health/2015/10/20/health-records-lgbt/" target="_blank">Brigham and Women’s Hospital Has Started Collecting Gender and Sexuality Information from Patients</a></td>
-    </tr>
-    <tr>
-      <td>2014 May 27</td>
-      <td><a href="https://bwhclinicalandresearchnews.org/2014/05/27/hooray-for-ras/" target="_blank">Hooray for RAs: Research assistants recognized at first annual DGIM Research Day</a></td>
-    </tr>
-    <tr>
-      <td>2014 May 12</td>
-      <td><a href="https://www.sgim.org/File%20Library/SGIM/Resource%20Library/Forum/2014/Jul2014-05.pdf" target="_blank">Award Winners from the SGIM 37th Annual Meeting</a></td>
-    </tr>
-    <tr>
-      <td>2014 May 7</td>
-      <td><a href="https://www.brighamandwomens.org/about-bwh/newsroom/awards-honors-grants-detail?id=1759" target="_blank">Three BWHers Receive Internal Medicine Awards</a></td>
-    </tr>
-  </tbody>
-</table> -->
-
-
-</div>
-</div>
-
-<!-- </article> -->
-
+    </div>
 
   <!-- ==================== -->
   <!-- FOOTER -->
@@ -232,7 +109,6 @@
     </div>
   </footer>
 
-
   <!-- ==================== -->
   <!-- JAVASCRIPTS -->
   <!-- ==================== -->
@@ -241,7 +117,7 @@
   <script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.4/waypoints.min.js"></script>
   <script>
     $(document).ready(function () {
-      $('#section-about').waypoint(function (direction) {
+      $('#section-news').waypoint(function (direction) {
         if (direction === 'down') {
           $('body').removeClass('intro-screen');
         } else {
