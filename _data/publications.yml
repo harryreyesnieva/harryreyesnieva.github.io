@@ -35,6 +35,7 @@
   issue: 12
   pages: ofad584
   pmid: 38156044
+  doi: 10.1093/ofid/ofad584
   pdf: https://pubmed.ncbi.nlm.nih.gov/38156044/
   url: https://pubmed.ncbi.nlm.nih.gov/38156044/
 -
@@ -67,6 +68,7 @@
   issue: 2
   pages: ooad032
   pmid: 37181728
+  doi: 10.1093/jamiaopen/ooad032
   pdf: https://pubmed.ncbi.nlm.nih.gov/37181728/
   url: https://pubmed.ncbi.nlm.nih.gov/37181728/
 -
@@ -110,6 +112,7 @@
   issue: 1
   pages: 1304
   pmid: 36309744
+  doi: 10.1186/s12913-022-08702-y
   pdf: https://pubmed.ncbi.nlm.nih.gov/36309744/
   url: https://pubmed.ncbi.nlm.nih.gov/36309744/
 -
@@ -125,6 +128,7 @@
   issue: 4
   pages: 278-286
   pmid: 33927025
+  doi: 10.1136/bmjqs-2020-012709
   pdf:
   url:
 -
@@ -139,6 +143,7 @@
   issue: 3
   pages: 548-555
   pmid: 33948801
+  doi: 10.1007/s11606-021-06793-7
   pdf:
   url:
 -
@@ -166,6 +171,7 @@
   issue: 3
   pages: 288-298
   pmid: 34106027
+  doi: 10.1007/s11606-021-06793-7
   pdf:
   url:
 -
@@ -180,6 +186,7 @@
   issue: 3
   pages: 288-298
   pmid: 33219007
+  doi: 10.1136/bmjresp-2020-000697
   pdf:
   url:
 -
@@ -206,6 +213,7 @@
   issue: 1
   pages: 447
   pmid: 32434511
+  doi: 10.1186/s12913-020-05315-1
   pdf:
   url:
 -
@@ -233,6 +241,7 @@
   issue: 4
   pages: 1360-1372
   pmid: 31680102
+  doi: 10.1353/hpu.2019.0099
   pdf:
   url:
 -
@@ -247,6 +256,7 @@
   issue: 1
   pages: 659
   pmid: 31511070
+  doi: 10.1353/hpu.2019.0099
   pdf:
   url:
 -
@@ -261,6 +271,7 @@
   issue: 8
   pages: 797-805
   pmid: 28650922
+  doi: 10.1097/MLR.0000000000000759
   pdf:
   url:
 -
@@ -275,6 +286,7 @@
   issue: Suppl 3
   pages: 2634-2641
   pmid: 27892623
+  doi: 10.1111/1475-6773.12621
   pdf:
   url:
 -
@@ -288,6 +300,7 @@
   issue: 9
   pages: 1027-34
   pmid: 27177914
+  doi: 10.1007/s11606-016-3740-0
   pdf:
   url:
 -
@@ -302,6 +315,7 @@
   issue: 5
   pages: 470-7
   pmid: 26883526
+  doi: 10.1007/s11606-016-3596-3
   note: |
     *member of the investigative team cited in the appendix of the manuscript
   pdf:
@@ -317,6 +331,7 @@
   issue: 11
   pages: 1611-7
   pmid: 25896089
+  doi: 10.1007/s11606-015-3305-7
   pdf:
   url:
 -
@@ -331,6 +346,7 @@
   issue: 2
   pages: 141-52
   pmid: 25464161
+  doi: 10.1097/MLR.0000000000000269
   pdf:
   url:
 -
@@ -370,6 +386,7 @@
   issue: 2
   pages: 91-6
   pmid: 24716332
+  doi: 10.1016/s1553-7250(14)40011-4
   pdf:
   url:
 -
@@ -384,6 +401,7 @@
   issue: 1
   pages: 1-10
   pmid: 22751755
+  doi: 10.7326/0003-4819-157-1-201207030-00003
   note: |
     *member of the investigative team cited in the appendix of the manuscript
   pdf:
@@ -399,6 +417,7 @@
   issue: 2
   pages: 212-9
   pmid: 20233982
+  doi: 10.1161/CIRCOUTCOMES.109.921833
   notes: |
     *member of the investigative team cited in the appendix of the manuscript
   pdf:
@@ -414,6 +433,7 @@
   issue: 4
   pages: 504-10
   pmid: 19225847
+  doi: 10.1007/s11606-009-0933-9
   pdf:
   url:
 
