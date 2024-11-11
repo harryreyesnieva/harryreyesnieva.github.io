@@ -142,12 +142,16 @@
     <div class="col-md-10">  
     <h2>Proceedings of meetings and non-peer reviewed research publications</h2>
     {% for proceeding in site.data.proceedings %}
-      <p><b>{{ forloop.index }}. </b>{{ proceeding.authors }}. 
+      <p><b>{{ forloop.index }}. </b>
+        <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
+              data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
+        {{ proceeding.authors }}. 
         <a href="{{ proceeding.url }}" target='_blank'>{{ proceeding.title }}.</a> 
         {{ proceeding.venue }}. 
         {{ proceeding.year }}.
         <br>
-        {{ proceeding.note }}</p><br>
+        {{ proceeding.note }}</p><br><span class="__dimensions_badge_embed__" data-doi="{{ proceeding.doi }}" 
+              data-link-target="_blank" data-hide-zero-citations="true" data-style="large_rectangle"></span>
     {% endfor %}
 </div>
 </div>
