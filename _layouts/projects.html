@@ -58,13 +58,53 @@
   <!-- ==================== -->
   <!-- INNOVATION -->
   <!-- ==================== -->
+
+    <div class="row" id="section-innovations">
+      <div class="col-md-12">
+        {% if site.data.projects_educational.size > 0 %}   
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h1>Report of Teaching and Education Innovations</h1>
+              {% for project in site.data.projects_educational %}
+                <div class="row">
+                  <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+                    <p>
+                      <img src="{{ site.baseurl }}{{ project.image }}" 
+                           class="img-responsive img-thumbnail" style="width:100%">
+                    </p>
+                  </div>
+                  <div class="col-xs-12 col-sm-9 col-md-6 col-lg-7">
+                    <p>
+                      <b>
+                        {% if project.url %}
+                          <a href="{{ project.url }}" target='_blank'>
+                            {{ project.name }}
+                          </a>
+                        {% else %}
+                          {{ project.name }}
+                        {% endif %}
+                      </b>
+                    </p>
+
+                    {{ project.description | markdownify }}
+                  </div>
+                </div>
+                <br>
+              {% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="row" id="section-innovations">
       <div class="col-md-12">
         {% if site.data.projects.size > 0 %}   
         <div class="container">
           <div class="row">
             <div class="col-md-12">
-              <h1>Innovations</h1>
+              <h1>Report of Technological and Other Scientific Innovations</h1>
               {% for project in site.data.projects %}
                 <div class="row">
                   <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
