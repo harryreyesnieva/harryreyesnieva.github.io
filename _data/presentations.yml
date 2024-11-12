@@ -1,34 +1,34 @@
 -
   title: The Impact of Evolving Diagnostic Guidelines on Clinical Characterization of Endometriosis 
   authors: |
-    <b>Reyes Nieva H</b>, Kashyap A, Voss EA, Ostropolets A, Anand A, Ketenci M, DeFalco FJ, Natarajan K, Choi YS, Li Y, Allen MN, Guang S, Elhadad N 
+    <u><b>Reyes Nieva H</b></u>, Kashyap A, Voss EA, Ostropolets A, Anand A, Ketenci M, DeFalco FJ, Natarajan K, Choi YS, Li Y, Allen MN, Guang S, Elhadad N 
   location: OHDSI Global Symposium, New Brunswick, NJ 
   date: October 2024
 -
   title: "Elucidating Health Inequities and Research Gaps in HIV and Other Sexually Transmitted Infections Using Data Mining and a Large Language Model: A Computational Scoping Review"
   authors: |
-    <b>Reyes Nieva H</b>, Zucker J, Elhadad N
+    <u><b>Reyes Nieva H</b></u>, Zucker J, Elhadad N
   location: STI Prevention Atlanta, GA, USA
   date: September 2024
   slides_url:
 -
   title: '"I Don’t See Myself as a Gatekeeper": Doxy-PEP Knowledge, Attitudes and Practices Among Healthcare Providers in New York'
   authors: |
-    D’Avanzo P, Bosco J, Carnevale C, Meyers K, Theodore DA, <b>Reyes Nieva H</b>, Zucker J
+    D’Avanzo P, Bosco J, Carnevale C, Meyers K, Theodore DA, <u><b>Reyes Nieva H</b></u>, Zucker J
   location: STI Prevention Atlanta, GA, USA
   date: September 2024
   slides_url:  
 -
   title: "Enabling a Learning Public Health System: Enhanced Surveillance of Sexually Transmitted Infections"
   authors: |
-    <b>Reyes Nieva H</b>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
+    <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
   location: American Medical Informatics Association Annual Symposium; New Orleans, LA
   date: November 2023
   slides_url:  
 -
   title: "Challenges, Opportunities, and Considerations: Promoting Inclusive Research in the Era of Big Data"
   authors: |
-    <b>Reyes Nieva H</b>
+    <u><b>Reyes Nieva H</b></u>
   location: American Medical Informatics Association Annual Symposium; New Orleans, LA
   date: November 2023
   description: >
@@ -37,32 +37,32 @@
 -
   title: "Development and Validation of Machine Learning and Deep Learning Models for Mpox in a Learning Health System"
   authors: |
-    <b>Reyes Nieva H</b>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
+    <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
   location: American Medical Informatics Association Annual Symposium; New Orleans, LA
   date: November 2023
   slides_url: 
 -
   title: Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data
   authors: |
-    <b>Reyes Nieva H</b>, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N, Zucker J 
+    <u><b>Reyes Nieva H</b></u>, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N, Zucker J 
   location: HIV and STI 2023 World Congress, Chicago, IL
   date: July 2023
 -
   title: Development and Validation of Machine Learning and Deep Learning Models to Identify Human Monkeypox 
   authors: |
-    <b>Reyes Nieva H</b>, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N 
+    <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N 
   location: HIV and STI 2023 World Congress, Chicago, IL
   date: July 2023
 -
   title: Development and Validation of Machine and Deep Learning Classifiers for Monkeypox 
   authors: |
-    <b>Reyes Nieva H</b>, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N 
+    <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N 
   location: Symposium on Artificial Intelligence for Learning Health Systems (SAIL), Río Grande, Puerto Rico
   date: May 2023    
 -
   title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review"
   authors: |
-    <b>Reyes Nieva H</b>, Elhadad N
+    <u><b>Reyes Nieva H</b></u>, Elhadad N
   location: American Medical Informatics Association Annual Symposium; Washington, DC
   date: November 2022
   description: >
@@ -72,62 +72,62 @@
 -
   title: "Analyzing shifts in healthcare-seeking behavior among All of Us enrollees in the era of COVID-19"
   authors: |
-    Acharya N, <b>Reyes Nieva H</b>, Natarajan K
+    Acharya N, <u><b>Reyes Nieva H</b></u>, Natarajan K
   location: American Medical Informatics Association Annual Symposium, Washington, DC
   date: November 2022
   slides_url: 
 -
   title: "Large-scale Characterization of Gender Differences in Age at Diagnosis and Time to Diagnosis in Longitudinal Observational Health Data"
   authors: |
-    Sun T, Hardin J, <b>Reyes Nieva H</b>, Natarajan K, Cheng RF, Ryan P, Elhadad N
+    Sun T, Hardin J, <u><b>Reyes Nieva H</b></u>, Natarajan K, Cheng RF, Ryan P, Elhadad N
   location: "NIH ORWH Workshop on Gender and Health: Impacts of Structural Sexism, Gender Norms, Relational Power Dynamics, and Gender Inequities; Virtual Event due to COVID-19"
   date: October 2022
 -
   title: "Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity" 
   authors: |
-    <b>Reyes Nieva H</b>, Sun TY, Gorman SR, Mao G, Elhadad N 
+    <u><b>Reyes Nieva H</b></u>, Sun TY, Gorman SR, Mao G, Elhadad N 
   location: American Medical Informatics Association Annual Symposium; San Diego, CA
   date: November 2021
 -
   title: Examining Gender Differences in Time to Diagnosis through Fairness and Time-Variant Evaluation of EHR Data 
   authors: |
-    Sun TY, Chen JL, <b>Reyes Nieva H</b>, Bear Don’t Walk IV OJ, Altosaar J, Elhadad N 
+    Sun TY, Chen JL, <u><b>Reyes Nieva H</b></u>, Bear Don’t Walk IV OJ, Altosaar J, Elhadad N 
   location: American Medical Informatics Association Annual Symposium, San Diego, CA
   date: November 2021
 -
   title: "Phenotype Development and Evaluation of Heart Failure: A Case Study in using Patient Level Prediction to Improve Phenotype Validity"
   authors: |
-    Desai PM, Ostropolets A, Richter LR, <b>Reyes Nieva H</b>, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K 
+    Desai PM, Ostropolets A, Richter LR, <u><b>Reyes Nieva H</b></u>, Spotnitz M, Rodriguez VA, Sun TY, Natarajan K 
   location: OHDSI Global Symposium, Virtual Event due to COVID-19
   date: September 2021
 -
   title: Latent Topics and Trends in Health Disparities Literature 
   authors: |
-    <b>Reyes Nieva H</b> and Elhadad N 
+    <u><b>Reyes Nieva H</b></u> and Elhadad N 
   location: National Library of Medicine Informatics Training Conference; Virtual event due to COVID-19
   date: June 2021
 -
   title: Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases
   authors: |
-    Pang C, Chen R, <b>Reyes Nieva H</b>, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K 
+    Pang C, Chen R, <u><b>Reyes Nieva H</b></u>, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K 
   location: American Medical Informatics Association Annual Symposium, Virtual event due to COVID-19
   date: November 2020
 -
   title: Using patterns of missing EHR data to identify care disparities in gender diverse patients
   authors: |
-    Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, <b>Reyes Nieva H</b>, Bearnot B, Streed C 
+    Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, <u><b>Reyes Nieva H</b></u>, Bearnot B, Streed C 
   location: APHA Annual Meeting and Expo, Virtual event due to COVID-19
   date: October 2020
 -
   title: Large-scale characterization of diagnosis patterns across men and women in observational health data 
   authors: |
-    Sun TY, <b>Reyes Nieva H</b>, Ryan P, Elhadad N 
+    Sun TY, <u><b>Reyes Nieva H</b></u>, Ryan P, Elhadad N 
   location: National Library of Medicine Informatics Training Conference, Virtual event due to COVID-19
   date: June 2020
 -
   title: "High physician and clinic-level variation in documentation of sexual orientation and gender identity in the electronic health record"
   authors: |
-    <b>Reyes Nieva H</b>, Blackley S, Streed C, Fiskio J, Zhou L
+    <u><b>Reyes Nieva H</b></u>, Blackley S, Streed C, Fiskio J, Zhou L
   location: New England Science Symposium; Boston, MA
   date: April 2018 
   description: >
@@ -135,31 +135,31 @@
 -
   title: An Analysis of Patient Portal Use in the Acute Care Setting
   authors: |
-    Mlaver E, Dalal AK, <b>Reyes Nieva H</b>, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P 
+    Mlaver E, Dalal AK, <u><b>Reyes Nieva H</b></u>, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P 
   location: American Medical Informatics Association Annual Meeting, San Francisco, CA
   date: November 2015
 -
   title: Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting 
   authors: |
-    <b>Reyes Nieva H</b>, Linder JA 
+    <u><b>Reyes Nieva H</b></u>, Linder JA 
   location: North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD
   date: July 2015
 -
   title: "Advocacy and Implementation: Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting"
   authors: |
-    <b>Reyes Nieva H</b>, Palm K, Zucconi T 
+    <u><b>Reyes Nieva H</b></u>, Palm K, Zucconi T 
   location: GLMA 33rd Annual Conference, Portland, OR
   date: September 2015
 -
   title: PBRN Organization and Governance to Promote Practice, Clinician, Researcher, and Patient Engagement 
   authors: |
-    <b>Reyes Nieva H</b>, Linder JA 
+    <u><b>Reyes Nieva H</b></u>, Linder JA 
   location: North American Primary Care Research Group Practice-Based Research Network Conference, Bethesda, MD
   date: July 2014  
 -
   title: Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care
   authors: |
-    <b>Reyes Nieva H</b>, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA
+    <u><b>Reyes Nieva H</b></u>, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA
   location: Society of General Internal Medicine Annual Meeting, San Diego, CA
   date: Apri 2014
   description: >

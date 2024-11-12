@@ -159,7 +159,6 @@
   url: https://pubmed.ncbi.nlm.nih.gov/35061037/
   pmid: 35061037 
   doi: 10.1001/jamanetworkopen.2021.44531
-  # note: <b>Senior Author Publication</b>
 -
   type: journal
   authors: Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, <u><b>Reyes Nieva H</b></u>, Pinheiro A, Davis RB, Yeh GY
@@ -418,7 +417,7 @@
   pages: 212-9
   pmid: 20233982
   doi: 10.1161/CIRCOUTCOMES.109.921833
-  notes: |
+  note: |
     *member of the investigative team cited in the appendix of the manuscript
   pdf:
   url:
