@@ -37,37 +37,18 @@
   doi: 10.1101/2024.09.25.24314318
   pmid: 38645158
 -
-  type: conference
-  title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
-  authors: |
-    Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, 
-    Demner-Fushman D, Elhadad N
-  conference: AMIA Annu Symp Proc
-  year: 2024
-  month: January
-  pages: 289-298
-  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38222422/
-  url: https://pubmed.ncbi.nlm.nih.gov/38222422/
-  pmid: 38222422
--
   type: journal
-  title: "What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study"
-  authors: |
-    Schnipper JL, <u><b>Reyes Nieva H</b></u>, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, 
-    Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
-  journal: BMJ Qual Saf
-  year: 2023
-  volume: 32
-  issue: 8
-  pages: 457-469
-  pmid: 38156044
-  pdf:
-  url:
-  doi: 10.1136/bmjqs-2022-014806
-  pmid: 36948542
-  note: >
-    <i class="fa fa-star"></i> <b>Ranked #1 among the <a href="https://blogs.bmj.com/qualitysafety/2024/06/18/top-10-articles-of-2023-1-5/" 
-    target="_blank">top research articles of 2023</a> by BMJ Quality and Safety</b>
+  title: "Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices"
+  authors: <u><b>Reyes Nieva H</b></u>, Ruan E, Schiff G 
+  journal: J Gen Intern Med
+  year: 2020
+  volume: 35
+  issue: 2
+  pages: 457–464
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/31755012
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31755012
+  pmid: 31755012
+  doi: 10.1007/s11606-019-05543-0
 -
   type: journal
   title: A Scoping Review of Ethics Considerations in Clinical Natural Language Processing
@@ -83,34 +64,37 @@
   url: https://pubmed.ncbi.nlm.nih.gov/35663112/
   pmid: 35663112
   doi: 10.1093/jamiaopen/ooac039
-
 -
   type: journal
-  title: "Characteristics of Disease-Specific and Generic Diagnostic Pitfalls: A Qualitative Study"
-  authors: Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, <u><b>Reyes Nieva H</b></u>
-  journal: JAMA Netw Open
-  year: 2022 
-  volume: 5
-  issue: 1
-  pages: e2144531
-  pdf: https://pubmed.ncbi.nlm.nih.gov/35061037/
-  url: https://pubmed.ncbi.nlm.nih.gov/35061037/
-  pmid: 35061037 
-  doi: 10.1001/jamanetworkopen.2021.44531
-  # note: <b>Senior Author Publication</b>
+  title: "What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study"
+  authors: |
+    Schnipper JL, <u><b>Reyes Nieva H</b></u>, Yoon C, et al
+  journal: BMJ Qual Saf
+  year: 2023
+  volume: 32
+  issue: 8
+  pages: 457-469
+  pmid: 38156044
+  pdf:
+  url:
+  doi: 10.1136/bmjqs-2022-014806
+  pmid: 36948542
+  note: >
+    <i class="fa fa-star"></i> <b>Ranked #1 among the <a href="https://blogs.bmj.com/qualitysafety/2024/06/18/top-10-articles-of-2023-1-5/" 
+    target="_blank">top research articles of 2023</a> by BMJ Quality and Safety</b>
 -
-  type: journal
-  title: "Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices"
-  authors: <u><b>Reyes Nieva H</b></u>, Ruan E, Schiff G 
-  journal: J Gen Intern Med
-  year: 2020
-  volume: 35
-  issue: 2
-  pages: 457–464
-  pdf: https://www.ncbi.nlm.nih.gov/pubmed/31755012
-  url: https://www.ncbi.nlm.nih.gov/pubmed/31755012
-  pmid: 31755012
-  doi: 10.1007/s11606-019-05543-0
+  type: conference
+  title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
+  authors: |
+    Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, 
+    Demner-Fushman D, Elhadad N
+  conference: AMIA Annu Symp Proc
+  year: 2024
+  month: January
+  pages: 289-298
+  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38222422/
+  url: https://pubmed.ncbi.nlm.nih.gov/38222422/
+  pmid: 38222422
 -
   type: conference
   title: "Exploring Gender Disparities in Time to Diagnosis"
@@ -123,6 +107,19 @@
   url: https://arxiv.org/abs/2011.06100
   doi: 10.48550/arXiv.2011.06100
   arxivid: arXiv:2011.06100 
+-
+  type: journal
+  title: "Time of day and the decision to prescribe antibiotics"
+  authors: Linder JA, Doctor JN, Friedberg MW, <u><b>Reyes Nieva H</b></u>, Birks C, Meeker D, Fox CR
+  journal: JAMA Intern Med
+  year: 2014 
+  volume: 174
+  issue: 12
+  pages: 2029-31
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25286067
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25286067
+  pmid: 25286067
+  doi: 10.1001/jamainternmed.2014.5225
 -
   type: journal
   title: "Scale-up of networked HIV treatment in Nigeria: creation of an integrated electronic medical records system"
@@ -138,15 +135,15 @@
   doi: 10.1016/j.ijmedinf.2014.09.006
 -
   type: journal
-  title: "Time of day and the decision to prescribe antibiotics"
-  authors: Linder JA, Doctor JN, Friedberg MW, <u><b>Reyes Nieva H</b></u>, Birks C, Meeker D, Fox CR
-  journal: JAMA Intern Med
-  year: 2014 
-  volume: 174
-  issue: 12
-  pages: 2029-31
-  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25286067
-  url: https://www.ncbi.nlm.nih.gov/pubmed/25286067
-  pmid: 25286067
-  doi: 10.1001/jamainternmed.2014.5225
-
+  title: "Characteristics of Disease-Specific and Generic Diagnostic Pitfalls: A Qualitative Study"
+  authors: Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, <u><b>Reyes Nieva H</b></u>
+  journal: JAMA Netw Open
+  year: 2022 
+  volume: 5
+  issue: 1
+  pages: e2144531
+  pdf: https://pubmed.ncbi.nlm.nih.gov/35061037/
+  url: https://pubmed.ncbi.nlm.nih.gov/35061037/
+  pmid: 35061037 
+  doi: 10.1001/jamanetworkopen.2021.44531
+  # note: <b>Senior Author Publication</b>  
