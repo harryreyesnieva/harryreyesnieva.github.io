@@ -1,6 +1,6 @@
 -
   type: proceedings
-  authors: Hegselmann S, Parziale A, Shanmugam D, Tang S, Severson K, Asiedu MN, Chang S, Dossou BFP, Huang Q, Kamran F, Zhang H, Nagaraj S, Oala L, Xu S, Okolo CT, Zhou H, Dafflon J, Ellington C, Jabbour S, Jeong H, <b>Reyes Nieva H</b>, Yang Y, Zamzmi G, Mhasawade V, Truong V, Chandak P, Lee M, Argaw P, Heuton K, Singh H, Hartvigsen T
+  authors: Hegselmann S, Parziale A, Shanmugam D, Tang S, Severson K, Asiedu MN, Chang S, Dossou BFP, Huang Q, Kamran F, Zhang H, Nagaraj S, Oala L, Xu S, Okolo CT, Zhou H, Dafflon J, Ellington C, Jabbour S, Jeong H, <u><b>Reyes Nieva H</b></u>, Yang Y, Zamzmi G, Mhasawade V, Truong V, Chandak P, Lee M, Argaw P, Heuton K, Singh H, Hartvigsen T
   title: Machine Learning for Health (ML4H) 2023
   venue: Proceedings of Machine Learning Research
   url: https://proceedings.mlr.press/v225/hegselmann23a.html
@@ -9,7 +9,7 @@
   pages: 1-12
 -
   type: proceedings
-  authors: <b>Reyes Nieva H</b>, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA
+  authors: <u><b>Reyes Nieva H</b></u>, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA
   title: |
     Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care 
       "in Abstracts from the 37th Annual Meeting of the Society of General Internal Medicine"
@@ -26,7 +26,7 @@
     <i class="fa fa-trophy"></i> Received the <b>Outstanding Quality and Patient Safety Oral Presentation Award</b> from the Society of General Internal Medicine.
 -
   type: proceedings
-  authors: <b>Reyes Nieva H</b>, Kaplan RL, Madani N
+  authors: <u><b>Reyes Nieva H</b></u>, Kaplan RL, Madani N
   title: |
     Women and HIV: Update from the Middle East and North Africa
   venue: Global Network of Researchers on HIV/AIDS in the Middle East and North Africa (GNR- MENA)

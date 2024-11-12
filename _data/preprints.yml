@@ -1,7 +1,7 @@
 -
   type: preprint
   title: Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System
-  authors: <b>Reyes Nieva H</b>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
+  authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
   server: medRxiv [Preprint]
   year: 2024
   month: September
@@ -12,18 +12,18 @@
 -
   type: preprint
   title: "Enabling a Learning Public Health System: Enhanced Surveillance of HIV and Other Sexually Transmitted Infections"
-  authors: <b>Reyes Nieva H</b>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
+  authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
   server: medRxiv [Preprint]
   year: 2024
   month: April
   pdf: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
   url:
-  doi: 10.1101/2024.09.25.24314318
+  doi: 10.1101/2024.04.10.24305612
   pmid: 38645158
 -
   type: preprint
   title: Large-scale characterization of gender differences in diagnosis prevalence and time to diagnosis
-  authors: Sun TY, Hardin J, Reyes Nieva H, Natarajan K, Cheng RJ, Ryan PB, Elhadad N
+  authors: Sun TY, Hardin J, <u><b>Reyes Nieva H</b></u>, Natarajan K, Cheng RJ, Ryan PB, Elhadad N
   server: medRxiv [Preprint]
   year: 2023
   month: October

@@ -1,7 +1,7 @@
 -
   type: journal
   title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles"
-  authors: <b>Reyes Nieva H</b>, Bakken S, Elhadad N
+  authors: <u><b>Reyes Nieva H</b></u>, Bakken S, Elhadad N
   journal: Science Advances
   volume: 10 
   issue: 4
@@ -16,7 +16,7 @@
   type: conference
   title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
   authors: |
-    Bear Don’t Walk IV OJ, Pichon A, <b>Reyes Nieva H</b>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, Demner-Fushman D, Elhadad N
+    Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, Demner-Fushman D, Elhadad N
   conference: AMIA Annu Symp Proc
   year: 2024
   month: January
@@ -26,7 +26,7 @@
   pmid: 38222422
 -
   type: journal
-  authors: Tucker EG, <b>Reyes Nieva H</b>, Schiffer K, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J
+  authors: Tucker EG, <u><b>Reyes Nieva H</b></u>, Schiffer K, Yin MT, Castor D, Gordon P, Elhadad N, Zucker J
   title: Using a Health Information Exchange to Characterize Changes in HIV Viral Load Suppression and Disparities During the COVID-19 Pandemic in NYC
   journal: Open Forum Infectious Diseases 
   year: 2023 
@@ -42,7 +42,7 @@
   type: journal
   title: "What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study"
   authors: |
-    Schnipper JL, <b>Reyes Nieva H</b>, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, 
+    Schnipper JL, <u><b>Reyes Nieva H</b></u>, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, 
     Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
   journal: BMJ Qual Saf
   year: 2023
@@ -59,7 +59,7 @@
     target="_blank">top research articles of 2023</a> by BMJ Quality and Safety</b>
 - 
   type: journal
-  authors: Spotnitz M, Acharya N, Cimino JJ, Murphy S, Namjou B, Crimmins N, Walunas T, Liu C, Crosslin D, Benoit B, Rosenthal E, Pacheco J, Ostropolets A, <b>Reyes Nieva H</b>, Patterson JS, Richter LR, Callahan TJ, Elhussein A, Pang C, Kiryluk K, Nestor J, Khan A, Mohan S, Minty E, Chung W, Wei WQ, Natarajan K, Weng C 
+  authors: Spotnitz M, Acharya N, Cimino JJ, Murphy S, Namjou B, Crimmins N, Walunas T, Liu C, Crosslin D, Benoit B, Rosenthal E, Pacheco J, Ostropolets A, <u><b>Reyes Nieva H</b></u>, Patterson JS, Richter LR, Callahan TJ, Elhussein A, Pang C, Kiryluk K, Nestor J, Khan A, Mohan S, Minty E, Chung W, Wei WQ, Natarajan K, Weng C 
   title: A metadata framework for computational phenotypes
   journal: JAMIA Open
   year: 2023
@@ -74,7 +74,7 @@
 -
   type: journal
   title: The Timeliness of Point of Care Viral Load Results Improves HIV Monitoring in Nigeria
-  authors: Chaplin B, Agbaji O, <b>Reyes Nieva H</b>, Olatunde B, Chang C, Mitruka K, Sule H, Dajel T, Zee A, Ahmed ML, Ahmed I, Okonkwo P, Rawizza H, Kanki P
+  authors: Chaplin B, Agbaji O, <u><b>Reyes Nieva H</b></u>, Olatunde B, Chang C, Mitruka K, Sule H, Dajel T, Zee A, Ahmed ML, Ahmed I, Okonkwo P, Rawizza H, Kanki P
   journal: Clin Infect Dis
   year: 2023
   month: February
@@ -89,7 +89,7 @@
   type: journal
   title: A Scoping Review of Ethics Considerations in Clinical Natural Language Processing
   authors: |
-    Bear Don’t Walk OJ IV, <b>Reyes Nieva H</b>, Lee SSJ, Elhadad N
+    Bear Don’t Walk OJ IV, <u><b>Reyes Nieva H</b></u>, Lee SSJ, Elhadad N
   journal: JAMIA Open
   year: 2022
   month: July 
@@ -102,7 +102,7 @@
   doi: 10.1093/jamiaopen/ooac039
 -
   type: journal
-  authors: Shahani A, <b>Reyes Nieva H</b>, Czado K, Shannon E, Gaetani R, Gresham M, Cruz Garcia J, Ganesan H, Cerciello E, Dave J, Jain R, Schnipper JL
+  authors: Shahani A, <u><b>Reyes Nieva H</b></u>, Czado K, Shannon E, Gaetani R, Gresham M, Cruz Garcia J, Ganesan H, Cerciello E, Dave J, Jain R, Schnipper JL
   title: |
     An Electronic Pillbox Intervention Designed to Improve Medication Safety During Care Transitions: Challenges and Lessons Learned regarding Implementation and Evaluation
   journal: BMC Health Serv Res
@@ -118,7 +118,7 @@
 -
   type: journal
   authors: |
-    Schnipper JL, <b>Reyes Nieva H</b>, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
+    Schnipper JL, <u><b>Reyes Nieva H</b></u>, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
   title: |
     Effects of a Refined Evidence-based Toolkit and Mentored Implementation on Medication Reconciliation at Eighteen Hospitals: Results of the MARQUIS2 Study
   journal: BMJ Qual Saf
@@ -133,7 +133,7 @@
   url:
 -
   type: journal
-  authors: Groisser A, <b>Reyes Nieva H</b>, Ruan E, Wright A, Schiff GD
+  authors: Groisser A, <u><b>Reyes Nieva H</b></u>, Ruan E, Wright A, Schiff GD
   title: |
     Terminations in Primary Care: A Retrospective Observational Study of 16 Primary Care Clinics
   journal: J Gen Intern Med
@@ -149,7 +149,7 @@
 -
   type: journal
   title: "Characteristics of Disease-Specific and Generic Diagnostic Pitfalls: A Qualitative Study"
-  authors: Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, <b>Reyes Nieva H</b>
+  authors: Schiff GD, Volodarskaya M, Ruan E, Lim A, Wright A, Singh H, <u><b>Reyes Nieva H</b></u>
   journal: JAMA Netw Open
   year: 2022 
   volume: 5
@@ -162,7 +162,7 @@
   # note: <b>Senior Author Publication</b>
 -
   type: journal
-  authors: Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, <b>Reyes Nieva H</b>, Pinheiro A, Davis RB, Yeh GY
+  authors: Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, <u><b>Reyes Nieva H</b></u>, Pinheiro A, Davis RB, Yeh GY
   title: Exploring tai chi exercise and mind-body breathing in patients with COPD in a randomized controlled feasibility trial
   journal: |
     COPD: Journal of Chronic Obstructive Pulmonary Disease
@@ -176,7 +176,7 @@
   url:
 -
   type: journal
-  authors: Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, <b>Reyes Nieva H</b>, Pinheiro A, Davis RB, Moy ML
+  authors: Yeh GY, Litrownik D, Wayne PM, Beach D, Klings ES, <u><b>Reyes Nieva H</b></u>, Pinheiro A, Davis RB, Moy ML
   title: |
     The BEAM Study (Breathing, Education, Awareness, Movement): a Randomized Controlled Feasibility Trial of Tai Chi Exercise in Patients with COPD
   journal: BMJ Open Respiratory Research
@@ -192,7 +192,7 @@
 -
   type: conference
   title: "Exploring Gender Disparities in Time to Diagnosis"
-  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, <b>Reyes Nieva H</b>, Elhadad N
+  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, <u><b>Reyes Nieva H</b></u>, Elhadad N
   conference: Machine Learning for Health (ML4H) Workshop at the Conference on Neural Information Processing Systems (NeurIPS)
   year: 2020
   month: December
@@ -203,7 +203,7 @@
   arxivid: arXiv:2011.06100 
 -
   type: journal
-  authors: Linder JA, Weissman JS, <b>Reyes Nieva H</b>, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR
+  authors: Linder JA, Weissman JS, <u><b>Reyes Nieva H</b></u>, Lipsitz S, Haring RS, DeAngelis J, Kristy RM, Loughlin KR
   title: |
     Overactive bladder in an integrated delivery system: a longitudinal cohort study
   journal: BMC Health Serv Res
@@ -219,7 +219,7 @@
 -
   type: journal
   title: "Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices"
-  authors: <b>Reyes Nieva H</b>, Ruan E, Schiff G 
+  authors: <u><b>Reyes Nieva H</b></u>, Ruan E, Schiff G 
   journal: J Gen Intern Med
   year: 2020
   volume: 35
@@ -233,7 +233,7 @@
   url:
 -
   type: journal
-  authors: Ali NB, <b>Reyes Nieva H</b>, Percac-Lima S, Shields HM, Linder JA, Yusuf Osman N
+  authors: Ali NB, <u><b>Reyes Nieva H</b></u>, Percac-Lima S, Shields HM, Linder JA, Yusuf Osman N
   title: Health Care Use by Muslim Patients During Ramadan
   journal: J Health Care Poor Underserved
   year: 2019
@@ -246,7 +246,7 @@
   url:
 -
   type: journal
-  authors: Mixon AS, Smith GR, Mallouk M, <b>Reyes Nieva H</b>, Kripalani S, Rennke S, Chu E, Sridharan A, Dalal A, Mueller S, Williams M, Wetterneck T, Stein JM, Stolldorf D, Howell E, Orav J, Labonville S, Levin B, Yoon C, Gresham M, Goldstein J, Platt S, Nyenpan C, Schnipper JL
+  authors: Mixon AS, Smith GR, Mallouk M, <u><b>Reyes Nieva H</b></u>, Kripalani S, Rennke S, Chu E, Sridharan A, Dalal A, Mueller S, Williams M, Wetterneck T, Stein JM, Stolldorf D, Howell E, Orav J, Labonville S, Levin B, Yoon C, Gresham M, Goldstein J, Platt S, Nyenpan C, Schnipper JL
   title: |
     Design of MARQUIS2: study protocol for a mentored implementation study of an evidence-based toolkit to improve patient safety through medication reconciliation
   journal: BMC Health Serv Res
@@ -261,7 +261,7 @@
   url:
 -
   type: journal
-  authors: Schiff GD, <b>Reyes Nieva H</b>, Griswold P, Leydon N, Ling J, Federico F, Keohane C, Ellis BR, Foskett C, Orav EJ, Yoon C, Goldmann D, Weissman JS, Bates DW, Biondolillo M, Singer SJ
+  authors: Schiff GD, <u><b>Reyes Nieva H</b></u>, Griswold P, Leydon N, Ling J, Federico F, Keohane C, Ellis BR, Foskett C, Orav EJ, Yoon C, Goldmann D, Weissman JS, Bates DW, Biondolillo M, Singer SJ
   title: |
     Randomized Trial of Reducing Ambulatory Malpractice and Safety Risk: Results of the Massachusetts PROMISES Project
   journal: Med Care
@@ -276,7 +276,7 @@
   url:
 -
   type: journal
-  authors: Schiff GD, <b>Reyes Nieva H</b>, Griswold P, Leydon N, Ling J, Biondolillo M, Singer SJ
+  authors: Schiff GD, <u><b>Reyes Nieva H</b></u>, Griswold P, Leydon N, Ling J, Biondolillo M, Singer SJ
   title: |
     Addressing Ambulatory Safety and Malpractice: The Massachusetts PROMISES Project
   journal: Health Serv Res
@@ -291,7 +291,7 @@
   url:
 -
   type: journal
-  authors: Kroll DS, <b>Reyes Nieva H</b>, Barsky AJ, Linder JA
+  authors: Kroll DS, <u><b>Reyes Nieva H</b></u>, Barsky AJ, Linder JA
   title: Benzodiazepines are Prescribed More Frequently to Patients Already at Risk for Benzodiazepine-Related Adverse Events in Primary Care
   journal: J Gen Intern Med
   year: 2016
@@ -322,7 +322,7 @@
   url:
 -
   type: journal
-  authors: Solomon SR, Gooding HC, <b>Reyes Nieva H</b>, Linder JA
+  authors: Solomon SR, Gooding HC, <u><b>Reyes Nieva H</b></u>, Linder JA
   title: Acute Care Utilization by Patients After Graduation of Their Resident Primary Care Physicians
   journal: J Gen Intern Med
   year: 2015
@@ -336,7 +336,7 @@
   url:
 -
   type: journal
-  authors: Singer SJ, <b>Reyes Nieva H</b>, Brede N, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD
+  authors: Singer SJ, <u><b>Reyes Nieva H</b></u>, Brede N, Ling J, Leydon N, Weissman JS, Goldmann D, Griswold P, Yoon C, Orav EJ, Bates DW, Biondolillo M, Schiff GD
   title: |
     Evaluating ambulatory practice safety: the PROMISES project administrators and practice staff surveys
   journal: Med Care
@@ -352,7 +352,7 @@
 -
   type: journal
   title: "Scale-up of networked HIV treatment in Nigeria: creation of an integrated electronic medical records system"
-  authors: Chaplin B, Meloni S, Eisen G, Jolayemi T, Banigbe B, Adeola J, Wen C, <b>Reyes Nieva H</b>, Chang C, Okonkwo P, Kanki P
+  authors: Chaplin B, Meloni S, Eisen G, Jolayemi T, Banigbe B, Adeola J, Wen C, <u><b>Reyes Nieva H</b></u>, Chang C, Okonkwo P, Kanki P
   journal: Int J Med Inform
   year: 2015
   volume: 84
@@ -365,7 +365,7 @@
 -
   type: journal
   title: "Time of day and the decision to prescribe antibiotics"
-  authors: Linder JA, Doctor JN, Friedberg MW, <b>Reyes Nieva H</b>, Birks C, Meeker D, Fox CR
+  authors: Linder JA, Doctor JN, Friedberg MW, <u><b>Reyes Nieva H</b></u>, Birks C, Meeker D, Fox CR
   journal: JAMA Intern Med
   year: 2014 
   volume: 174
@@ -377,7 +377,7 @@
   doi: 10.1001/jamainternmed.2014.5225
 -
   type: journal
-  authors: Schiff G, Griswold P, Ellis BR, Puopolo AL, Brede N, <b>Reyes Nieva H</b>, Federico F, Leydon N, Ling J, Wachenheim D, Leape LL, Biondolillo M
+  authors: Schiff G, Griswold P, Ellis BR, Puopolo AL, Brede N, <u><b>Reyes Nieva H</b></u>, Federico F, Leydon N, Ling J, Wachenheim D, Leape LL, Biondolillo M
   title: Doing right by our patients when things go wrong in the ambulatory setting
   journal: Jt Comm J Qual Patient Saf
   year: 2014
@@ -424,7 +424,7 @@
   url:
 -
   type: journal
-  authors: Linder JA, <b>Reyes Nieva H</b>, Blumentals WA
+  authors: Linder JA, <u><b>Reyes Nieva H</b></u>, Blumentals WA
   title: Antiviral and antibiotic prescribing for influenza in primary care
   journal: J Gen Intern Med
   year: 2009
