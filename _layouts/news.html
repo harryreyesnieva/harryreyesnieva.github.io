@@ -77,14 +77,35 @@
               <div class="col-md-9">   
                 {% for new in site.data.news %}
 
-                {{ new.date }} -  {{ new.description }}
+<!--                 {{ new.date }} -  {{ new.description }}
                 <br>
                 <br>
                  
                 {% endfor %}
                 <br>
-              </div>
+ -->
+            <table>
+              <colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<!-- <thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead> -->
+              <tbody>
+                {% for new in site.data.news %}
+                <tr>
+                  <td>{{ new.date }}</td>
+                  <td>{{ new.description }}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
           {% endif %}
+        </div>
         </div>
         </div>
         </div>
