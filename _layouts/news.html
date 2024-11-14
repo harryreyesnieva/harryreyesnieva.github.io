@@ -86,20 +86,18 @@
  -->
             <table>
               <colgroup>
-<col width="20%" />
-<col width="80%" />
-</colgroup>
-<!-- <thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-</tr>
-</thead> -->
+              <col width="20%" />
+              <col width="80%" />
+              </colgroup>
               <tbody>
                 {% for new in site.data.news %}
                 <tr>
                   <td>{{ new.date }}</td>
                   <td>{{ new.description }}</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
                 </tr>
                 {% endfor %}
               </tbody>
