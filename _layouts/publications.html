@@ -32,7 +32,7 @@
       <div class="row">
         <div class="col-xs-9 col-lg-9">
           <h1>
-            <a href="{{ site.baseurl }}">{{ site.data.personal.name }}</a>  &nbsp; &nbsp; &nbsp; &nbsp;
+            <a href="{{ site.baseurl }}">{{ site.data.personal.name }}</a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
             <a href="{{ site.baseurl }}/about"> About</a> &nbsp;
             <a href="{{ site.baseurl }}/cv"> CV</a> &nbsp;
@@ -85,7 +85,8 @@
           <br>
           <b>{{ preprint.note}}</b>
           <span class="__dimensions_badge_embed__" data-doi="{{ preprint.doi }}" data-link-target="_blank"
-          data-hide-zero-citations="true"></span>
+          data-hide-zero-citations="true" data-style="large_rectangle"></span>
+          <br><br>
         {% endfor %}
       </div>
     </div>
@@ -110,8 +111,7 @@
               <br>
               <b>{{ publication.note}}</b>
               <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-link-target="_blank"
-              data-hide-zero-citations="true"></span>
-              <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}"></span>
+              data-hide-zero-citations="true" data-style="large_rectangle"></span>
             {% when 'conference' %}
               <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
               data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
@@ -120,7 +120,7 @@
               {{ publication.title }}.</a></b>
               {{ publication.conference }}. {{ publication.year }} {{ publication.month }}. {{ publication.pages }}.
               <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" 
-              data-link-target="_blank" data-hide-zero-citations="true"></span>
+              data-link-target="_blank" data-hide-zero-citations="true" data-style="large_rectangle"></span>
             {% when 'dissertation' %}
               {{ publication.publisher }}
             {% when 'magazine' %}
@@ -151,7 +151,7 @@
         {{ proceeding.year }}.
         <br>
         {{ proceeding.note }}</p><span class="__dimensions_badge_embed__" data-doi="{{ proceeding.doi }}" 
-              data-link-target="_blank" data-hide-zero-citations="true"></span><br>
+              data-link-target="_blank" data-hide-zero-citations="true" data-style="large_rectangle"></span><br>
     {% endfor %}
 </div>
 </div>
