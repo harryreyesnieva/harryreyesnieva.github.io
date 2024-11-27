@@ -116,7 +116,7 @@
               <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
               data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
               {{ publication.authors }}.
-              <b><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publication.pmid }}/" target='_blank'>
+              <b><a href="{{ publication.url }}" target='_blank'>
               {{ publication.title }}.</a></b>
               {{ publication.conference }}. {{ publication.year }} {{ publication.month }}. {{ publication.pages }}.
               <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" 
