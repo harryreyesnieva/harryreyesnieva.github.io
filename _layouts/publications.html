@@ -129,9 +129,9 @@
               {{ publication.issue }},
               {{ publication.pages }}
             {% when 'inpress' %}
-              {{ publication.authors }}.
-              {{ publication.title }}.
-              {{ publication.journal }}. In Press.
+              <p>{{ publication.authors }}.
+              <b>{{ publication.title }}.</b>
+              {{ publication.journal }}. In Press.</p>
           {% endcase %}
           <br>
         {% endfor %}
