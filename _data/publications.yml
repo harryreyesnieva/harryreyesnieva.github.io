@@ -15,15 +15,13 @@
 -
   type: inpress
   title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III" 
-  authors: |
-    Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Li J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, 
+  authors: Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Li J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, 
     Ahmed SA, Snyder D, Rahbari A, Ranard BL, Juneja P, Demner-Fushman D, Elhadad N
   journal: Scientific Data
 -
   type: conference
   title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
-  authors: |
-    Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, Demner-Fushman D, Elhadad N
+  authors: Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, Demner-Fushman D, Elhadad N
   conference: AMIA Annu Symp Proc
   year: 2024
   month: January
@@ -48,9 +46,7 @@
 -
   type: journal
   title: "What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study"
-  authors: |
-    Schnipper JL, <u><b>Reyes Nieva H</b></u>, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, 
-    Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
+  authors: Schnipper JL, <u><b>Reyes Nieva H</b></u>, Yoon C, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
   journal: BMJ Qual Saf
   year: 2023
   volume: 32
@@ -95,8 +91,7 @@
 -
   type: journal
   title: A Scoping Review of Ethics Considerations in Clinical Natural Language Processing
-  authors: |
-    Bear Don’t Walk OJ IV, <u><b>Reyes Nieva H</b></u>, Lee SSJ, Elhadad N
+  authors: Bear Don’t Walk OJ IV, <u><b>Reyes Nieva H</b></u>, Lee SSJ, Elhadad N
   journal: JAMIA Open
   year: 2022
   month: July 
@@ -110,8 +105,7 @@
 -
   type: journal
   authors: Shahani A, <u><b>Reyes Nieva H</b></u>, Czado K, Shannon E, Gaetani R, Gresham M, Cruz Garcia J, Ganesan H, Cerciello E, Dave J, Jain R, Schnipper JL
-  title: |
-    An Electronic Pillbox Intervention Designed to Improve Medication Safety During Care Transitions: Challenges and Lessons Learned regarding Implementation and Evaluation
+  title: An Electronic Pillbox Intervention Designed to Improve Medication Safety During Care Transitions: Challenges and Lessons Learned regarding Implementation and Evaluation
   journal: BMC Health Serv Res
   year: 2022 
   month: Oct 
@@ -124,10 +118,8 @@
   url: https://pubmed.ncbi.nlm.nih.gov/36309744/
 -
   type: journal
-  authors: |
-    Schnipper JL, <u><b>Reyes Nieva H</b></u>, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
-  title: |
-    Effects of a Refined Evidence-based Toolkit and Mentored Implementation on Medication Reconciliation at Eighteen Hospitals: Results of the MARQUIS2 Study
+  authors: Schnipper JL, <u><b>Reyes Nieva H</b></u>, Mallouk M, Mixon AS, Rennke S, Chu ES, Mueller SK, Smith GR, Williams MV, Wetterneck TB, Stein JM, Dalal A, Labonville S, Sridharan A, Stolldorf D, Orav J, Levin B, Gresham M, Yoon C, Goldstein J, Platt S, Nyenpan C, Howell E, Kripalani S, and MARQUIS2 Site Leaders for the MARQUIS2 Study Group
+  title: Effects of a Refined Evidence-based Toolkit and Mentored Implementation on Medication Reconciliation at Eighteen Hospitals: Results of the MARQUIS2 Study
   journal: BMJ Qual Saf
   year: 2022
   month: April
