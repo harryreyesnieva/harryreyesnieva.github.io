@@ -9,16 +9,24 @@
   month: January
   pages: eadf9033
   pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
-  url: https://pubmed.ncbi.nlm.nih.gov/38266089
+  url: https://pubmed.ncbi.nlm.nih.gov/38266089/
   pmid: 38266089
   doi: 10.1126/sciadv.adf9033
 -
-  type: inpress
+  type: journal
   title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III" 
   authors: Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Li J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, 
     Ahmed SA, Snyder D, Rahbari A, Ranard BL, Juneja P, Demner-Fushman D, Elhadad N
   journal: Scientific Data
+  volume: 11
+  issue: 1
+  year: 2024
+  month: December
+  pages: 1332
+  url: https://pubmed.ncbi.nlm.nih.gov/39638783/
+  pmid: 39638783
   doi: 10.1038/s41597-024-04183-2
+
 -
   type: conference
   title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
