@@ -5,9 +5,9 @@
   server: medRxiv [Preprint]
   year: 2024
   month: December
-  pdf: 
+  pdf: https://www.medrxiv.org/content/10.1101/2024.12.13.24319010
   url:
-  doi: 
+  doi: 10.1101/2024.12.13.24319010
   pmid: 
 -
   type: preprint
@@ -38,5 +38,7 @@
   server: medRxiv [Preprint]
   year: 2023
   month: October
-  url: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
+  pdf: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
+  url:
   doi: 10.1101/2023.10.12.23296976
+  pmid:
