@@ -41,8 +41,7 @@ profiles:
 intro:
   title:
   body: |
-    Welcome! I'm Harry (pronouns: he, him). 
-    I'm an expert in artificial intelligence (AI) in medicine and public health. I recently completed my PhD in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} 
+    Welcome! I'm Harry (pronouns: he, him). I recently completed my PhD in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} 
     at [Columbia University](https://www.columbia.edu/){:target="_blank"} where I was advised by 
     [Noémie Elhadad](https://www.dbmi.columbia.edu/profil/noemie-elhadad/){:target="_blank"}.
     For most of my PhD, I was also a Visiting Postgraduate Research Fellow at 
