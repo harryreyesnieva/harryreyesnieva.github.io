@@ -16,6 +16,17 @@
   doi: 10.1126/sciadv.adf9033
 -
   type: preprint
+  title: "Surveillance of HIV and Other Sexually Transmitted Infections in a Learning Public Health System"
+  authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
+  server: JAMA Netw Open. In Press. medRxiv [Preprint] available.
+  year: 2024
+  month: April
+  pdf: https://www.medrxiv.org/content/10.1101/2024.04.10.24305612
+  url: https://www.medrxiv.org/content/10.1101/2024.04.10.24305612
+  doi: 10.1101/2024.04.10.24305612
+  pmid: 38645158
+-
+  type: preprint
   title: "Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System"
   authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
   server: medRxiv [Preprint]
@@ -25,17 +36,6 @@
   url:
   doi: 10.1101/2024.09.25.24314318
   pmid: 39399027
--
-  type: preprint
-  title: "Enabling a Learning Public Health System: Enhanced Surveillance of HIV and Other Sexually Transmitted Infections"
-  authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
-  server: medRxiv [Preprint]
-  year: 2024
-  month: April
-  pdf: https://www.medrxiv.org/content/10.1101/2024.09.25.24314318
-  url:
-  doi: 10.1101/2024.09.25.24314318
-  pmid: 38645158
 -
   type: journal
   title: "Professional-Patient Boundaries: a National Survey of Primary Care Physicians’ Attitudes and Practices"

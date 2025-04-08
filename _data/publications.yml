@@ -13,6 +13,17 @@
   pmid: 38266089
   doi: 10.1126/sciadv.adf9033
 -
+  type: preprint
+  title: "Surveillance of HIV and Other Sexually Transmitted Infections in a Learning Public Health System"
+  authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
+  server: JAMA Netw Open. In Press. medRxiv [Preprint] available.
+  year: 2024
+  month: April
+  pdf: https://www.medrxiv.org/content/10.1101/2024.04.10.24305612
+  url: https://www.medrxiv.org/content/10.1101/2024.04.10.24305612
+  doi: 10.1101/2024.04.10.24305612
+  pmid: 38645158
+-
   type: journal
   title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III" 
   authors: Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Li J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, 
