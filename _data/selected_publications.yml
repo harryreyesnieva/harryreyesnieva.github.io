@@ -60,7 +60,7 @@
   volume: 5
   issue: 2
   pages: ooac039
-  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC9154253/pdf/ooac039.pdf
+  pdf: https://pubmed.ncbi.nlm.nih.gov/35663112/
   url: https://pubmed.ncbi.nlm.nih.gov/35663112/
   pmid: 35663112
   doi: 10.1093/jamiaopen/ooac039
@@ -74,9 +74,9 @@
   volume: 32
   issue: 8
   pages: 457-469
-  pmid: 38156044
-  pdf:
-  url:
+  pmid: 36948542
+  pdf: https://pubmed.ncbi.nlm.nih.gov/36948542/
+  url: https://pubmed.ncbi.nlm.nih.gov/36948542/
   doi: 10.1136/bmjqs-2022-014806
   pmid: 36948542
   note: >
@@ -103,7 +103,7 @@
   year: 2020
   month: December
   pages: 1-6
-  pdf: https://arxiv.org/pdf/2011.06100
+  pdf: https://arxiv.org/abs/2011.06100
   url: https://arxiv.org/abs/2011.06100
   doi: 10.48550/arXiv.2011.06100
   arxivid: arXiv:2011.06100 
