@@ -136,9 +136,10 @@
             <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ publication.doi }}" 
               data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
               {{ publication.authors }}.
-              <b>{{ publication.title }}.</b>
+              <b><a href="{{ publication.pdf }}" target="_blank">{{ publication.title }}.</a></b>
               {{ publication.server }}.
-              <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-link-target="_blank"
+              doi: {{ publication.doi }}
+              <span class="__dimensions_badge_embed__" data-doi="{{ publication.pmid }}" data-link-target="_blank"
               data-hide-zero-citations="true" data-style="large_rectangle"></span>
           {% endcase %}
           <br>
