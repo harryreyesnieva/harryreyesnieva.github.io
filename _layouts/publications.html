@@ -112,6 +112,7 @@
               <b>{{ publication.note}}</b>
               <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-link-target="_blank"
               data-hide-zero-citations="true" data-style="large_rectangle"></span>
+
             {% when 'conference' %}
               <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
               data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
@@ -121,19 +122,22 @@
               {{ publication.conference }}. {{ publication.year }} {{ publication.month }}. {{ publication.pages }}.
               <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" 
               data-link-target="_blank" data-hide-zero-citations="true" data-style="large_rectangle"></span>
+
             {% when 'dissertation' %}
               {{ publication.publisher }}
+
             {% when 'magazine' %}
               {{ publication.magazine }},
               {{ publication.volume }},
               {{ publication.issue }},
               {{ publication.pages }}
+
             {% when 'inpress' %}
             <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ publication.doi }}" 
               data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
               {{ publication.authors }}.
               <b>{{ publication.title }}.</b>
-              {{ publication.journal }}. In Press.
+              {{ publication.server }}.
               <span class="__dimensions_badge_embed__" data-doi="{{ publication.doi }}" data-link-target="_blank"
               data-hide-zero-citations="true" data-style="large_rectangle"></span>
           {% endcase %}
