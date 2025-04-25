@@ -8,14 +8,13 @@ email: harry.reyes@columbia.edu
 
 phone: 
 
-#department:
-#
-#institution:
+department: >
+  Division of Infectious Diseases\n
+  Department of Medicine
+
+institution: Columbia University
 
 mailing_address: >
-  Division of Infectious Diseases\n
-  Department of Medicine\n
-  Columbia University\n
   622 West 168th Street, PH20\n
   New York, NY 10032
 

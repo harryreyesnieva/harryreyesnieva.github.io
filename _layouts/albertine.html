@@ -130,7 +130,7 @@
           <small><small>[dot]</small></small> ' }}</small>
         </p>
         <p>
-          {{ site.data.personal.department }}<br>
+          {{ site.data.personal.department | replace:'\n','<br>' }}<br>
           {{ site.data.personal.institution }}<br>
           {{ site.data.personal.mailing_address | replace:'\n','<br>' }}
         </p>
