@@ -8,7 +8,9 @@ email: harry.reyes@columbia.edu
 
 phone: 
 
-department: Dept of Biomedical Informatics
+department: >
+  Department of Medicine\n
+  Division of Infectious Diseases
 
 institution: Columbia University
 
@@ -43,11 +45,12 @@ intro:
   body: |
     <h3>Harry Reyes Nieva, PhD, MAS </h3>
 
-    Welcome! I am a postdoctoral research scientist with expertise in artificial intelligence (AI) in medicine and public health. 
-    I recently completed my PhD in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} 
-    at [Columbia University](https://www.columbia.edu/){:target="_blank"} where I was advised by 
-    [Noémie Elhadad](https://www.dbmi.columbia.edu/profil/noemie-elhadad/){:target="_blank"}.
-    For most of my PhD, I was also a Visiting Postgraduate Research Fellow at 
+    Welcome! I am a postdoctoral research scientist in the [Division of Infectious Diseases](https://www.infectiousdiseases.cuimc.columbia.edu/){:target="_blank"} 
+    at [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/){:target="_blank"} 
+    with expertise in artificial intelligence (AI) in medicine and public health. 
+    I completed my PhD in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} 
+    at [Columbia](https://www.columbia.edu/){:target="_blank"} while concurrently a
+    Visiting Postgraduate Research Fellow in the Department of Medicine at 
     [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"}. Recently, I served a 2-year term on the 
     [Journal of the American Medical Informatics Association](https://academic.oup.com/jamia){:target="_blank"} Student Editorial Board 
     and was a co-organizer of the 2023 [Machine Learning for Health (ML4H) Symposium](https://ml4health.github.io/2023/){:target="_blank"}. 
@@ -64,7 +67,7 @@ intro:
     using and interrogating multimodal data sources and the vast toolbox that computational learning offers to better understand, 
     improve, and facilitate study of health in populations and communities. Generally, my research can be grouped into four primary domains:
 
-    1. Enabling learning health systems, precision medicine, and precision public health
+    1. Enabling precision health and learning health systems
     2. Improving health data capture and curation of new knowledge bases
     3. Elucidating heterogeneity in health outcomes and developing tools to facilitate discovery
     4. Ethical considerations in AI, clinical practice, and digital health
