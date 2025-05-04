@@ -77,7 +77,7 @@
           data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
           {{ preprint.authors }}. 
           <b>
-            <a href="{{ preprint.url }}">
+            <a href="{{ preprint.url }}"  target="_blank">
               {{ preprint.title }}.
             </a>
           </b>
@@ -105,7 +105,7 @@
               <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ publication.doi }}" 
               data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
               {{ publication.authors }}. 
-              <b><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publication.pmid }}/">
+              <b><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publication.pmid }}/"  target="_blank">
               {{ publication.title }}.</a></b>
               {{ publication.journal }}. {{ publication.year }}. {{ publication.volume }}({{ publication.issue }}):{{ publication.pages }}. PMID: {{ publication.pmid }}.
               <br>
@@ -117,7 +117,7 @@
               <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
               data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
               {{ publication.authors }}.
-              <b><a href="{{ publication.url }}">
+              <b><a href="{{ publication.url }}"  target="_blank">
               {{ publication.title }}.</a></b>
               {{ publication.conference }}. {{ publication.year }} {{ publication.month }}. {{ publication.pages }}.
               <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" 
