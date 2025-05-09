@@ -15,16 +15,16 @@
   pmid: 38266089
   doi: 10.1126/sciadv.adf9033
 -
-  type: journal
+  type: preprint
   title: "Surveillance of HIV and Other Sexually Transmitted Infections in a Learning Public Health System"
   authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
-  journal: JAMA Netw Open. 2025;8(6):e2514308. In Press. medRxiv [Preprint] available
+  server: JAMA Netw Open. 2025;8(6):e2514308. In Press. medRxiv [Preprint] available
   year:
   month:
   pdf: https://www.medrxiv.org/content/10.1101/2024.04.10.24305612
   url: https://www.medrxiv.org/content/10.1101/2024.04.10.24305612
   doi: 10.1001/jamanetworkopen.2025.14308
-  pmid: 40318862
+  pmid: 38645158
 -
   type: preprint
   title: "Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System"
@@ -32,10 +32,10 @@
   server: "Sexually Transmitted Infections. Published Online First: 02 May 2025"
   year:
   month:
-  pdf: https://doi.org/10.1136/sextrans-2024-056382
-  url: https://doi.org/10.1136/sextrans-2024-056382
+  pdf: https://pubmed.ncbi.nlm.nih.gov/40318862/
+  url: https://pubmed.ncbi.nlm.nih.gov/40318862/
   doi: 10.1136/sextrans-2024-056382
-  pmid: 39399027
+  pmid: 40318862
 -
   type: preprint
   title: The Impact of Evolving Endometriosis Guidelines on Diagnosis and Observational Health Studies
