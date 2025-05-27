@@ -95,6 +95,12 @@
     target="_blank">top research articles of 2023</a> by BMJ Quality and Safety</b>
 -
   type: conference
+  title: "ADHAM: Additive deep hazard analysis mixtures for interpretable survival regression"
+  authors: Ketenci M, Jeanselme V, <u><b>Reyes Nieva H</b></u>, Joshi S, Elhadad N
+  conference: Machine Learning for Healthcare (under review)
+  year: 2025
+-
+  type: conference
   title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
   authors: |
     Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, 
