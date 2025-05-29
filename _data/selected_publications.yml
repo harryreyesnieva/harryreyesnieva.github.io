@@ -62,21 +62,6 @@
   doi: 10.1007/s11606-019-05543-0
 -
   type: journal
-  title: A Scoping Review of Ethics Considerations in Clinical Natural Language Processing
-  authors: |
-    Bear Don’t Walk OJ IV, <u><b>Reyes Nieva H</b></u>, Lee SSJ, Elhadad N
-  journal: JAMIA Open
-  year: 2022
-  month: July 
-  volume: 5
-  issue: 2
-  pages: ooac039
-  pdf: https://pubmed.ncbi.nlm.nih.gov/35663112/
-  url: https://pubmed.ncbi.nlm.nih.gov/35663112/
-  pmid: 35663112
-  doi: 10.1093/jamiaopen/ooac039
--
-  type: journal
   title: "What Works in Medication Reconciliation: An On-Treatment and Site Analysis of the MARQUIS2 Study"
   authors: |
     Schnipper JL, <u><b>Reyes Nieva H</b></u>, Yoon C, et al
@@ -94,11 +79,20 @@
     <i class="fa fa-star"></i> <b>Ranked #1 among the <a href="https://blogs.bmj.com/qualitysafety/2024/06/18/top-10-articles-of-2023-1-5/" 
     target="_blank">top research articles of 2023</a> by BMJ Quality and Safety</b>
 -
-  type: conference
-  title: "ADHAM: Additive deep hazard analysis mixtures for interpretable survival regression"
-  authors: Ketenci M, Jeanselme V, <u><b>Reyes Nieva H</b></u>, Joshi S, Elhadad N
-  conference: Machine Learning for Healthcare (under review)
-  year: 2025
+  type: journal
+  title: A Scoping Review of Ethics Considerations in Clinical Natural Language Processing
+  authors: |
+    Bear Don’t Walk OJ IV, <u><b>Reyes Nieva H</b></u>, Lee SSJ, Elhadad N
+  journal: JAMIA Open
+  year: 2022
+  month: July 
+  volume: 5
+  issue: 2
+  pages: ooac039
+  pdf: https://pubmed.ncbi.nlm.nih.gov/35663112/
+  url: https://pubmed.ncbi.nlm.nih.gov/35663112/
+  pmid: 35663112
+  doi: 10.1093/jamiaopen/ooac039
 -
   type: conference
   title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
