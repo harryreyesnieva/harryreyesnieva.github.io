@@ -15,16 +15,19 @@
   pmid: 38266089
   doi: 10.1126/sciadv.adf9033
 -
-  type: preprint
+  type: journal
   title: "Enhanced Surveillance of Sexually Transmitted Infections to Foster a Learning Public Health System"
   authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
-  server: JAMA Netw Open. 2025;8(6):e2514308. In Press. medRxiv [Preprint] available
-  year:
-  month:
-  pdf: https://www.medrxiv.org/content/10.1101/2024.04.10.24305612
-  url: https://www.medrxiv.org/content/10.1101/2024.04.10.24305612
+  journal: JAMA Netw Open
+  year: 2025
+  month: June
+  volume: 8
+  issue: 6
+  pages: e2514308
+  pdf: https://pubmed.ncbi.nlm.nih.gov/40526386/
+  url: https://pubmed.ncbi.nlm.nih.gov/40526386/
   doi: 10.1001/jamanetworkopen.2025.14308
-  pmid: 38645158
+  pmid: 40526386
 -
   type: preprint
   title: "Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System"
