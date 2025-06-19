@@ -1,19 +1,5 @@
 -
   type: journal
-  title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles"
-  authors: <u><b>Reyes Nieva H</b></u>, Bakken S, Elhadad N
-  journal: Science Advances
-  volume: 10 
-  issue: 4
-  year: 2024
-  month: January
-  pages: eadf9033
-  pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
-  url: https://pubmed.ncbi.nlm.nih.gov/38266089/
-  pmid: 38266089
-  doi: 10.1126/sciadv.adf9033
--
-  type: journal
   title: "Enhanced Surveillance of Sexually Transmitted Infections to Foster a Learning Public Health System"
   authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
   journal: JAMA Netw Open
@@ -38,6 +24,20 @@
   url: https://pubmed.ncbi.nlm.nih.gov/40318862/
   doi: 10.1136/sextrans-2024-056382
   pmid: 40318862
+-
+  type: journal
+  title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles"
+  authors: <u><b>Reyes Nieva H</b></u>, Bakken S, Elhadad N
+  journal: Science Advances
+  volume: 10
+  issue: 4
+  year: 2024
+  month: January
+  pages: eadf9033
+  pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
+  url: https://pubmed.ncbi.nlm.nih.gov/38266089/
+  pmid: 38266089
+  doi: 10.1126/sciadv.adf9033
 -
   type: journal
   title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III" 

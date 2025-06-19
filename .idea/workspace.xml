@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a1a558e6-771d-4a73-b22a-2d5c8d9dbd43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/albertine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/albertine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/news.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/news.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/selected_publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/selected_publications.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/CV_HReyesNieva.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/docs/CV_HReyesNieva.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +109,9 @@
       <workItem from="1749903611432" duration="729000" />
       <workItem from="1750188271009" duration="643000" />
       <workItem from="1750193704841" duration="1449000" />
-      <workItem from="1750238220453" duration="10000" />
+      <workItem from="1750238220453" duration="618000" />
+      <workItem from="1750332121893" duration="38000" />
+      <workItem from="1750332194486" duration="916000" />
     </task>
     <servers />
   </component>
