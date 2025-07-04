@@ -41,7 +41,7 @@
 -
   type: conference
   title: "ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression"
-  authors: Ketenci M, Jeanselme V, Reyes Nieva H, Joshi S, Elhadad N
+  authors: Ketenci M, Jeanselme V, <u><b>Reyes Nieva H</b></u>, Joshi S, Elhadad N
   conference: Machine Learning for Healthcare (MLHC)
   year: 2025
   month: August
