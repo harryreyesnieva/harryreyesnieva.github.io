@@ -97,6 +97,13 @@
   doi: 10.1093/jamiaopen/ooac039
 -
   type: conference
+  title: "ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression"
+  authors: Ketenci M, Jeanselme V, Reyes Nieva H, Joshi S, Elhadad N
+  conference: Machine Learning for Healthcare (MLHC)
+  year: 2025
+  month: August
+-
+  type: conference
   title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
   authors: |
     Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, 

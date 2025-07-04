@@ -39,6 +39,13 @@
   pmid: 38266089
   doi: 10.1126/sciadv.adf9033
 -
+  type: conference
+  title: "ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression"
+  authors: Ketenci M, Jeanselme V, Reyes Nieva H, Joshi S, Elhadad N
+  conference: Machine Learning for Healthcare (MLHC)
+  year: 2025
+  month: August
+-
   type: journal
   title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III" 
   authors: Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Li J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, 
