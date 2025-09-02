@@ -1,36 +1,28 @@
-# fetch_scholar_metrics.py
+from scholarly import scholarly, ProxyGenerator
 import yaml
-from scholarly import scholarly
+import sys
 
-# Your Google Scholar user ID
-SCHOLAR_ID = "L58_1hAAAAAJ"
+# Use free proxies to avoid Google Scholar blocking
+pg = ProxyGenerator()
+pg.FreeProxies()
+scholarly.use_pg(pg)
 
-# Fetch profile
-profile = scholarly.search_author_id(SCHOLAR_ID)
-profile = scholarly.fill(profile, sections=['indices'])
+AUTHOR_ID = "L58_1hAAAAAJ"
 
-# Extract metrics
-metrics = {
-    'citations': profile.get('citedby', 0),
-    'h_index': profile.get('hindex', 0)
-}
+try:
+    author = scholarly.search_author_id(AUTHOR_ID)
+    author_filled = scholarly.fill(author, sections=['basics'])
 
-# Write to Jekyll _data folder
-with open('_data/scholar_metrics.yml', 'w') as f:
-    yaml.dump(metrics, f)
+    metrics = {
+        'citations': author_filled['citedby'],
+        'h_index': author_filled['hindex']
+    }
 
-print("Google Scholar metrics updated:", metrics)
-#
-# from scholarly import scholarly
-# import yaml
-#
-# author = scholarly.search_author_id('L58_1hAAAAAJ')
-# author_data = scholarly.fill(author)
-#
-# metrics = {
-#     "citations": author_data['citedby'],
-#     "h_index": author_data['hindex']
-# }
-#
-# with open("_data/scholar_metrics.yml", "w") as f:
-#     yaml.dump(metrics, f)
+    with open('_data/scholar_metrics.yml', 'w') as f:
+        yaml.dump(metrics, f)
+
+    print(f"Fetched citations: {metrics['citations']}, h-index: {metrics['h_index']}")
+
+except Exception as e:
+    print("Error fetching scholar metrics:", e)
+    sys.exit(1)
