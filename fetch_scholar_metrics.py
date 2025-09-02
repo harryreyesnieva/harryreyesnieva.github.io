@@ -29,8 +29,7 @@ author_data = scholarly.fill(author)
 
 metrics = {
     "citations": author_data['citedby'],
-    "h_index": author_data['hindex'],
-    "i10_index": author_data['i10index']
+    "h_index": author_data['hindex']
 }
 
 with open("_data/scholar_metrics.yml", "w") as f:
