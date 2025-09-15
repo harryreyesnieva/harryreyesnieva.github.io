@@ -45,8 +45,9 @@
   conference: Machine Learning for Healthcare (MLHC)
   year: 2025
   month: August
-  url: https://www.mlforhc.org/s/207_camera_ready-Mert.pdf
-  pdf: https://www.mlforhc.org/s/207_camera_ready-Mert.pdf
+  url: https://arxiv.org/abs/2509.07108
+  pdf: https://arxiv.org/pdf/2509.07108
+  doi: 10.48550/arXiv.2509.07108
 -
   type: journal
   title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III" 
