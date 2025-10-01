@@ -1,4 +1,9 @@
 -
+  title: "HIV Acquisition After PrEP Initiation: Quantifying Opportunities for Long-Acting Injectable Interventions Using Large-Scale Observational Data"
+  authors: Richter LR, <u><b>Reyes Nieva H</b></u>, DeLozier S, Arif A, Zucker J.
+  location: American Medical Informatics Association Annual Symposium; Atlanta, GA
+  date: November 2025
+-
   title: "Social Determinants of Decisions about COVID-19, Influenza, and RSV Immunization Among Predominantly Black and Latino Communities and Households in New York City: A Cross-Sectional Analysis"
   authors: |
     Hill SE, Parkinson M, Nkodo AF, Ahmed S, Li J, McAndrew M, Flanagan M, Wiant S, Peralta H, Benitez J, <u><b>Reyes Nieva H</b></u>, Purpura L, Zucker J, Theodore DA, Sobieszczyk ME, Castor D
@@ -33,14 +38,14 @@
   title: "Elucidating Health Inequities and Research Gaps in HIV and Other Sexually Transmitted Infections Using Data Mining and a Large Language Model: A Computational Scoping Review"
   authors: |
     <u><b>Reyes Nieva H</b></u>, Zucker J, Elhadad N
-  location: STI Prevention Atlanta, GA, USA
+  location: STI Prevention; Atlanta, GA, USA
   date: September 2024
   slides_url:
 -
   title: '"I Don’t See Myself as a Gatekeeper": Doxy-PEP Knowledge, Attitudes and Practices Among Healthcare Providers in New York'
   authors: |
     D’Avanzo P, Bosco J, Carnevale C, Meyers K, Theodore DA, <u><b>Reyes Nieva H</b></u>, Zucker J
-  location: STI Prevention Atlanta, GA, USA
+  location: STI Prevention; Atlanta, GA, USA
   date: September 2024
   slides_url:  
 -
@@ -65,7 +70,6 @@
     <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
   location: American Medical Informatics Association Annual Symposium; New Orleans, LA
   date: November 2023
-  slides_url: 
 -
   title: Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data
   authors: |
@@ -76,13 +80,13 @@
   title: Development and Validation of Machine Learning and Deep Learning Models to Identify Human Monkeypox 
   authors: |
     <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N 
-  location: HIV and STI 2023 World Congress, Chicago, IL
+  location: HIV and STI 2023 World Congress; Chicago, IL
   date: July 2023
 -
   title: Development and Validation of Machine and Deep Learning Classifiers for Monkeypox 
   authors: |
     <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N 
-  location: Symposium on Artificial Intelligence for Learning Health Systems (SAIL), Río Grande, Puerto Rico
+  location: Symposium on Artificial Intelligence for Learning Health Systems (SAIL); Río Grande, Puerto Rico
   date: May 2023    
 -
   title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review"
