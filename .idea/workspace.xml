@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1a558e6-771d-4a73-b22a-2d5c8d9dbd43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/scholar_metrics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/scholar_metrics.yml" afterDir="false" />
-    </list>
+    <list default="true" id="a1a558e6-771d-4a73-b22a-2d5c8d9dbd43" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +144,7 @@
       <workItem from="1759228684494" duration="2346000" />
       <workItem from="1759348701787" duration="27000" />
       <workItem from="1759508433907" duration="652000" />
-      <workItem from="1759865809388" duration="7000" />
+      <workItem from="1759865809388" duration="15000" />
     </task>
     <servers />
   </component>
