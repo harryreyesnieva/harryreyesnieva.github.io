@@ -227,91 +227,91 @@
   </div>
   {% endif %}
 
-  {% if site.data.projects.size > 0 %}
+<!--  {% if site.data.projects.size > 0 %}-->
   <!-- ==================== -->
   <!-- PROJECTS -->
   <!-- ==================== -->
-  <section class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h3>Selected Projects <small><a href="{{ site.baseurl }}/projects"> <br>(show all)</a></small></h3>
-      </div>
+<!--  <section class="container">-->
+<!--    <div class="row">-->
+<!--      <div class="col-md-12">-->
+<!--        <h3>Selected Projects <small><a href="{{ site.baseurl }}/projects"> <br>(show all)</a></small></h3>-->
+<!--      </div>-->
 
-    {% for project in site.data.selected_projects %}
-      <div class="row">
-        <div class="col-xs-4
-                    col-sm-3
-                    col-md-3
-                    col-lg-2">
-          <p>
-            <img src="{{ site.baseurl }}{{ project.image }}" 
-                 class="img-responsive img-thumbnail"
-                 style="width:100%">
-          </p>
-        </div>
-        <div class="col-xs-12
-                    col-sm-9
-                    col-md-6
-                    col-lg-7">
-          <p>
-            <b>
-              {% if project.url %}
-                <a href="{{ project.url }}">
-                  {{ project.name }}
-                </a>
-              {% else %}
-                {{ project.name }}
-              {% endif %}
-            </b>
-          </p>
+<!--    {% for project in site.data.selected_projects %}-->
+<!--      <div class="row">-->
+<!--        <div class="col-xs-4-->
+<!--                    col-sm-3-->
+<!--                    col-md-3-->
+<!--                    col-lg-2">-->
+<!--          <p>-->
+<!--            <img src="{{ site.baseurl }}{{ project.image }}" -->
+<!--                 class="img-responsive img-thumbnail"-->
+<!--                 style="width:100%">-->
+<!--          </p>-->
+<!--        </div>-->
+<!--        <div class="col-xs-12-->
+<!--                    col-sm-9-->
+<!--                    col-md-6-->
+<!--                    col-lg-7">-->
+<!--          <p>-->
+<!--            <b>-->
+<!--              {% if project.url %}-->
+<!--                <a href="{{ project.url }}">-->
+<!--                  {{ project.name }}-->
+<!--                </a>-->
+<!--              {% else %}-->
+<!--                {{ project.name }}-->
+<!--              {% endif %}-->
+<!--            </b>-->
+<!--          </p>-->
 
-          {{ project.description | markdownify }}
-        </div>
-      </div>
-      <br>
-    {% endfor %}
-      
-    </div>
-  </section>
-  {% endif %}
+<!--          {{ project.description | markdownify }}-->
+<!--        </div>-->
+<!--      </div>-->
+<!--      <br>-->
+<!--    {% endfor %}-->
+<!--      -->
+<!--    </div>-->
+<!--  </section>-->
+<!--  {% endif %}-->
 
-  {% if site.data.presentations.size > 0 %}
+<!--  {% if site.data.presentations.size > 0 %}-->
   <!-- ==================== -->
   <!-- PRESENTATIONS -->
   <!-- ==================== -->
-  <section class="container">
-    <div class="row">
-      <div class="col-md-11">
-        <h3>Selected Presentations <small><a href="{{ site.baseurl }}/presentations"> <br>(show all)</a></small></h3>
+<!--  <section class="container">-->
+<!--    <div class="row">-->
+<!--      <div class="col-md-11">-->
+<!--        <h3>Selected Presentations <small><a href="{{ site.baseurl }}/presentations"> <br>(show all)</a></small></h3>-->
 
 
-    {% for presentation in site.data.selected_presentations %}
-      <div class="row">
-        <div class="col-md-11">
-          <p>
-            
-              {% if presentation.slides_url %}
-                <a href="{{ presentation.slides_url }}">
-                  {{ presentation.title }}
-                </a>
-              {% else %}
-                {{ presentation.authors }}. <b><span style="color:#69B3E7;">{{ presentation.title }}</span></b>
-              {% endif %}
-            
-            
-            <br>
-            <small>{{ presentation.date }}</small> 
-            {{ presentation.location }} 
-            <br>
-            {{ presentation.description }}
-          </p>
-        </div>
-      </div>
-    {% endfor %}
-       </div>
-    </div>
-  </section>
-  {% endif %}
+<!--    {% for presentation in site.data.selected_presentations %}-->
+<!--      <div class="row">-->
+<!--        <div class="col-md-11">-->
+<!--          <p>-->
+<!--            -->
+<!--              {% if presentation.slides_url %}-->
+<!--                <a href="{{ presentation.slides_url }}">-->
+<!--                  {{ presentation.title }}-->
+<!--                </a>-->
+<!--              {% else %}-->
+<!--                {{ presentation.authors }}. <b><span style="color:#69B3E7;">{{ presentation.title }}</span></b>-->
+<!--              {% endif %}-->
+<!--            -->
+<!--            -->
+<!--            <br>-->
+<!--            <small>{{ presentation.date }}</small> -->
+<!--            {{ presentation.location }} -->
+<!--            <br>-->
+<!--            {{ presentation.description }}-->
+<!--          </p>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    {% endfor %}-->
+<!--       </div>-->
+<!--    </div>-->
+<!--  </section>-->
+<!--  {% endif %}-->
 
   <!-- ==================== -->
   <!-- FOOTER -->

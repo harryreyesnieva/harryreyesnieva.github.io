@@ -4,69 +4,20 @@
   location: STI Prevention; Atlanta, GA
   date: September 2024
 -
-  title: "Challenges, Opportunities, and Considerations: Promoting Inclusive Research in the Era of Big Data"
-  authors: <u><b>Reyes Nieva H</b></u>
-  location: American Medical Informatics Association Annual Symposium; New Orleans, LA
-  date: November 2023  
-  description: >
-    <i class="fa fa-star"></i> Invited presenter and panelist for session on “Advancing Diversity, Equity, and Inclusion in 
-    Biomedical Informatics Research: Strategies and Best Practices for Using Inclusive Language Across the Research Lifecycle”
+  title: "ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression"
+  authors: Ketenci M, Jeanselme V, <u><b>Reyes Nieva H</b></u>, Joshi S, Elhadad N
+  location: Machine Learning for Healthcare (MLHC); Rochester, MN
+  date: August 2025
 -
-  title: Health Information Exchange Enables Enhanced STI Surveillance Using Electronic Health Record Data
-  authors: <u><b>Reyes Nieva H</b></u>, Tucker EG, Castor D, Yin MT, Gordon P, Elhadad N, Zucker J
-  location: HIV and STI 2023 World Congress; Chicago, IL
-  date: July 2023
--
-  title: Development and Validation of Machine and Deep Learning Classifiers for Monkeypox 
+  title: Development and Validation of Machine and Deep Learning Classifiers for Mpox
   authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker EG, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
   location: Symposium on Artificial Intelligence for Learning Health Systems (SAIL); Río Grande, Puerto Rico
-  date: May 2023    
--
-  title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review"
-  authors: <u><b>Reyes Nieva H</b></u>, Elhadad N 
-  location: American Medical Informatics Association Annual Symposium; Washington, DC
-  date: November 2022
-  description: >
-    <i class="fa fa-star"></i> Spotlighted and invited for special presentation by AMIA DEI Committee for 
-    “demonstrating best practices in promoting diversity, equity, and inclusion through scholarly communications 
-    in biomedical informatics”
--
-  title: Large-scale Characterization of Gender Differences in Age at Diagnosis and Time to Diagnosis in Longitudinal Observational Health Data
-  authors: Sun T, Hardin J, <u><b>Reyes Nieva H</b></u>, Natarajan K, Cheng RF, Ryan P, Elhadad N
-  location: "National Institutes of Health (NIH) Office of Research on Women’s Health (ORWH) Workshop on Gender and Health: Impacts of Structural Sexism, Gender Norms, Relational Power Dynamics, and Gender Inequities; Virtual Event due to COVID-19"
-  date: October 2022
--
-  title: Differential Presentation and Delays in Treatment for Acute Myocardial Infarction Associated with Sex and Race/Ethnicity
-  authors: <u><b>Reyes Nieva H</b></u>, Sun TY, Gorman SR, Mao G, Elhadad N
-  location: American Medical Informatics Association Annual Symposium; San Diego, CA
-  date: November 2021
+  date: May 2023
 -
   title: Characterization and Comparison of Embedding Algorithms for Phenotyping across a Network of Observational Databases
   authors: Pang C, Chen R, <u><b>Reyes Nieva H</b></u>, Kalluri KS, Sun TY, Jiang X, Rodriguez VA, Natarajan K
   location: American Medical Informatics Association Annual Symposium; Virtual event due to COVID-19
   date: November 2020
--
-  title: Using patterns of missing EHR data to identify care disparities in gender diverse patients
-  authors: Boskey E, Tabaac A, Wigell R, Wolf K, Lage I, Landrum S, <u><b>Reyes Nieva H</b></u>, Bearnot B, Streed C
-  location: APHA Annual Meeting and Expo; Virtual event due to COVID-19
-  date: October 2020
--
-  title: High physician and clinic-level variation in documentation of sexual orientation and gender identity in the electronic health record
-  authors: <u><b>Reyes Nieva H</b></u>, Blackley S, Streed C, Fiskio J, Zhou L
-  location: New England Science Symposium; Boston, MA
-  date: April 2018 
-  description: >
-    <i class="fa fa-trophy"></i> Received the <b>Ruth and William Silen, MD Oral Presentation Award</b>    
--
-  title: An Analysis of Patient Portal Use in the Acute Care Setting
-  authors: Mlaver E, Dalal AK, <u><b>Reyes Nieva H</b></u>, Chang F, Hanna J, Ravindran S, McNally K, Stade D, Morrison C, Bates D, Dykes P
-  location: American Medical Informatics Association Annual Meeting; San Francisco, CA
-  date: November 2015
--
-  title: "Advocacy and Implementation: Gathering Sexual Orientation and Gender Identity Demographics in the Clinical Setting"
-  authors: <u><b>Reyes Nieva H</b></u>, Palm K, Zucconi T
-  location: GLMA 33rd Annual Conference; Portland, OR
-  date: September 2015
 -
   title: Comparing Clinicians’ Perception of Their Own and Their Peers’ Antibiotic Prescribing to Actual Antibiotic Prescribing for Acute Respiratory Infections in Primary Care
   authors: <u><b>Reyes Nieva H</b></u>, Doctor JN, Friedberg MW, Birks C, Fiskio JM, Volk LA, Linder JA
