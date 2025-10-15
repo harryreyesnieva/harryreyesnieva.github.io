@@ -199,7 +199,12 @@
                 {{ publication.volume }}({{ publication.issue }}):{{ publication.pages }}. PMID: {{ publication.pmid }}.
                 <br>
                 <b>{{ publication.note}}</b>
-        
+
+              {% when 'conference' %}
+              {{ publication.conference }}.
+              {{ publication.year }}
+              {{ publication.month }}.
+              {{ publication.doi }}.
 
               {% when 'preprint' %}
           

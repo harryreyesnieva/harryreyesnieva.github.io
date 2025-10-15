@@ -114,13 +114,13 @@
               data-hide-zero-citations="true" data-style="large_rectangle"></span>
 
             {% when 'conference' %}
-              <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.pmid }}" 
+              <span data-badge-popover="right" data-badge-type="donut" data-pmid="{{ publication.doi }}"
               data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
               {{ publication.authors }}.
               <b><a href="{{ publication.url }}"  target="_blank">
               {{ publication.title }}.</a></b>
-              {{ publication.conference }}. {{ publication.year }} {{ publication.month }}. {{ publication.pages }}.
-              <span class="__dimensions_badge_embed__" data-pmid="{{ publication.pmid }}" 
+              {{ publication.conference }}. {{ publication.year }} {{ publication.month }}.
+              <span class="__dimensions_badge_embed__" data-pmid="{{ publication.doi }}"
               data-link-target="_blank" data-hide-zero-citations="true" data-style="large_rectangle"></span>
 
             {% when 'dissertation' %}
