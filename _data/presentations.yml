@@ -1,6 +1,6 @@
 -
   title: "HIV Acquisition After PrEP Initiation: Quantifying Opportunities for Long-Acting Injectable Interventions Using Large-Scale Observational Data"
-  authors: Richter LR, <u><b>Reyes Nieva H</b></u>, DeLozier S, Arif A, Zucker J.
+  authors: Richter LR, <u><b>Reyes Nieva H</b></u>, DeLozier S, Arif A, Zucker J
   location: American Medical Informatics Association Annual Symposium; Atlanta, GA
   date: November 2025
 -
@@ -11,7 +11,7 @@
   date: October 2025
 -
   title: |
-    <a href="https://www.mlforhc.org/s/207_camera_ready-Mert.pdf" target="_blank">"ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression"</a>
+    <a href="https://arxiv.org/abs/2509.07108" target="_blank">ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression</a>
   authors: |
     Ketenci M, Jeanselme V, <u><b>Reyes Nieva H</b></u>, Joshi S, Elhadad N
   location: Machine Learning for Healthcare (MLHC)

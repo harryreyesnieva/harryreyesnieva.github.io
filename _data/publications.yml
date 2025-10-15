@@ -10,10 +10,10 @@
   pages: e2514308
   pdf: https://pubmed.ncbi.nlm.nih.gov/40526386/
   url: https://pubmed.ncbi.nlm.nih.gov/40526386/
-  doi: 10.1001/jamanetworkopen.2025.14308
+  doi: doi 10.1001/jamanetworkopen.2025.14308
   pmid: 40526386
 -
-  type: inpress
+  type: journal
   title: "Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System"
   authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
   server: "Sexually Transmitted Infections. Published Online First: 02 May 2025"
@@ -22,7 +22,7 @@
   pages:
   pdf: https://pubmed.ncbi.nlm.nih.gov/40318862/
   url: https://pubmed.ncbi.nlm.nih.gov/40318862/
-  doi: 10.1136/sextrans-2024-056382
+  doi: doi 10.1136/sextrans-2024-056382
   pmid: 40318862
 -
   type: journal
@@ -37,22 +37,23 @@
   pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
   url: https://pubmed.ncbi.nlm.nih.gov/38266089/
   pmid: 38266089
-  doi: 10.1126/sciadv.adf9033
+  doi: doi 10.1126/sciadv.adf9033
 -
-  type: conference
+  type: journal
   title: "Generative Artificial Intelligence in Medical Education and Participatory Research for Social Action: A Qualitative Comparative Analysis"
   authors: Juniu S, Castor D, <u><b>Reyes Nieva H</b></u>, Charon R, Amesty S
-  journal: New Trends in Qualitative Research. Forthcoming
+  journal: New Trends in Qualitative Research
+  year: Forthcoming
 -
-  type: conference
+  type: journal
   title: "ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression"
   authors: Ketenci M, Jeanselme V, <u><b>Reyes Nieva H</b></u>, Joshi S, Elhadad N
-  conference: Machine Learning for Healthcare (MLHC)
+  journal: Machine Learning for Healthcare (MLHC)
   year: 2025
   month: August
   url: https://arxiv.org/abs/2509.07108
   pdf: https://arxiv.org/pdf/2509.07108
-  doi: 10.48550/arXiv.2509.07108
+  doi: doi 10.48550/arXiv.2509.07108
 -
   type: journal
   title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III" 
@@ -66,7 +67,7 @@
   pages: 1332
   url: https://pubmed.ncbi.nlm.nih.gov/39638783/
   pmid: 39638783
-  doi: 10.1038/s41597-024-04183-2
+  doi: doi 10.1038/s41597-024-04183-2
 -
   type: conference
   title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
@@ -74,7 +75,7 @@
   conference: AMIA Annu Symp Proc
   year: 2024
   month: January
-  pages: 289-298
+  pages: "289-298. PMID: 38222422"
   pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38222422/
   url: https://pubmed.ncbi.nlm.nih.gov/38222422/
   pmid: 38222422
@@ -89,7 +90,7 @@
   issue: 12
   pages: ofad584
   pmid: 38156044
-  doi: 10.1093/ofid/ofad584
+  doi: doi 10.1093/ofid/ofad584
   pdf: https://pubmed.ncbi.nlm.nih.gov/38156044/
   url: https://pubmed.ncbi.nlm.nih.gov/38156044/
 -
@@ -104,7 +105,7 @@
   pmid: 38156044
   pdf: https://pubmed.ncbi.nlm.nih.gov/36948542/
   url: https://pubmed.ncbi.nlm.nih.gov/36948542/
-  doi: 10.1136/bmjqs-2022-014806
+  doi: doi 10.1136/bmjqs-2022-014806
   pmid: 36948542
   note: >
     <i class="fa fa-star"></i> <b>Ranked #1 among the <a href="https://blogs.bmj.com/qualitysafety/2024/06/18/top-10-articles-of-2023-1-5/" 
@@ -120,7 +121,7 @@
   issue: 2
   pages: ooad032
   pmid: 37181728
-  doi: 10.1093/jamiaopen/ooad032
+  doi: doi 10.1093/jamiaopen/ooad032
   pdf: https://pubmed.ncbi.nlm.nih.gov/37181728/
   url: https://pubmed.ncbi.nlm.nih.gov/37181728/
 -
@@ -136,7 +137,7 @@
   pdf: https://pubmed.ncbi.nlm.nih.gov/35872644/
   url: https://pubmed.ncbi.nlm.nih.gov/35872644/
   pmid: 35872644
-  doi: 10.1093/cid/ciac609
+  doi: doi 10.1093/cid/ciac609
 -
   type: journal
   title: A Scoping Review of Ethics Considerations in Clinical Natural Language Processing
@@ -150,7 +151,7 @@
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC9154253/pdf/ooac039.pdf
   url: https://pubmed.ncbi.nlm.nih.gov/35663112/
   pmid: 35663112
-  doi: 10.1093/jamiaopen/ooac039
+  doi: doi 10.1093/jamiaopen/ooac039
 -
   type: journal
   authors: Shahani A, <u><b>Reyes Nieva H</b></u>, Czado K, Shannon E, Gaetani R, Gresham M, Cruz Garcia J, Ganesan H, Cerciello E, Dave J, Jain R, Schnipper JL
@@ -162,7 +163,7 @@
   issue: 1
   pages: 1304
   pmid: 36309744
-  doi: 10.1186/s12913-022-08702-y
+  doi: doi 10.1186/s12913-022-08702-y
   pdf: https://pubmed.ncbi.nlm.nih.gov/36309744/
   url: https://pubmed.ncbi.nlm.nih.gov/36309744/
 -
@@ -176,7 +177,7 @@
   issue: 4
   pages: 278-286
   pmid: 33927025
-  doi: 10.1136/bmjqs-2020-012709
+  doi: doi 10.1136/bmjqs-2020-012709
   pdf: https://pubmed.ncbi.nlm.nih.gov/33927025/
   url: https://pubmed.ncbi.nlm.nih.gov/33927025/
 -
@@ -190,7 +191,7 @@
   issue: 3
   pages: 548-555
   pmid: 33948801
-  doi: 10.1007/s11606-021-06793-7
+  doi: doi 10.1007/s11606-021-06793-7
   pdf: https://pubmed.ncbi.nlm.nih.gov/33948801/
   url: https://pubmed.ncbi.nlm.nih.gov/33948801/
 -
@@ -205,7 +206,7 @@
   pdf: https://pubmed.ncbi.nlm.nih.gov/35061037/
   url: https://pubmed.ncbi.nlm.nih.gov/35061037/
   pmid: 35061037 
-  doi: 10.1001/jamanetworkopen.2021.44531
+  doi: doi 10.1001/jamanetworkopen.2021.44531
 -
   type: journal
   authors: Kraemer KM, Litrownik D, Moy ML, Wayne PM, Beach D, Klings ES, <u><b>Reyes Nieva H</b></u>, Pinheiro A, Davis RB, Yeh GY
@@ -216,7 +217,7 @@
   issue: 3
   pages: 288-298
   pmid: 34106027
-  doi: 10.1007/s11606-021-06793-7
+  doi: doi 10.1007/s11606-021-06793-7
   pdf: https://pubmed.ncbi.nlm.nih.gov/34106027/
   url: https://pubmed.ncbi.nlm.nih.gov/34106027/
 -
@@ -230,7 +231,7 @@
   issue: 3
   pages: 288-298
   pmid: 33219007
-  doi: 10.1136/bmjresp-2020-000697
+  doi: doi 10.1136/bmjresp-2020-000697
   pdf: https://pubmed.ncbi.nlm.nih.gov/33219007/
   url: https://pubmed.ncbi.nlm.nih.gov/33219007/
 -
@@ -243,7 +244,7 @@
   pages: 1-6
   pdf: https://arxiv.org/pdf/2011.06100
   url: https://arxiv.org/abs/2011.06100
-  doi: 10.48550/arXiv.2011.06100
+  doi: doi 10.48550/arXiv.2011.06100
   arxivid: arXiv:2011.06100 
 -
   type: journal
@@ -256,7 +257,7 @@
   issue: 1
   pages: 447
   pmid: 32434511
-  doi: 10.1186/s12913-020-05315-1
+  doi: doi 10.1186/s12913-020-05315-1
   pdf: https://pubmed.ncbi.nlm.nih.gov/32434511/
   url: https://pubmed.ncbi.nlm.nih.gov/32434511/
 -
@@ -271,7 +272,7 @@
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/31755012
   url: https://www.ncbi.nlm.nih.gov/pubmed/31755012
   pmid: 31755012
-  doi: 10.1007/s11606-019-05543-0
+  doi: doi 10.1007/s11606-019-05543-0
   pdf: https://pubmed.ncbi.nlm.nih.gov/31755012/
   url: https://pubmed.ncbi.nlm.nih.gov/31755012/
 -
@@ -284,7 +285,7 @@
   issue: 4
   pages: 1360-1372
   pmid: 31680102
-  doi: 10.1353/hpu.2019.0099
+  doi: doi 10.1353/hpu.2019.0099
   pdf: https://pubmed.ncbi.nlm.nih.gov/31680102/
   url: https://pubmed.ncbi.nlm.nih.gov/31680102/
 -
@@ -298,7 +299,7 @@
   issue: 1
   pages: 659
   pmid: 31511070
-  doi: 10.1353/hpu.2019.0099
+  doi: doi 10.1353/hpu.2019.0099
   pdf: https://pubmed.ncbi.nlm.nih.gov/31511070/
   url: https://pubmed.ncbi.nlm.nih.gov/31511070/
 -
@@ -312,7 +313,7 @@
   issue: 8
   pages: 797-805
   pmid: 28650922
-  doi: 10.1097/MLR.0000000000000759
+  doi: doi 10.1097/MLR.0000000000000759
   pdf: https://pubmed.ncbi.nlm.nih.gov/28650922/
   url: https://pubmed.ncbi.nlm.nih.gov/28650922/
 -
@@ -326,7 +327,7 @@
   issue: Suppl 3
   pages: 2634-2641
   pmid: 27892623
-  doi: 10.1111/1475-6773.12621
+  doi: doi 10.1111/1475-6773.12621
   pdf: https://pubmed.ncbi.nlm.nih.gov/27892623/
   url: https://pubmed.ncbi.nlm.nih.gov/27892623/
 -
@@ -340,7 +341,7 @@
   issue: 9
   pages: 1027-34
   pmid: 27177914
-  doi: 10.1007/s11606-016-3740-0
+  doi: doi 10.1007/s11606-016-3740-0
   pdf: https://pubmed.ncbi.nlm.nih.gov/27177914/
   url: https://pubmed.ncbi.nlm.nih.gov/27177914/
 -
@@ -354,7 +355,7 @@
   issue: 5
   pages: 470-7
   pmid: 26883526
-  doi: 10.1007/s11606-016-3596-3
+  doi: doi 10.1007/s11606-016-3596-3
   note: |
     *member of the investigative team cited in the appendix of the manuscript
   pdf: https://pubmed.ncbi.nlm.nih.gov/26883526/
@@ -370,7 +371,7 @@
   issue: 11
   pages: 1611-7
   pmid: 25896089
-  doi: 10.1007/s11606-015-3305-7
+  doi: doi 10.1007/s11606-015-3305-7
   pdf: https://pubmed.ncbi.nlm.nih.gov/25896089/
   url: https://pubmed.ncbi.nlm.nih.gov/25896089/
 -
@@ -384,7 +385,7 @@
   issue: 2
   pages: 141-52
   pmid: 25464161
-  doi: 10.1097/MLR.0000000000000269
+  doi: doi 10.1097/MLR.0000000000000269
   pdf: https://pubmed.ncbi.nlm.nih.gov/25464161/
   url: https://pubmed.ncbi.nlm.nih.gov/25464161/
 -
@@ -397,7 +398,7 @@
   issue: 1
   pages: 58-68
   pmid: 25301692
-  doi: 10.1016/j.ijmedinf.2014.09.006
+  doi: doi 10.1016/j.ijmedinf.2014.09.006
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/25301692/
   url: https://www.ncbi.nlm.nih.gov/pubmed/25301692/
 -
@@ -412,7 +413,7 @@
   pdf: https://www.ncbi.nlm.nih.gov/pubmed/25286067/
   url: https://www.ncbi.nlm.nih.gov/pubmed/25286067/
   pmid: 25286067
-  doi: 10.1001/jamainternmed.2014.5225
+  doi: doi 10.1001/jamainternmed.2014.5225
 -
   type: journal
   authors: Schiff G, Griswold P, Ellis BR, Puopolo AL, Brede N, <u><b>Reyes Nieva H</b></u>, Federico F, Leydon N, Ling J, Wachenheim D, Leape LL, Biondolillo M
@@ -424,7 +425,7 @@
   issue: 2
   pages: 91-6
   pmid: 24716332
-  doi: 10.1016/s1553-7250(14)40011-4
+  doi: doi 10.1016/s1553-7250(14)40011-4
   pdf: https://pubmed.ncbi.nlm.nih.gov/24716332/
   url: https://pubmed.ncbi.nlm.nih.gov/24716332/
 -
@@ -438,7 +439,7 @@
   issue: 1
   pages: 1-10
   pmid: 22751755
-  doi: 10.7326/0003-4819-157-1-201207030-00003
+  doi: doi 10.7326/0003-4819-157-1-201207030-00003
   note: |
     *member of the investigative team cited in the appendix of the manuscript
   pdf: https://pubmed.ncbi.nlm.nih.gov/22751755/
@@ -454,7 +455,7 @@
   issue: 2
   pages: 212-9
   pmid: 20233982
-  doi: 10.1161/CIRCOUTCOMES.109.921833
+  doi: doi 10.1161/CIRCOUTCOMES.109.921833
   note: |
     *member of the investigative team cited in the appendix of the manuscript
   pdf: https://pubmed.ncbi.nlm.nih.gov/20233982/
@@ -470,7 +471,7 @@
   issue: 4
   pages: 504-10
   pmid: 19225847
-  doi: 10.1007/s11606-009-0933-9
+  doi: doi 10.1007/s11606-009-0933-9
   pdf: https://pubmed.ncbi.nlm.nih.gov/19225847/
   url: https://pubmed.ncbi.nlm.nih.gov/19225847/
 
