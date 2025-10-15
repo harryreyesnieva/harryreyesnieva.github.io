@@ -35,7 +35,7 @@
   month: January
   pages: eadf9033
   pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adf9033
-  url: https://pubmed.ncbi.nlm.nih.gov/38266089
+  url: https://pubmed.ncbi.nlm.nih.gov/38266089/
   pmid: 38266089
   doi: 10.1126/sciadv.adf9033
 -
@@ -45,8 +45,8 @@
   server: medRxiv [Preprint]
   year: 2024
   month: December
-  pdf: https://www.medrxiv.org/content/10.1101/2024.12.13.24319010
-  url: https://www.medrxiv.org/content/10.1101/2024.12.13.24319010
+  pdf: https://www.medrxiv.org/content/10.1101/2024.12.13.24319010/
+  url: https://www.medrxiv.org/content/10.1101/2024.12.13.24319010/
   doi: 10.1101/2024.12.13.24319010
   pmid: 39763562
 -
@@ -58,8 +58,8 @@
   volume: 35
   issue: 2
   pages: 457–464
-  pdf: https://www.ncbi.nlm.nih.gov/pubmed/31755012
-  url: https://www.ncbi.nlm.nih.gov/pubmed/31755012
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/31755012/
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31755012/
   pmid: 31755012
   doi: 10.1007/s11606-019-05543-0
 -
@@ -103,6 +103,8 @@
   year: 2025
   month: August
   doi: "arXiv:2509.07108"
+  url: https://arxiv.org/abs/2509.07108/
+  pdf: https://arxiv.org/pdf/2509.07108/
 -
   type: journal
   title: "Scale-up of networked HIV treatment in Nigeria: creation of an integrated electronic medical records system"
@@ -112,8 +114,8 @@
   volume: 84
   issue: 1
   pages: 58-68
-  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25301692
-  url: https://www.ncbi.nlm.nih.gov/pubmed/25301692
+  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25301692/
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25301692/
   pmid: 25301692
   doi: 10.1016/j.ijmedinf.2014.09.006
 -
