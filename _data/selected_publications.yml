@@ -103,44 +103,6 @@
   year: 2025
   month: August
 -
-  type: conference
-  title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 
-  authors: |
-    Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Altosaar J, Natarajan K, Perotte A, Tarczy-Hornoch P, 
-    Demner-Fushman D, Elhadad N
-  conference: AMIA Annu Symp Proc
-  year: 2024
-  month: January
-  pages: 289-298
-  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38222422/
-  url: https://pubmed.ncbi.nlm.nih.gov/38222422/
-  pmid: 38222422
--
-  type: conference
-  title: "Exploring Gender Disparities in Time to Diagnosis"
-  authors: Sun TY, Bear Don’t Walk OJ IV, Chen JL, <u><b>Reyes Nieva H</b></u>, Elhadad N
-  conference: Machine Learning for Health (ML4H) Workshop at the Conference on Neural Information Processing Systems (NeurIPS)
-  year: 2020
-  month: December
-  pages: 1-6
-  pdf: https://arxiv.org/abs/2011.06100
-  url: https://arxiv.org/abs/2011.06100
-  doi: 10.48550/arXiv.2011.06100
-  arxivid: arXiv:2011.06100 
--
-  type: journal
-  title: "Time of day and the decision to prescribe antibiotics"
-  authors: Linder JA, Doctor JN, Friedberg MW, <u><b>Reyes Nieva H</b></u>, Birks C, Meeker D, Fox CR
-  journal: JAMA Intern Med
-  year: 2014 
-  volume: 174
-  issue: 12
-  pages: 2029-31
-  pdf: https://www.ncbi.nlm.nih.gov/pubmed/25286067
-  url: https://www.ncbi.nlm.nih.gov/pubmed/25286067
-  pmid: 25286067
-  doi: 10.1001/jamainternmed.2014.5225
--
   type: journal
   title: "Scale-up of networked HIV treatment in Nigeria: creation of an integrated electronic medical records system"
   authors: Chaplin B, Meloni S, Eisen G, Jolayemi T, Banigbe B, Adeola J, Wen C, <u><b>Reyes Nieva H</b></u>, Chang C, Okonkwo P, Kanki P
@@ -166,4 +128,3 @@
   url: https://pubmed.ncbi.nlm.nih.gov/35061037/
   pmid: 35061037 
   doi: 10.1001/jamanetworkopen.2021.44531
-  # note: <b>Senior Author Publication</b>  
