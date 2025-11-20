@@ -1,5 +1,21 @@
 -
   type: journal
+  title: "Generative Artificial Intelligence in Medical Education and Participatory Research for Social Action: A Qualitative Comparative Analysis"
+  authors: Juniu S, Castor D, <u><b>Reyes Nieva H</b></u>, Charon R, Amesty S
+  journal: New Trends in Qualitative Research
+  year: Forthcoming
+-
+  type: journal
+  title: "ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression"
+  authors: Ketenci M, Jeanselme V, <u><b>Reyes Nieva H</b></u>, Joshi S, Elhadad N
+  journal: Machine Learning for Healthcare (MLHC)
+  year: 2025
+  month: August
+  url: https://arxiv.org/abs/2509.07108
+  pdf: https://arxiv.org/pdf/2509.07108
+  doi: doi 10.48550/arXiv.2509.07108
+-
+  type: journal
   title: "Enhanced Surveillance of Sexually Transmitted Infections to Foster a Learning Public Health System"
   authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, Castor D, Yin MT, Gordon P, Elhadad N
   journal: JAMA Netw Open
@@ -27,6 +43,20 @@
   pmid: 40318862
 -
   type: journal
+  title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III"
+  authors: Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Li J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, 
+    Ahmed SA, Snyder D, Rahbari A, Ranard BL, Juneja P, Demner-Fushman D, Elhadad N
+  journal: Scientific Data
+  volume: 11
+  issue: 1
+  year: 2024
+  month: December
+  pages: 1332
+  url: https://pubmed.ncbi.nlm.nih.gov/39638783/
+  pmid: 39638783
+  doi: doi 10.1038/s41597-024-04183-2
+-
+  type: journal
   title: "Mining the Health Disparities and Minority Health Bibliome: A Computational Scoping Review and Gap Analysis of 200,000+ Articles"
   authors: <u><b>Reyes Nieva H</b></u>, Bakken S, Elhadad N
   journal: Science Advances
@@ -39,36 +69,6 @@
   url: https://pubmed.ncbi.nlm.nih.gov/38266089/
   pmid: 38266089
   doi: doi 10.1126/sciadv.adf9033
--
-  type: journal
-  title: "Generative Artificial Intelligence in Medical Education and Participatory Research for Social Action: A Qualitative Comparative Analysis"
-  authors: Juniu S, Castor D, <u><b>Reyes Nieva H</b></u>, Charon R, Amesty S
-  journal: New Trends in Qualitative Research
-  year: Forthcoming
--
-  type: journal
-  title: "ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression"
-  authors: Ketenci M, Jeanselme V, <u><b>Reyes Nieva H</b></u>, Joshi S, Elhadad N
-  journal: Machine Learning for Healthcare (MLHC)
-  year: 2025
-  month: August
-  url: https://arxiv.org/abs/2509.07108
-  pdf: https://arxiv.org/pdf/2509.07108
-  doi: doi 10.48550/arXiv.2509.07108
--
-  type: journal
-  title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III" 
-  authors: Bear Don’t Walk IV OJ, Pichon A, <u><b>Reyes Nieva H</b></u>, Sun T, Li J, Joseph J, Kinberg S, Richter LR, Crusco S, Kulas K, 
-    Ahmed SA, Snyder D, Rahbari A, Ranard BL, Juneja P, Demner-Fushman D, Elhadad N
-  journal: Scientific Data
-  volume: 11
-  issue: 1
-  year: 2024
-  month: December
-  pages: 1332
-  url: https://pubmed.ncbi.nlm.nih.gov/39638783/
-  pmid: 39638783
-  doi: doi 10.1038/s41597-024-04183-2
 -
   type: conference
   title: "Auditing Learned Associations in Deep Learning Approaches to Extract Race and Ethnicity from Clinical Text" 

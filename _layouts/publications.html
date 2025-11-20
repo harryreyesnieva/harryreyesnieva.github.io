@@ -66,32 +66,7 @@
     </div>
   </div>     
 
-  {% if site.data.preprints.size > 0 %}
-  <div class="container" id="section-preprints">
-    <div class="row">
-      <div class="col-md-10">   
-        <h2>Preprints under review</h2>
-        {% for preprint in site.data.preprints %}
-          <b>{{ forloop.index }}. </b>
-          <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ preprint.doi }}" 
-          data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
-          {{ preprint.authors }}. 
-          <b>
-            <a href="{{ preprint.url }}"  target="_blank">
-              {{ preprint.title }}.
-            </a>
-          </b>
-          {{ preprint.server }}. {{ preprint.year }} {{ preprint.month }}. doi: {{ preprint.doi }}. 
-          <br>
-          <b>{{ preprint.note}}</b>
-          <span class="__dimensions_badge_embed__" data-doi="{{ preprint.doi }}" data-link-target="_blank"
-          data-hide-zero-citations="true" data-style="large_rectangle"></span>
-          <br><br>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-  {% endif %}
+
 
   {% if site.data.publications.size > 0 %}
   <div class="container" id="section-peer-reviewed">
@@ -149,6 +124,34 @@
     </div>
   </div>
   {% endif %}
+
+    {% if site.data.preprints.size > 0 %}
+  <div class="container" id="section-preprints">
+    <div class="row">
+      <div class="col-md-10">
+        <h2>Preprints under review</h2>
+        {% for preprint in site.data.preprints %}
+          <b>{{ forloop.index }}. </b>
+          <span data-badge-popover="right" data-badge-type="donut" data-doi="{{ preprint.doi }}"
+          data-link-target="_blank" data-hide-no-mentions="true" class="altmetric-embed" style="float:right" > </span>
+          {{ preprint.authors }}.
+          <b>
+            <a href="{{ preprint.url }}"  target="_blank">
+              {{ preprint.title }}.
+            </a>
+          </b>
+          {{ preprint.server }}. {{ preprint.year }} {{ preprint.month }}. doi: {{ preprint.doi }}.
+          <br>
+          <b>{{ preprint.note}}</b>
+          <span class="__dimensions_badge_embed__" data-doi="{{ preprint.doi }}" data-link-target="_blank"
+          data-hide-zero-citations="true" data-style="large_rectangle"></span>
+          <br><br>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
 {% if site.data.proceedings.size > 0 %}
 <div class="container">
   <div class="row">
