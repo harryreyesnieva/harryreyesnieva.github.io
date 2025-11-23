@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a1a558e6-771d-4a73-b22a-2d5c8d9dbd43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/presentations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/presentations.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/albertine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/albertine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/publications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/scholar_metrics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/scholar_metrics.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/docs/CV_HReyesNieva.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/docs/CV_HReyesNieva.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +167,8 @@
       <workItem from="1762992090596" duration="2589000" />
       <workItem from="1763027877239" duration="36000" />
       <workItem from="1763308882328" duration="469000" />
-      <workItem from="1763348749618" duration="5495000" />
+      <workItem from="1763348749618" duration="6507000" />
+      <workItem from="1763910878599" duration="10000" />
     </task>
     <servers />
   </component>
