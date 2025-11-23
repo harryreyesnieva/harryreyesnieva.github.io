@@ -6,6 +6,20 @@
   year: Forthcoming
 -
   type: journal
+  title: "Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System"
+  authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
+  journal: Sexually Transmitted Infections
+  year: 2025
+  month: Oct
+  volume: 101
+  issue: 7
+  pages: 456-460
+  pdf: https://pubmed.ncbi.nlm.nih.gov/40318862/
+  url: https://pubmed.ncbi.nlm.nih.gov/40318862/
+  doi: doi 10.1136/sextrans-2024-056382
+  pmid: 40318862
+-
+  type: journal
   title: "ADHAM: Additive Deep Hazard Analysis Mixtures for Interpretable Survival Regression"
   authors: Ketenci M, Jeanselme V, <u><b>Reyes Nieva H</b></u>, Joshi S, Elhadad N
   journal: Machine Learning for Healthcare (MLHC)
@@ -28,19 +42,6 @@
   url: https://pubmed.ncbi.nlm.nih.gov/40526386/
   doi: doi 10.1001/jamanetworkopen.2025.14308
   pmid: 40526386
--
-  type: journal
-  title: "Development of Machine Learning-Based Mpox Surveillance Models in a Learning Health System"
-  authors: <u><b>Reyes Nieva H</b></u>, Zucker J, Tucker E, McLean J, DeLaurentis C, Gunaratne S, Elhadad N
-  journal: Sexually Transmitted Infections
-  year: 2025
-  month: May
-  volume: 101
-  pages: 456-460
-  pdf: https://pubmed.ncbi.nlm.nih.gov/40318862/
-  url: https://pubmed.ncbi.nlm.nih.gov/40318862/
-  doi: doi 10.1136/sextrans-2024-056382
-  pmid: 40318862
 -
   type: journal
   title: "Contextualized Race and Ethnicity Annotations for Clinical Text from MIMIC-III"
