@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1a558e6-771d-4a73-b22a-2d5c8d9dbd43" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/lay_education.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/lay_education.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/news.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/news.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/personal.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/personal.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/presentations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/presentations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/proceedings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/proceedings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/scholar_metrics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/scholar_metrics.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +181,12 @@
       <workItem from="1764569348693" duration="1001000" />
       <workItem from="1765136211984" duration="1059000" />
       <workItem from="1765913267839" duration="16000" />
+      <workItem from="1765971550190" duration="14399000" />
+      <workItem from="1766177678674" duration="2714000" />
+      <workItem from="1766190285760" duration="152000" />
+      <workItem from="1766424254438" duration="726000" />
+      <workItem from="1766488476686" duration="1825000" />
+      <workItem from="1766837123291" duration="4470000" />
     </task>
     <servers />
   </component>
