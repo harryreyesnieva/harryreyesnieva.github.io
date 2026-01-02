@@ -6,18 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a1a558e6-771d-4a73-b22a-2d5c8d9dbd43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/scholar_metrics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/scholar_metrics.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/albertine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/albertine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/mentors.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/mentors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/presentations.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/presentations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/publications.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/teaching.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +182,7 @@
       <workItem from="1766488476686" duration="1825000" />
       <workItem from="1766837123291" duration="4772000" />
       <workItem from="1767029255046" duration="24000" />
-      <workItem from="1767324754461" duration="805000" />
+      <workItem from="1767324754461" duration="990000" />
     </task>
     <servers />
   </component>
