@@ -19,13 +19,6 @@ mailing_address: >
   New York, NY 10032
 
 profiles:
-  # -
-  #   network: CV
-  #   url: https://www.harryreyesnieva.com/assets/docs/CV_HReyesNieva.pdf
-  # - 
-  #   network: Google Scholar
-  #   username:
-  #   url: http://scholar.google.com/citations?user=L58_1hAAAAAJ&hl=en
   -
     network: LinkedIn
     username:
@@ -43,9 +36,10 @@ profiles:
 intro:
   title:
   body: |
-    <h3>Harry <strong>Reyes Nieva</strong>, PhD, MAS </h3>
+    <h3>Harry <strong>Reyes Nieva</strong>, PhD, MAS</h3>
 
-    Welcome! I am a postdoctoral research scientist in the [Division of Infectious Diseases](https://www.infectiousdiseases.cuimc.columbia.edu/){:target="_blank"} at [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/){:target="_blank"} with expertise in artificial intelligence (AI) and informatics in medicine and public health. I am also a [DAAD AInet Fellow for Safety and Security in AI](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/){:target="_blank"} through the German Academic Exchange Service, Deutscher Akademischer Austauschdienst (DAAD). I completed my PhD in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} at [Columbia](https://www.columbia.edu/){:target="_blank"} while concurrently a Visiting Postgraduate Research Fellow in the Department of Medicine at [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"}. Prior to training in AI and informatics in healthcare, I was a member of the Strategic Information division of the <a href="https://www.state.gov/pepfar/" target="_blank">U.S. President’s Emergency Plan for AIDS Relief</a> (PEPFAR) at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a> which aimed to rapidly expand antiretroviral therapy for people living with HIV/AIDS in sub-Saharan Africa. Recently I was named a STAT Wunderkind, one of the top 30 scientists deemed “the best early-career researchers in health and medicine in North America.”
+   Welcome! I am a postdoctoral research scientist in the [Division of Infectious Diseases](https://www.infectiousdiseases.cuimc.columbia.edu/){:target="_blank"} and
+    [Herbert Irving Comprehensive Cancer Center (HCCC)](https://www.cancer.columbia.edu/education/trainee-associate-member-program){:target="_blank"} at [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/){:target="_blank"} with expertise in artificial intelligence (AI) and informatics in medicine and public health. I am also a [DAAD AInet Fellow for Safety and Security in AI](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/){:target="_blank"} through the German Academic Exchange Service, Deutscher Akademischer Austauschdienst (DAAD). I completed my PhD in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/){:target="_blank"} at [Columbia](https://www.columbia.edu/){:target="_blank"} while concurrently a Visiting Postgraduate Research Fellow in the Department of Medicine at [Harvard Medical School](https://hms.harvard.edu/){:target="_blank"}. Prior to training in AI and informatics in healthcare, I was a member of the Strategic Information division of the <a href="https://www.state.gov/pepfar/" target="_blank">U.S. President’s Emergency Plan for AIDS Relief</a> (PEPFAR) at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a> which aimed to rapidly expand antiretroviral therapy for people living with HIV/AIDS in sub-Saharan Africa. Recently I was named a STAT Wunderkind, one of the top 30 scientists deemed “the best early-career researchers in health and medicine in North America.”
 
     Building on a decade and a half of domestic and international experience in clinical and public health informatics, my research focuses especially on responsible, human-centered AI and the development of systematic, scalable, data-driven approaches to improve human health and well-being for everyone. My work usually examines and applies methods such as machine learning, natural language processing, and spatio-temporal analysis in addition to traditional biostatistics and epidemiology. I am particularly interested in using and interrogating multimodal data sources and the vast toolbox that computational learning offers to better understand, improve, and facilitate study of health in populations and communities. Generally, my research can be grouped into four primary domains:
 
@@ -54,5 +48,4 @@ intro:
     3. Elucidating heterogeneity in health outcomes and developing tools to facilitate discovery
     4. Ethical considerations in AI, clinical practice, and digital health
 
-    My PhD was funded by training fellowships from the [National Library of Medicine](https://www.nlm.nih.gov/){:target="blank"} and [National Institute of Allergy and Infectious Diseases](https://www.niaid.nih.gov/){:target="_blank"}. I am also the recipient of a [Computational and Data Science Fellowship](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"} from the [Association for Computing Machinery](https://www.acm.org/){:target="_blank"} (ACM) [Special Interest Group in High Performance Computing](https://www.sighpc.org/home){:target="_blank"} (SIGHPC). In addition to my degrees in biomedical informatics, I also have a Master of Applied Science in Spatial Analysis from the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu){:target="_blank"} and a Bachelor of Arts in Sociology and History from [Yale University](https://www.yale.edu/){:target="_blank"}. 
-
+    My PhD was funded by training fellowships from the [National Library of Medicine](https://www.nlm.nih.gov/){:target="blank"} and [National Institute of Allergy and Infectious Diseases](https://www.niaid.nih.gov/){:target="_blank"}. I am also the recipient of a [Computational and Data Science Fellowship](https://www.sighpc.org/for-your-career/fellowships/2021-fellowship-winners){:target="_blank"} from the [Association for Computing Machinery](https://www.acm.org/){:target="_blank"} (ACM) [Special Interest Group in High Performance Computing](https://www.sighpc.org/home){:target="_blank"} (SIGHPC). In addition to my degrees in biomedical informatics, I also have a Master of Applied Science in Spatial Analysis from the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu){:target="_blank"} and a Bachelor of Arts in Sociology and History from [Yale University](https://www.yale.edu/){:target="_blank"}.

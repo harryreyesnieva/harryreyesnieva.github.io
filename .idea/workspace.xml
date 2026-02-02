@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a1a558e6-771d-4a73-b22a-2d5c8d9dbd43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/scholar_metrics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/scholar_metrics.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/news.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/news.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/personal.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/personal.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/presentations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/presentations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/proceedings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/proceedings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/CV_HReyesNieva.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/docs/CV_HReyesNieva.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +194,13 @@
       <workItem from="1768018859818" duration="563000" />
       <workItem from="1768020705635" duration="1782000" />
       <workItem from="1768024279208" duration="547000" />
-      <workItem from="1768160981289" duration="6000" />
+      <workItem from="1768160981289" duration="12000" />
+      <workItem from="1768162952238" duration="18907000" />
+      <workItem from="1768561552449" duration="5000" />
+      <workItem from="1768854895362" duration="7468000" />
+      <workItem from="1769057461318" duration="178000" />
+      <workItem from="1769290364786" duration="623000" />
+      <workItem from="1770070577060" duration="3523000" />
     </task>
     <servers />
   </component>
