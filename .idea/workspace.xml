@@ -7,6 +7,7 @@
     <list default="true" id="a1a558e6-771d-4a73-b22a-2d5c8d9dbd43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/personal.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/personal.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/scholar_metrics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/scholar_metrics.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +199,7 @@
       <workItem from="1770070577060" duration="3543000" />
       <workItem from="1770090420361" duration="123000" />
       <workItem from="1770116889769" duration="754000" />
-      <workItem from="1770149764832" duration="41000" />
+      <workItem from="1770149764832" duration="536000" />
     </task>
     <servers />
   </component>
