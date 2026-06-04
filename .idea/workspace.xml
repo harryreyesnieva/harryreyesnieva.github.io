@@ -7,9 +7,7 @@
     <list default="true" id="a1a558e6-771d-4a73-b22a-2d5c8d9dbd43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/preprints.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/preprints.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/presentations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/presentations.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/proceedings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/proceedings.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/scholar_metrics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/scholar_metrics.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/publications.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +234,8 @@
       <workItem from="1776461634269" duration="9000" />
       <workItem from="1777402110389" duration="5030000" />
       <workItem from="1778250702231" duration="599000" />
-      <workItem from="1779598843641" duration="2182000" />
+      <workItem from="1779598843641" duration="3090000" />
+      <workItem from="1780547405573" duration="260000" />
     </task>
     <servers />
   </component>
