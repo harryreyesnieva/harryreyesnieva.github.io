@@ -16,7 +16,7 @@
     ESCOBA is a novel machine learning-based subgroup discovery approach with broad applications for advancing precision 
     population health. ESCOBA was created to better inform efforts to recognize and engage subgroups who might benefit 
     from greater attention and more closely tailored clinical and public health interventions.
-  image:
+  image: /img/subgroup.png
   url:
 -
   name: "Health Disparities and Minority Health (HDMH) Monitor / Principal developer"
